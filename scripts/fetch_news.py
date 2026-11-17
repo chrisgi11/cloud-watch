@@ -73,9 +73,18 @@ def real_link(href):
     return (q.get("url") or q.get("q") or [href])[0]
 
 
+LAST_STATS = {}
+
+
 def parse_atom(xml_bytes):
     root = ET.fromstring(xml_bytes)
     items, seen = [], set()
+    # Counts only (no feed content) so an empty result can be diagnosed from news.json.
+    LAST_STATS.clear()
+    LAST_STATS.update({"bytes": len(xml_bytes), "root": root.tag.split("}")[-1],
+                       "atom_entries": len(list(root.iter(ATOM + "entry"))),
+                       "any_entries": len([e for e in root.iter() if e.tag.split("}")[-1] in ("entry", "item")]),
+                       "skipped_bad_date": 0, "skipped_bad_link_or_title": 0})
     for e in root.iter(ATOM + "entry"):
         title = plain(e.findtext(ATOM + "title"))
         link_el = e.find(ATOM + "link")
@@ -84,11 +93,13 @@ def parse_atom(xml_bytes):
         try:
             when = datetime.fromisoformat(stamp.replace("Z", "+00:00")).astimezone(timezone.utc)
         except ValueError:
+            LAST_STATS["skipped_bad_date"] += 1
             continue
         host = urllib.parse.urlparse(link).hostname or ""
         source = host[4:] if host.startswith("www.") else host
         key = title.lower()
         if not title or not link.startswith("https://") or key in seen:
+            LAST_STATS["skipped_bad_link_or_title"] += 1
             continue
         seen.add(key)
         items.append({"title": title, "source": source, "link": link,
@@ -135,6 +146,7 @@ def main():
     if alerts_url.startswith("https://"):
         alerts = refresh("alerts", lambda: parse_atom(http_get(alerts_url)))
         if alerts:
+            alerts["debug"] = dict(LAST_STATS)
             data["alerts"] = alerts
     else:
         print("alerts: ALERTS_FEED_URL not set, skipping")
