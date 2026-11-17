@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-17T18:22:22Z",
+  "fetched_at": "2026-11-17T18:24:05Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
@@ -22,12 +22,6 @@
       "published": "2026-11-17T18:00:04Z"
     },
     {
-      "title": "iCloud, App Store, and other Apple services hit by ongoing outage",
-      "source": "9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLUhnQW02ZVhIQVh4SHhzS0lxS3p0dzhNTWF0eHRiVXJRU1NrTFllU2RLTEpXNnczcW5fc1lXa1QwVHhCa1A4QXo1WXN4a2ZjNWt3U3pUWmFITEFrdGQwMTFwSWN1TlBpQ3FUcVhrcGpzN2tNemRlaTc5UEZQai0tR2NkTDlfVVVVT2lBdEJ4VHBLZHVPUjNaZ01Ubw?oc=5",
-      "published": "2026-11-17T17:33:00Z"
-    },
-    {
       "title": "Inside Microsoft\u2019s giant Outlook outage",
       "source": "The Verge",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lNmJPNzh3SlFOeFc5dVJpU3pxVG5JRWRoRS1hek9IR01XMXd2ZmtrRjRPdGRFUUY0ZXNES05aa3ZOUlhna2ExRDVEd3kzbTJMeHpzUWk5cUtlUmdwTF92Rlhjdkt1NFNvZnMxTHc1Y1owdXF4OFE4aDhB?oc=5",
@@ -38,6 +32,12 @@
       "source": "Gulf News",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTVZIb0JMY05LdWlkYjJQNkg1SXRTc05QRllndVQxeWhyVzNHXzRaLVFYSXVNMXRnZDlaaVh3aUlkWXFqTFZtcDNnSVJ2SEV5WW1HX0h0dWZPTV9DSDNYZGFUdkp1Mnlqb1pfaWNMaWlnQUJhd1FMQS1lcVN3dGJnOWloSi02UEFYRl9aWmZ1emFzQnlQQ0R2REFKTmpfRWZNOFM5TWJTVUFRUDdSLUpJeTQxWlfSAccBQVVfeXFMUDItdWd1SG5TbXNWMWgxTmZKN0pqVUJiS0owVUtiT29ZeVFzTnY1NnZqd2dQOUxTbE41NjVLUVptUlBZd1FlR256WEVtMWVQXzJuN25QSGJ5cmJjNFRzMWRnejg0RDA4R2lobEJjVGVSZV9EblpPR2FJUElyTmQ0ZUhNZDNReEFiUW8xdW1FOU1BR3Z6aFNURHJEc3JXY0NDVUhseUE2S1RqWlJUbV9qV2ZrS21hQ1NLWEpGX0k3enQxRlV0WXFvWQ?oc=5",
       "published": "2026-11-17T16:21:13Z"
+    },
+    {
+      "title": "Microsoft Outlook Outage Canadian Class Action",
+      "source": "Consumer Law Group",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZEJVU0dTY0NDSThYaTRRTWpVYVhyZ2FXcE5TTVdXYXRQZk9VZnJjTnRGbFA0NVFTSlQ2TDc1RHFFLURLZTQzdjRpNVR5Z3doUFBwcVZRVTZfOG1iMHZfNmhpSXZnc2NGQzRuQlkxM0lqUklhZ1VTTm5KTURLSlRFdDZEU2U1RWJKSUJzVVd4SU85Q0ZXdUtUWEhRN2N4dw?oc=5",
+      "published": "2026-11-17T16:14:28Z"
     },
     {
       "title": "Microsoft 365 outage underscores enterprise resiliency issues",
@@ -95,7 +95,15 @@
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-17T18:22:23Z",
-    "items": []
+    "fetched_at": "2026-11-17T18:24:05Z",
+    "items": [],
+    "debug": {
+      "bytes": 476,
+      "root": "feed",
+      "atom_entries": 0,
+      "any_entries": 0,
+      "skipped_bad_date": 0,
+      "skipped_bad_link_or_title": 0
+    }
   }
 }
