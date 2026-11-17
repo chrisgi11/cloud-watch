@@ -150,6 +150,11 @@
   <h2 id="newsh">Cloud outage news</h2>
   <div class="sub" id="newssub">Loading…</div>
   <ul id="newslist"></ul>
+  <div id="alertsbox" hidden>
+    <h2 id="alertsh" style="margin-top:18px">Google Alert headlines</h2>
+    <div class="sub" id="alertssub"></div>
+    <ul id="alertslist"></ul>
+  </div>
 </section>
 <footer id="srcnote">
   Public data only, read from <a href="https://statusgator.com" target="_blank" rel="noopener">StatusGator</a>
@@ -240,6 +245,20 @@ function render(status, history) {
   } else banner.hidden = true;
 }
 
+function newsItems(items) {
+  return items.map(n => `<li><a href="${esc(n.link)}" target="_blank" rel="noopener noreferrer">${esc(n.title)}</a>
+        <div class="by">${esc(n.source || "")}${n.source ? " · " : ""}${esc(ago(n.published))}</div></li>`).join("");
+}
+
+function renderAlerts(alerts) {
+  const box = document.getElementById("alertsbox");
+  if (!alerts || !Array.isArray(alerts.items)) { box.hidden = true; return; }
+  box.hidden = false;
+  document.getElementById("alertssub").textContent = `From a Google Alert feed · updated ${ago(alerts.fetched_at)}`;
+  document.getElementById("alertslist").innerHTML = alerts.items.length
+    ? newsItems(alerts.items) : `<li class="empty">No new alert headlines.</li>`;
+}
+
 function renderNews(news) {
   const list = document.getElementById("newslist");
   const sub = document.getElementById("newssub");
@@ -250,9 +269,9 @@ function renderNews(news) {
   }
   sub.textContent = `Headlines from the last 2 days via Google News · updated ${ago(news.fetched_at)}`;
   list.innerHTML = news.items.length
-    ? news.items.map(n => `<li><a href="${esc(n.link)}" target="_blank" rel="noopener noreferrer">${esc(n.title)}</a>
-        <div class="by">${esc(n.source || "")}${n.source ? " · " : ""}${esc(ago(n.published))}</div></li>`).join("")
+    ? newsItems(news.items)
     : `<li class="empty">No outage headlines in the last 2 days.</li>`;
+  renderAlerts(news.alerts);
 }
 
 async function load() {

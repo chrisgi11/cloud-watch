@@ -21,7 +21,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Fetch Google News RSS
+      - name: Fetch Google News RSS and Google Alert feed
+        env:
+          ALERTS_FEED_URL: ${{ secrets.ALERTS_FEED_URL }}
         run: python3 scripts/fetch_news.py
       - name: Commit if changed
         run: |

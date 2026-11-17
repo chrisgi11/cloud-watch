@@ -1,10 +1,17 @@
 #!/usr/bin/env python3
-"""Fetch a Google News RSS search and write news.json (headline, source, link, time).
+"""Refresh news.json: Google News RSS search ("items") and, if configured, a Google Alerts
+Atom feed ("alerts").
 
-Runs on GitHub Actions (see .github/workflows/news.yml). If the fetch fails, the
-existing news.json is left untouched so the dashboard keeps showing the last good copy.
+Runs on GitHub Actions (.github/workflows/news.yml). The alert feed address is private, so it
+comes from the ALERTS_FEED_URL environment variable (a GitHub Actions secret), never from the
+repo. Each section is refreshed independently: if one fetch fails, its last good copy stays.
+
+Offline tests:  fetch_news.py news sample_rss.xml   |   fetch_news.py alerts sample_atom.xml
 """
+import html
 import json
+import os
+import re
 import sys
 import urllib.parse
 import urllib.request
@@ -14,18 +21,29 @@ from email.utils import parsedate_to_datetime
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+OUT = ROOT / "news.json"
 QUERY = ('(outage OR "service disruption" OR "went down") '
          '("Microsoft 365" OR Azure OR Teams OR Outlook OR AWS OR "Google Cloud" OR Cloudflare) '
          'when:2d')
 MAX_ITEMS = 15
+ATOM = "{http://www.w3.org/2005/Atom}"
 
 
-def feed_url():
-    q = urllib.parse.urlencode({"q": QUERY, "hl": "en-US", "gl": "US", "ceid": "US:en"})
-    return "https://news.google.com/rss/search?" + q
+def now_iso():
+    return datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
 
 
-def parse(xml_bytes):
+def http_get(url):
+    req = urllib.request.Request(url, headers={"User-Agent": "cloud-watch/1.0"})
+    with urllib.request.urlopen(req, timeout=30) as r:
+        return r.read()
+
+
+def plain(text):
+    return html.unescape(re.sub(r"<[^>]+>", "", text or "")).strip()
+
+
+def parse_rss(xml_bytes):
     root = ET.fromstring(xml_bytes)
     items, seen = [], set()
     for it in root.iter("item"):
@@ -33,8 +51,7 @@ def parse(xml_bytes):
         link = (it.findtext("link") or "").strip()
         src_el = it.find("source")
         source = (src_el.text or "").strip() if src_el is not None else ""
-        # Google appends " - Source" to the title; show the source separately.
-        if source and title.endswith(" - " + source):
+        if source and title.endswith(" - " + source):      # Google appends " - Source"
             title = title[: -len(source) - 3].rstrip()
         try:
             when = parsedate_to_datetime(it.findtext("pubDate") or "").astimezone(timezone.utc)
@@ -50,26 +67,80 @@ def parse(xml_bytes):
     return items[:MAX_ITEMS]
 
 
-def main():
-    if len(sys.argv) == 2:                      # offline test: fetch_news.py sample.xml
-        data = Path(sys.argv[1]).read_bytes()
-    else:
-        req = urllib.request.Request(feed_url(), headers={"User-Agent": "cloud-watch/1.0"})
+def real_link(href):
+    """Google Alerts wraps links as google.com/url?...&url=<real>&...; unwrap to the real URL."""
+    q = urllib.parse.parse_qs(urllib.parse.urlparse(href).query)
+    return (q.get("url") or q.get("q") or [href])[0]
+
+
+def parse_atom(xml_bytes):
+    root = ET.fromstring(xml_bytes)
+    items, seen = [], set()
+    for e in root.iter(ATOM + "entry"):
+        title = plain(e.findtext(ATOM + "title"))
+        link_el = e.find(ATOM + "link")
+        link = real_link(link_el.get("href", "")) if link_el is not None else ""
+        stamp = e.findtext(ATOM + "published") or e.findtext(ATOM + "updated") or ""
         try:
-            with urllib.request.urlopen(req, timeout=30) as r:
-                data = r.read()
-        except Exception as e:                  # keep last good copy; do not fail the workflow
-            print(f"fetch failed, keeping existing news.json: {e}")
-            return
+            when = datetime.fromisoformat(stamp.replace("Z", "+00:00")).astimezone(timezone.utc)
+        except ValueError:
+            continue
+        host = urllib.parse.urlparse(link).hostname or ""
+        source = host[4:] if host.startswith("www.") else host
+        key = title.lower()
+        if not title or not link.startswith("https://") or key in seen:
+            continue
+        seen.add(key)
+        items.append({"title": title, "source": source, "link": link,
+                      "published": when.isoformat().replace("+00:00", "Z")})
+    items.sort(key=lambda x: x["published"], reverse=True)
+    return items[:MAX_ITEMS]
+
+
+def load_existing():
     try:
-        items = parse(data)
-    except ET.ParseError as e:
-        print(f"parse failed, keeping existing news.json: {e}")
+        return json.loads(OUT.read_text())
+    except (FileNotFoundError, json.JSONDecodeError):
+        return {}
+
+
+def refresh(label, fetch_and_parse):
+    """Return a fresh section dict, or None (keep the old one) on any failure."""
+    try:
+        items = fetch_and_parse()
+    except Exception as e:  # network, HTTP or XML problems: keep last good copy, don't fail the job
+        print(f"{label}: failed, keeping previous copy ({type(e).__name__})")
+        return None
+    print(f"{label}: {len(items)} items")
+    return {"fetched_at": now_iso(), "items": items}
+
+
+def main():
+    if len(sys.argv) == 3:                                  # offline test mode
+        parser = {"news": parse_rss, "alerts": parse_atom}[sys.argv[1]]
+        for it in parser(Path(sys.argv[2]).read_bytes()):
+            print(json.dumps(it))
         return
-    now = datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
-    out = {"fetched_at": now, "source": "Google News RSS", "query": QUERY, "items": items}
-    (ROOT / "news.json").write_text(json.dumps(out, indent=2) + "\n")
-    print(f"wrote {len(items)} items")
+
+    data = load_existing()
+
+    news_url = "https://news.google.com/rss/search?" + urllib.parse.urlencode(
+        {"q": QUERY, "hl": "en-US", "gl": "US", "ceid": "US:en"})
+    news = refresh("news", lambda: parse_rss(http_get(news_url)))
+    if news:
+        data.update({"fetched_at": news["fetched_at"], "source": "Google News RSS",
+                     "query": QUERY, "items": news["items"]})
+
+    alerts_url = os.environ.get("ALERTS_FEED_URL", "").strip()
+    if alerts_url.startswith("https://"):
+        alerts = refresh("alerts", lambda: parse_atom(http_get(alerts_url)))
+        if alerts:
+            data["alerts"] = alerts
+    else:
+        print("alerts: ALERTS_FEED_URL not set, skipping")
+
+    data.setdefault("items", [])
+    OUT.write_text(json.dumps(data, indent=2) + "\n")
 
 
 if __name__ == "__main__":
