@@ -1,0 +1,97 @@
+{
+  "fetched_at": "2026-11-17T18:02:13Z",
+  "source": "Google News RSS",
+  "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
+  "items": [
+    {
+      "title": "iCloud, App Store, and other Apple services hit by ongoing outage",
+      "source": "9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLUhnQW02ZVhIQVh4SHhzS0lxS3p0dzhNTWF0eHRiVXJRU1NrTFllU2RLTEpXNnczcW5fc1lXa1QwVHhCa1A4QXo1WXN4a2ZjNWt3U3pUWmFITEFrdGQwMTFwSWN1TlBpQ3FUcVhrcGpzN2tNemRlaTc5UEZQai0tR2NkTDlfVVVVT2lBdEJ4VHBLZHVPUjNaZ01Ubw?oc=5",
+      "published": "2026-11-17T17:33:00Z"
+    },
+    {
+      "title": "Inside Microsoft\u2019s giant Outlook outage",
+      "source": "The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lNmJPNzh3SlFOeFc5dVJpU3pxVG5JRWRoRS1hek9IR01XMXd2ZmtrRjRPdGRFUUY0ZXNES05aa3ZOUlhna2ExRDVEd3kzbTJMeHpzUWk5cUtlUmdwTF92Rlhjdkt1NFNvZnMxTHc1Y1owdXF4OFE4aDhB?oc=5",
+      "published": "2026-11-17T17:00:00Z"
+    },
+    {
+      "title": "US hit by wave of outages: Microsoft, flights, banks and NSA hit \u2013 are they connected?",
+      "source": "Gulf News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTVZIb0JMY05LdWlkYjJQNkg1SXRTc05QRllndVQxeWhyVzNHXzRaLVFYSXVNMXRnZDlaaVh3aUlkWXFqTFZtcDNnSVJ2SEV5WW1HX0h0dWZPTV9DSDNYZGFUdkp1Mnlqb1pfaWNMaWlnQUJhd1FMQS1lcVN3dGJnOWloSi02UEFYRl9aWmZ1emFzQnlQQ0R2REFKTmpfRWZNOFM5TWJTVUFRUDdSLUpJeTQxWlfSAccBQVVfeXFMUDItdWd1SG5TbXNWMWgxTmZKN0pqVUJiS0owVUtiT29ZeVFzTnY1NnZqd2dQOUxTbE41NjVLUVptUlBZd1FlR256WEVtMWVQXzJuN25QSGJ5cmJjNFRzMWRnejg0RDA4R2lobEJjVGVSZV9EblpPR2FJUElyTmQ0ZUhNZDNReEFiUW8xdW1FOU1BR3Z6aFNURHJEc3JXY0NDVUhseUE2S1RqWlJUbV9qV2ZrS21hQ1NLWEpGX0k3enQxRlV0WXFvWQ?oc=5",
+      "published": "2026-11-17T16:21:13Z"
+    },
+    {
+      "title": "Microsoft 365 outage underscores enterprise resiliency issues",
+      "source": "CFO Dive",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSTRHRVlOcG1Wa1hDUzFKZUwwZnR6ZlNmeHkyRl9oTUtwVG9nSXhGc1Z6NElHZXVYZXZoQi11YUpKa211akZYXzJkTkxrc1JFRGlzbmRtRTFWV01oWWJzNERFRVUtaHN3c3pOMklEQ2l3cHNpLXZqRldQemF4LUEtVA?oc=5",
+      "published": "2026-11-17T16:04:30Z"
+    },
+    {
+      "title": "Microsoft 365 Outage Cause: Windows Bug and Recovery Failures",
+      "source": "eSecurity Planet",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd0RBRHIxSUFKZ1JDWVFuOEVXbEF1YVIwVHBFdGFLLXh1UnFPMU9XNzRJVWxOVDNodFdLMEtVdzJ5aVVGNENfa0JuSEM1SUNkT1ZuVWxoNVA0WGxKLWIzcG43LU5HT3pfMmhDdzRCNlUtNjhFMnAwaS1LcVBwODNuSDNtcHA1YXBGb3NHdQ?oc=5",
+      "published": "2026-11-17T16:01:24Z"
+    },
+    {
+      "title": "Major outage hits NSA's secret communications network",
+      "source": "Gulf News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRldrYTh2NzJrQU9DeVJPQVAtT1VRMG92LTBheVpXZnVSZ0pibjdTeGNSNmU0UlBFaWZ5eFlEY19OT21MZ0xtczV2NHkzOUxwTUZLZjVqZVhOaGcxWjFQZ0JOMHpCaGFWRTQzM3ZYYmpXb1BrWWpWVzRvcXNHZmkzMXBVVEsxaS1tZjFocFAzVGxHRTdnVEtVV2pXMmliVzVQbkHSAbQBQVVfeXFMTVM1ckFHb3VqVjh5SEFLSl8wZnozR01BWWN4QmpfX2otTTYzQUFvMmx2RlhyTGMwRnBvUzIzcFRFNGxEbFkxekZrVWVPWUJJVzRVTVJzbEdzZ2Y2ZnVOdWVVRXd3S2hpQVBkR19XWEY1ZFdtclZSc2I3UDQ2alRmS3FlczFpMUx0Tm95bGlzLWlDNjZ1M3BfRnNFWHNvRFNhMTEzZTZ1UTlFMFU4Y01ZZ1prZERk?oc=5",
+      "published": "2026-11-17T15:50:25Z"
+    },
+    {
+      "title": "Microsoft\u2019s Outlook outage is over. The scams aren\u2019t",
+      "source": "PCWorld",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNmh2STIzN2p4ZFNURVN5eFVnUXlSa1VUWXBUZWQydllFQ2lTSWVCa2wxSG1sU1lGbER1cXVGaUpfQTFob2VhYVV4c1g5WUNPT3NjRDBoME5UYTNqSVpROVJoMmhqb0RnYzBoOGQ3Z1g3WGxpUWswd2ozMWdkNzZDNWtUR1NhcXR1eUdNRTd5X2JoT2tsMmdDU2hR?oc=5",
+      "published": "2026-11-17T15:33:36Z"
+    },
+    {
+      "title": "Microsoft reveals three causes behind global Microsoft 365 outage",
+      "source": "Computing UK",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSXNLa193NTg1eC0xcUdhWVQ2MVp2Nk1RR2owOWpjVDFBeS1QQlprYlhHWFJXVnd2clBkS2JaOXVndjN3clFCV2pJVlloeGM4cXBibGhVZmxxWXF6aEZsTmNocC1SZzZjSzFXX1l5SlpoaHBEN3hqQUkxWWtvNE42MFlBaW1kcHBJMjBXYzB4SWw?oc=5",
+      "published": "2026-11-17T15:27:04Z"
+    },
+    {
+      "title": "Microsoft Outage: July Bug, 80% of Gateways Down",
+      "source": "shattered.io",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeTlKOXNpNlBRQUdTaEFMZnhleTBHa0V2c21qMDlwc2hKS2VrX21WUXgyMVZmeFJnMTVYbGF5aC1yWjl1YkxDSEdfeVJ4YVlKNXoyclE1TnRfZFU4Mk5pdHJKSWpsR2xQZ1dNLUFtanR6amVrS05sT2J5eGdmaWwyVjdWLVE5THlxN2p2MA?oc=5",
+      "published": "2026-11-17T14:30:17Z"
+    },
+    {
+      "title": "Teams Intelligent Call Delegation Moves to Copilot Credits",
+      "source": "UC Today",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONnJsakQ2QkktM1dBU3llaVM1NG5UNVJHUGFwVEFNamtpcUhaUXdiQXc5dmFkamFUSXZKYi1fQUVDbGxqSm5UeTlROG1JNDJGUkx1YW5pZnRSbXY1RmstcUJlckRIVFNMLVdwVlVXNVJtaVJhWVJRRWU3TE1kNkhaSk5JdThkQUt3QURwX2NYdlpGNTlKb19xeXIzQ0RWMGIwa0dGbExmbUd4ZkZsc2c1cw?oc=5",
+      "published": "2026-11-17T14:15:12Z"
+    },
+    {
+      "title": "Microsoft Bug Undetected Since July Triggered Worldwide Outage",
+      "source": "CPA Practice Advisor",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQlo0SmxYdDlCWEgzNFNtZnVEbzBwZ0lnN0lYTjdMejFtNFNoQ2JtN3pCQWk3OFdTN1pkUUR4eWZyVEgwY2hYNlI4VWQ5bG5VYVFWbThqZUt0aUFHczBVZUxERElfbk81NnRMMU9OQlNpUURVTER5elpNZEdFd0lBSHlrX1RqaEc5VXhrdkhRS3YySzBfZ3ZfT0RMdVJvX0ktMnBmOUpxb3U5ZklYa0VtUHQ4MFFLZDQ?oc=5",
+      "published": "2026-11-17T13:45:42Z"
+    },
+    {
+      "title": "Microsoft traced its global outage to a software bug lurking since July",
+      "source": "Quartz",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdFhfTFFQeGRnemJ4eFNsQzR2NlU2QVk1OWRYQ3pzeXM2UTRSMGxiUjNMVk9qS2tSSFJ0eHlEd0xWSU4tTTJNVjJaVk5PeVVYV3ZqU05wV1JJQWVkZ2tHXzNrWEZ2Z1RBRWc4M0NmSjFwVEluNU5tZ2dXSEdMSnhTNjl2TQ?oc=5",
+      "published": "2026-11-17T13:21:02Z"
+    },
+    {
+      "title": "Microsoft Warns of Coordinated Phishing Campaign Leveraging M365 Service Outage",
+      "source": "Infosecurity Magazine",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQjdFaHJRVkFWd2hIMHFEWE9id19KbXVzMXNjQTYzdUlZWXVhOVVfVk81cmZxVzFMWjZEd1Vpb0NpSlY0a1hVMU5rdzBJcks5d1N2ZExkeHloMkVKZnVfSUZWdkl0OFFMLVRVMWo3bnFoOUNkMUZXcUVsR0tqbzNKcDA2QQ?oc=5",
+      "published": "2026-11-17T13:00:00Z"
+    },
+    {
+      "title": "Microsoft Reveals That An Old Bug Caused The Massive Outage That Took Its Services Offline",
+      "source": "Engadget",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYjZFeXhQZE1PRXltNFBLQlNtenhzWWRQM1JELTlNbUhJX3ktbnYweTRSajhIY3N5amo4OFJ2WDNsWC1kZHBwMjdtc0w1YXg3UzVlaEZHN296d21QT2ZfYnE0UXZFRkt6anhORTRJM0NnNlYzZnVUS3YtMFhqY2ZLUjVYci1yQVljamZiN2RQVWp6RlZNUDdVb2FCdmx3SlpxYkYwNzdtUENSMU54RTVIM3JWYTUyeUgxUWZiZkVBTktFUQ?oc=5",
+      "published": "2026-11-17T12:57:51Z"
+    },
+    {
+      "title": "Hacked fridges, Outlook outage and cyberattacks - why is everything going wrong?",
+      "source": "Metro.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYzlxa0JBdmdsZ3dmLVFUWmRZMnAtZUhoeHkzOW1KcGdqQ05ZQXhoMnVRT1NpT2xYZ0w1NU1ZY0owdHNTbDhqR2ZhUk80T0pTYjh0YVFWR1dHMC13Nl9teWp3NFlCV00teVlQTnZUSEJreHJRbEp1ZGVpcktmTnB6aktEVUFLUENSeXZ0TXlLUjhWTXNiX2xvaTZkeE93WFIwUXBGWWQ1UHRWZ9IBrwFBVV95cUxNeE1ybFdvcmRKNkZOR2k1UFBONjdjZFdpeEh4emQ3RHljVmFUc2NIWU4tZDVwR1ZWZWRqN0J4WGEyZzE3TFFWb0xQcG9DaWJXc1YyMl8xTVJKWEtIY0FCRFlnRzluN3B4OHhNUzVCSnJKYklIYWxCS3JoelptZWdNYW1XSzBQOFdiWm9IYlMxZEhITHZpZ2p4eTBrSWhXNmlTS2pfVjdFRXdyeHI3a3lN?oc=5",
+      "published": "2026-11-17T12:26:00Z"
+    }
+  ]
+}
