@@ -86,7 +86,7 @@
   .inc.active .t { font-weight: 600; }
   .muted { color: var(--text-3); }
   .strip { display: flex; gap: 2px; align-items: flex-end; height: 18px; }
-  .cell { width: 4px; height: 18px; border-radius: 2px; background: var(--empty); position: relative; }
+  .cell { width: 9px; height: 18px; border-radius: 2px; background: var(--empty); position: relative; }
   .cell.up { background: var(--good); }
   .cell.warn { background: var(--warning); }
   .cell.down { background: var(--critical); }
@@ -148,8 +148,8 @@
 if (new URLSearchParams(location.search).get("theme") === "dark") document.documentElement.dataset.theme = "dark";
 const LABEL = { up: "Up", warn: "Warn", down: "Down", maintenance: "Maintenance", unknown: "Unknown" };
 const ICON  = { up: "✓", warn: "!", down: "✕", maintenance: "◆", unknown: "?" };
-const STRIP_POINTS = 48;           // 24h at 30-minute checks
-const STALE_MINUTES = 90;
+const STRIP_POINTS = 24;           // 24h at hourly checks
+const STALE_MINUTES = 150;
 
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[c]));
 const fmtTime = iso => new Date(iso).toLocaleString([], { month: "short", day: "numeric", hour: "numeric", minute: "2-digit" });
