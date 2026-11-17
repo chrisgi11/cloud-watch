@@ -132,7 +132,7 @@
         <th>Status</th>
         <th class="num">User reports (24h)</th>
         <th>Active / latest official incident</th>
-        <th>Last 24h</th>
+        <th>Last 24 checks</th>
         <th>StatusGator last checked</th>
       </tr>
     </thead>
@@ -157,7 +157,7 @@
   </div>
 </section>
 <footer id="srcnote">
-  This page is updated hourly.
+  Status checks run hourly on weekdays 6 AM–6 PM Central, every 2 hours overnight, and every 4 hours on weekends. Headlines refresh hourly.
 </footer>
 <div id="tip" role="tooltip"></div>
 
@@ -165,8 +165,17 @@
 if (new URLSearchParams(location.search).get("theme") === "dark") document.documentElement.dataset.theme = "dark";
 const LABEL = { up: "Up", warn: "Warn", down: "Down", maintenance: "Maintenance", unknown: "Unknown" };
 const ICON  = { up: "✓", warn: "!", down: "✕", maintenance: "◆", unknown: "?" };
-const STRIP_POINTS = 24;           // 24h at hourly checks
-const STALE_MINUTES = 150;
+const STRIP_POINTS = 24;           // the last 24 checks
+// How old the status data may get before the banner shows (schedule gap + 90 min margin).
+function staleLimitMinutes() {
+  const parts = new Intl.DateTimeFormat("en-US", { timeZone: "America/Chicago", weekday: "short", hour: "numeric", hour12: false })
+    .formatToParts(new Date());
+  const day = parts.find(p => p.type === "weekday").value;
+  const hour = parseInt(parts.find(p => p.type === "hour").value, 10) % 24;
+  if (day === "Sat" || day === "Sun") return 330;   // every 4 hours
+  if (hour >= 6 && hour <= 18) return 150;           // hourly
+  return 210;                                        // every 2 hours
+}
 
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[c]));
 const fmtTime = iso => new Date(iso).toLocaleString([], { month: "short", day: "numeric", hour: "numeric", minute: "2-digit" });
@@ -196,8 +205,8 @@ function stripFor(id, history) {
     const s = (p.s && p.s[id]) || "unknown";
     html += `<span class="cell ${s}" data-tip="${esc(fmtTime(p.t))} — ${LABEL[s]}"></span>`;
   }
-  return `<div class="strip" role="img" aria-label="Status over the last 24 hours">${html}</div>
-          <div class="striplabel"><span>24h ago</span><span>now</span></div>`;
+  return `<div class="strip" role="img" aria-label="Status over the last 24 checks">${html}</div>
+          <div class="striplabel"><span>older</span><span>latest</span></div>`;
 }
 
 function incidentCell(svc) {
@@ -237,7 +246,7 @@ function render(status, history) {
 
   const banner = document.getElementById("banner");
   const ageMin = (Date.now() - new Date(status.generated_at)) / 60000;
-  if (ageMin > STALE_MINUTES) {
+  if (ageMin > staleLimitMinutes()) {
     banner.hidden = false;
     banner.textContent = `This data is ${ago(status.generated_at).replace(" ago", "")} old. The scheduled check may have stopped running.`;
   } else banner.hidden = true;
