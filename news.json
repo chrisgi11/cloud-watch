@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-17T18:14:53Z",
+  "fetched_at": "2026-11-17T18:22:22Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
@@ -38,12 +38,6 @@
       "source": "Gulf News",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTVZIb0JMY05LdWlkYjJQNkg1SXRTc05QRllndVQxeWhyVzNHXzRaLVFYSXVNMXRnZDlaaVh3aUlkWXFqTFZtcDNnSVJ2SEV5WW1HX0h0dWZPTV9DSDNYZGFUdkp1Mnlqb1pfaWNMaWlnQUJhd1FMQS1lcVN3dGJnOWloSi02UEFYRl9aWmZ1emFzQnlQQ0R2REFKTmpfRWZNOFM5TWJTVUFRUDdSLUpJeTQxWlfSAccBQVVfeXFMUDItdWd1SG5TbXNWMWgxTmZKN0pqVUJiS0owVUtiT29ZeVFzTnY1NnZqd2dQOUxTbE41NjVLUVptUlBZd1FlR256WEVtMWVQXzJuN25QSGJ5cmJjNFRzMWRnejg0RDA4R2lobEJjVGVSZV9EblpPR2FJUElyTmQ0ZUhNZDNReEFiUW8xdW1FOU1BR3Z6aFNURHJEc3JXY0NDVUhseUE2S1RqWlJUbV9qV2ZrS21hQ1NLWEpGX0k3enQxRlV0WXFvWQ?oc=5",
       "published": "2026-11-17T16:21:13Z"
-    },
-    {
-      "title": "Microsoft Outlook Outage Canadian Class Action",
-      "source": "Consumer Law Group",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZEJVU0dTY0NDSThYaTRRTWpVYVhyZ2FXcE5TTVdXYXRQZk9VZnJjTnRGbFA0NVFTSlQ2TDc1RHFFLURLZTQzdjRpNVR5Z3doUFBwcVZRVTZfOG1iMHZfNmhpSXZnc2NGQzRuQlkxM0lqUklhZ1VTTm5KTURLSlRFdDZEU2U1RWJKSUJzVVd4SU85Q0ZXdUtUWEhRN2N4dw?oc=5",
-      "published": "2026-11-17T16:14:28Z"
     },
     {
       "title": "Microsoft 365 outage underscores enterprise resiliency issues",
@@ -92,6 +86,16 @@
       "source": "CPA Practice Advisor",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQlo0SmxYdDlCWEgzNFNtZnVEbzBwZ0lnN0lYTjdMejFtNFNoQ2JtN3pCQWk3OFdTN1pkUUR4eWZyVEgwY2hYNlI4VWQ5bG5VYVFWbThqZUt0aUFHczBVZUxERElfbk81NnRMMU9OQlNpUURVTER5elpNZEdFd0lBSHlrX1RqaEc5VXhrdkhRS3YySzBfZ3ZfT0RMdVJvX0ktMnBmOUpxb3U5ZklYa0VtUHQ4MFFLZDQ?oc=5",
       "published": "2026-11-17T13:45:42Z"
+    },
+    {
+      "title": "Microsoft traces global Outlook and Teams outage to July software bug",
+      "source": "Quartz",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdFhfTFFQeGRnemJ4eFNsQzR2NlU2QVk1OWRYQ3pzeXM2UTRSMGxiUjNMVk9qS2tSSFJ0eHlEd0xWSU4tTTJNVjJaVk5PeVVYV3ZqU05wV1JJQWVkZ2tHXzNrWEZ2Z1RBRWc4M0NmSjFwVEluNU5tZ2dXSEdMSnhTNjl2TQ?oc=5",
+      "published": "2026-11-17T13:21:02Z"
     }
-  ]
+  ],
+  "alerts": {
+    "fetched_at": "2026-11-17T18:22:23Z",
+    "items": []
+  }
 }
