@@ -2,7 +2,7 @@
 """Refresh news.json: Google News RSS search ("items") and, if configured, a Google Alerts
 Atom feed ("alerts").
 
-Runs on GitHub Actions (.github/workflows/news.yml). The alert feed address is private, so it
+Runs on GitHub Actions (.github/workflows/news.yml), hourly. The alert feed address is private, so it
 comes from the ALERTS_FEED_URL environment variable (a GitHub Actions secret), never from the
 repo. Each section is refreshed independently: if one fetch fails, its last good copy stays.
 
