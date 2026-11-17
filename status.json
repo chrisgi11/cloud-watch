@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T19:03:32Z",
+  "generated_at": "2026-11-17T20:07:15Z",
   "source": "StatusGator public service pages",
   "services": [
     {
@@ -19,8 +19,8 @@
         "duration": "1d 9h 23m"
       },
       "fetched_at": "2026-11-17T19:03:32Z",
-      "fetch_ok": true,
-      "fetch_error": null
+      "fetch_ok": false,
+      "fetch_error": "fetch failed: WebFetch permission request not answered (PROVENANCE_REQUIRED)"
     },
     {
       "id": "exchange",
@@ -39,8 +39,8 @@
         "duration": "1d 9h 51m"
       },
       "fetched_at": "2026-11-17T19:03:32Z",
-      "fetch_ok": true,
-      "fetch_error": null
+      "fetch_ok": false,
+      "fetch_error": "fetch failed: WebFetch permission request not answered (PROVENANCE_REQUIRED)"
     },
     {
       "id": "m365-apps",
@@ -59,8 +59,8 @@
         "duration": "1h 20m"
       },
       "fetched_at": "2026-11-17T19:03:32Z",
-      "fetch_ok": true,
-      "fetch_error": null
+      "fetch_ok": false,
+      "fetch_error": "fetch failed: WebFetch permission request not answered (PROVENANCE_REQUIRED)"
     },
     {
       "id": "m365-suite",
@@ -79,8 +79,8 @@
         "duration": "9h 22m"
       },
       "fetched_at": "2026-11-17T19:03:32Z",
-      "fetch_ok": true,
-      "fetch_error": null
+      "fetch_ok": false,
+      "fetch_error": "fetch failed: WebFetch permission request not answered (PROVENANCE_REQUIRED)"
     },
     {
       "id": "azure",
@@ -99,8 +99,8 @@
         "duration": "2h 5m"
       },
       "fetched_at": "2026-11-17T19:03:32Z",
-      "fetch_ok": true,
-      "fetch_error": null
+      "fetch_ok": false,
+      "fetch_error": "fetch failed: WebFetch permission request not answered (PROVENANCE_REQUIRED)"
     },
     {
       "id": "entra",
@@ -119,8 +119,8 @@
         "duration": "8h 45m"
       },
       "fetched_at": "2026-11-17T19:03:32Z",
-      "fetch_ok": true,
-      "fetch_error": null
+      "fetch_ok": false,
+      "fetch_error": "fetch failed: WebFetch permission request not answered (PROVENANCE_REQUIRED)"
     },
     {
       "id": "power-platform",
@@ -139,8 +139,8 @@
         "duration": "1h 37m"
       },
       "fetched_at": "2026-11-17T19:03:32Z",
-      "fetch_ok": true,
-      "fetch_error": null
+      "fetch_ok": false,
+      "fetch_error": "fetch failed: WebFetch permission request not answered (PROVENANCE_REQUIRED)"
     }
   ]
 }
