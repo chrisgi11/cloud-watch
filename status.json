@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T20:07:15Z",
+  "generated_at": "2026-11-17T22:00:34Z",
   "source": "StatusGator public service pages",
   "services": [
     {
@@ -9,18 +9,18 @@
       "url": "https://statusgator.com/services/microsoft-teams",
       "status": "up",
       "status_text": "Microsoft Teams is up",
-      "sg_last_checked": "November 16, 2026 at 11:16 PM UTC",
-      "reports_24h": 39,
+      "sg_last_checked": "November 17, 2026 at 9:56 PM UTC",
+      "reports_24h": 57,
       "active_incident": null,
       "latest_incident": {
         "title": "Users may be unable to connect to multiple Microsoft 365 services",
         "start": "Nov 12, 2026 6:48 PM",
-        "severity": "warn",
+        "severity": "Warn",
         "duration": "1d 9h 23m"
       },
-      "fetched_at": "2026-11-17T19:03:32Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed: WebFetch permission request not answered (PROVENANCE_REQUIRED)"
+      "fetched_at": "2026-11-17T22:00:34Z",
+      "fetch_ok": true,
+      "fetch_error": null
     },
     {
       "id": "exchange",
@@ -29,8 +29,8 @@
       "url": "https://statusgator.com/services/exchange-online",
       "status": "up",
       "status_text": "Exchange Online is up",
-      "sg_last_checked": "November 17, 2026 at 4:08 PM UTC",
-      "reports_24h": 1,
+      "sg_last_checked": "November 17, 2026 at 9:58 PM UTC",
+      "reports_24h": 0,
       "active_incident": null,
       "latest_incident": {
         "title": "Users may be unable to connect to multiple Microsoft 365 services",
@@ -38,9 +38,9 @@
         "severity": "Warn",
         "duration": "1d 9h 51m"
       },
-      "fetched_at": "2026-11-17T19:03:32Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed: WebFetch permission request not answered (PROVENANCE_REQUIRED)"
+      "fetched_at": "2026-11-17T22:00:34Z",
+      "fetch_ok": true,
+      "fetch_error": null
     },
     {
       "id": "m365-apps",
@@ -49,18 +49,13 @@
       "url": "https://statusgator.com/services/microsoft-365-apps",
       "status": "up",
       "status_text": "Microsoft 365 apps is up",
-      "sg_last_checked": "November 17, 2026 at 1:32 PM UTC",
-      "reports_24h": 10,
+      "sg_last_checked": "November 17, 2026 at 9:57 PM UTC",
+      "reports_24h": 11,
       "active_incident": null,
-      "latest_incident": {
-        "title": "Some users may be unable to access or protect content using Azure Rights Management (ARM) across Microsoft 365 services",
-        "start": "Oct 19, 2026 9:17 AM",
-        "severity": "Warn",
-        "duration": "1h 20m"
-      },
-      "fetched_at": "2026-11-17T19:03:32Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed: WebFetch permission request not answered (PROVENANCE_REQUIRED)"
+      "latest_incident": null,
+      "fetched_at": "2026-11-17T22:00:34Z",
+      "fetch_ok": true,
+      "fetch_error": null
     },
     {
       "id": "m365-suite",
@@ -69,8 +64,8 @@
       "url": "https://statusgator.com/services/microsoft-365-suite",
       "status": "up",
       "status_text": "Microsoft 365 suite is up",
-      "sg_last_checked": "November 17, 2026 at 7:18 AM UTC",
-      "reports_24h": 2,
+      "sg_last_checked": "November 17, 2026 at 9:58 PM UTC",
+      "reports_24h": 0,
       "active_incident": null,
       "latest_incident": {
         "title": "Users may be unable to connect to multiple Microsoft 365 services",
@@ -78,9 +73,9 @@
         "severity": "Warn",
         "duration": "9h 22m"
       },
-      "fetched_at": "2026-11-17T19:03:32Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed: WebFetch permission request not answered (PROVENANCE_REQUIRED)"
+      "fetched_at": "2026-11-17T22:00:34Z",
+      "fetch_ok": true,
+      "fetch_error": null
     },
     {
       "id": "azure",
@@ -89,8 +84,8 @@
       "url": "https://statusgator.com/services/azure",
       "status": "up",
       "status_text": "Azure is up",
-      "sg_last_checked": "November 17, 2026 at 6:05 PM UTC",
-      "reports_24h": 23,
+      "sg_last_checked": "November 17, 2026 at 9:55 PM UTC",
+      "reports_24h": 21,
       "active_incident": null,
       "latest_incident": {
         "title": "Minor incident",
@@ -98,9 +93,9 @@
         "severity": "Warn",
         "duration": "2h 5m"
       },
-      "fetched_at": "2026-11-17T19:03:32Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed: WebFetch permission request not answered (PROVENANCE_REQUIRED)"
+      "fetched_at": "2026-11-17T22:00:34Z",
+      "fetch_ok": true,
+      "fetch_error": null
     },
     {
       "id": "entra",
@@ -109,7 +104,7 @@
       "url": "https://statusgator.com/services/microsoft-entra",
       "status": "up",
       "status_text": "Microsoft Entra is up",
-      "sg_last_checked": "November 17, 2026 at 2:58 PM UTC",
+      "sg_last_checked": "November 17, 2026 at 9:58 PM UTC",
       "reports_24h": 0,
       "active_incident": null,
       "latest_incident": {
@@ -118,9 +113,9 @@
         "severity": "Warn",
         "duration": "8h 45m"
       },
-      "fetched_at": "2026-11-17T19:03:32Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed: WebFetch permission request not answered (PROVENANCE_REQUIRED)"
+      "fetched_at": "2026-11-17T22:00:34Z",
+      "fetch_ok": true,
+      "fetch_error": null
     },
     {
       "id": "power-platform",
@@ -129,18 +124,13 @@
       "url": "https://statusgator.com/services/power-platform",
       "status": "up",
       "status_text": "Power Platform is up",
-      "sg_last_checked": "November 17, 2026 at 5:30 AM UTC",
-      "reports_24h": 1,
+      "sg_last_checked": "November 17, 2026 at 9:55 PM UTC",
+      "reports_24h": 0,
       "active_incident": null,
-      "latest_incident": {
-        "title": "App and Power Automate not loading or connecting",
-        "start": "Sep 29, 2026 8:33 PM",
-        "severity": null,
-        "duration": "1h 37m"
-      },
-      "fetched_at": "2026-11-17T19:03:32Z",
-      "fetch_ok": false,
-      "fetch_error": "fetch failed: WebFetch permission request not answered (PROVENANCE_REQUIRED)"
+      "latest_incident": null,
+      "fetched_at": "2026-11-17T22:00:34Z",
+      "fetch_ok": true,
+      "fetch_error": null
     }
   ]
 }
