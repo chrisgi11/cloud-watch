@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T17:00:00Z",
+  "generated_at": "2026-11-17T18:07:05Z",
   "source": "StatusGator public service pages",
   "services": [
     {
@@ -18,7 +18,7 @@
         "severity": "warn",
         "duration": "1d 9h 23m"
       },
-      "fetched_at": "2026-11-17T17:00:00Z",
+      "fetched_at": "2026-11-17T18:07:05Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -38,7 +38,7 @@
         "severity": "warn",
         "duration": "1d 9h 51m"
       },
-      "fetched_at": "2026-11-17T17:00:00Z",
+      "fetched_at": "2026-11-17T18:07:05Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -58,7 +58,7 @@
         "severity": "Warn",
         "duration": "1h 20m"
       },
-      "fetched_at": "2026-11-17T17:00:00Z",
+      "fetched_at": "2026-11-17T18:07:05Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -78,7 +78,7 @@
         "severity": "Warn",
         "duration": "9h 22m"
       },
-      "fetched_at": "2026-11-17T17:00:00Z",
+      "fetched_at": "2026-11-17T18:07:05Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -89,8 +89,8 @@
       "url": "https://statusgator.com/services/azure",
       "status": "up",
       "status_text": "Azure is up",
-      "sg_last_checked": "November 16, 2026 at 5:20 PM UTC",
-      "reports_24h": 15,
+      "sg_last_checked": "November 17, 2026 at 6:05 PM UTC",
+      "reports_24h": 23,
       "active_incident": null,
       "latest_incident": {
         "title": "Minor incident",
@@ -98,7 +98,7 @@
         "severity": "warn",
         "duration": "2h 5m"
       },
-      "fetched_at": "2026-11-17T17:00:00Z",
+      "fetched_at": "2026-11-17T18:07:05Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -118,7 +118,7 @@
         "severity": "warn",
         "duration": "8h 45m"
       },
-      "fetched_at": "2026-11-17T17:00:00Z",
+      "fetched_at": "2026-11-17T18:07:05Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -138,7 +138,7 @@
         "severity": null,
         "duration": "1h 37m"
       },
-      "fetched_at": "2026-11-17T17:00:00Z",
+      "fetched_at": "2026-11-17T18:07:05Z",
       "fetch_ok": true,
       "fetch_error": null
     }
