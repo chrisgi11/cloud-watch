@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T18:07:05Z",
+  "generated_at": "2026-11-17T19:03:32Z",
   "source": "StatusGator public service pages",
   "services": [
     {
@@ -9,7 +9,7 @@
       "url": "https://statusgator.com/services/microsoft-teams",
       "status": "up",
       "status_text": "Microsoft Teams is up",
-      "sg_last_checked": "November 16, 2026 at 11:16 PM UTC",
+      "sg_last_checked": "StatusGator last checked the status of Microsoft Teams on November 16, 2026 at 11:16 PM UTC",
       "reports_24h": 39,
       "active_incident": null,
       "latest_incident": {
@@ -18,7 +18,7 @@
         "severity": "warn",
         "duration": "1d 9h 23m"
       },
-      "fetched_at": "2026-11-17T18:07:05Z",
+      "fetched_at": "2026-11-17T19:03:32Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -35,10 +35,10 @@
       "latest_incident": {
         "title": "Users may be unable to connect to multiple Microsoft 365 services",
         "start": "Nov 12, 2026 6:27 PM",
-        "severity": "warn",
+        "severity": "Warn",
         "duration": "1d 9h 51m"
       },
-      "fetched_at": "2026-11-17T18:07:05Z",
+      "fetched_at": "2026-11-17T19:03:32Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -58,7 +58,7 @@
         "severity": "Warn",
         "duration": "1h 20m"
       },
-      "fetched_at": "2026-11-17T18:07:05Z",
+      "fetched_at": "2026-11-17T19:03:32Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -69,7 +69,7 @@
       "url": "https://statusgator.com/services/microsoft-365-suite",
       "status": "up",
       "status_text": "Microsoft 365 suite is up",
-      "sg_last_checked": "November 17, 2026 at 7:18 AM UTC",
+      "sg_last_checked": "StatusGator last checked the status of Microsoft 365 suite on November 17, 2026 at 7:18 AM UTC",
       "reports_24h": 2,
       "active_incident": null,
       "latest_incident": {
@@ -78,7 +78,7 @@
         "severity": "Warn",
         "duration": "9h 22m"
       },
-      "fetched_at": "2026-11-17T18:07:05Z",
+      "fetched_at": "2026-11-17T19:03:32Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -95,10 +95,10 @@
       "latest_incident": {
         "title": "Minor incident",
         "start": "Oct 1, 2026 12:28 AM",
-        "severity": "warn",
+        "severity": "Warn",
         "duration": "2h 5m"
       },
-      "fetched_at": "2026-11-17T18:07:05Z",
+      "fetched_at": "2026-11-17T19:03:32Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -115,10 +115,10 @@
       "latest_incident": {
         "title": "Users may be unable to access the Microsoft 365 admin center and see delays when accessing other Microsoft 365 services",
         "start": "Oct 29, 2025 5:23 PM",
-        "severity": "warn",
+        "severity": "Warn",
         "duration": "8h 45m"
       },
-      "fetched_at": "2026-11-17T18:07:05Z",
+      "fetched_at": "2026-11-17T19:03:32Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -138,7 +138,7 @@
         "severity": null,
         "duration": "1h 37m"
       },
-      "fetched_at": "2026-11-17T18:07:05Z",
+      "fetched_at": "2026-11-17T19:03:32Z",
       "fetch_ok": true,
       "fetch_error": null
     }
