@@ -1,0 +1,9 @@
+[
+  {"id": "teams",          "name": "Microsoft Teams",      "slug": "microsoft-teams",     "covers": "Teams chat, calls, meetings"},
+  {"id": "exchange",       "name": "Exchange Online",      "slug": "exchange-online",     "covers": "Outlook / Exchange Online mail"},
+  {"id": "m365-apps",      "name": "Microsoft 365 apps",   "slug": "microsoft-365-apps",  "covers": "SharePoint Online, OneDrive and other M365 cloud services"},
+  {"id": "m365-suite",     "name": "Microsoft 365 suite",  "slug": "microsoft-365-suite", "covers": "Cross-service M365 incidents, admin center, Office.com"},
+  {"id": "azure",          "name": "Azure",                "slug": "azure",               "covers": "Azure platform"},
+  {"id": "entra",          "name": "Microsoft Entra",      "slug": "microsoft-entra",     "covers": "Entra ID sign-in and identity"},
+  {"id": "power-platform", "name": "Power Platform",       "slug": "power-platform",      "covers": "Power Automate, Power Apps"}
+]

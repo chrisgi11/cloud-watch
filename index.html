@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cloud Service Watch</title>
+<style>
+  :root {
+    color-scheme: light;
+    --surface: #fcfcfb;
+    --surface-2: #f3f2ee;
+    --text: #0b0b0b;
+    --text-2: #52514e;
+    --text-3: #7a7974;
+    --grid: #e1e0d9;
+    --axis: #c3c2b7;
+    --ring: rgba(11,11,11,0.10);
+    --good: #0ca30c;
+    --warning: #fab219;
+    --serious: #ec835a;
+    --critical: #d03b3b;
+    --neutral: #8a8984;
+    --empty: #ecebe6;
+    --link: #2a78d6;
+  }
+  /* Light by default so it matches a light host page; add ?theme=dark for dark. */
+  :root[data-theme="dark"] {
+      color-scheme: dark;
+      --surface: #1a1a19;
+      --surface-2: #232321;
+      --text: #f0efec;
+      --text-2: #c3c2b7;
+      --text-3: #94938c;
+      --grid: #2c2c2a;
+      --axis: #383835;
+      --ring: rgba(255,255,255,0.10);
+      --neutral: #7a7974;
+      --empty: #2a2a28;
+      --link: #3987e5;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; padding: 16px;
+    background: var(--surface); color: var(--text);
+    font: 14px/1.4 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+  header { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 16px; margin-bottom: 12px; }
+  h1 { font-size: 18px; margin: 0; font-weight: 650; }
+  .meta { color: var(--text-2); font-size: 13px; }
+  .summary {
+    display: inline-flex; align-items: center; gap: 6px;
+    padding: 2px 10px; border-radius: 999px; font-size: 13px; font-weight: 600;
+    background: var(--surface-2); box-shadow: inset 0 0 0 1px var(--ring);
+  }
+  .banner {
+    margin: 0 0 12px; padding: 8px 12px; border-radius: 6px; font-size: 13px;
+    background: var(--surface-2); box-shadow: inset 0 0 0 1px var(--ring);
+    border-left: 4px solid var(--warning);
+  }
+  .wrap { overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; min-width: 760px; }
+  th {
+    text-align: left; font-size: 12px; font-weight: 600; color: var(--text-2);
+    padding: 6px 10px; border-bottom: 1px solid var(--axis); white-space: nowrap;
+  }
+  td { padding: 9px 10px; border-bottom: 1px solid var(--grid); vertical-align: top; }
+  td.svc { min-width: 190px; }
+  td.num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+  th.num { text-align: right; }
+  .svc a { color: var(--text); font-weight: 600; text-decoration: none; }
+  .svc a:hover { text-decoration: underline; }
+  .covers { color: var(--text-3); font-size: 12px; }
+  .status { display: inline-flex; align-items: center; gap: 6px; font-weight: 600; white-space: nowrap; }
+  .dot {
+    width: 16px; height: 16px; border-radius: 50%; display: inline-grid; place-items: center;
+    font-size: 10px; font-weight: 800; line-height: 1; color: #fff;
+  }
+  .s-up .dot { background: var(--good); }
+  .s-warn .dot { background: var(--warning); color: #0b0b0b; }
+  .s-down .dot { background: var(--critical); }
+  .s-maintenance .dot { background: var(--neutral); }
+  .s-unknown .dot { background: var(--neutral); }
+  .inc { max-width: 340px; }
+  .inc .t { color: var(--text); }
+  .inc .d { color: var(--text-3); font-size: 12px; }
+  .inc.active .t { font-weight: 600; }
+  .muted { color: var(--text-3); }
+  .strip { display: flex; gap: 2px; align-items: flex-end; height: 18px; }
+  .cell { width: 4px; height: 18px; border-radius: 2px; background: var(--empty); position: relative; }
+  .cell.up { background: var(--good); }
+  .cell.warn { background: var(--warning); }
+  .cell.down { background: var(--critical); }
+  .cell.maintenance, .cell.unknown { background: var(--neutral); }
+  .cell::after { content: ""; position: absolute; inset: -4px -1px; } /* larger hit target */
+  .striplabel { display: flex; justify-content: space-between; color: var(--text-3); font-size: 11px; margin-top: 2px; }
+  .checked { color: var(--text-3); font-size: 12px; white-space: nowrap; }
+  .stale { color: var(--serious); }
+  .legend { display: flex; flex-wrap: wrap; gap: 6px 14px; margin-top: 12px; font-size: 12px; color: var(--text-2); }
+  .legend span { display: inline-flex; align-items: center; gap: 5px; }
+  .legend i { width: 10px; height: 10px; border-radius: 2px; display: inline-block; }
+  footer { margin-top: 10px; font-size: 12px; color: var(--text-3); }
+  footer a { color: var(--link); }
+  #tip {
+    position: fixed; pointer-events: none; z-index: 10; display: none;
+    background: var(--surface); color: var(--text); font-size: 12px;
+    padding: 6px 8px; border-radius: 6px; box-shadow: 0 2px 10px rgba(0,0,0,.18), 0 0 0 1px var(--ring);
+    white-space: nowrap;
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>Cloud Service Watch</h1>
+  <span id="summary" class="summary">Loading…</span>
+  <span id="updated" class="meta"></span>
+</header>
+<div id="banner" class="banner" hidden></div>
+<div class="wrap">
+  <table aria-describedby="srcnote">
+    <thead>
+      <tr>
+        <th>Service</th>
+        <th>Status</th>
+        <th class="num">User reports (24h)</th>
+        <th>Active / latest official incident</th>
+        <th>Last 24h</th>
+        <th>StatusGator last checked</th>
+      </tr>
+    </thead>
+    <tbody id="rows"></tbody>
+  </table>
+</div>
+<div class="legend" aria-hidden="true">
+  <span><i style="background:var(--good)"></i>Up</span>
+  <span><i style="background:var(--warning)"></i>Warn</span>
+  <span><i style="background:var(--critical)"></i>Down</span>
+  <span><i style="background:var(--neutral)"></i>Maintenance / unknown</span>
+  <span><i style="background:var(--empty)"></i>No check</span>
+</div>
+<footer id="srcnote">
+  Public data only, read from <a href="https://statusgator.com" target="_blank" rel="noopener">StatusGator</a>
+  service pages, which aggregate each vendor's official status page and crowd-sourced user reports.
+  Not tenant-specific. Refreshed by a scheduled check; this page reloads its data every 5 minutes.
+</footer>
+<div id="tip" role="tooltip"></div>
+
+<script>
+if (new URLSearchParams(location.search).get("theme") === "dark") document.documentElement.dataset.theme = "dark";
+const LABEL = { up: "Up", warn: "Warn", down: "Down", maintenance: "Maintenance", unknown: "Unknown" };
+const ICON  = { up: "✓", warn: "!", down: "✕", maintenance: "◆", unknown: "?" };
+const STRIP_POINTS = 48;           // 24h at 30-minute checks
+const STALE_MINUTES = 90;
+
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[c]));
+const fmtTime = iso => new Date(iso).toLocaleString([], { month: "short", day: "numeric", hour: "numeric", minute: "2-digit" });
+function ago(iso) {
+  const m = Math.round((Date.now() - new Date(iso)) / 60000);
+  if (m < 1) return "just now";
+  if (m < 60) return m + " min ago";
+  const h = Math.floor(m / 60);
+  if (h < 48) return h + " h " + (m % 60) + " min ago";
+  return Math.floor(h / 24) + " days ago";
+}
+
+function sgChecked(text) {
+  if (!text) return "—";
+  const d = new Date(String(text).replace(" at ", " ").replace(" UTC", " UTC"));
+  if (isNaN(d)) return esc(text);
+  const old = (Date.now() - d) / 3600000 > 12;
+  return `<span class="${old ? "stale" : ""}" title="${esc(text)}">${esc(fmtTime(d.toISOString()))}<br>${esc(ago(d.toISOString()))}</span>`;
+}
+
+function stripFor(id, history) {
+  const pts = history.slice(-STRIP_POINTS);
+  const pad = STRIP_POINTS - pts.length;
+  let html = "";
+  for (let i = 0; i < pad; i++) html += `<span class="cell" data-tip="No check recorded"></span>`;
+  for (const p of pts) {
+    const s = (p.s && p.s[id]) || "unknown";
+    html += `<span class="cell ${s}" data-tip="${esc(fmtTime(p.t))} — ${LABEL[s]}"></span>`;
+  }
+  return `<div class="strip" role="img" aria-label="Status over the last 24 hours">${html}</div>
+          <div class="striplabel"><span>24h ago</span><span>now</span></div>`;
+}
+
+function incidentCell(svc) {
+  if (svc.active_incident) {
+    return `<div class="inc active"><div class="t">${esc(svc.active_incident)}</div><div class="d">Active</div></div>`;
+  }
+  const li = svc.latest_incident;
+  if (!li) return `<span class="muted">None listed</span>`;
+  const bits = [li.start && ("Started " + li.start), li.duration && ("lasted " + li.duration), li.severity].filter(Boolean);
+  return `<div class="inc"><div class="t">${esc(li.title)}</div><div class="d">${esc(bits.join(" · "))}</div></div>`;
+}
+
+function render(status, history) {
+  const rows = status.services.map(svc => {
+    const s = svc.status || "unknown";
+    const fetchNote = svc.fetch_ok === false ? `<div class="checked stale">Last fetch failed — showing previous data</div>` : "";
+    return `<tr>
+      <td class="svc"><a href="${esc(svc.url)}" target="_blank" rel="noopener">${esc(svc.name)}</a><div class="covers">${esc(svc.covers)}</div></td>
+      <td><span class="status s-${s}"><span class="dot" aria-hidden="true">${ICON[s]}</span>${LABEL[s]}</span>${fetchNote}</td>
+      <td class="num">${svc.reports_24h ?? "<span class='muted'>—</span>"}</td>
+      <td>${incidentCell(svc)}</td>
+      <td>${stripFor(svc.id, history)}</td>
+      <td class="checked">${sgChecked(svc.sg_last_checked)}</td>
+    </tr>`;
+  }).join("");
+  document.getElementById("rows").innerHTML = rows;
+
+  const bad = status.services.filter(x => x.status === "warn" || x.status === "down");
+  const sum = document.getElementById("summary");
+  if (bad.length === 0) {
+    sum.innerHTML = `<span class="status s-up"><span class="dot" aria-hidden="true">✓</span></span>All ${status.services.length} services up`;
+  } else {
+    const worst = bad.some(x => x.status === "down") ? "down" : "warn";
+    sum.innerHTML = `<span class="status s-${worst}"><span class="dot" aria-hidden="true">${ICON[worst]}</span></span>${bad.length} of ${status.services.length} with issues: ${esc(bad.map(x => x.name).join(", "))}`;
+  }
+  document.getElementById("updated").textContent = `Checked ${fmtTime(status.generated_at)} (${ago(status.generated_at)})`;
+
+  const banner = document.getElementById("banner");
+  const ageMin = (Date.now() - new Date(status.generated_at)) / 60000;
+  if (ageMin > STALE_MINUTES) {
+    banner.hidden = false;
+    banner.textContent = `This data is ${ago(status.generated_at).replace(" ago", "")} old. The scheduled check may have stopped running.`;
+  } else banner.hidden = true;
+}
+
+async function load() {
+  try {
+    const bust = "?t=" + Date.now();
+    const [status, history] = await Promise.all([
+      fetch("status.json" + bust).then(r => r.json()),
+      fetch("history.json" + bust).then(r => r.ok ? r.json() : []).catch(() => [])
+    ]);
+    render(status, history);
+  } catch (e) {
+    document.getElementById("summary").textContent = "Could not load status data";
+  }
+}
+
+const tip = document.getElementById("tip");
+document.addEventListener("mouseover", e => {
+  const t = e.target.closest("[data-tip]");
+  if (!t) { tip.style.display = "none"; return; }
+  tip.textContent = t.dataset.tip;
+  tip.style.display = "block";
+});
+document.addEventListener("mousemove", e => {
+  if (tip.style.display !== "block") return;
+  const x = Math.min(e.clientX + 12, window.innerWidth - tip.offsetWidth - 8);
+  tip.style.left = x + "px";
+  tip.style.top = (e.clientY + 14) + "px";
+});
+
+load();
+setInterval(load, 5 * 60 * 1000);
+</script>
+</body>
+</html>

@@ -1,0 +1,146 @@
+{
+  "generated_at": "2026-11-17T17:00:00Z",
+  "source": "StatusGator public service pages",
+  "services": [
+    {
+      "id": "teams",
+      "name": "Microsoft Teams",
+      "covers": "Teams chat, calls, meetings",
+      "url": "https://statusgator.com/services/microsoft-teams",
+      "status": "up",
+      "status_text": "Microsoft Teams is up",
+      "sg_last_checked": "November 16, 2026 at 11:16 PM UTC",
+      "reports_24h": 39,
+      "active_incident": null,
+      "latest_incident": {
+        "title": "Users may be unable to connect to multiple Microsoft 365 services",
+        "start": "Nov 12, 2026 6:48 PM",
+        "severity": "warn",
+        "duration": "1d 9h 23m"
+      },
+      "fetched_at": "2026-11-17T17:00:00Z",
+      "fetch_ok": true,
+      "fetch_error": null
+    },
+    {
+      "id": "exchange",
+      "name": "Exchange Online",
+      "covers": "Outlook / Exchange Online mail",
+      "url": "https://statusgator.com/services/exchange-online",
+      "status": "up",
+      "status_text": "Exchange Online is up",
+      "sg_last_checked": "November 17, 2026 at 4:08 PM UTC",
+      "reports_24h": 1,
+      "active_incident": null,
+      "latest_incident": {
+        "title": "Users may be unable to connect to multiple Microsoft 365 services",
+        "start": "Nov 12, 2026 6:27 PM",
+        "severity": "warn",
+        "duration": "1d 9h 51m"
+      },
+      "fetched_at": "2026-11-17T17:00:00Z",
+      "fetch_ok": true,
+      "fetch_error": null
+    },
+    {
+      "id": "m365-apps",
+      "name": "Microsoft 365 apps",
+      "covers": "SharePoint Online, OneDrive and other M365 cloud services",
+      "url": "https://statusgator.com/services/microsoft-365-apps",
+      "status": "up",
+      "status_text": "Microsoft 365 apps is up",
+      "sg_last_checked": "November 17, 2026 at 1:32 PM UTC",
+      "reports_24h": 10,
+      "active_incident": null,
+      "latest_incident": {
+        "title": "Some users may be unable to access or protect content using Azure Rights Management (ARM) across Microsoft 365 services",
+        "start": "Oct 19, 2026 9:17 AM",
+        "severity": "Warn",
+        "duration": "1h 20m"
+      },
+      "fetched_at": "2026-11-17T17:00:00Z",
+      "fetch_ok": true,
+      "fetch_error": null
+    },
+    {
+      "id": "m365-suite",
+      "name": "Microsoft 365 suite",
+      "covers": "Cross-service M365 incidents, admin center, Office.com",
+      "url": "https://statusgator.com/services/microsoft-365-suite",
+      "status": "up",
+      "status_text": "Microsoft 365 suite is up",
+      "sg_last_checked": "November 17, 2026 at 7:18 AM UTC",
+      "reports_24h": 2,
+      "active_incident": null,
+      "latest_incident": {
+        "title": "Users may be unable to connect to multiple Microsoft 365 services",
+        "start": "Nov 12, 2026 6:48 PM",
+        "severity": "Warn",
+        "duration": "9h 22m"
+      },
+      "fetched_at": "2026-11-17T17:00:00Z",
+      "fetch_ok": true,
+      "fetch_error": null
+    },
+    {
+      "id": "azure",
+      "name": "Azure",
+      "covers": "Azure platform",
+      "url": "https://statusgator.com/services/azure",
+      "status": "up",
+      "status_text": "Azure is up",
+      "sg_last_checked": "November 16, 2026 at 5:20 PM UTC",
+      "reports_24h": 15,
+      "active_incident": null,
+      "latest_incident": {
+        "title": "Minor incident",
+        "start": "Oct 1, 2026 12:28 AM",
+        "severity": "warn",
+        "duration": "2h 5m"
+      },
+      "fetched_at": "2026-11-17T17:00:00Z",
+      "fetch_ok": true,
+      "fetch_error": null
+    },
+    {
+      "id": "entra",
+      "name": "Microsoft Entra",
+      "covers": "Entra ID sign-in and identity",
+      "url": "https://statusgator.com/services/microsoft-entra",
+      "status": "up",
+      "status_text": "Microsoft Entra is up",
+      "sg_last_checked": "November 17, 2026 at 2:58 PM UTC",
+      "reports_24h": 0,
+      "active_incident": null,
+      "latest_incident": {
+        "title": "Users may be unable to access the Microsoft 365 admin center and see delays when accessing other Microsoft 365 services",
+        "start": "Oct 29, 2025 5:23 PM",
+        "severity": "warn",
+        "duration": "8h 45m"
+      },
+      "fetched_at": "2026-11-17T17:00:00Z",
+      "fetch_ok": true,
+      "fetch_error": null
+    },
+    {
+      "id": "power-platform",
+      "name": "Power Platform",
+      "covers": "Power Automate, Power Apps",
+      "url": "https://statusgator.com/services/power-platform",
+      "status": "up",
+      "status_text": "Power Platform is up",
+      "sg_last_checked": "November 17, 2026 at 5:30 AM UTC",
+      "reports_24h": 1,
+      "active_incident": null,
+      "latest_incident": {
+        "title": "App and Power Automate not loading or connecting",
+        "start": "Sep 29, 2026 8:33 PM",
+        "severity": null,
+        "duration": "1h 37m"
+      },
+      "fetched_at": "2026-11-17T17:00:00Z",
+      "fetch_ok": true,
+      "fetch_error": null
+    }
+  ]
+}
