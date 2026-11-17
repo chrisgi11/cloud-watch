@@ -45,7 +45,7 @@
     font: 14px/1.4 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
   }
   header { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 16px; margin-bottom: 12px; }
-  h1 { font-size: 18px; margin: 0; font-weight: 650; }
+  h1 { font-size: 21px; margin: 0; font-weight: 650; }
   .meta { color: var(--text-2); font-size: 13px; }
   .summary {
     display: inline-flex; align-items: center; gap: 6px;
@@ -100,6 +100,7 @@
   .legend i { width: 10px; height: 10px; border-radius: 2px; display: inline-block; }
   .news { margin-top: 22px; }
   .news h2 { font-size: 15px; margin: 0 0 2px; font-weight: 650; }
+  .news h2#newsh { font-size: 21px; }
   .news .sub { color: var(--text-3); font-size: 12px; margin-bottom: 6px; }
   .news ul { list-style: none; margin: 0; padding: 0; }
   .news li { padding: 8px 0; border-bottom: 1px solid var(--grid); }
@@ -147,7 +148,7 @@
   <span><i style="background:var(--empty)"></i>No check</span>
 </div>
 <section class="news" aria-labelledby="newsh">
-  <h2 id="newsh">Cloud outage news</h2>
+  <h2 id="newsh">Cloud Outage Headlines (Google News)</h2>
   <div class="sub" id="newssub">Loading…</div>
   <ul id="newslist"></ul>
   <div id="alertsbox" hidden>
@@ -189,9 +190,10 @@ function ago(iso) {
 }
 
 function sgChecked(text) {
-  if (!text) return "—";
-  const d = new Date(String(text).replace(" at ", " ").replace(" UTC", " UTC"));
-  if (isNaN(d)) return esc(text);
+  const m = String(text || "").match(/[A-Z][a-z]+ \d{1,2}, \d{4}(?: at)? \d{1,2}:\d{2} ?[AP]M(?: UTC)?/);
+  if (!m) return "—";
+  const d = new Date(m[0].replace(" at ", " ").replace(/ ?UTC$/, " UTC"));
+  if (isNaN(d)) return "—";
   const old = (Date.now() - d) / 3600000 > 12;
   return `<span class="${old ? "stale" : ""}" title="${esc(text)}">${esc(fmtTime(d.toISOString()))}<br>${esc(ago(d.toISOString()))}</span>`;
 }

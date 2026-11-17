@@ -12,6 +12,7 @@ either the record extracted from the service's StatusGator page:
 or {"error": "why the fetch failed"}.
 """
 import json
+import re
 import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -31,6 +32,15 @@ def norm_status(value):
     s = str(value or "").strip().lower()
     s = ALIASES.get(s, s)
     return s if s in VALID else "unknown"
+
+
+TS_RE = re.compile(r"[A-Z][a-z]+ \d{1,2}, \d{4}(?: at)? \d{1,2}:\d{2} ?[AP]M(?: UTC)?")
+
+
+def clean_ts(value):
+    """The page extraction sometimes returns a whole sentence; keep only the date/time in it."""
+    m = TS_RE.search(str(value or ""))
+    return m.group(0) if m else None
 
 
 def to_int(value):
@@ -83,7 +93,7 @@ def main():
             rec = {**base,
                    "status": norm_status(r.get("status")),
                    "status_text": r.get("status_text"),
-                   "sg_last_checked": r.get("last_checked"),
+                   "sg_last_checked": clean_ts(r.get("last_checked")),
                    "reports_24h": to_int(r.get("reports_24h")),
                    "active_incident": r.get("active_incident") or None,
                    "latest_incident": li,

@@ -9,7 +9,7 @@
       "url": "https://statusgator.com/services/microsoft-teams",
       "status": "up",
       "status_text": "Microsoft Teams is up",
-      "sg_last_checked": "StatusGator last checked the status of Microsoft Teams on November 16, 2026 at 11:16 PM UTC",
+      "sg_last_checked": "November 16, 2026 at 11:16 PM UTC",
       "reports_24h": 39,
       "active_incident": null,
       "latest_incident": {
@@ -69,7 +69,7 @@
       "url": "https://statusgator.com/services/microsoft-365-suite",
       "status": "up",
       "status_text": "Microsoft 365 suite is up",
-      "sg_last_checked": "StatusGator last checked the status of Microsoft 365 suite on November 17, 2026 at 7:18 AM UTC",
+      "sg_last_checked": "November 17, 2026 at 7:18 AM UTC",
       "reports_24h": 2,
       "active_incident": null,
       "latest_incident": {

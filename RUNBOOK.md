@@ -11,7 +11,7 @@ public service pages.
 
    > Return only JSON: {"name":..., "status": "up|warn|down|maintenance|unknown" exactly as
    > the page's main status says, "status_text": the headline sentence, "last_checked":
-   > timestamp text, "reports_24h": number or null, "active_incident": title or null,
+   > the timestamp only, e.g. "November 17, 2026 at 1:32 PM UTC" (not a sentence), "reports_24h": number or null, "active_incident": title or null,
    > "latest_incident": {"title","start","severity","duration"} or null}.
    > "active_incident" is only an incident the page shows as ongoing/unresolved.
 
