@@ -1,8 +1,74 @@
 {
-  "fetched_at": "2026-11-18T16:12:05Z",
+  "fetched_at": "2026-11-18T22:58:14Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Surge in software patches likely behind recent tech outages, experts say",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbG5MRktqdzhYemc3QU9Yd0xudG9uN1lSbkd4YTd3dG44VUlfcTRzcW5WQ19qb2JTX0o0QVV6VHNuV0oxRFNzYUZSX2wySm9WRmk1S2swN2djcWNJc3I0S0FqbzBrV09oZlAzbVFGQUI5bWktb2ZYU3ExYWdCd2hNOHZIei16QU9UZXJDQ0FNRkk0S0FjRG85UUlXX09KTmFtYzQ4SVZQOXBXcHY1VVlzcV9wdGxTR1Mw?oc=5",
+      "published": "2026-11-18T21:51:49Z"
+    },
+    {
+      "title": "What\u2019s up with the web? Extra Stuff members, here\u2019s your invite to a special live event",
+      "source": "Stuff",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaVNuZTFlYk1oMkZzWXZVSExNdzdCSWlTWXBBQk1wNGNLeU5tbllMOUlodGtXeHRWMU1KSjZETlZFNkl6NkVNbTY3TnhrcUVUQjZCd1o0cjQtRndFSkZhQ0duaE82QXYzM3ZTSHVrQkxSNGxmU3Z5YWFEZFk4elZSSlFuOTZ5VHc0Um9CR2cwamdKUVhPVjZ5ZEZ0Nng4TkxFVUVKODVEZHVKcWtVaVE?oc=5",
+      "published": "2026-11-18T20:06:43Z"
+    },
+    {
+      "title": "Flights, banks, emails: What we know about a U.S. wave of tech outages",
+      "source": "CBC",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWmlMX3ROUXc4Nk9INzFZaFdiSW1XREp5N3FFWFd1aEN4MGZRYkhMTXRKVlBGM3lVX19mVkRXX2lra0lHb1VvenJtSkxNVjhLdmVEdFZkbmdyOW5fX3Vpa1dzTVdQdURERFZaRldNWGNWcEJFaGVjTE96VFQyclhRa2F2NjBSMXUyQ2FIOTJ3Rjg3WEE?oc=5",
+      "published": "2026-11-18T19:32:09Z"
+    },
+    {
+      "title": "Here are all of the recent major outages, national disruptions",
+      "source": "USA Today",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMnZMSVJ4VktNNGhRVXZ2N3NTMUNtU215QlJ0cEpCMG1Dam5wTDNLY193VE5tcHlvR0wyM0VUSXNKWXZnRVNRX2gyUmlSUGxRdmNJX2xHWnNzNmhoQzM4Y3V1ZXpDTTI5MUttSVp5UWJwOGc3ZHBqeXB1aVBmRzlLYkhNZkdwMjNIdURlYTE2OWJMQkZZclV2bHJB?oc=5",
+      "published": "2026-11-18T19:30:07Z"
+    },
+    {
+      "title": "Microsoft 365 outage puts enterprise resilience back in focus across APAC",
+      "source": "iTnews Asia",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOXg2aFREUnZabXZYYlFSRXpVZm5tLTlhOGZOeFdaaWppUlNIRnEwWm5aWklZRnJzeWhIMDEzQTM4QzZudzREdnlmSjJ2TXZscjBNcjAyMWdLSTBxOXpIM2xaOHMtX0RXNXpUalVyQmxqcHV2OUlmUEVpVVVoM3lCVVNFR2s3UEhxMjF6UnBvQ3c5X3htQUcwNkprWG9ZZlotRTE3T0dmMk5MVGswV0E?oc=5",
+      "published": "2026-11-18T18:41:06Z"
+    },
+    {
+      "title": "The unexpected bliss of the Outlook outage",
+      "source": "Winnipeg Free Press",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMDBtMWdJckRhNThIUkJnOWVPZlAtUWphbE9XbjRQOG5GM21KWXRGTWxIM1U0MGE3bWJseGlSa2hxamZrNUItY1Jlejl1RU9LcW5MMzVGcjdqOWZLcmhDMXo4RmhNdUkySFVvUUlKMHBIZFVySFJ5QXZObm5wWTF3XzV5c19PMlpkUFpyeHBVSQ?oc=5",
+      "published": "2026-11-18T18:35:10Z"
+    },
+    {
+      "title": "We Now Know What Really Caused Microsoft's Massive November Outage",
+      "source": "SlashGear",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY0FrTlJZazhxcFAxSFV2bGhXVnplbksxcXdKTEZSZmxrOEV6cHFZLS0zNy0ySzVPNUhOd0VFNWF3YVVjRk1lRUpScGRxeElFNEgyNkhlOU9Na0VSNVI4OWxfWlFueU5RWm5hRjNiZkJhcXdWZnVKYTllS0Qxc3lmeWQ0OUN1TlJY?oc=5",
+      "published": "2026-11-18T18:23:47Z"
+    },
+    {
+      "title": "What on Earth Is Going On?",
+      "source": "The Atlantic",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMHM1RnBfY3VRWEk4Q1ZqUmkwUlRyZHZ0ZVZUcTViU2dBUzZ3NEZMcmJucHlBTVByVVZkOG1jaVY4U29JWHhTcDZUeUpaellWdDJiX055S3JpTElIZURsMG5PRUw2V2FUc0JUSDlBZFM3SkNVaVdtaTA1d2FyVGMxZndxZjU?oc=5",
+      "published": "2026-11-18T17:02:16Z"
+    },
+    {
+      "title": "Microsoft outage disrupts Outlook, Teams and AI services for over five hours",
+      "source": "DD India",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPell3SG1mRXRpa1hDc3hybzM0OTRCVWZ3ZmQ4VWhyMzVDX1pMZVE2OTBTWXJBX1JrWXdIcm9VV2hvNnhKR2VKOUdrZmdOMjhhZzNENkxsblFfMDdKU1Foclg3MDFDZkFmRVJRei1mUlhHS2hNMVA3WWlKZTZ1Ujl5NFBfeGFUVW8tcWRvd0Z5MWRMZU44bVBvd01CRGczT2FmSGd0ZE5BWVBrQQ?oc=5",
+      "published": "2026-11-18T16:24:16Z"
+    },
+    {
+      "title": "Microsoft Outlook Draws Thousands of Problem Reports Wednesday",
+      "source": "GV Wire",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbmIxalc4TUlVZGRtUS1tam9sUXBTdkxPcGN3YVJuZW85bjJJVHZKTG1PTjdwb3hOT0MyNDlQMXkwTEhwd01hTkxqdm15T1dqek5PWU9iRURTa2x6RzdhX2FPa1J5VXhhRXNMaEVxaHlGMDQ3ZllkWnB1NFBVRjZLNjNoakNBVG4xTUFpNWgzajZ0dG45TTVjazd1aw?oc=5",
+      "published": "2026-11-18T15:20:20Z"
+    },
+    {
+      "title": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DaHJQcV85OUpLcFZlUXhMR2x2QnEyNS1BVWpqUGpObFpBU0E5eG1pUi1xdmhFcVVxSFcwc1QxVjk5TG80eFkzYXJRV1l0X3FuZ0wydVFCbGhmMDJIdUlGZ09aVEw2TlBpMzVCX1EzcUloanBLRnFr0gF8QVVfeXFMUGd6d2tnRmRzRk9jZ0FkdmloSzF2d1JCdkl3QWVvQjBTcUlyV2tJU1dLdjRTRHJqQmc3b1dhOG1DTFBfb0JSb1ZUNlB5SzdjR1plbmplR0plUzVtMFdSMlhHbHBpeEM0WWhldmQ5aU9Xcy1XSkJCNFE4Yi02Wg?oc=5",
+      "published": "2026-11-18T14:44:38Z"
+    },
     {
       "title": "Microsoft 365 Outage \u2013 Causes of the 24-Hour Blackout",
       "source": "Meteora Web",
@@ -26,76 +92,10 @@
       "source": "GBHackers News",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42cFlXb1pqTmlyMnpwYjQtYkt0VjNtVkp4M1FvTjlQVUJFZVVPWE80UGtGNW5fU2dHNnFaTFZwVlpiejhRYkJvaGVLWXlLcG9yS2ppOXd30gFbQVVfeXFMTk5NcmdrRnlqMEhxMlJXbEw5TkxFRnh1cFBBamFLWGlsbGFnY1dfdTdRQ0NjZG9HMUZzRlQxNWw3ek1PdDNIWjNYRGJ4c25JbTJFME9NQWIybWw1NA?oc=5",
       "published": "2026-11-18T11:48:34Z"
-    },
-    {
-      "title": "Satya Nadella issues apology to customers in wake of Microsoft 365 outage",
-      "source": "IT Pro",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc1VUQ25RTC1fQWxQd2pKOWpIOUJGNTRGQXN1b19KNWx5LVhyWEtQWG5IYmRmNDBhM3VyVFBVZjF1d0J1TmRIRk41RV9ta1B0VDFBdWhfYXl5TUtYV2p5LTBmb19ZLXZzSWp1SVN1dVI1eEF4bzUxMm41WGctVmVCRTAwc3BFbkJ6OHZ5dC1lVmNhS29SbEswZjRmdk9IdThKczJnX2NYSXpBVHA4WmxfMF8xYU8?oc=5",
-      "published": "2026-11-18T10:43:54Z"
-    },
-    {
-      "title": "What Explains Fresh Outlook Complaints Against Microsoft (NASDAQ:MSFT) Days After Its Outage?",
-      "source": "Kalkine",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcl93QnhkdVNsRENmaGhWYWN3RFotRHJWUWFnalZWV3ZSNzlvYi1CcHVJN29iSDVWdldvUVg4UzRlampCYXFVTGxGWE9ZTm02Z0ViQ0lMVUFQZU5kMnk5NDh4ZmNWc2FCVURydGlVa3M2TWxGN2FnX2xqVkFjMEYxVHJTVHF2d3NnTmM2NVB1bHpZaGtCS3c5WklyMnI1N0VRTmh0NHFzcE40NF9xTE9DT3RKS2R6Vm10YVJFeFVvenJ6NFZXQ1l3?oc=5",
-      "published": "2026-11-18T10:22:00Z"
-    },
-    {
-      "title": "Microsoft outage cause revealed: It was a perfect storm of problems",
-      "source": "Mashable",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aOXNncW9QdWVtZ3RXTHF5VnFncFJTcXptUWtGX0V6azdmcXZVQjBienJMdzJydEdseXhVZHZRcExPbS0xUXlCcXhyX2RDOUZOd0h3bEhwU1hiNF9hc0FNdTZLSkJGUVpz?oc=5",
-      "published": "2026-11-18T09:18:20Z"
-    },
-    {
-      "title": "Microsoft outage disrupts Outlook, Teams and AI services for over five hours",
-      "source": "DD News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONWVRNEh2bDJ5MVF1ZUJ0NENmelRjY180NnQ4czFYamRlWk9PR1BxNHY0NTNFQ084M0cxSFNoSGw4Q2dncHJKa1BndkRLVGo0R09IbGpwbU9xdjZfQmM2Y1FUQmx2dThVMWJtVUpCU0YtN25mdmZpOXNkZTNCZmpKZXcwZXB1NlhrUWRVYkJ2M3NwUWMwMzZSbkxlRjdoOG9aQXVz?oc=5",
-      "published": "2026-11-18T08:40:03Z"
-    },
-    {
-      "title": "Microsoft Global Outage Lasts Nearly 24 Hours; Nadella Publicly Apologizes, Vows to Improve Resilience",
-      "source": "BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hN2xXZmQ2TjlxRXBTSXhOak5xaWo3Y29obFZJZWowR3NtMUhfU09tM1B6SHJrQ3ZlWGZ4cnA1RTZhVHpNUEVyam5vZ2s4T3VPMkZGbHhIMDNiMnVpcFF3QVY2TWk4YW9PSjBsNXdWUXhKQllyX0E?oc=5",
-      "published": "2026-11-18T07:56:00Z"
-    },
-    {
-      "title": "Why Microsoft's Outlook Outage Lasted More Than 27 Hours",
-      "source": "HackerNoon",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONEpZbDdpYUlsOFpCM294WkZSbTRMNURiUlJ0VmtXMzVOVXc3a1RkaTlSYzdDUXpDYlBtcXpKN3ZIYnF5QWxHc3pQZ3Q3Nkt6cWl5YzBmYTd1aWR5cWJUT2thbkVtTzNFSDNLZ0xUSFd4eHA5dzIwSmxGMERoVkVsN1l0azY?oc=5",
-      "published": "2026-11-18T06:10:04Z"
-    },
-    {
-      "title": "Outlook outage phishing: how to spot and report it",
-      "source": "NeoTeo",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdF9qTkx5alI5ZVdpUDFDRmxMd0lLTVJTNkdKN1JwcXQtS2RTQlh1ZlZPTm5ocjNpcEJNZjRoR2lCNmJmYVV2aW8tYnRXU3NZQkhMMDMwWVB5M0dicTNod0t6NWIwOEgtQ1JuT1VDZm5vUTFOYVBPMF9YcXZqSW53Yg?oc=5",
-      "published": "2026-11-18T05:56:29Z"
-    },
-    {
-      "title": "Microsoft Outlook Outage Analysis: November 12\u201313, 2026",
-      "source": "ThousandEyes",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeG9US3BIenJHRm43M0sxYWdTUng3bmh5V19XaEswS1F4NDZqaWJUa1BLbGJCaVYtNUdSUTJJbUhzMEM5Nk9EU21RRE9kVnVfbUdZZFRMVUZwX1l0cXc2dFpGenVQVkpLaWlaTm1OWFJaNjEydFQxVkJONTlUVDNnYndrQVVoZjQ?oc=5",
-      "published": "2026-11-18T02:40:03Z"
-    },
-    {
-      "title": "Microsoft Ignite 2026: Agents Get a Seat in Teams",
-      "source": "UC Today",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSRG52LWh1SWE5ZWltdUdqMTZOUHZILXhyNkdIV1BYdDEyWnFocDc3dW51MjJwWm9JODJ5QVQzU25BWjJqSmFzc0Jra0pIQmlDZjhaWWN3dFl3elBQNDRkd0ZqQ2NyalN5Y2s3WHRWME9xRTFaaGJJ?oc=5",
-      "published": "2026-11-18T01:57:13Z"
-    },
-    {
-      "title": "When Microsoft went down, the phone picked up the slack",
-      "source": "TechTarget",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcWR1X1lULWRlUFNjam1KamNRamxDZGkzYzFJeENnem4tS3ZPUXNWNzdDSm45YmtFaThfQjAyRUM1YzFaMVFGLUdJT1FGT0FuQUU3QmJBWHlqV2JhcnNkU3QwLXotVm9pQjJWckZzVmtocmw0MUVxVk9EOS1iYW15NEpJNlk2ZXZ6R2ZCOFhkRmp3OVR3bUNhUW9B?oc=5",
-      "published": "2026-11-18T00:32:29Z"
-    },
-    {
-      "title": "The major Microsoft 365 outage saw Japanese workers fire up their fax machines for the first time in years",
-      "source": "TechRadar",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVmh6QlZVUkt5dm80c3o1NEZIN004NHAxTVUyUjAtbm5xd2tpUGc2S2VMQmpXYW8zRGpTaHhmSkhXVW5RMjMzN0FVN21DSGtWOXd2V0E2azR1S21hN2I5NGU4QS1Rd2hidkZhRzRIR0VxZmozclRVQVpZX1l3N0NMSmlkcVMyYXZIWlFqSVFEVk9Kcm1qUzRnUzNwMTVVaUU?oc=5",
-      "published": "2026-11-18T00:11:02Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-18T16:12:05Z",
+    "fetched_at": "2026-11-18T22:58:14Z",
     "items": [],
     "debug": {
       "bytes": 498,
