@@ -2,7 +2,7 @@ name: Refresh outage news
 
 on:
   schedule:
-    - cron: "50 * * * *"      # hourly, ten minutes before the status refresh
+    - cron: "*/10 * * * *"    # frequent tries; the script refreshes only when data is 50+ min old
   workflow_dispatch:
   push:
     paths:
@@ -24,7 +24,7 @@ jobs:
       - name: Fetch Google News RSS and Google Alert feed
         env:
           ALERTS_FEED_URL: ${{ secrets.ALERTS_FEED_URL }}
-        run: python3 scripts/fetch_news.py
+        run: python3 scripts/fetch_news.py ${{ github.event_name != 'schedule' && '--force' || '' }}
       - name: Commit if changed
         run: |
           if [ -n "$(git status --porcelain news.json)" ]; then

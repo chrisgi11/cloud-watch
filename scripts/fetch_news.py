@@ -127,13 +127,25 @@ def refresh(label, fetch_and_parse):
 
 
 def main():
-    if len(sys.argv) == 3:                                  # offline test mode
+    if len(sys.argv) == 3 and sys.argv[1] in ("news", "alerts"):                                  # offline test mode
         parser = {"news": parse_rss, "alerts": parse_atom}[sys.argv[1]]
         for it in parser(Path(sys.argv[2]).read_bytes()):
             print(json.dumps(it))
         return
 
     data = load_existing()
+
+    # GitHub often drops scheduled runs, so the workflow fires every 10 minutes and
+    # we refresh only when the data is at least 50 minutes old (or when forced).
+    if "--force" not in sys.argv[1:]:
+        try:
+            age = (datetime.now(timezone.utc) -
+                   datetime.fromisoformat(data["fetched_at"].replace("Z", "+00:00"))).total_seconds() / 60
+            if age < 50:
+                print(f"data is {age:.0f} min old, not due")
+                return
+        except Exception:
+            pass
 
     news_url = "https://news.google.com/rss/search?" + urllib.parse.urlencode(
         {"q": QUERY, "hl": "en-US", "gl": "US", "ceid": "US:en"})
