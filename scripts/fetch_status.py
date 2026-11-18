@@ -7,10 +7,19 @@ from zoneinfo import ZoneInfo
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
 
 def due(now):
+    """Run when the data is older than the tier's interval (minus slack).
+    GitHub often drops or delays scheduled runs, so the workflow fires every 10 minutes
+    and this check decides whether a refresh is actually needed."""
+    try:
+        last = datetime.fromisoformat(json.load(open("status.json"))["generated_at"].replace("Z", "+00:00"))
+        age = (now.astimezone(ZoneInfo("UTC")) - last).total_seconds() / 60
+    except Exception:
+        return True
     wd, h = now.weekday(), now.hour          # Mon=0
-    if wd >= 5: return h % 4 == 0            # weekends: every 4 h
-    if 6 <= h <= 18: return True             # weekdays 6 AM-6 PM: hourly
-    return h % 2 == 0                        # weekday overnight: every 2 h
+    if wd >= 5: need = 230                   # weekends: every 4 h
+    elif 6 <= h <= 18: need = 50             # weekdays 6 AM-6 PM: hourly
+    else: need = 110                         # weekday overnight: every 2 h
+    return age >= need
 
 def lines(body):
     t = re.sub(r"<(script|style)[^>]*>.*?</\1>", "", body, flags=re.S)

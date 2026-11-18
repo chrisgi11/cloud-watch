@@ -1,7 +1,7 @@
 name: status
 on:
   schedule:
-    - cron: "7 * * * *"      # hourly; the script applies the Central-time tiers
+    - cron: "*/10 * * * *"   # frequent tries; the script refreshes only when the data is due
   workflow_dispatch:
   push:
     paths: [".github/workflows/status.yml", "scripts/fetch_status.py"]
