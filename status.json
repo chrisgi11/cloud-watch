@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T22:00:34Z",
+  "generated_at": "2026-11-18T12:56:36Z",
   "source": "StatusGator public service pages",
   "services": [
     {
@@ -9,8 +9,8 @@
       "url": "https://statusgator.com/services/microsoft-teams",
       "status": "up",
       "status_text": "Microsoft Teams is up",
-      "sg_last_checked": "November 17, 2026 at 9:56 PM UTC",
-      "reports_24h": 57,
+      "sg_last_checked": "November 18, 2026 at 12:56 PM UTC",
+      "reports_24h": 54,
       "active_incident": null,
       "latest_incident": {
         "title": "Users may be unable to connect to multiple Microsoft 365 services",
@@ -18,7 +18,7 @@
         "severity": "Warn",
         "duration": "1d 9h 23m"
       },
-      "fetched_at": "2026-11-17T22:00:34Z",
+      "fetched_at": "2026-11-18T12:56:36Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -29,7 +29,7 @@
       "url": "https://statusgator.com/services/exchange-online",
       "status": "up",
       "status_text": "Exchange Online is up",
-      "sg_last_checked": "November 17, 2026 at 9:58 PM UTC",
+      "sg_last_checked": "November 18, 2026 at 12:48 PM UTC",
       "reports_24h": 0,
       "active_incident": null,
       "latest_incident": {
@@ -38,7 +38,7 @@
         "severity": "Warn",
         "duration": "1d 9h 51m"
       },
-      "fetched_at": "2026-11-17T22:00:34Z",
+      "fetched_at": "2026-11-18T12:56:36Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -49,11 +49,11 @@
       "url": "https://statusgator.com/services/microsoft-365-apps",
       "status": "up",
       "status_text": "Microsoft 365 apps is up",
-      "sg_last_checked": "November 17, 2026 at 9:57 PM UTC",
-      "reports_24h": 11,
+      "sg_last_checked": "November 18, 2026 at 12:52 PM UTC",
+      "reports_24h": 10,
       "active_incident": null,
       "latest_incident": null,
-      "fetched_at": "2026-11-17T22:00:34Z",
+      "fetched_at": "2026-11-18T12:56:36Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -64,7 +64,7 @@
       "url": "https://statusgator.com/services/microsoft-365-suite",
       "status": "up",
       "status_text": "Microsoft 365 suite is up",
-      "sg_last_checked": "November 17, 2026 at 9:58 PM UTC",
+      "sg_last_checked": "November 18, 2026 at 12:53 PM UTC",
       "reports_24h": 0,
       "active_incident": null,
       "latest_incident": {
@@ -73,7 +73,7 @@
         "severity": "Warn",
         "duration": "9h 22m"
       },
-      "fetched_at": "2026-11-17T22:00:34Z",
+      "fetched_at": "2026-11-18T12:56:36Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -84,8 +84,8 @@
       "url": "https://statusgator.com/services/azure",
       "status": "up",
       "status_text": "Azure is up",
-      "sg_last_checked": "November 17, 2026 at 9:55 PM UTC",
-      "reports_24h": 21,
+      "sg_last_checked": "November 18, 2026 at 12:55 PM UTC",
+      "reports_24h": 26,
       "active_incident": null,
       "latest_incident": {
         "title": "Minor incident",
@@ -93,7 +93,7 @@
         "severity": "Warn",
         "duration": "2h 5m"
       },
-      "fetched_at": "2026-11-17T22:00:34Z",
+      "fetched_at": "2026-11-18T12:56:36Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -104,7 +104,7 @@
       "url": "https://statusgator.com/services/microsoft-entra",
       "status": "up",
       "status_text": "Microsoft Entra is up",
-      "sg_last_checked": "November 17, 2026 at 9:58 PM UTC",
+      "sg_last_checked": "November 18, 2026 at 12:53 PM UTC",
       "reports_24h": 0,
       "active_incident": null,
       "latest_incident": {
@@ -113,7 +113,7 @@
         "severity": "Warn",
         "duration": "8h 45m"
       },
-      "fetched_at": "2026-11-17T22:00:34Z",
+      "fetched_at": "2026-11-18T12:56:36Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -124,11 +124,11 @@
       "url": "https://statusgator.com/services/power-platform",
       "status": "up",
       "status_text": "Power Platform is up",
-      "sg_last_checked": "November 17, 2026 at 9:55 PM UTC",
+      "sg_last_checked": "November 18, 2026 at 12:56 PM UTC",
       "reports_24h": 0,
       "active_incident": null,
       "latest_incident": null,
-      "fetched_at": "2026-11-17T22:00:34Z",
+      "fetched_at": "2026-11-18T12:56:36Z",
       "fetch_ok": true,
       "fetch_error": null
     }
