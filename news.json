@@ -1,8 +1,14 @@
 {
-  "fetched_at": "2026-11-19T10:17:39Z",
+  "fetched_at": "2026-11-19T11:17:58Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Remember snow days? The Outlook outage gave grown-ups one",
+      "source": "The Tennessean",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOa3FpQXhXS29UYkhJalprOEZqNFlqU1o0NmpPMDhSV2hOcUc3RnZPanhtOUZCR1ZIYnhmMU9CV095RXFjOGctRU9HbUlUSThSaWJhME1xRlN1ekNHR3ZpMG9xaVZDNjVqWF9qNUR2dWw4NnFGY0N3REdNYndaMS1rN0JPQUoyaE9qQ0ctN0hUVHdhbHRUMWc3cE1sVzdzZ1dxeDJRdg?oc=5",
+      "published": "2026-11-19T11:06:00Z"
+    },
     {
       "title": "What Consumer Companies Can Learn From The Microsoft 365 Outage",
       "source": "ESM Magazine",
@@ -52,6 +58,12 @@
       "published": "2026-11-19T06:25:00Z"
     },
     {
+      "title": "Microsoft Unveils Six In-House MAI Models at Ignite, Claims Gains Over OpenAI Amid Outlook and Teams Outage",
+      "source": "Tekedia",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdFRuUE9xNUxIRXhnUjF6WjE3ZnY3anJjdlN4blpqY1VPQWlUNjFOclpIRnlPWTZxeU9zNHM4LTdCSVpRRGxRa3Z3NUZoVGthN3hlU2hnMFRlelFhVU5DN3VZS2xHSE43WGd5MFFHUW55dzJmUF9kbTZXRi1USmV2dUpZeW0wUEFQYlBvdzd5TWxTa3I5MDMzRHpsMEZGaVFJRGZJRkxwWndDMUZCc1JGUHdHcjlzTWVfN3J0RU1veVNXX1lWb2lONFR4dw?oc=5",
+      "published": "2026-11-19T05:43:54Z"
+    },
+    {
       "title": "Microsoft could have averted massive Outlook outage, Satya Nadella admits",
       "source": "NewsBytes",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEl1RnVsVFNlRllQamcySnR3S1YzY2RBTjVHYktSX0JxcmJza01oY3EtYVRJU041bHpQbktjUDFpUkxHWnJLRGpCWlp6emJ1UEVJZ0Q0eXpRMG1jQ2lBOG5tVUYyOUt3QzJKc3RNR19lb3dDOHRjQXh5ckg5dTFqVWJKcDVUSVVaQ0VwVlpNNTBhUUd5ZGlSUWw3Ry1sa1RZRGNMQXFKT3pvdF93UHpQTkdrM1M?oc=5",
@@ -80,22 +92,10 @@
       "source": "The Indian Express",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNREhmQU9GLXlCVmpLNW5XckFTQlhwME9WWlZYX3RXMkd3UE1xdXdJVHBIOUpqTzZvZWlleXRvS3Nrc1BLUzBKVGJhLV9kVmdMRXhGNVdvNkdvelhIYUUzeGJoT2Q3TFhLamVMQjBJREdFWWc3N284NHpTRThQY21WRW9TVjVlblJVaUhrM1ZXM2xkdzlEVGpSYkY1V2lMR3JmTUZlbDJWTl9xM3NvTGc5TnhDTDfSAbsBQVVfeXFMTXdyT0U5aUVkS3Q4UEN5X3lDaEhGZG9vVkVMdTVSVVJWcXRJN2VPMzg2eFRBbkIzeGdyX2VPSlVER2RFNTIzbE94S2ZvVWlnOHc4bktBcmtMaEdXbld6a2dFMkpsdVhPV3JTTWRVUVItaW1kbGtqODB3eGZRNV9ZX2dPOFlOM2RqQ09uRWx0anN4M3Y2eFgtNHNvSmZsWW15bE9BM1d1VkxZZ3pqa2V6OFhkSnAwWjBCV1FUQQ?oc=5",
       "published": "2026-11-19T02:54:16Z"
-    },
-    {
-      "title": "Satya Nadella admits Microsoft could have prevented Outlook outage: Is AI making software less stable?",
-      "source": "Livemint",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNSFI5TkVjejQzS1Y1ME5mWE1Vajdva05sUHVMUnlfSkc1WFdBQXBoRV80QVAyV0dHWXc1emI5VVRqSU5obFVNZ2xnRUhZUWp5NVdnRW1KRUVtRkZ6X3lWZFpqLVo3eUh2S2Q0TzY2RTdaaURRNUI1UjlHTnItTlV0NmxBb2JLcFBlMjhINld1Zjk4aVFlRUJmNmhzLWI2VmczTWd4SldVMFJKcWZ2R2NBYjFOcGh3dW5ORHlvaTVwTkZHekl0WU9XQ1lRQ1dXeF9ra3VzWjJhSkk0cXYzRGxzcjk0M2VaRTZpWkkxTC1FSTNyaXJ4MGhRNnN2Qm92dEhSTVHSAYcCQVVfeXFMTmFLSEhCc1dFVFdwbUJ6d3JVVmpsTTRCWmRjejRybkRvcHBhTFNodEM5a3lDNFdvM2lNeHlINkotRWY0MmdEOTFwc2I0YzJVMnZQVE4wQTUzU09WYXlzcU1tZzVCSVhfRDJ5V1N3ZG9zLUdpZWlnQUlOX01GSU56ZThBSXNUcExFelYzTTRmeVFqM0M5dkdWMWxRT0VEbU8xZ3czM2U5bU5zNmp2VVRlRzE2TEFfZHNBRnFRNzE5NXIzX0Vmdl9tLWRIckpwdnMzeXBGRDF6UnJkSzM3V0lKTEFkem5TaHVZUnMtcFJUb3FSTnZHWVlfUWFHMnF0NHU0WjVFSmZjcTg?oc=5",
-      "published": "2026-11-19T02:24:47Z"
-    },
-    {
-      "title": "Microsoft outage: Satya Nadella apologises to users, warns AI may make tech systems less stable",
-      "source": "Firstpost",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNT01mNktoWEdleHllRlZCTDQ0VzNkQVJOTGNDUUl2UjZWZlVCUkdoMDJjZHNLeXZEMGFRUHpYRFNVaHhBb0hkU0NPbFp2UkJyVjhGX2hLak03bi0yNUxhMGJMNHRVc01PcVpvRUtqWlVaVDJLdmlCZ0hqdms5ZWg2aFdPWmFKN1licEVMVUNuYmhRa2E3LWtUUG9wWl9uN1ctSEdqTm1haFRjTk82OGIxRW1jaTk5OXd3OS0yS2oyQ1VUQXRwdjFXUVVCRWtSUHRRUk9RStIB2gFBVV95cUxNTlg5Nm9nMF9lRm1NX295UTNmbG1pVDlMMEJ1Uk1xZjBtaHRhSTJBVDVCZmV2QVhFRVhzVnJFVkVGcGRpVlBrQm5ndUZVOTk0WFY1ZGxRbDFsR3hwX3BCWmFTSVFRNXBfeldZaWZ3NmF3SnUtRVZaZjQ3V1hTQmQxNnlUUDA5aGxQcnhBMmxES0VJNnVzR3Q4ZGdUQ1BVVzIwMnE4Vm4zNlJVdXJnZHNlVU1Ody04UUpwX0Q1cHFOWXltVW1xZ0txRHhWSTAzOFZLUndJNUpyU1BuQQ?oc=5",
-      "published": "2026-11-19T02:16:16Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-19T10:17:40Z",
+    "fetched_at": "2026-11-19T11:17:58Z",
     "items": [],
     "debug": {
       "bytes": 498,
