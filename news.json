@@ -1,8 +1,20 @@
 {
-  "fetched_at": "2026-11-19T06:17:59Z",
+  "fetched_at": "2026-11-19T07:17:43Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Satya Nadella admits Microsoft could have prevented global Outlook outage",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONVJkMjk0Zm05VlVWcVpmU0hUdUcxMjBTR1ZfekNTRExzUWhLQUZZaDNqYjAtQTFqWE1WaDk5Zm9jaTNESktvZHR2Mml1c2VpWlZCbzBmdWcxdEcxdkJoc0NtSldPYWk4djJWc01mcV9UQmV6TWVmckNNd29YSHNQQkdFS2hhLTdaV1E5MVZHZFdKbmpzeGZaRHRBY3RKa2xGU1BUQ2N5alFRTDlzTVcyTEtJRGdheWJMWFR4ZE9nTG1mWkZ4SldTbmtwcU56UVVGVUZPctIB2gFBVV95cUxQS3NXcXpPMkRlZlV5QUppZ1U5aEVyeXZjTVVwMFQ5MG1jc2t1TVl4Z3AwOGt0RVpBcDFDR19uamRPeVFzTU8ySlkwZWZyZXFJSUVCa2ZFSnZ4NmotdXZkS0g4cGFEQi1kcVFLLUVCODJOYWIzWl9Sd2JvaXMwdGs3azJjY0VjZHZDV25IaW5PVlNkUzl3NjVhdmJnYndqT05qdUlMUDFFSFk3SzJ1NklaREUwbExUR01IWnZnNkFRWnFEcktuOUJNVVMtVS1XYk5KbnR1d1pYUl9Ydw?oc=5",
+      "published": "2026-11-19T06:39:10Z"
+    },
+    {
+      "title": "Microsoft Outlook Outage: Nadella Admits Insufficient Testing, Isolation Mechanisms Fell Short",
+      "source": "BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oTlJFVGRKdDJaMm9sTTFjSEFhVHdMQm5FS2Z0czl5QlplOVpxc2IxS2hXdDR0ZWtzOHdZMmJ4TnVyWF9GMEFRNDZJNzA4S1lWYWNrVE1FSGpzRzFmZXZXbFRzajBpSnA5VDlDWXlkdE1YdXg4emc?oc=5",
+      "published": "2026-11-19T06:25:00Z"
+    },
     {
       "title": "Microsoft could have averted massive Outlook outage, Satya Nadella admits",
       "source": "NewsBytes",
@@ -80,22 +92,10 @@
       "source": "MLQ.ai",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcGtoN2pKa0tPYThhVnFuRmRzUGRMM1pDSDJiaVhJVXVfMHA1OFFUZmtmYVVVOURxT08tVkR3UG1wN2FiV1Z2a2VMeHdhS2JkeUFHUFpYdGt0aHdUXzRXZk5sMy1Qb0FodjRYVE9JYk1qUTFCUER0MDR6NzNUYkhpZjZYSHlGS0EtZE5zTGJQQTRMSVdJUi1SNU5JRTN4U1lSWFdFY0doUUFiUzkxMldrYi1DeE9Bc1pxV0JwaVRB?oc=5",
       "published": "2026-11-18T23:04:19Z"
-    },
-    {
-      "title": "What\u2019s up with the web? Extra Stuff members, here\u2019s your invite to a special live event",
-      "source": "Stuff",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaVNuZTFlYk1oMkZzWXZVSExNdzdCSWlTWXBBQk1wNGNLeU5tbllMOUlodGtXeHRWMU1KSjZETlZFNkl6NkVNbTY3TnhrcUVUQjZCd1o0cjQtRndFSkZhQ0duaE82QXYzM3ZTSHVrQkxSNGxmU3Z5YWFEZFk4elZSSlFuOTZ5VHc0Um9CR2cwamdKUVhPVjZ5ZEZ0Nng4TkxFVUVKODVEZHVKcWtVaVE?oc=5",
-      "published": "2026-11-18T20:06:43Z"
-    },
-    {
-      "title": "Flights, banks, emails: What we know about a U.S. wave of tech outages",
-      "source": "CBC",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWmlMX3ROUXc4Nk9INzFZaFdiSW1XREp5N3FFWFd1aEN4MGZRYkhMTXRKVlBGM3lVX19mVkRXX2lra0lHb1VvenJtSkxNVjhLdmVEdFZkbmdyOW5fX3Vpa1dzTVdQdURERFZaRldNWGNWcEJFaGVjTE96VFQyclhRa2F2NjBSMXUyQ2FIOTJ3Rjg3WEE?oc=5",
-      "published": "2026-11-18T19:32:09Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-19T06:17:59Z",
+    "fetched_at": "2026-11-19T07:17:43Z",
     "items": [],
     "debug": {
       "bytes": 498,
