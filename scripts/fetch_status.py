@@ -70,3 +70,4 @@ def main():
     subprocess.run([sys.executable, "scripts/update.py", "/tmp/results.json"], check=True)
 
 main()
+# last manual refresh: 2026-11-19T03:26:31Z
