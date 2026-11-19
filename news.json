@@ -1,8 +1,14 @@
 {
-  "fetched_at": "2026-11-19T07:17:43Z",
+  "fetched_at": "2026-11-19T08:17:58Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Satya Nadella admits Microsoft could have prevented global Outlook outage; flags software testing failures",
+      "source": "SME Futures",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQanZCNFNOd0RtbV9uVmlCZElDNExZTXZkTEdaNTAyUS1PemdUelRBZThHNVpXTmhKVVJIdEFZcXF2ZmVsbG5zc09CNTIzcVFCa3JwNWpYMnF0X1ZnX0xodTUtZ1pxRFowenZINmxJRTBUaXBaNjJJTE9pUi1val80WUZYUjdReW5MNVBPdFh5dUo5dS1xMUNpd1NPXzlsdHh4UHgtbmplNVI5R0UxOFZ0NEFqaGZ3TFNXSmpqQVlRSmM3Ulk4d2NpTQ?oc=5",
+      "published": "2026-11-19T07:31:54Z"
+    },
     {
       "title": "Satya Nadella admits Microsoft could have prevented global Outlook outage",
       "source": "Business Standard",
@@ -86,16 +92,10 @@
       "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdzBNWUJudXptZ3JuNGctLTVyQlBUdzRjd1A5ai1Ec1dMbGNKc0h5QkVUd1Jqd2hpV1RtWFB2Zk9ucWEteXY0NmZSc2JSZXNFU0FNU0RqQkFyVkwwTktCeXBfcnBzWTJPM0hKVElGMjdYcElkdWpZU0JlZS1uODdHVzBteHQzZFh3R0NvMWs1b053bm1mUnVnVm5IZnE4eE1GOVFjRm5LTEtPN3PSAbABQVVfeXFMTjJVTUN2QXJUa29MSFhIdFhGdW9JTVhaNVVYaUdQS2FUX1BTTmpocXVYbXE3WHZ0bEZ3N1U2N2ZxYWtqajQ3WWdpUmg2SGhwZkNOVDk2cHA4WXRlN0pnb2pVNW00NDg5X1dOaVFObFVQZWk0T3A3em9iWEVfVWJrTktQd0pJNzJLRlhSYm9DbzQxT3dsUmlfX1R4ME56c1ZRaEo1aXQzb1NXOUViZDkzTHc?oc=5",
       "published": "2026-11-18T23:39:21Z"
-    },
-    {
-      "title": "Nadella says he is 'extremely sorry' for the Outlook outage and calls Jensen Huang's exit 'pretty tragic'",
-      "source": "MLQ.ai",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcGtoN2pKa0tPYThhVnFuRmRzUGRMM1pDSDJiaVhJVXVfMHA1OFFUZmtmYVVVOURxT08tVkR3UG1wN2FiV1Z2a2VMeHdhS2JkeUFHUFpYdGt0aHdUXzRXZk5sMy1Qb0FodjRYVE9JYk1qUTFCUER0MDR6NzNUYkhpZjZYSHlGS0EtZE5zTGJQQTRMSVdJUi1SNU5JRTN4U1lSWFdFY0doUUFiUzkxMldrYi1DeE9Bc1pxV0JwaVRB?oc=5",
-      "published": "2026-11-18T23:04:19Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-19T07:17:43Z",
+    "fetched_at": "2026-11-19T08:17:58Z",
     "items": [],
     "debug": {
       "bytes": 498,
