@@ -1,13 +1,25 @@
 {
-  "fetched_at": "2026-11-19T21:18:03Z",
+  "fetched_at": "2026-11-19T22:17:45Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
     {
+      "title": "Microsoft 365 outage cause: how the gateway failed",
+      "source": "NeoTeo",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONHRyYXFLOUlUSEJqSGVwM2EyRjVydEZhMmt2LS02M3FIOHBXZHRHSjlSOHN0cUc5Q1NOMEtqUnhHOUxxMzdXUTJ1MlNrbGpxOEd0T0daZUVBVTVTbEtVeGlwc1VHaVUtZlpkV2d0dDdkU2dwMVJDMm56Q01lNU41Yw?oc=5",
+      "published": "2026-11-19T21:04:16Z"
+    },
+    {
+      "title": "Microsoft outage tests Nadella's leadership and cloud strategy",
+      "source": "Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9pS2lCM1ZwSjE4UHFoZU1wMDUxNjFfdXdYY0ljQ1VqTEVoSm1POWkxXzUwQmItbGJZNC1fTUVfQ015N19pc3E2Y1psSDFmVmVPNzhNR2ZGTFBaSzRVOTdUcC1EOGFkZjB1QmYxNkZlMV9zOEdlZkdveUdB0gGOAUFVX3lxTE5ncWpNOGphd2lIZVdkZVR2UkRjamhKX3N4WWh0WnlXbWVLWGYxMHpZQW1oQUhDU3NQbmljME1mSzZET2xMaXA4Wk5wRTR5Q2VERHRZNW9Gamt5dXBwU2ZNU1FHTUZCeS0zN1U2Q3NfSDZUaGVHR3l6WC1kYVA3OVgtY09jRHoxR1F2b3otU0E?oc=5",
+      "published": "2026-11-19T21:00:00Z"
+    },
+    {
       "title": "Outlook, FAA, bank outage, oh my! How to practice 'cyber hygiene' in the AI age",
-      "source": "Yahoo Tech",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRk1LT29NR2NwNjJFTjliMk5BQUNMY29ZRnVzZUx5RkJVOTc3bmtXMlRabGtmcDQ4SlRlRVp6SUY2eWNXOEVzaXMtWlhoeF9aT01qZnl5ZlhuYUNNUUpURFFER0diS3ROU09WTldTM280dWNPaDR2bVRpZ1VPakJ0aDlmU2lJNUZHSWhRWHBCc3U?oc=5",
-      "published": "2026-11-19T19:51:17Z"
+      "source": "Dallas News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeEwyQ05TR2NvZ0QyVURDNjZNbllQLXNpY19SeDJxblhMbWtwQXJMdm1IM2JaRk4xLUl0TUhhMWdlWFBMa1hESjNja1VMSGVLY3h5YnZ0Q0Z5S2UtVFh0Y0daNmR4bHo4N25DRTdQSW52YWJhUGRiS2t1SThObUR4VkNUT1RfLWlTTXk3dmlwSVltWlB5blNmTWNmLXhfUQ?oc=5",
+      "published": "2026-11-19T20:12:42Z"
     },
     {
       "title": "Luke Kehoe: Microsoft Outage Exposes Concentration Risks in Digital Infrastructure",
@@ -80,22 +92,10 @@
       "source": "JD Supra",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTXZOZHJLc3FBQzROMFAxSmRHNy1kTTlZYTV3OFNReUROcl95bVlKYzl1Ulpxcnd1STBpZEpVVXJtX01rU3VUQjdzLXNPejhGemZuaHlrRjdSRjMwMEdrYUlfXzBHQzNycUFBcVh6djlpMmNhY3Rzc3N1UTIxcDZDcHJ3?oc=5",
       "published": "2026-11-19T15:22:26Z"
-    },
-    {
-      "title": "Microsoft Outage Raises Questions Over UK Control of Critical Digital Infrastructure",
-      "source": "Tech Policy Press",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWkFVTkZ0NnlSRVBueE96SUxCWnFKVHVQOGN1dmpoOVFpOU15QlRWUDNjZFdsSkFkbGpFQmhGZ2dOdjlRT0RPbDQtRzE5RGMzMWRwVWtBaUJyaW55TGcxWS1qVjkwYUJQMnEwYnNidUhRNUpHc3hMTE1ZRHprc3MzeV9yQ2M0YVRIQURVWERsYTRIMXU1c0RuZ0JsZkdETFpYN1JOX2JWYUt0SHdPdWFzc2lJRmQ?oc=5",
-      "published": "2026-11-19T14:07:25Z"
-    },
-    {
-      "title": "Does Outlook Reliability Remain a Concern for Microsoft (NASDAQ:MSFT) Following a Two-Day Worldwide Outage?",
-      "source": "kalkine.ca",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQU2dyVUNYMUs1a3VZT19iMWpxT01TSm10Z2c0eHFkSWVINVVwRHVYemVnMWJ1VjRqS2ZXM292ZG5ldTR1MTFkaHdSWk15VDNGb0pHVGk4RnBwb2R2RzUyTDB4Yk8wOG9FbU1WWFp0c294R0RBXzlzTXZGRmtGdzBLcnc5RlBUbWdKNXpES2xZN3YwMFZFOWo1bnAtT1ZBZkw5ZWVJTzNXTG9VdnlDUTNTVXYtblFlc3g4S1piMXdwOUpwMDVvUEM3WXpkZ2pWY25NRjdmcQ?oc=5",
-      "published": "2026-11-19T12:39:00Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-19T21:18:03Z",
+    "fetched_at": "2026-11-19T22:17:45Z",
     "items": [],
     "debug": {
       "bytes": 498,
