@@ -1,13 +1,25 @@
 {
-  "fetched_at": "2026-11-19T04:18:07Z",
+  "fetched_at": "2026-11-19T05:17:56Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Microsoft Outage: What Caused the Global Outlook and Teams Failure?",
+      "source": "BBN Times",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMnVrLVlyTUpCYnJfQzNLUU51aE5iV0ZnNGNteXc2UTg1VnE5QzZHSlkwUWdfd0c1ZUs2LUNyT2w0cEFMb3FZYl9FRnJRUzNTTWNtZExtU2xaUXpwbVhQYV84V2p1SThEdXYydDB0NnJMcUpsZWRocnp0c3A5WnhQOHNYQWg1b2QzcXdoLXUxS2dMTnNhMmJpNjEyR29MX0hvZnZr?oc=5",
+      "published": "2026-11-19T03:52:39Z"
+    },
     {
       "title": "\u2018A crazy perfect storm\u2019: Satya Nadella explains what caused Microsoft Outlook outage",
       "source": "The Indian Express",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNREhmQU9GLXlCVmpLNW5XckFTQlhwME9WWlZYX3RXMkd3UE1xdXdJVHBIOUpqTzZvZWlleXRvS3Nrc1BLUzBKVGJhLV9kVmdMRXhGNVdvNkdvelhIYUUzeGJoT2Q3TFhLamVMQjBJREdFWWc3N284NHpTRThQY21WRW9TVjVlblJVaUhrM1ZXM2xkdzlEVGpSYkY1V2lMR3JmTUZlbDJWTl9xM3NvTGc5TnhDTDfSAbsBQVVfeXFMTXdyT0U5aUVkS3Q4UEN5X3lDaEhGZG9vVkVMdTVSVVJWcXRJN2VPMzg2eFRBbkIzeGdyX2VPSlVER2RFNTIzbE94S2ZvVWlnOHc4bktBcmtMaEdXbld6a2dFMkpsdVhPV3JTTWRVUVItaW1kbGtqODB3eGZRNV9ZX2dPOFlOM2RqQ09uRWx0anN4M3Y2eFgtNHNvSmZsWW15bE9BM1d1VkxZZ3pqa2V6OFhkSnAwWjBCV1FUQQ?oc=5",
       "published": "2026-11-19T02:54:16Z"
+    },
+    {
+      "title": "Satya Nadella admits Microsoft could have prevented Outlook outage: Is AI making software less stable?",
+      "source": "Livemint",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNSFI5TkVjejQzS1Y1ME5mWE1Vajdva05sUHVMUnlfSkc1WFdBQXBoRV80QVAyV0dHWXc1emI5VVRqSU5obFVNZ2xnRUhZUWp5NVdnRW1KRUVtRkZ6X3lWZFpqLVo3eUh2S2Q0TzY2RTdaaURRNUI1UjlHTnItTlV0NmxBb2JLcFBlMjhINld1Zjk4aVFlRUJmNmhzLWI2VmczTWd4SldVMFJKcWZ2R2NBYjFOcGh3dW5ORHlvaTVwTkZHekl0WU9XQ1lRQ1dXeF9ra3VzWjJhSkk0cXYzRGxzcjk0M2VaRTZpWkkxTC1FSTNyaXJ4MGhRNnN2Qm92dEhSTVHSAYcCQVVfeXFMTmFLSEhCc1dFVFdwbUJ6d3JVVmpsTTRCWmRjejRybkRvcHBhTFNodEM5a3lDNFdvM2lNeHlINkotRWY0MmdEOTFwc2I0YzJVMnZQVE4wQTUzU09WYXlzcU1tZzVCSVhfRDJ5V1N3ZG9zLUdpZWlnQUlOX01GSU56ZThBSXNUcExFelYzTTRmeVFqM0M5dkdWMWxRT0VEbU8xZ3czM2U5bU5zNmp2VVRlRzE2TEFfZHNBRnFRNzE5NXIzX0Vmdl9tLWRIckpwdnMzeXBGRDF6UnJkSzM3V0lKTEFkem5TaHVZUnMtcFJUb3FSTnZHWVlfUWFHMnF0NHU0WjVFSmZjcTg?oc=5",
+      "published": "2026-11-19T02:24:47Z"
     },
     {
       "title": "Microsoft Outlook Outage Canadian Class Action",
@@ -16,13 +28,7 @@
       "published": "2026-11-19T02:08:25Z"
     },
     {
-      "title": "Microsoft CEO: AI Cut Outlook Fix Time After Global Meltdown",
-      "source": "The Tech Buzz",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM01BbnNpVzRxRFlGdnBnT3VYMTNHeVBvS3hyemxOb2YtOFFFRTJqejN6NW1rR0ZNUnYyaWVRckV6QlR6X1UtdmtCdFJxUmxJTUJxWlcyV3NEa1l4Yl96emstX2ZVdVBac0hvOVhtVlJRUDVIUHR1cGFTYzhOMkUzR3ZkLUpJU2FPYjRUN3BMS2NCTHhIblg0?oc=5",
-      "published": "2026-11-19T00:00:14Z"
-    },
-    {
-      "title": "Video: Watch: Microsoft\u2019s C.E.O. Satya Nadella Addresses Global Outlook Outage",
+      "title": "Video: Microsoft\u2019s C.E.O. Satya Nadella Addresses Global Outlook Outage",
       "source": "The New York Times",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaVh1Y2JQbWdyUmVhVWtnX3d0bUY1dmppSVZfY2JyNm9NSWw3MVFjNmMxd0pqT05OcnFNMHloV3ZqN2JRWGtnUkVkQmVTWF9NMWtKbjVlbnpnSGpNWC1lNmRKMnJhSEdoSi1WOTViV0pjNW9mUFU3MktPLWxfa0dKTGRKVmc0aVV2YkllWW5wS0M5cFFoSUlwVHAzRVFIcjh6YWRQaHJjVmhOSGs4Mnc?oc=5",
       "published": "2026-11-18T23:52:56Z"
@@ -86,16 +92,10 @@
       "source": "Winnipeg Free Press",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMDBtMWdJckRhNThIUkJnOWVPZlAtUWphbE9XbjRQOG5GM21KWXRGTWxIM1U0MGE3bWJseGlSa2hxamZrNUItY1Jlejl1RU9LcW5MMzVGcjdqOWZLcmhDMXo4RmhNdUkySFVvUUlKMHBIZFVySFJ5QXZObm5wWTF3XzV5c19PMlpkUFpyeHBVSQ?oc=5",
       "published": "2026-11-18T18:35:10Z"
-    },
-    {
-      "title": "We Now Know What Really Caused Microsoft's Massive November Outage",
-      "source": "SlashGear",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY0FrTlJZazhxcFAxSFV2bGhXVnplbksxcXdKTEZSZmxrOEV6cHFZLS0zNy0ySzVPNUhOd0VFNWF3YVVjRk1lRUpScGRxeElFNEgyNkhlOU9Na0VSNVI4OWxfWlFueU5RWm5hRjNiZkJhcXdWZnVKYTllS0Qxc3lmeWQ0OUN1TlJY?oc=5",
-      "published": "2026-11-18T18:23:47Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-19T04:18:08Z",
+    "fetched_at": "2026-11-19T05:17:56Z",
     "items": [],
     "debug": {
       "bytes": 498,
