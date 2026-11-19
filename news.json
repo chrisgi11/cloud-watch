@@ -1,13 +1,43 @@
 {
-  "fetched_at": "2026-11-18T22:58:14Z",
+  "fetched_at": "2026-11-19T03:26:49Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
     {
-      "title": "Surge in software patches likely behind recent tech outages, experts say",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbG5MRktqdzhYemc3QU9Yd0xudG9uN1lSbkd4YTd3dG44VUlfcTRzcW5WQ19qb2JTX0o0QVV6VHNuV0oxRFNzYUZSX2wySm9WRmk1S2swN2djcWNJc3I0S0FqbzBrV09oZlAzbVFGQUI5bWktb2ZYU3ExYWdCd2hNOHZIei16QU9UZXJDQ0FNRkk0S0FjRG85UUlXX09KTmFtYzQ4SVZQOXBXcHY1VVlzcV9wdGxTR1Mw?oc=5",
-      "published": "2026-11-18T21:51:49Z"
+      "title": "\u2018A crazy perfect storm\u2019: Satya Nadella explains what caused Microsoft Outlook outage",
+      "source": "The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNREhmQU9GLXlCVmpLNW5XckFTQlhwME9WWlZYX3RXMkd3UE1xdXdJVHBIOUpqTzZvZWlleXRvS3Nrc1BLUzBKVGJhLV9kVmdMRXhGNVdvNkdvelhIYUUzeGJoT2Q3TFhLamVMQjBJREdFWWc3N284NHpTRThQY21WRW9TVjVlblJVaUhrM1ZXM2xkdzlEVGpSYkY1V2lMR3JmTUZlbDJWTl9xM3NvTGc5TnhDTDfSAbsBQVVfeXFMTXdyT0U5aUVkS3Q4UEN5X3lDaEhGZG9vVkVMdTVSVVJWcXRJN2VPMzg2eFRBbkIzeGdyX2VPSlVER2RFNTIzbE94S2ZvVWlnOHc4bktBcmtMaEdXbld6a2dFMkpsdVhPV3JTTWRVUVItaW1kbGtqODB3eGZRNV9ZX2dPOFlOM2RqQ09uRWx0anN4M3Y2eFgtNHNvSmZsWW15bE9BM1d1VkxZZ3pqa2V6OFhkSnAwWjBCV1FUQQ?oc=5",
+      "published": "2026-11-19T02:54:16Z"
+    },
+    {
+      "title": "Microsoft CEO: AI Cut Outlook Fix Time After Global Meltdown",
+      "source": "The Tech Buzz",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM01BbnNpVzRxRFlGdnBnT3VYMTNHeVBvS3hyemxOb2YtOFFFRTJqejN6NW1rR0ZNUnYyaWVRckV6QlR6X1UtdmtCdFJxUmxJTUJxWlcyV3NEa1l4Yl96emstX2ZVdVBac0hvOVhtVlJRUDVIUHR1cGFTYzhOMkUzR3ZkLUpJU2FPYjRUN3BMS2NCTHhIblg0?oc=5",
+      "published": "2026-11-19T00:00:14Z"
+    },
+    {
+      "title": "Video: Watch: Microsoft\u2019s C.E.O. Satya Nadella Addresses Global Outlook Outage",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaVh1Y2JQbWdyUmVhVWtnX3d0bUY1dmppSVZfY2JyNm9NSWw3MVFjNmMxd0pqT05OcnFNMHloV3ZqN2JRWGtnUkVkQmVTWF9NMWtKbjVlbnpnSGpNWC1lNmRKMnJhSEdoSi1WOTViV0pjNW9mUFU3MktPLWxfa0dKTGRKVmc0aVV2YkllWW5wS0M5cFFoSUlwVHAzRVFIcjh6YWRQaHJjVmhOSGs4Mnc?oc=5",
+      "published": "2026-11-18T23:52:56Z"
+    },
+    {
+      "title": "Microsoft Shares Pull Back 9% From Record High After Election and Outlook Outage",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNT1R4WnBDSm5UdFd3bTZ4LVQ4X1VlMFlSd0tiNDNmR2g4dGttYkhWLUdJTDNBbjNXaWttNzVqd1FETEYxTjlvY3pCOWlsWTIyT2VtaWJNT1hHTkdremkyd2JyMkJMVV9lN0xlZWdpWnlUblJ3UUtKOTdPcExuMjRHelhJaGIzRVUyV3ZUNmVySXRsQXVrc2VvWkVVczNyVEItYlNKTWQzVUJsUzRkdmZyZlYzcE1obGFCY05pT28wbnhIUGhvblVFOXVhSTRmOWtjVnZlVHVzMXBTZw?oc=5",
+      "published": "2026-11-18T23:43:30Z"
+    },
+    {
+      "title": "Microsoft CEO Satya Nadella calls Outlook outage a 'perfect storm.' Here's what went wrong",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdzBNWUJudXptZ3JuNGctLTVyQlBUdzRjd1A5ai1Ec1dMbGNKc0h5QkVUd1Jqd2hpV1RtWFB2Zk9ucWEteXY0NmZSc2JSZXNFU0FNU0RqQkFyVkwwTktCeXBfcnBzWTJPM0hKVElGMjdYcElkdWpZU0JlZS1uODdHVzBteHQzZFh3R0NvMWs1b053bm1mUnVnVm5IZnE4eE1GOVFjRm5LTEtPN3PSAbABQVVfeXFMTjJVTUN2QXJUa29MSFhIdFhGdW9JTVhaNVVYaUdQS2FUX1BTTmpocXVYbXE3WHZ0bEZ3N1U2N2ZxYWtqajQ3WWdpUmg2SGhwZkNOVDk2cHA4WXRlN0pnb2pVNW00NDg5X1dOaVFObFVQZWk0T3A3em9iWEVfVWJrTktQd0pJNzJLRlhSYm9DbzQxT3dsUmlfX1R4ME56c1ZRaEo1aXQzb1NXOUViZDkzTHc?oc=5",
+      "published": "2026-11-18T23:39:21Z"
+    },
+    {
+      "title": "Nadella says he is 'extremely sorry' for the Outlook outage and calls Jensen Huang's exit 'pretty tragic'",
+      "source": "MLQ.ai",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcGtoN2pKa0tPYThhVnFuRmRzUGRMM1pDSDJiaVhJVXVfMHA1OFFUZmtmYVVVOURxT08tVkR3UG1wN2FiV1Z2a2VMeHdhS2JkeUFHUFpYdGt0aHdUXzRXZk5sMy1Qb0FodjRYVE9JYk1qUTFCUER0MDR6NzNUYkhpZjZYSHlGS0EtZE5zTGJQQTRMSVdJUi1SNU5JRTN4U1lSWFdFY0doUUFiUzkxMldrYi1DeE9Bc1pxV0JwaVRB?oc=5",
+      "published": "2026-11-18T23:04:19Z"
     },
     {
       "title": "What\u2019s up with the web? Extra Stuff members, here\u2019s your invite to a special live event",
@@ -25,13 +55,25 @@
       "title": "Here are all of the recent major outages, national disruptions",
       "source": "USA Today",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMnZMSVJ4VktNNGhRVXZ2N3NTMUNtU215QlJ0cEpCMG1Dam5wTDNLY193VE5tcHlvR0wyM0VUSXNKWXZnRVNRX2gyUmlSUGxRdmNJX2xHWnNzNmhoQzM4Y3V1ZXpDTTI5MUttSVp5UWJwOGc3ZHBqeXB1aVBmRzlLYkhNZkdwMjNIdURlYTE2OWJMQkZZclV2bHJB?oc=5",
-      "published": "2026-11-18T19:30:07Z"
+      "published": "2026-11-18T19:22:00Z"
+    },
+    {
+      "title": "The week things stopped working: what\u2019s behind the tech outage spooking America?",
+      "source": "The Times",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ09pNU1HVkhBTTgxQjhVR01TV2xnR2I4Y1A5SjJ0Ym1ndThKdHpaczlMbjA4VFYwU29kalJLVFV0d1JwS0ctR2lNbVBhODA0cl9EcUhvZm13cm85dnpxbFlEb2N0aWN3UHJ1ZE15cWhKRzlhNHk1aW44Y19SSGxrYk45Y00tZy1tZ1BobTlR?oc=5",
+      "published": "2026-11-18T19:16:04Z"
     },
     {
       "title": "Microsoft 365 outage puts enterprise resilience back in focus across APAC",
       "source": "iTnews Asia",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOXg2aFREUnZabXZYYlFSRXpVZm5tLTlhOGZOeFdaaWppUlNIRnEwWm5aWklZRnJzeWhIMDEzQTM4QzZudzREdnlmSjJ2TXZscjBNcjAyMWdLSTBxOXpIM2xaOHMtX0RXNXpUalVyQmxqcHV2OUlmUEVpVVVoM3lCVVNFR2s3UEhxMjF6UnBvQ3c5X3htQUcwNkprWG9ZZlotRTE3T0dmMk5MVGswV0E?oc=5",
       "published": "2026-11-18T18:41:06Z"
+    },
+    {
+      "title": "When Outlook Goes Offline: Microsoft Outage Disrupts Daily Campus Activities",
+      "source": "The Candor",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSkkwNnRnaWFoeTZ6bDJWSjBCOG4xWU5aZmZidWhpMGV6WGkxY21jWHBFVlhpdVVCYkdUbTVoWTRMTHZlTGZxbVNfMF9qODQ3ODNKUDItYUZqbHR5ZnFVc0kzaGlEd1FiU2N0clBYc0pHWElWdE9tLWJWZDFteE5lOXZNS2dpMEhja2FpVC1aMnRSTElINTlYaTJJTG13bnhnWmE5alYxM3ltaUUwbGkzck5xU044cTRFWmk4?oc=5",
+      "published": "2026-11-18T18:39:57Z"
     },
     {
       "title": "The unexpected bliss of the Outlook outage",
@@ -46,56 +88,14 @@
       "published": "2026-11-18T18:23:47Z"
     },
     {
-      "title": "What on Earth Is Going On?",
-      "source": "The Atlantic",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMHM1RnBfY3VRWEk4Q1ZqUmkwUlRyZHZ0ZVZUcTViU2dBUzZ3NEZMcmJucHlBTVByVVZkOG1jaVY4U29JWHhTcDZUeUpaellWdDJiX055S3JpTElIZURsMG5PRUw2V2FUc0JUSDlBZFM3SkNVaVdtaTA1d2FyVGMxZndxZjU?oc=5",
-      "published": "2026-11-18T17:02:16Z"
-    },
-    {
-      "title": "Microsoft outage disrupts Outlook, Teams and AI services for over five hours",
-      "source": "DD India",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPell3SG1mRXRpa1hDc3hybzM0OTRCVWZ3ZmQ4VWhyMzVDX1pMZVE2OTBTWXJBX1JrWXdIcm9VV2hvNnhKR2VKOUdrZmdOMjhhZzNENkxsblFfMDdKU1Foclg3MDFDZkFmRVJRei1mUlhHS2hNMVA3WWlKZTZ1Ujl5NFBfeGFUVW8tcWRvd0Z5MWRMZU44bVBvd01CRGczT2FmSGd0ZE5BWVBrQQ?oc=5",
-      "published": "2026-11-18T16:24:16Z"
-    },
-    {
-      "title": "Microsoft Outlook Draws Thousands of Problem Reports Wednesday",
-      "source": "GV Wire",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbmIxalc4TUlVZGRtUS1tam9sUXBTdkxPcGN3YVJuZW85bjJJVHZKTG1PTjdwb3hOT0MyNDlQMXkwTEhwd01hTkxqdm15T1dqek5PWU9iRURTa2x6RzdhX2FPa1J5VXhhRXNMaEVxaHlGMDQ3ZllkWnB1NFBVRjZLNjNoakNBVG4xTUFpNWgzajZ0dG45TTVjazd1aw?oc=5",
-      "published": "2026-11-18T15:20:20Z"
-    },
-    {
-      "title": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DaHJQcV85OUpLcFZlUXhMR2x2QnEyNS1BVWpqUGpObFpBU0E5eG1pUi1xdmhFcVVxSFcwc1QxVjk5TG80eFkzYXJRV1l0X3FuZ0wydVFCbGhmMDJIdUlGZ09aVEw2TlBpMzVCX1EzcUloanBLRnFr0gF8QVVfeXFMUGd6d2tnRmRzRk9jZ0FkdmloSzF2d1JCdkl3QWVvQjBTcUlyV2tJU1dLdjRTRHJqQmc3b1dhOG1DTFBfb0JSb1ZUNlB5SzdjR1plbmplR0plUzVtMFdSMlhHbHBpeEM0WWhldmQ5aU9Xcy1XSkJCNFE4Yi02Wg?oc=5",
-      "published": "2026-11-18T14:44:38Z"
-    },
-    {
-      "title": "Microsoft 365 Outage \u2013 Causes of the 24-Hour Blackout",
-      "source": "Meteora Web",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUzBoSTVtMC1JNThoc1J0MW9JdFZXZFFubFVlNWRnb2pMQmcwenU5aGUtRHQ3eXZrVDZwSVJ2YU9nb3NrRXM4bC1WS0FlMmZ3Z2VMYnpGclkwMEdkVUFBakxhVXVKVDhjRHZEczFVLURWYUFhT0ZvZWppdHpaVW8xbEtROFk3Q05QTktuSmlReXI?oc=5",
-      "published": "2026-11-18T13:46:10Z"
-    },
-    {
-      "title": "Microsoft outage sends Japanese workers back to fax machines",
-      "source": "Bitdefender",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSUxZOGtnQXJxWXNmaTdsZWJNNnl1MlQ4QUQwMF8ydzNtUG9ySl9nZWx3VEt3dGNHN0NUcktHSUJueVlsR2dkZ1lRWWY0cU5kazJBbFI1cGozSGJ4c21HYWpoR2REcUJ0VXp2NlEzSDNtU1NUX0l5V3drVHFZLXllNGswZ3NGY0dkOHFrU2cwRHdta09WT2p6STBIQ0h2dw?oc=5",
-      "published": "2026-11-18T13:38:32Z"
-    },
-    {
-      "title": "Microsoft Outlook Outage Canadian Class Action",
-      "source": "Consumer Law Group",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa3AzZU84XzJmc3UyYzZ1VmYwdFZ5NWVjZTdsaF9XdEwyaFprazJraG1EdklueW1mazJ6b24xcnNOMXF5WDgzMWotbkVTYW9PQUxvVW1QQXRweGZ6UXRLQlNodHEzbTE3ci1QV3dwODRDNFZndzQ2cGhNdVlPR0N6d2NBbmFHZU41NmFjZ3daaThOSUJ5ZGtSLTZKQ3MyTlZEbFVn?oc=5",
-      "published": "2026-11-18T13:25:58Z"
-    },
-    {
-      "title": "Hackers Abuse Microsoft 365 Outage Confusion to Launch Fake Email Restoration Scams",
-      "source": "GBHackers News",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42cFlXb1pqTmlyMnpwYjQtYkt0VjNtVkp4M1FvTjlQVUJFZVVPWE80UGtGNW5fU2dHNnFaTFZwVlpiejhRYkJvaGVLWXlLcG9yS2ppOXd30gFbQVVfeXFMTk5NcmdrRnlqMEhxMlJXbEw5TkxFRnh1cFBBamFLWGlsbGFnY1dfdTdRQ0NjZG9HMUZzRlQxNWw3ek1PdDNIWjNYRGJ4c25JbTJFME9NQWIybWw1NA?oc=5",
-      "published": "2026-11-18T11:48:34Z"
+      "title": "Surge in software patches likely behind recent tech outages; bank regulators on alert",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbG5MRktqdzhYemc3QU9Yd0xudG9uN1lSbkd4YTd3dG44VUlfcTRzcW5WQ19qb2JTX0o0QVV6VHNuV0oxRFNzYUZSX2wySm9WRmk1S2swN2djcWNJc3I0S0FqbzBrV09oZlAzbVFGQUI5bWktb2ZYU3ExYWdCd2hNOHZIei16QU9UZXJDQ0FNRkk0S0FjRG85UUlXX09KTmFtYzQ4SVZQOXBXcHY1VVlzcV9wdGxTR1Mw?oc=5",
+      "published": "2026-11-18T17:11:00Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-18T22:58:14Z",
+    "fetched_at": "2026-11-19T03:26:49Z",
     "items": [],
     "debug": {
       "bytes": 498,
