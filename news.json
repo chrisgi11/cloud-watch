@@ -1,8 +1,14 @@
 {
-  "fetched_at": "2026-11-19T12:18:09Z",
+  "fetched_at": "2026-11-19T12:56:22Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Microsoft\u2019s CEO Says He\u2019s \u201cExtremely Sorry\u201d for the Outlook Outage",
+      "source": "24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQU5mb3lfUm10QlcyU0hXTjA0dXVDdXlIVHRET0ZMd1ZyTWhSSENKa01wM0ctR194NE4zdmdfLVhSTkRZRXpseDlUVVhRZ01mZWY2LVZIbTBXMDJOdHhIUG9KNUMwN3VvTTRNNzBzVVFVZlRCclFlbENPNHJJWVh5Z3Rmd0NKYVJhXzg4eGtEZnRZRjc1N2dnel9Va2JtcTZFbkdCQzMtbHNvQQ?oc=5",
+      "published": "2026-11-19T12:38:00Z"
+    },
     {
       "title": "Microsoft 365 Went Down: What Should IT Teams Do First?",
       "source": "TechRepublic",
@@ -20,6 +26,12 @@
       "source": "ESM Magazine",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOXzJFTnpvMHJyNGc4RlFVZVNJazdsaV8tR2RTVnZYLXJBaF9ra3p3VUFCNTA5ZUJWaS1veFp3N2JlN1ZNUU5rdHNyQnVQdEVNeDBEdVhtRE9IVUhQZi1xRy1WemRGUWQxTWttU3hGa1ZodERMY2laX2UwR0hYWVRTSjI1TWU3LWJocXBUb0UydW1fMVNyYlVQZ2NEa2VDQWszTTN4OTU2NVFNREFFem9ONGxSdnBoTHEwaUZVZk5pQ1BqODF3S0NzdTcxVQ?oc=5",
       "published": "2026-11-19T10:05:13Z"
+    },
+    {
+      "title": "SatyaNadella Admits Microsoft Could Prevented Outlook Outage",
+      "source": "NewsBricks",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZGtpc0luaDlpaXhnVVd3Nm0xQ0dyVENCd003anp3eFRuZ0lBRHplVWdlTnRHTjRWVTF1bXh5N3cyTi1GTzJYb3RKYWRneFZwYktETFdxSTZtT0Z5V21ZX0t6WlltQzJtUW9TSkhOZTdWRnBmTXZ2dzBDRW9xQWtlS1RiUUVUMVp3MU1UYQ?oc=5",
+      "published": "2026-11-19T09:46:13Z"
     },
     {
       "title": "Satya Nadella 'admits' Microsoft should have caught Outlook bug before global outage",
@@ -80,22 +92,10 @@
       "source": "The Hans India",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ0pfV3c3QzVUdW1GQmJ4Nkl5WlByM08xb01OVS13a3N5MTdURTRCNFF4S0ZPU3VRUFA0T2ZrYWFtM3FwQ1dhVHNSWmpxQkhHRy1yNU1NU0pCNTF4bmJHd05pT0dhNmxJS0Y4bzc3ejJmdHJ2dzF5eU1lelEtV3hXLVV5NXM1NHV2ODYweHFCTjdqcUxRWWRtR1A0bGlTMlFDelBpZWU3WUhublFhNTNYbdIBtgFBVV95cUxNNmZJdHUteGREVDUxd1Jzc1lsWldnV1hzV1JWbjBuSEVJMUZRTlpObXVZc2NPb0o2RzBRQnFoaFdMUHM5ajVKaWNWdzhSNjdTdWpwN1JzWGdyWUo0czJpaDFTLVg5em5DT2RqaVU0QjI2TkhEd1A1em9iSVAySDBBcnc3N0UzUDZBdFFUMnA5eEdEdC13OXp3ZXp0dmhHZGlwdUlQY2MtelBxSUxTNEpTSVlBbzc1dw?oc=5",
       "published": "2026-11-19T05:18:33Z"
-    },
-    {
-      "title": "Microsoft Outage: What Caused the Global Outlook and Teams Failure?",
-      "source": "BBN Times",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMnVrLVlyTUpCYnJfQzNLUU51aE5iV0ZnNGNteXc2UTg1VnE5QzZHSlkwUWdfd0c1ZUs2LUNyT2w0cEFMb3FZYl9FRnJRUzNTTWNtZExtU2xaUXpwbVhQYV84V2p1SThEdXYydDB0NnJMcUpsZWRocnp0c3A5WnhQOHNYQWg1b2QzcXdoLXUxS2dMTnNhMmJpNjEyR29MX0hvZnZr?oc=5",
-      "published": "2026-11-19T03:52:39Z"
-    },
-    {
-      "title": "Satya Nadella says Outlook outage preventable after traffic pattern bug",
-      "source": "NewsBytes",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRmVfM1NZWWhHRER1TlNQMkVjNXdZQlZ6aFNSZHJ1Mi1VbE5ZOTRaaHA4QWtuWE5oZWdSV2VsWGF1a1F3ZlkyRmhPX0pjQzRKTFBIYzRFVXBzR25XU3JOM1R6bVRYcmFoRWRSUmdNSXdmTDFKZXFiV0QtRkpoZTRHVzlyMHA2SVdwaUVGcUZzV0RpNGhPSzlVeWc4SHR1dWVibXd1NURJbWVJTl94UzhyY2hfVGdoZVJlYVE?oc=5",
-      "published": "2026-11-19T03:00:56Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-19T12:18:09Z",
+    "fetched_at": "2026-11-19T12:56:22Z",
     "items": [],
     "debug": {
       "bytes": 498,
