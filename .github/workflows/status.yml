@@ -22,4 +22,8 @@ jobs:
           git config user.name "github-actions"; git config user.email "actions@users.noreply.github.com"
           git add status.json history.json
           git commit -m "status: $(date -u +%Y-%m-%dT%H:%MZ)" || exit 0
-          git pull --rebase origin main && git push
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            echo "push attempt $i failed (main moved); retrying"; sleep $((i * 3))
+          done
+          exit 1
