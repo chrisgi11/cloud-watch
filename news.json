@@ -1,8 +1,20 @@
 {
-  "fetched_at": "2026-11-19T15:18:12Z",
+  "fetched_at": "2026-11-19T16:31:38Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "A dozen industries impacted by the Microsoft 365 outage",
+      "source": "PropertyCasualty360",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdlJMUkNkdGM1WmtuMzZzaENXNGZGY1JsN0dHUEdqM2tuYzNMbGVMT3FRNzVwelFxU3Q2OTd6bGFVaDd5MDBPdzg3d0VsN0R3WTcxVWFkTFY2TlVPc1pYUkwwRnRzYXM3azZoZ2MtdkgyTGV1ZThxRVVGV0pSZnFGQWEwZWtjaTNiWTJCU1MwU2w4dUg3czdzVkh1YnZxMFpa?oc=5",
+      "published": "2026-11-19T16:23:13Z"
+    },
+    {
+      "title": "Why a Continuity Plan Has to Work Without Email: Lessons From the Microsoft 365 Outage",
+      "source": "JD Supra",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTXZOZHJLc3FBQzROMFAxSmRHNy1kTTlZYTV3OFNReUROcl95bVlKYzl1Ulpxcnd1STBpZEpVVXJtX01rU3VUQjdzLXNPejhGemZuaHlrRjdSRjMwMEdrYUlfXzBHQzNycUFBcVh6djlpMmNhY3Rzc3N1UTIxcDZDcHJ3?oc=5",
+      "published": "2026-11-19T15:22:26Z"
+    },
     {
       "title": "Does Outlook Reliability Remain a Concern for Microsoft (NASDAQ:MSFT) Following a Two-Day Worldwide Outage?",
       "source": "kalkine.ca",
@@ -31,7 +43,7 @@
       "title": "What Consumer Companies Can Learn From The Microsoft 365 Outage",
       "source": "ESM Magazine",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOXzJFTnpvMHJyNGc4RlFVZVNJazdsaV8tR2RTVnZYLXJBaF9ra3p3VUFCNTA5ZUJWaS1veFp3N2JlN1ZNUU5rdHNyQnVQdEVNeDBEdVhtRE9IVUhQZi1xRy1WemRGUWQxTWttU3hGa1ZodERMY2laX2UwR0hYWVRTSjI1TWU3LWJocXBUb0UydW1fMVNyYlVQZ2NEa2VDQWszTTN4OTU2NVFNREFFem9ONGxSdnBoTHEwaUZVZk5pQ1BqODF3S0NzdTcxVQ?oc=5",
-      "published": "2026-11-19T10:05:13Z"
+      "published": "2026-11-19T10:06:24Z"
     },
     {
       "title": "SatyaNadella Admits Microsoft Could Prevented Outlook Outage",
@@ -80,22 +92,10 @@
       "source": "BigGo Finance",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oTlJFVGRKdDJaMm9sTTFjSEFhVHdMQm5FS2Z0czl5QlplOVpxc2IxS2hXdDR0ZWtzOHdZMmJ4TnVyWF9GMEFRNDZJNzA4S1lWYWNrVE1FSGpzRzFmZXZXbFRzajBpSnA5VDlDWXlkdE1YdXg4emc?oc=5",
       "published": "2026-11-19T06:25:00Z"
-    },
-    {
-      "title": "Microsoft Unveils Six In-House MAI Models at Ignite, Claims Gains Over OpenAI Amid Outlook and Teams Outage",
-      "source": "Tekedia",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdFRuUE9xNUxIRXhnUjF6WjE3ZnY3anJjdlN4blpqY1VPQWlUNjFOclpIRnlPWTZxeU9zNHM4LTdCSVpRRGxRa3Z3NUZoVGthN3hlU2hnMFRlelFhVU5DN3VZS2xHSE43WGd5MFFHUW55dzJmUF9kbTZXRi1USmV2dUpZeW0wUEFQYlBvdzd5TWxTa3I5MDMzRHpsMEZGaVFJRGZJRkxwWndDMUZCc1JGUHdHcjlzTWVfN3J0RU1veVNXX1lWb2lONFR4dw?oc=5",
-      "published": "2026-11-19T05:43:54Z"
-    },
-    {
-      "title": "Microsoft could have averted massive Outlook outage, Satya Nadella admits",
-      "source": "NewsBytes",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEl1RnVsVFNlRllQamcySnR3S1YzY2RBTjVHYktSX0JxcmJza01oY3EtYVRJU041bHpQbktjUDFpUkxHWnJLRGpCWlp6emJ1UEVJZ0Q0eXpRMG1jQ2lBOG5tVUYyOUt3QzJKc3RNR19lb3dDOHRjQXh5ckg5dTFqVWJKcDVUSVVaQ0VwVlpNNTBhUUd5ZGlSUWw3Ry1sa1RZRGNMQXFKT3pvdF93UHpQTkdrM1M?oc=5",
-      "published": "2026-11-19T05:29:35Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-19T15:18:12Z",
+    "fetched_at": "2026-11-19T16:31:39Z",
     "items": [],
     "debug": {
       "bytes": 498,
