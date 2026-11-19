@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T08:18:04Z",
+  "generated_at": "2026-11-19T09:18:19Z",
   "source": "StatusGator public service pages",
   "services": [
     {
@@ -9,8 +9,8 @@
       "url": "https://statusgator.com/services/microsoft-teams",
       "status": "up",
       "status_text": "Microsoft Teams is up",
-      "sg_last_checked": "November 19, 2026 at 8:16 AM UTC",
-      "reports_24h": 37,
+      "sg_last_checked": "November 19, 2026 at 9:16 AM UTC",
+      "reports_24h": 38,
       "active_incident": null,
       "latest_incident": {
         "title": "Users may be unable to connect to multiple Microsoft 365 services",
@@ -18,7 +18,7 @@
         "severity": "Warn",
         "duration": "1d 9h 23m"
       },
-      "fetched_at": "2026-11-19T08:18:04Z",
+      "fetched_at": "2026-11-19T09:18:19Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -29,7 +29,7 @@
       "url": "https://statusgator.com/services/exchange-online",
       "status": "up",
       "status_text": "Exchange Online is up",
-      "sg_last_checked": "November 19, 2026 at 8:13 AM UTC",
+      "sg_last_checked": "November 19, 2026 at 9:13 AM UTC",
       "reports_24h": 0,
       "active_incident": null,
       "latest_incident": {
@@ -38,7 +38,7 @@
         "severity": "Warn",
         "duration": "1d 9h 51m"
       },
-      "fetched_at": "2026-11-19T08:18:04Z",
+      "fetched_at": "2026-11-19T09:18:19Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -54,8 +54,8 @@
       "active_incident": null,
       "latest_incident": null,
       "fetched_at": "2026-11-19T08:18:04Z",
-      "fetch_ok": true,
-      "fetch_error": null
+      "fetch_ok": false,
+      "fetch_error": "StopIteration: "
     },
     {
       "id": "m365-suite",
@@ -64,8 +64,8 @@
       "url": "https://statusgator.com/services/microsoft-365-suite",
       "status": "up",
       "status_text": "Microsoft 365 suite is up",
-      "sg_last_checked": "November 19, 2026 at 8:13 AM UTC",
-      "reports_24h": 0,
+      "sg_last_checked": "November 19, 2026 at 9:14 AM UTC",
+      "reports_24h": 7,
       "active_incident": null,
       "latest_incident": {
         "title": "Users may be unable to connect to multiple Microsoft 365 services",
@@ -73,7 +73,7 @@
         "severity": "Warn",
         "duration": "9h 22m"
       },
-      "fetched_at": "2026-11-19T08:18:04Z",
+      "fetched_at": "2026-11-19T09:18:19Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -84,11 +84,11 @@
       "url": "https://statusgator.com/services/azure",
       "status": "up",
       "status_text": "Azure is up",
-      "sg_last_checked": "November 19, 2026 at 8:10 AM UTC",
+      "sg_last_checked": "November 19, 2026 at 9:15 AM UTC",
       "reports_24h": 17,
       "active_incident": null,
       "latest_incident": null,
-      "fetched_at": "2026-11-19T08:18:04Z",
+      "fetched_at": "2026-11-19T09:18:19Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -99,7 +99,7 @@
       "url": "https://statusgator.com/services/microsoft-entra",
       "status": "up",
       "status_text": "Microsoft Entra is up",
-      "sg_last_checked": "November 19, 2026 at 8:13 AM UTC",
+      "sg_last_checked": "November 19, 2026 at 9:13 AM UTC",
       "reports_24h": null,
       "active_incident": null,
       "latest_incident": {
@@ -108,7 +108,7 @@
         "severity": "Warn",
         "duration": "8h 45m"
       },
-      "fetched_at": "2026-11-19T08:18:04Z",
+      "fetched_at": "2026-11-19T09:18:19Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -119,11 +119,11 @@
       "url": "https://statusgator.com/services/power-platform",
       "status": "up",
       "status_text": "Power Platform is up",
-      "sg_last_checked": "November 19, 2026 at 8:15 AM UTC",
+      "sg_last_checked": "November 19, 2026 at 9:15 AM UTC",
       "reports_24h": 0,
       "active_incident": null,
       "latest_incident": null,
-      "fetched_at": "2026-11-19T08:18:04Z",
+      "fetched_at": "2026-11-19T09:18:19Z",
       "fetch_ok": true,
       "fetch_error": null
     }
