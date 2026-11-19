@@ -4,7 +4,7 @@ on:
     - cron: "*/10 * * * *"   # frequent tries; the script refreshes only when the data is due
   workflow_dispatch:
   push:
-    paths: [".github/workflows/status.yml", "scripts/fetch_status.py"]
+    paths: [".github/workflows/status.yml", "scripts/fetch_status.py", "ping.txt"]
 permissions:
   contents: write
 concurrency:
@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Fetch StatusGator pages and update data
-        run: python3 scripts/fetch_status.py ${{ github.event_name != 'schedule' && '--force' || '' }}
+        run: python3 scripts/fetch_status.py ${{ (github.event_name == 'schedule' || startsWith(github.event.head_commit.message, 'ping')) && '' || '--force' }}
       - name: Commit
         run: |
           git config user.name "github-actions"; git config user.email "actions@users.noreply.github.com"

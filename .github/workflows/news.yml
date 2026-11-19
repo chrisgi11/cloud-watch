@@ -8,6 +8,7 @@ on:
     paths:
       - ".github/workflows/news.yml"
       - "scripts/fetch_news.py"
+      - "ping.txt"
 
 permissions:
   contents: write
@@ -24,7 +25,7 @@ jobs:
       - name: Fetch Google News RSS and Google Alert feed
         env:
           ALERTS_FEED_URL: ${{ secrets.ALERTS_FEED_URL }}
-        run: python3 scripts/fetch_news.py ${{ github.event_name != 'schedule' && '--force' || '' }}
+        run: python3 scripts/fetch_news.py ${{ (github.event_name == 'schedule' || startsWith(github.event.head_commit.message, 'ping')) && '' || '--force' }}
       - name: Commit if changed
         run: |
           if [ -n "$(git status --porcelain news.json)" ]; then
