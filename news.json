@@ -1,13 +1,43 @@
 {
-  "fetched_at": "2026-11-19T16:31:38Z",
+  "fetched_at": "2026-11-19T17:17:52Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Microsoft CEO apologizes for Outlook outage tha...",
+      "source": "Pluang",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQmtvcjVZU1hBLVNRMTF1a2FtNlVDc2RxMEVjdU5IeHRoRHdoR1lnaU5nczk4UEdnWkpVdVpzd3BEWEZpUWJiVFo2MmhUM1FNQklPdTdSNVNoS05pZjMzT2dTeFhFZ2pvS21Gc0l0bmQyLWpDWlIwQ3Z0c3FqWENvcjMtblFSWTdqZjFEaWZKYw?oc=5",
+      "published": "2026-11-19T17:08:49Z"
+    },
+    {
+      "title": "Microsoft 365 Outage Today: Is Microsoft 365 Down in the US? Users Report Word, Excel, Outlook, Teams, OneDrive and Login Issues | Check Latest Downdetector Status",
+      "source": "The Sunday Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOcENiTmV5Vk9VMnRXNVY5dU5mbWREVXFpSWh0Z3ZickdpTUhLSktTNmt2RzRwNFdhMVFncGFweVo3RWNKa05MakdUdk9iblRqNU04ZGVySnJoX2NiNnVodmhWd01oS2tJUmEzS0g4NGVndEM1X2Z0UVExc2JDZmxMV0pLVWkyLWZMZjdqR2FYOWRBZE5MVTVPOHFReHd3VnI1MkJJbTQtS0tLUXdkY2dXWEVUZ3Y0SUJJVGxxX2YzS3RORUZFMm1hdjRGVWRiYTA1aUVlTk4yQnFxUnpMZDRNMFVKZ2dma3JoSk9ITm1pQjlVTkEyU1cxNU13UGc0ak1TaWc3MTBXMWZ6bUhZNHJsSEt4ZFJDOHlHT2RMTDI4UG1EZ2N5R1hVWDRXb9IBsAJBVV95cUxPLVNNUy1MTlRwb1JxQ2FucTJQc0tEZnJnTVFfNURXc2dJR2pDN0dnU2YtRlVvYUQ2eEFKbWVkTHZlU0FDQXAyWi0td1dES21MOGR1THVka2kzZEhJaEwtMzRiVS1XUXdmVFV0WWN4RzNTWXh0STNDaEktSzVBWFROZjVqOTFwa0x2YjFHdE9DY2tTNGhpYWM3ZXotdEkwTWlSbWNiTXpOUFlSVDEteUlVSVlSRlBKZ2Y1eDhnb1FPdnNOdUVZRzVpTkZTWXVfLUkzZFBwUlNwUk82QVQ4NS1VVlhWbHd2WWhjZkhqSXBOX05WZ2dmSnJjSHFSVWRfNzdqd29pUFVBRkV3WFZoaVY0MF84VnpUbUpYTW9YUDI5ajQ0cXBadC10eUVUa0Q3cjI4?oc=5",
+      "published": "2026-11-19T17:02:26Z"
+    },
+    {
+      "title": "Microsoft 365 outage: Global cyber insured losses estimated at up to $700 mn",
+      "source": "Beinsure",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeHBjeUtlcEhSYjI0TU05TU0zQVpMZjdmTzZ1YzhzZWlXUTBmYU1ZQ01YN0Vjc2V1VGFVYUtncVJyLWEtWlk2dXdvMFFLMGZRMDZwdVhBajhxLVBmQWJUVzdPcEpERVhJLWJiQmNiblRWRS10VVFFRmpVMVhrSUhBaA?oc=5",
+      "published": "2026-11-19T16:50:48Z"
+    },
+    {
+      "title": "Microsoft Outlook Outage Today: Is Outlook Down in the US? Users Report Email, App Login, Sending, Receiving and Calendar Issues | Check Latest Downdetector Status",
+      "source": "The Sunday Guardian",
+      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOZG5LNmVLNUNxQ1ZPcExsUXVMZC0tYm1kTVYzX1FHc2VUVUlmMy0yWld5Z3E0WmVyY0VnU2lrMnVjMWxoakduVzByNjFqOTI2aUtMVjZ0SlRHMHNHUGpiRlg3bUhabWRGTllISFlzWGFMQWNzRTdlTEEtLVFuaXlDZnkzN1FEdlUyb0dFeUUxOU5LMkVhWVBHWlU2MTRPazBEckZlM3NHRzFCYjU2MWVmbVNZdk5OajBKazdqRkVITkIzVXJIRm9DT1RsYVl3cTFiVVozS1ZIdWRvZmRuZkRvVGVab0ZkLW0wVzVDcFBrb2RxaTV5OFVCbkpiY1FsUW51N1VlNXRfV2Z5S2VjdWp3c25mQkZxRmQtWFFKVGxCcHExMGhiT2h4R1V2R1nSAbICQVVfeXFMTldkYXcxeTVkdGNxdHFqSnItSFB0dXZrNlhBNk9DUV9ydnZELTF1aXotQy1HUFllSkxZaWpZWkxvd2liQnFwWDVPbHp4UGVCMVF6VHg0NzZsX3cwMkhmaXNjeWVLSXJVV1BQZjJ6aDZnN28zWFBjcXZrQ1dwaEVWaW9sRXJieHhyVXQ5ZkdPRzlVUmxtUENtYjBlNm50aVpGMjY0anNTZHhsSERXWVUyXzZCTlJNVERfRld5d1JNVHVNbmMyQVEyc0NESEFjcDlGY0h6VlF4YW9WNTFlWi1hWlI1eHp0ZmIzY2I0VVhJck13ZFljZnFrUGNxeEtFMzUwZGM5NTdWNTlRN2RPT1AzZkNTeFF5NDlVM2hrQUQ4b2x2cXQ5c1pnUU0wSkhHcmJCM0tR?oc=5",
+      "published": "2026-11-19T16:42:18Z"
+    },
     {
       "title": "A dozen industries impacted by the Microsoft 365 outage",
       "source": "PropertyCasualty360",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdlJMUkNkdGM1WmtuMzZzaENXNGZGY1JsN0dHUEdqM2tuYzNMbGVMT3FRNzVwelFxU3Q2OTd6bGFVaDd5MDBPdzg3d0VsN0R3WTcxVWFkTFY2TlVPc1pYUkwwRnRzYXM3azZoZ2MtdkgyTGV1ZThxRVVGV0pSZnFGQWEwZWtjaTNiWTJCU1MwU2w4dUg3czdzVkh1YnZxMFpa?oc=5",
       "published": "2026-11-19T16:23:13Z"
+    },
+    {
+      "title": "Microsoft 365 Down Again? Users Report Problems a Week After Massive Global Outage Knocked Out Outlook, Teams",
+      "source": "International Business Times Australia",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR0RyVElZNDh3a2pCS0g3Wkp1MjBZWWVHOVUySFZhNW9NMi1jc1BHNHl1NWVXblpOVDBpTjc0SHBXVVJ0YTlKMzRYeVBaZm1vTnJpNDZRR0Z0M0dWSVdBaXlERFFQMnF1QzFIUmRUYVhBSlc5Qk1aVFM5YmdaSnpIR21kZTRSS042NkdLQWRqdTBwOVBOY2JucjVn?oc=5",
+      "published": "2026-11-19T16:12:56Z"
     },
     {
       "title": "Why a Continuity Plan Has to Work Without Email: Lessons From the Microsoft 365 Outage",
@@ -58,44 +88,14 @@
       "published": "2026-11-19T09:35:00Z"
     },
     {
-      "title": "Microsoft Outlook Outage Today: Is Microsoft Outlook Down or Not Working? Users Report Email-Receiving, Login & App Issues; Check Downdetector Update",
-      "source": "The Sunday Guardian",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNbjB3T2JiMHV2NksxV0VKSlprc2EtZ0NRcFlfMWEtZmpiUHBxdFd1RUc3M24yVkdEOVZ6OC1BUk1LZ013a1Z0NW1VS1lpQW5PZTY2M1Z2UmJyQ0szWTVFTnpMQkZoeHBmZldWbFpvNGUtLS13eWttYXVMZnM3eXJpc0lQZWd2OEVBa1ptbXhjV01vQlVWWXd4Z0lsR0ZrUVlXX1RVd0l4cE1JWnZISHJ4LWhmMWhZMTI5UUo2TjFtd3IwOXdpTGRYS01HbkVXUVlna1hwN2xjY2pvam5LOUd4WDhGYS1Cd2FnZmZlUUY5YnJRMFRHZGdQM2tuclVmdXBEQVZwdE5CclpVQ2NMd29Pb2d2VlVOclNjN2JvONIBnAJBVV95cUxNbjB3T2JiMHV2NksxV0VKSlprc2EtZ0NRcFlfMWEtZmpiUHBxdFd1RUc3M24yVkdEOVZ6OC1BUk1LZ013a1Z0NW1VS1lpQW5PZTY2M1Z2UmJyQ0szWTVFTnpMQkZoeHBmZldWbFpvNGUtLS13eWttYXVMZnM3eXJpc0lQZWd2OEVBa1ptbXhjV01vQlVWWXd4Z0lsR0ZrUVlXX1RVd0l4cE1JWnZISHJ4LWhmMWhZMTI5UUo2TjFtd3IwOXdpTGRYS01HbkVXUVlna1hwN2xjY2pvam5LOUd4WDhGYS1Cd2FnZmZlUUY5YnJRMFRHZGdQM2tuclVmdXBEQVZwdE5CclpVQ2NMd29Pb2d2VlVOclNjN2JvOA?oc=5",
-      "published": "2026-11-19T08:33:21Z"
-    },
-    {
-      "title": "Satya Nadella admits Microsoft could have prevented global Outlook outage; flags software testing failures",
-      "source": "SME Futures",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQanZCNFNOd0RtbV9uVmlCZElDNExZTXZkTEdaNTAyUS1PemdUelRBZThHNVpXTmhKVVJIdEFZcXF2ZmVsbG5zc09CNTIzcVFCa3JwNWpYMnF0X1ZnX0xodTUtZ1pxRFowenZINmxJRTBUaXBaNjJJTE9pUi1val80WUZYUjdReW5MNVBPdFh5dUo5dS1xMUNpd1NPXzlsdHh4UHgtbmplNVI5R0UxOFZ0NEFqaGZ3TFNXSmpqQVlRSmM3Ulk4d2NpTQ?oc=5",
-      "published": "2026-11-19T07:38:16Z"
-    },
-    {
-      "title": "Is Outlook Down? What We Know About the Global Microsoft Outage",
-      "source": "BBN Times",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tYlBwMVlMUENBWnZSN3hSOFNlTjNPM1VBUnRlREM5RFVEZUhfc25JUU1rN1lzaUhtZkZkYVhXeUxTOHBJN1RQbjllZ3pOU2ZERjYzWWdUY0QzcExrTkl6dzVEeE1ZMlhpcHVLMXFZMi1IaG5iLXVN?oc=5",
-      "published": "2026-11-19T07:29:28Z"
-    },
-    {
-      "title": "Nadella at DealBook: 'extremely sorry' for the Outlook outage, and AI-found bugs mean more fragility ahead",
-      "source": "Dealroom",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMVpqT1JuODV1b0VWMTZucTBFNk5RZXZIbnUyUWs3VW1rUFl3TjFoUVdLOEx5UEVCSUpqZzlmblliQlRrUEc4dEJ4cVpURXZSaFN0VkdnNUlwT1doWUhBSWMtX3VvTmhVU0pkOGVvYzRqOXBOSVV5T2ZabXYxdlJaOHdqU3k3N1hpT0V5Y0hEMXZ3cW85VVdFQkdxcVNJY2pXWkVMT204eEFYeUlkRUhjWnktNVB1Z1RhYU1nendlRm5DUUdiRmFsR0syVlJ3SzhRMnc?oc=5",
-      "published": "2026-11-19T06:41:17Z"
-    },
-    {
-      "title": "Satya Nadella admits Microsoft could have prevented global Outlook outage",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONVJkMjk0Zm05VlVWcVpmU0hUdUcxMjBTR1ZfekNTRExzUWhLQUZZaDNqYjAtQTFqWE1WaDk5Zm9jaTNESktvZHR2Mml1c2VpWlZCbzBmdWcxdEcxdkJoc0NtSldPYWk4djJWc01mcV9UQmV6TWVmckNNd29YSHNQQkdFS2hhLTdaV1E5MVZHZFdKbmpzeGZaRHRBY3RKa2xGU1BUQ2N5alFRTDlzTVcyTEtJRGdheWJMWFR4ZE9nTG1mWkZ4SldTbmtwcU56UVVGVUZPctIB2gFBVV95cUxQS3NXcXpPMkRlZlV5QUppZ1U5aEVyeXZjTVVwMFQ5MG1jc2t1TVl4Z3AwOGt0RVpBcDFDR19uamRPeVFzTU8ySlkwZWZyZXFJSUVCa2ZFSnZ4NmotdXZkS0g4cGFEQi1kcVFLLUVCODJOYWIzWl9Sd2JvaXMwdGs3azJjY0VjZHZDV25IaW5PVlNkUzl3NjVhdmJnYndqT05qdUlMUDFFSFk3SzJ1NklaREUwbExUR01IWnZnNkFRWnFEcktuOUJNVVMtVS1XYk5KbnR1d1pYUl9Ydw?oc=5",
-      "published": "2026-11-19T06:39:10Z"
-    },
-    {
-      "title": "Microsoft Outlook Outage: Nadella Admits Insufficient Testing, Isolation Mechanisms Fell Short",
-      "source": "BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oTlJFVGRKdDJaMm9sTTFjSEFhVHdMQm5FS2Z0czl5QlplOVpxc2IxS2hXdDR0ZWtzOHdZMmJ4TnVyWF9GMEFRNDZJNzA4S1lWYWNrVE1FSGpzRzFmZXZXbFRzajBpSnA5VDlDWXlkdE1YdXg4emc?oc=5",
-      "published": "2026-11-19T06:25:00Z"
+      "title": "Microsoft Warns Outlook, Teams Users Of Phishing Attacks Exploiting 365 Outage",
+      "source": "BW Businessworld",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZWhvck1ta1k1bjBKRDNEeWEwQ09ZS3ZtUkpuVTFuZ3ZNVG9fdnpjRS1UZVk0OS1VRV9NLUhNaEN4YmFyR3ZYR1JWRzdvTWZyemkxdjdXak9MelJ0Q0h5QnU4VFkwaGJ4R3VEdDRWZjlfWTR4NThIOHpCWGtQVFRCSnV1bGM1NW41TGdmekNoOFYxMkdLbVhpTjNfRFFadS1aNDBBaUVaNnBfYjIzLXpMa2ZFZ1R3bE92QS14LWVB?oc=5",
+      "published": "2026-11-19T09:23:35Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-19T16:31:39Z",
+    "fetched_at": "2026-11-19T17:17:52Z",
     "items": [],
     "debug": {
       "bytes": 498,
