@@ -1,8 +1,26 @@
 {
-  "fetched_at": "2026-11-19T17:17:52Z",
+  "fetched_at": "2026-11-19T18:18:30Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Microsoft CEO Reveals What Caused Massive Outlook Outage",
+      "source": "Cheddar",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcUo1cmI3d1FGcnhuWF9EaGR0dERZVVF4LWt2dXdmQ3c2OFAtZ3NDWnhoajJIRzNsWWtxNTRJY1NPMlZxWmVtRmhjWk1ZWjgxTDNldzJfMzFyU21PbFBXLXZ4ZnpQSW1fSFdGWkpOVDlrM3dmSVhpNHZseVQzUUVnaHlMUHo5NmlPN1NvQm9ER0c?oc=5",
+      "published": "2026-11-19T18:04:20Z"
+    },
+    {
+      "title": "Microsoft\u2019s Outlook outage didn\u2019t end when it was fixed \u2014 a backlog of retried emails can take hours to days to clear",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84YTVpMXdrM0ptb1NTdFZ6cmFMTjJJTElwbW1hSm9OQjE3X0JqMUdCa3Fpd3dtRWJGSk9QVk1TOVN2dUR2MTh0OHBjSDQwMGpwMFRRSmJBTWNLU3J1VjBHMWZ6Y1dXaklIV2s5cW9iOE5jVGFzSDZkQlFaLWZlbm8?oc=5",
+      "published": "2026-11-19T17:34:00Z"
+    },
+    {
+      "title": "Microsoft 365 outage \u2018timely reminder of importance of operational resilience\u2019",
+      "source": "Insurance Times",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcjJzTXdRTFlFYzloRU1nclFGRXdiRFo0S0FLeEx6aUxEM3p5YkFRQ1dIRG5EcEdUYXcwYks0bFhoOW1scFdrVEl0LVZKSmZILWpxcEdKNUtyTEljWm4xUXY3WEpxc3MyLTBPdXR1REFZZ09NQzZkazRLMmNaYktsU3hhV0tLenZkRXVhT3BuNDgyZVBCMnhWMlhLbTNZYkd2RXVsaWQ5WngyUGkwWEs5Ykg3ekwyX3VoUDBEckhzV3NPdGNSV0EzQ0JB?oc=5",
+      "published": "2026-11-19T17:20:15Z"
+    },
     {
       "title": "Microsoft CEO apologizes for Outlook outage tha...",
       "source": "Pluang",
@@ -74,28 +92,10 @@
       "source": "ESM Magazine",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOXzJFTnpvMHJyNGc4RlFVZVNJazdsaV8tR2RTVnZYLXJBaF9ra3p3VUFCNTA5ZUJWaS1veFp3N2JlN1ZNUU5rdHNyQnVQdEVNeDBEdVhtRE9IVUhQZi1xRy1WemRGUWQxTWttU3hGa1ZodERMY2laX2UwR0hYWVRTSjI1TWU3LWJocXBUb0UydW1fMVNyYlVQZ2NEa2VDQWszTTN4OTU2NVFNREFFem9ONGxSdnBoTHEwaUZVZk5pQ1BqODF3S0NzdTcxVQ?oc=5",
       "published": "2026-11-19T10:06:24Z"
-    },
-    {
-      "title": "SatyaNadella Admits Microsoft Could Prevented Outlook Outage",
-      "source": "NewsBricks",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZGtpc0luaDlpaXhnVVd3Nm0xQ0dyVENCd003anp3eFRuZ0lBRHplVWdlTnRHTjRWVTF1bXh5N3cyTi1GTzJYb3RKYWRneFZwYktETFdxSTZtT0Z5V21ZX0t6WlltQzJtUW9TSkhOZTdWRnBmTXZ2dzBDRW9xQWtlS1RiUUVUMVp3MU1UYQ?oc=5",
-      "published": "2026-11-19T09:46:13Z"
-    },
-    {
-      "title": "Satya Nadella 'admits' Microsoft should have caught Outlook bug before global outage",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObGk4bnNDNjFDT0kyMWdBZTRWc1ZrbmpBa01MaGprWWphcjZJTnVRZE1qWkhUVWFjcmE4aDVXZEotV2hRU1RXdGhBeVMzSEFtakdIWTU0LURFU3VJeWVaZVhENXR0T0hhcW02dWp2ZWFwSHp5QnhQZkFGY1g3SnpFMEN6MUJMNmx0UC1IV2gyMGZMUUtmbTFXeDhBMWJOU1VKYUNYaVk4SHBZX09xUnZQdDJydG1GZ1RKOUtsTnY4YXFFWDZ4cC0xVWx6UWRDQU5hc2w4QlhoemdpUEhXVUxqTXNPMFdDV3FpZmxNRXJ4NjdINVpzamZ6ZNIB_gFBVV95cUxNNkpaREh6eEdsbG9IU1VTYWttSWNMeXZXZEFJcnB1cWQ5OXE5TmotRV81WHlzeGRHQURkZ25md0wwbkhGWXhjQzFVQ0U5a1NZVWNMU0NQbFZMemJ1WW8zdWJvOVB0WElkcWdyeC1FVWdNbGN1Z0QyemFnendnQzRmNHc0N0c5bWR5WlZPMEh5OE0wQ1ItaTRGS2FGQi1QVERDeE9jWjBkVTJTdUlIYTBETlFFeDdRbjVJMS1fVDNXR3E1VGRVb2t2dHFaT1A5Z2VKQWItb1FqaU5GOEdMTFdoMUhfcnFqM0t6VDNhMHZlUHo1OWIzN1BRX3hNS0poZw?oc=5",
-      "published": "2026-11-19T09:35:00Z"
-    },
-    {
-      "title": "Microsoft Warns Outlook, Teams Users Of Phishing Attacks Exploiting 365 Outage",
-      "source": "BW Businessworld",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZWhvck1ta1k1bjBKRDNEeWEwQ09ZS3ZtUkpuVTFuZ3ZNVG9fdnpjRS1UZVk0OS1VRV9NLUhNaEN4YmFyR3ZYR1JWRzdvTWZyemkxdjdXak9MelJ0Q0h5QnU4VFkwaGJ4R3VEdDRWZjlfWTR4NThIOHpCWGtQVFRCSnV1bGM1NW41TGdmekNoOFYxMkdLbVhpTjNfRFFadS1aNDBBaUVaNnBfYjIzLXpMa2ZFZ1R3bE92QS14LWVB?oc=5",
-      "published": "2026-11-19T09:23:35Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-19T17:17:52Z",
+    "fetched_at": "2026-11-19T18:18:30Z",
     "items": [],
     "debug": {
       "bytes": 498,
