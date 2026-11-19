@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-19T19:18:16Z",
+  "fetched_at": "2026-11-19T20:18:02Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
@@ -76,6 +76,12 @@
       "published": "2026-11-19T15:22:26Z"
     },
     {
+      "title": "Microsoft Outage Raises Questions Over UK Control of Critical Digital Infrastructure",
+      "source": "Tech Policy Press",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWkFVTkZ0NnlSRVBueE96SUxCWnFKVHVQOGN1dmpoOVFpOU15QlRWUDNjZFdsSkFkbGpFQmhGZ2dOdjlRT0RPbDQtRzE5RGMzMWRwVWtBaUJyaW55TGcxWS1qVjkwYUJQMnEwYnNidUhRNUpHc3hMTE1ZRHprc3MzeV9yQ2M0YVRIQURVWERsYTRIMXU1c0RuZ0JsZkdETFpYN1JOX2JWYUt0SHdPdWFzc2lJRmQ?oc=5",
+      "published": "2026-11-19T14:07:25Z"
+    },
+    {
       "title": "Does Outlook Reliability Remain a Concern for Microsoft (NASDAQ:MSFT) Following a Two-Day Worldwide Outage?",
       "source": "kalkine.ca",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQU2dyVUNYMUs1a3VZT19iMWpxT01TSm10Z2c0eHFkSWVINVVwRHVYemVnMWJ1VjRqS2ZXM292ZG5ldTR1MTFkaHdSWk15VDNGb0pHVGk4RnBwb2R2RzUyTDB4Yk8wOG9FbU1WWFp0c294R0RBXzlzTXZGRmtGdzBLcnc5RlBUbWdKNXpES2xZN3YwMFZFOWo1bnAtT1ZBZkw5ZWVJTzNXTG9VdnlDUTNTVXYtblFlc3g4S1piMXdwOUpwMDVvUEM3WXpkZ2pWY25NRjdmcQ?oc=5",
@@ -86,16 +92,10 @@
       "source": "24/7 Wall St.",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQU5mb3lfUm10QlcyU0hXTjA0dXVDdXlIVHRET0ZMd1ZyTWhSSENKa01wM0ctR194NE4zdmdfLVhSTkRZRXpseDlUVVhRZ01mZWY2LVZIbTBXMDJOdHhIUG9KNUMwN3VvTTRNNzBzVVFVZlRCclFlbENPNHJJWVh5Z3Rmd0NKYVJhXzg4eGtEZnRZRjc1N2dnel9Va2JtcTZFbkdCQzMtbHNvQQ?oc=5",
       "published": "2026-11-19T12:38:00Z"
-    },
-    {
-      "title": "Microsoft 365 Went Down: What Should IT Teams Do First?",
-      "source": "TechRepublic",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZkowWndRZmdOMlEtRjIyMjV1VjQ2S2xzcXY3Mm1KY1JmR3ZXWnY1aG14YnF2OHUwY0pVQzNZTXZ1R3l6T18wT2NTajQzVE9XdXF3MFk3U3UxX0xhTkFzVzA5VV9uNVJKTUlDY0t5d0p1V1dYbHRqV1FBMHNrbHhCNlBjNmM5bFJsSGVhRUJsaVFGZw?oc=5",
-      "published": "2026-11-19T12:02:19Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-19T19:18:17Z",
+    "fetched_at": "2026-11-19T20:18:02Z",
     "items": [],
     "debug": {
       "bytes": 498,
