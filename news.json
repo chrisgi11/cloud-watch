@@ -1,8 +1,14 @@
 {
-  "fetched_at": "2026-11-19T12:56:22Z",
+  "fetched_at": "2026-11-19T14:18:13Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Does Outlook Reliability Remain a Concern for Microsoft (NASDAQ:MSFT) Following a Two-Day Worldwide Outage?",
+      "source": "kalkine.ca",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQU2dyVUNYMUs1a3VZT19iMWpxT01TSm10Z2c0eHFkSWVINVVwRHVYemVnMWJ1VjRqS2ZXM292ZG5ldTR1MTFkaHdSWk15VDNGb0pHVGk4RnBwb2R2RzUyTDB4Yk8wOG9FbU1WWFp0c294R0RBXzlzTXZGRmtGdzBLcnc5RlBUbWdKNXpES2xZN3YwMFZFOWo1bnAtT1ZBZkw5ZWVJTzNXTG9VdnlDUTNTVXYtblFlc3g4S1piMXdwOUpwMDVvUEM3WXpkZ2pWY25NRjdmcQ?oc=5",
+      "published": "2026-11-19T12:39:00Z"
+    },
     {
       "title": "Microsoft\u2019s CEO Says He\u2019s \u201cExtremely Sorry\u201d for the Outlook Outage",
       "source": "24/7 Wall St.",
@@ -49,7 +55,7 @@
       "title": "Satya Nadella admits Microsoft could have prevented global Outlook outage; flags software testing failures",
       "source": "SME Futures",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQanZCNFNOd0RtbV9uVmlCZElDNExZTXZkTEdaNTAyUS1PemdUelRBZThHNVpXTmhKVVJIdEFZcXF2ZmVsbG5zc09CNTIzcVFCa3JwNWpYMnF0X1ZnX0xodTUtZ1pxRFowenZINmxJRTBUaXBaNjJJTE9pUi1val80WUZYUjdReW5MNVBPdFh5dUo5dS1xMUNpd1NPXzlsdHh4UHgtbmplNVI5R0UxOFZ0NEFqaGZ3TFNXSmpqQVlRSmM3Ulk4d2NpTQ?oc=5",
-      "published": "2026-11-19T07:31:54Z"
+      "published": "2026-11-19T07:38:16Z"
     },
     {
       "title": "Is Outlook Down? What We Know About the Global Microsoft Outage",
@@ -86,16 +92,10 @@
       "source": "NewsBytes",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEl1RnVsVFNlRllQamcySnR3S1YzY2RBTjVHYktSX0JxcmJza01oY3EtYVRJU041bHpQbktjUDFpUkxHWnJLRGpCWlp6emJ1UEVJZ0Q0eXpRMG1jQ2lBOG5tVUYyOUt3QzJKc3RNR19lb3dDOHRjQXh5ckg5dTFqVWJKcDVUSVVaQ0VwVlpNNTBhUUd5ZGlSUWw3Ry1sa1RZRGNMQXFKT3pvdF93UHpQTkdrM1M?oc=5",
       "published": "2026-11-19T05:29:35Z"
-    },
-    {
-      "title": "Nadella Warns of Rising AI Cyberattacks, Apologises for Outlook Outage",
-      "source": "The Hans India",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ0pfV3c3QzVUdW1GQmJ4Nkl5WlByM08xb01OVS13a3N5MTdURTRCNFF4S0ZPU3VRUFA0T2ZrYWFtM3FwQ1dhVHNSWmpxQkhHRy1yNU1NU0pCNTF4bmJHd05pT0dhNmxJS0Y4bzc3ejJmdHJ2dzF5eU1lelEtV3hXLVV5NXM1NHV2ODYweHFCTjdqcUxRWWRtR1A0bGlTMlFDelBpZWU3WUhublFhNTNYbdIBtgFBVV95cUxNNmZJdHUteGREVDUxd1Jzc1lsWldnV1hzV1JWbjBuSEVJMUZRTlpObXVZc2NPb0o2RzBRQnFoaFdMUHM5ajVKaWNWdzhSNjdTdWpwN1JzWGdyWUo0czJpaDFTLVg5em5DT2RqaVU0QjI2TkhEd1A1em9iSVAySDBBcnc3N0UzUDZBdFFUMnA5eEdEdC13OXp3ZXp0dmhHZGlwdUlQY2MtelBxSUxTNEpTSVlBbzc1dw?oc=5",
-      "published": "2026-11-19T05:18:33Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-19T12:56:22Z",
+    "fetched_at": "2026-11-19T14:18:13Z",
     "items": [],
     "debug": {
       "bytes": 498,
