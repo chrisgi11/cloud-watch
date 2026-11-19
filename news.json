@@ -1,8 +1,14 @@
 {
-  "fetched_at": "2026-11-19T20:18:02Z",
+  "fetched_at": "2026-11-19T21:17:23Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Outlook, FAA, bank outage, oh my! How to practice 'cyber hygiene' in the AI age",
+      "source": "Yahoo Tech",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRk1LT29NR2NwNjJFTjliMk5BQUNMY29ZRnVzZUx5RkJVOTc3bmtXMlRabGtmcDQ4SlRlRVp6SUY2eWNXOEVzaXMtWlhoeF9aT01qZnl5ZlhuYUNNUUpURFFER0diS3ROU09WTldTM280dWNPaDR2bVRpZ1VPakJ0aDlmU2lJNUZHSWhRWHBCc3U?oc=5",
+      "published": "2026-11-19T19:51:17Z"
+    },
     {
       "title": "Luke Kehoe: Microsoft Outage Exposes Concentration Risks in Digital Infrastructure",
       "source": "Broadband Breakfast",
@@ -86,16 +92,10 @@
       "source": "kalkine.ca",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQU2dyVUNYMUs1a3VZT19iMWpxT01TSm10Z2c0eHFkSWVINVVwRHVYemVnMWJ1VjRqS2ZXM292ZG5ldTR1MTFkaHdSWk15VDNGb0pHVGk4RnBwb2R2RzUyTDB4Yk8wOG9FbU1WWFp0c294R0RBXzlzTXZGRmtGdzBLcnc5RlBUbWdKNXpES2xZN3YwMFZFOWo1bnAtT1ZBZkw5ZWVJTzNXTG9VdnlDUTNTVXYtblFlc3g4S1piMXdwOUpwMDVvUEM3WXpkZ2pWY25NRjdmcQ?oc=5",
       "published": "2026-11-19T12:39:00Z"
-    },
-    {
-      "title": "Microsoft\u2019s CEO Says He\u2019s \u201cExtremely Sorry\u201d for the Outlook Outage",
-      "source": "24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQU5mb3lfUm10QlcyU0hXTjA0dXVDdXlIVHRET0ZMd1ZyTWhSSENKa01wM0ctR194NE4zdmdfLVhSTkRZRXpseDlUVVhRZ01mZWY2LVZIbTBXMDJOdHhIUG9KNUMwN3VvTTRNNzBzVVFVZlRCclFlbENPNHJJWVh5Z3Rmd0NKYVJhXzg4eGtEZnRZRjc1N2dnel9Va2JtcTZFbkdCQzMtbHNvQQ?oc=5",
-      "published": "2026-11-19T12:38:00Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-19T20:18:02Z",
+    "fetched_at": "2026-11-19T21:17:23Z",
     "items": [],
     "debug": {
       "bytes": 498,
