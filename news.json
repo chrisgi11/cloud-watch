@@ -1,8 +1,20 @@
 {
-  "fetched_at": "2026-11-19T18:18:30Z",
+  "fetched_at": "2026-11-19T19:18:16Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Luke Kehoe: Microsoft Outage Exposes Concentration Risks in Digital Infrastructure",
+      "source": "Broadband Breakfast",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdXNGc3l4Mko4YmZtR280Y2R5RHlkZi1KS3l3ME9fbFJyLVh6dV9oRzFTNTdDLXdpN1l4ZFFBLUhhT2pnMDJDR2FoYTdzaHozRVIxWm1PWTZibDZDSDlJMHp1MFdRU09DbWozY0VIRGxpREgwWmZnLW5qc0FjM3ExRHFZWHN5dzltVjVYd21IREF5eHBBNUY1TGR0TEtMTzBlZVByTGxVWjFERl9oeGtSWENROA?oc=5",
+      "published": "2026-11-19T19:06:14Z"
+    },
+    {
+      "title": "Microsoft CEO Sounds Alarm on AI Software Risks After Major Outlook Outage",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbXNWQ1MzSmNMbmZ6M1FzcmlrOHpaUzdOeDNsVG5KS3RPbUVacEF1QmJ1Z0x6UE1RT001bi1SSEFuUUpyX2gtUzZScTV4Q2dIcGlXYTNKUVBtS1d6Mm9VT0d2MEZIaXJfZDVZYTMxWVRmRnBGbldVQ0Q4aXd4azVmRm1uSVNtV0pkdEdhcXA5RHZ4YnZ6bG9PcnNwU0JXMF9qSnNsNTk1aWNXNTUzaGhoR1hHU3Q2a3QyQVNfNHpJWVhUX29LY0ttcElSQ3oyUnc?oc=5",
+      "published": "2026-11-19T18:07:18Z"
+    },
     {
       "title": "Microsoft CEO Reveals What Caused Massive Outlook Outage",
       "source": "Cheddar",
@@ -42,8 +54,8 @@
     {
       "title": "Microsoft Outlook Outage Today: Is Outlook Down in the US? Users Report Email, App Login, Sending, Receiving and Calendar Issues | Check Latest Downdetector Status",
       "source": "The Sunday Guardian",
-      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOZG5LNmVLNUNxQ1ZPcExsUXVMZC0tYm1kTVYzX1FHc2VUVUlmMy0yWld5Z3E0WmVyY0VnU2lrMnVjMWxoakduVzByNjFqOTI2aUtMVjZ0SlRHMHNHUGpiRlg3bUhabWRGTllISFlzWGFMQWNzRTdlTEEtLVFuaXlDZnkzN1FEdlUyb0dFeUUxOU5LMkVhWVBHWlU2MTRPazBEckZlM3NHRzFCYjU2MWVmbVNZdk5OajBKazdqRkVITkIzVXJIRm9DT1RsYVl3cTFiVVozS1ZIdWRvZmRuZkRvVGVab0ZkLW0wVzVDcFBrb2RxaTV5OFVCbkpiY1FsUW51N1VlNXRfV2Z5S2VjdWp3c25mQkZxRmQtWFFKVGxCcHExMGhiT2h4R1V2R1nSAbICQVVfeXFMTldkYXcxeTVkdGNxdHFqSnItSFB0dXZrNlhBNk9DUV9ydnZELTF1aXotQy1HUFllSkxZaWpZWkxvd2liQnFwWDVPbHp4UGVCMVF6VHg0NzZsX3cwMkhmaXNjeWVLSXJVV1BQZjJ6aDZnN28zWFBjcXZrQ1dwaEVWaW9sRXJieHhyVXQ5ZkdPRzlVUmxtUENtYjBlNm50aVpGMjY0anNTZHhsSERXWVUyXzZCTlJNVERfRld5d1JNVHVNbmMyQVEyc0NESEFjcDlGY0h6VlF4YW9WNTFlWi1hWlI1eHp0ZmIzY2I0VVhJck13ZFljZnFrUGNxeEtFMzUwZGM5NTdWNTlRN2RPT1AzZkNTeFF5NDlVM2hrQUQ4b2x2cXQ5c1pnUU0wSkhHcmJCM0tR?oc=5",
-      "published": "2026-11-19T16:42:18Z"
+      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOV2RhdzF5NWR0Y3F0cWpKci1IUHR1dms2WEE2T0NRX3J2dkQtMXVpei1DLUdQWWVKTFlpallaTG93aWJCcXBYNU9senhQZUIxUXpUeDQ3NmxfdzAySGZpc2N5ZUtJclVXUFBmMnpoNmc3bzNYUGNxdmtDV3BoRVZpb2xFcmJ4eHJVdDlmR09HOVVSbG1QQ21iMGU2bnRpWkYyNjRqc1NkeGxIRFdZVTJfNkJOUk1URF9GV3l3Uk1UdU1uYzJBUTJzQ0RIQWNwOUZjSHpWUXhhb1Y1MWVaLWFaUjV4enRmYjNjYjRVWElyTXdkWWNmcWtQY3F4S0UzNTBkYzk1N1Y1OVE3ZE9PUDNmQ1N4UXk0OVUzaGtBRDhvbHZxdDlzWmdRTTBKSEdyYkIzS1HSAbICQVVfeXFMTldkYXcxeTVkdGNxdHFqSnItSFB0dXZrNlhBNk9DUV9ydnZELTF1aXotQy1HUFllSkxZaWpZWkxvd2liQnFwWDVPbHp4UGVCMVF6VHg0NzZsX3cwMkhmaXNjeWVLSXJVV1BQZjJ6aDZnN28zWFBjcXZrQ1dwaEVWaW9sRXJieHhyVXQ5ZkdPRzlVUmxtUENtYjBlNm50aVpGMjY0anNTZHhsSERXWVUyXzZCTlJNVERfRld5d1JNVHVNbmMyQVEyc0NESEFjcDlGY0h6VlF4YW9WNTFlWi1hWlI1eHp0ZmIzY2I0VVhJck13ZFljZnFrUGNxeEtFMzUwZGM5NTdWNTlRN2RPT1AzZkNTeFF5NDlVM2hrQUQ4b2x2cXQ5c1pnUU0wSkhHcmJCM0tR?oc=5",
+      "published": "2026-11-19T16:42:20Z"
     },
     {
       "title": "A dozen industries impacted by the Microsoft 365 outage",
@@ -80,22 +92,10 @@
       "source": "TechRepublic",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZkowWndRZmdOMlEtRjIyMjV1VjQ2S2xzcXY3Mm1KY1JmR3ZXWnY1aG14YnF2OHUwY0pVQzNZTXZ1R3l6T18wT2NTajQzVE9XdXF3MFk3U3UxX0xhTkFzVzA5VV9uNVJKTUlDY0t5d0p1V1dYbHRqV1FBMHNrbHhCNlBjNmM5bFJsSGVhRUJsaVFGZw?oc=5",
       "published": "2026-11-19T12:02:19Z"
-    },
-    {
-      "title": "Remember snow days? The Outlook outage gave grown-ups one",
-      "source": "The Tennessean",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOa3FpQXhXS29UYkhJalprOEZqNFlqU1o0NmpPMDhSV2hOcUc3RnZPanhtOUZCR1ZIYnhmMU9CV095RXFjOGctRU9HbUlUSThSaWJhME1xRlN1ekNHR3ZpMG9xaVZDNjVqWF9qNUR2dWw4NnFGY0N3REdNYndaMS1rN0JPQUoyaE9qQ0ctN0hUVHdhbHRUMWc3cE1sVzdzZ1dxeDJRdg?oc=5",
-      "published": "2026-11-19T11:06:00Z"
-    },
-    {
-      "title": "What Consumer Companies Can Learn From The Microsoft 365 Outage",
-      "source": "ESM Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOXzJFTnpvMHJyNGc4RlFVZVNJazdsaV8tR2RTVnZYLXJBaF9ra3p3VUFCNTA5ZUJWaS1veFp3N2JlN1ZNUU5rdHNyQnVQdEVNeDBEdVhtRE9IVUhQZi1xRy1WemRGUWQxTWttU3hGa1ZodERMY2laX2UwR0hYWVRTSjI1TWU3LWJocXBUb0UydW1fMVNyYlVQZ2NEa2VDQWszTTN4OTU2NVFNREFFem9ONGxSdnBoTHEwaUZVZk5pQ1BqODF3S0NzdTcxVQ?oc=5",
-      "published": "2026-11-19T10:06:24Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-19T18:18:30Z",
+    "fetched_at": "2026-11-19T19:18:17Z",
     "items": [],
     "debug": {
       "bytes": 498,
