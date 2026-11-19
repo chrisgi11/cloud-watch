@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-19T03:29:23Z",
+  "fetched_at": "2026-11-19T04:04:39Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
@@ -8,6 +8,12 @@
       "source": "The Indian Express",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNREhmQU9GLXlCVmpLNW5XckFTQlhwME9WWlZYX3RXMkd3UE1xdXdJVHBIOUpqTzZvZWlleXRvS3Nrc1BLUzBKVGJhLV9kVmdMRXhGNVdvNkdvelhIYUUzeGJoT2Q3TFhLamVMQjBJREdFWWc3N284NHpTRThQY21WRW9TVjVlblJVaUhrM1ZXM2xkdzlEVGpSYkY1V2lMR3JmTUZlbDJWTl9xM3NvTGc5TnhDTDfSAbsBQVVfeXFMTXdyT0U5aUVkS3Q4UEN5X3lDaEhGZG9vVkVMdTVSVVJWcXRJN2VPMzg2eFRBbkIzeGdyX2VPSlVER2RFNTIzbE94S2ZvVWlnOHc4bktBcmtMaEdXbld6a2dFMkpsdVhPV3JTTWRVUVItaW1kbGtqODB3eGZRNV9ZX2dPOFlOM2RqQ09uRWx0anN4M3Y2eFgtNHNvSmZsWW15bE9BM1d1VkxZZ3pqa2V6OFhkSnAwWjBCV1FUQQ?oc=5",
       "published": "2026-11-19T02:54:16Z"
+    },
+    {
+      "title": "Microsoft Outlook Outage Canadian Class Action",
+      "source": "Consumer Law Group",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa3AzZU84XzJmc3UyYzZ1VmYwdFZ5NWVjZTdsaF9XdEwyaFprazJraG1EdklueW1mazJ6b24xcnNOMXF5WDgzMWotbkVTYW9PQUxvVW1QQXRweGZ6UXRLQlNodHEzbTE3ci1QV3dwODRDNFZndzQ2cGhNdVlPR0N6d2NBbmFHZU41NmFjZ3daaThOSUJ5ZGtSLTZKQ3MyTlZEbFVn?oc=5",
+      "published": "2026-11-19T02:08:25Z"
     },
     {
       "title": "Microsoft CEO: AI Cut Outlook Fix Time After Global Meltdown",
@@ -86,16 +92,10 @@
       "source": "SlashGear",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNY0FrTlJZazhxcFAxSFV2bGhXVnplbksxcXdKTEZSZmxrOEV6cHFZLS0zNy0ySzVPNUhOd0VFNWF3YVVjRk1lRUpScGRxeElFNEgyNkhlOU9Na0VSNVI4OWxfWlFueU5RWm5hRjNiZkJhcXdWZnVKYTllS0Qxc3lmeWQ0OUN1TlJY?oc=5",
       "published": "2026-11-18T18:23:47Z"
-    },
-    {
-      "title": "Surge in software patches likely behind recent tech outages; bank regulators on alert",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbG5MRktqdzhYemc3QU9Yd0xudG9uN1lSbkd4YTd3dG44VUlfcTRzcW5WQ19qb2JTX0o0QVV6VHNuV0oxRFNzYUZSX2wySm9WRmk1S2swN2djcWNJc3I0S0FqbzBrV09oZlAzbVFGQUI5bWktb2ZYU3ExYWdCd2hNOHZIei16QU9UZXJDQ0FNRkk0S0FjRG85UUlXX09KTmFtYzQ4SVZQOXBXcHY1VVlzcV9wdGxTR1Mw?oc=5",
-      "published": "2026-11-18T17:11:00Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-19T03:29:23Z",
+    "fetched_at": "2026-11-19T04:04:40Z",
     "items": [],
     "debug": {
       "bytes": 498,
