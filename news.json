@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-20T02:25:50Z",
+  "fetched_at": "2026-11-20T03:18:29Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
@@ -7,7 +7,7 @@
       "title": "Andrew Cullen | Microsoft outage shows that big tech can\u2019t be treated as too big to fail",
       "source": "News24",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcFJfVGlPbmVjZko1Qkl0emlKNU5Gc09IRWQ4b1dkYl9XMnNxQ2xPX200aGtaeG5oZmpaSXcxSExfZG9wS1FaNzZ3aEZyMmVRbjJEckYtT1RWVjE5MnNKaEMxY2dGbGJ4RWxQX19INXhnUEVrU1Z5bDU4cDdrbG9tdFI1SjZoSHFHbW1vZ3dvZmFTVFFNWlI0Q1h3MkZ5cTR0T29fZnpIWXNhUkZRV3A5MnkwaVB3OEEyenB3dGM5ZVVhRUNlaFdVbzlnMjVBallsS0tPeEJ3TE5aUkc1b0xJ?oc=5",
-      "published": "2026-11-20T01:15:34Z"
+      "published": "2026-11-20T01:49:35Z"
     },
     {
       "title": "Microsoft Shares Rise 0.40% After Nadella Apologizes for Outage",
@@ -70,12 +70,6 @@
       "published": "2026-11-19T17:34:00Z"
     },
     {
-      "title": "Microsoft 365 outage \u2018timely reminder of importance of operational resilience\u2019",
-      "source": "Insurance Times",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcjJzTXdRTFlFYzloRU1nclFGRXdiRFo0S0FLeEx6aUxEM3p5YkFRQ1dIRG5EcEdUYXcwYks0bFhoOW1scFdrVEl0LVZKSmZILWpxcEdKNUtyTEljWm4xUXY3WEpxc3MyLTBPdXR1REFZZ09NQzZkazRLMmNaYktsU3hhV0tLenZkRXVhT3BuNDgyZVBCMnhWMlhLbTNZYkd2RXVsaWQ5WngyUGkwWEs5Ykg3ekwyX3VoUDBEckhzV3NPdGNSV0EzQ0JB?oc=5",
-      "published": "2026-11-19T17:20:15Z"
-    },
-    {
       "title": "Microsoft CEO apologizes for Outlook outage tha...",
       "source": "Pluang",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQmtvcjVZU1hBLVNRMTF1a2FtNlVDc2RxMEVjdU5IeHRoRHdoR1lnaU5nczk4UEdnWkpVdVpzd3BEWEZpUWJiVFo2MmhUM1FNQklPdTdSNVNoS05pZjMzT2dTeFhFZ2pvS21Gc0l0bmQyLWpDWlIwQ3Z0c3FqWENvcjMtblFSWTdqZjFEaWZKYw?oc=5",
@@ -92,10 +86,16 @@
       "source": "Beinsure",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeHBjeUtlcEhSYjI0TU05TU0zQVpMZjdmTzZ1YzhzZWlXUTBmYU1ZQ01YN0Vjc2V1VGFVYUtncVJyLWEtWlk2dXdvMFFLMGZRMDZwdVhBajhxLVBmQWJUVzdPcEpERVhJLWJiQmNiblRWRS10VVFFRmpVMVhrSUhBaA?oc=5",
       "published": "2026-11-19T16:50:48Z"
+    },
+    {
+      "title": "Microsoft Outlook Outage Today: Is Outlook Down in the US? Users Report Email, App Login, Sending, Receiving and Calendar Issues | Check Latest Downdetector Status",
+      "source": "The Sunday Guardian",
+      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOZG5LNmVLNUNxQ1ZPcExsUXVMZC0tYm1kTVYzX1FHc2VUVUlmMy0yWld5Z3E0WmVyY0VnU2lrMnVjMWxoakduVzByNjFqOTI2aUtMVjZ0SlRHMHNHUGpiRlg3bUhabWRGTllISFlzWGFMQWNzRTdlTEEtLVFuaXlDZnkzN1FEdlUyb0dFeUUxOU5LMkVhWVBHWlU2MTRPazBEckZlM3NHRzFCYjU2MWVmbVNZdk5OajBKazdqRkVITkIzVXJIRm9DT1RsYVl3cTFiVVozS1ZIdWRvZmRuZkRvVGVab0ZkLW0wVzVDcFBrb2RxaTV5OFVCbkpiY1FsUW51N1VlNXRfV2Z5S2VjdWp3c25mQkZxRmQtWFFKVGxCcHExMGhiT2h4R1V2R1nSAbICQVVfeXFMTldkYXcxeTVkdGNxdHFqSnItSFB0dXZrNlhBNk9DUV9ydnZELTF1aXotQy1HUFllSkxZaWpZWkxvd2liQnFwWDVPbHp4UGVCMVF6VHg0NzZsX3cwMkhmaXNjeWVLSXJVV1BQZjJ6aDZnN28zWFBjcXZrQ1dwaEVWaW9sRXJieHhyVXQ5ZkdPRzlVUmxtUENtYjBlNm50aVpGMjY0anNTZHhsSERXWVUyXzZCTlJNVERfRld5d1JNVHVNbmMyQVEyc0NESEFjcDlGY0h6VlF4YW9WNTFlWi1hWlI1eHp0ZmIzY2I0VVhJck13ZFljZnFrUGNxeEtFMzUwZGM5NTdWNTlRN2RPT1AzZkNTeFF5NDlVM2hrQUQ4b2x2cXQ5c1pnUU0wSkhHcmJCM0tR?oc=5",
+      "published": "2026-11-19T16:42:18Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-20T02:25:51Z",
+    "fetched_at": "2026-11-20T03:18:29Z",
     "items": [],
     "debug": {
       "bytes": 498,
