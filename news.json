@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-20T03:18:29Z",
+  "fetched_at": "2026-11-20T04:18:20Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
@@ -90,12 +90,12 @@
     {
       "title": "Microsoft Outlook Outage Today: Is Outlook Down in the US? Users Report Email, App Login, Sending, Receiving and Calendar Issues | Check Latest Downdetector Status",
       "source": "The Sunday Guardian",
-      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOZG5LNmVLNUNxQ1ZPcExsUXVMZC0tYm1kTVYzX1FHc2VUVUlmMy0yWld5Z3E0WmVyY0VnU2lrMnVjMWxoakduVzByNjFqOTI2aUtMVjZ0SlRHMHNHUGpiRlg3bUhabWRGTllISFlzWGFMQWNzRTdlTEEtLVFuaXlDZnkzN1FEdlUyb0dFeUUxOU5LMkVhWVBHWlU2MTRPazBEckZlM3NHRzFCYjU2MWVmbVNZdk5OajBKazdqRkVITkIzVXJIRm9DT1RsYVl3cTFiVVozS1ZIdWRvZmRuZkRvVGVab0ZkLW0wVzVDcFBrb2RxaTV5OFVCbkpiY1FsUW51N1VlNXRfV2Z5S2VjdWp3c25mQkZxRmQtWFFKVGxCcHExMGhiT2h4R1V2R1nSAbICQVVfeXFMTldkYXcxeTVkdGNxdHFqSnItSFB0dXZrNlhBNk9DUV9ydnZELTF1aXotQy1HUFllSkxZaWpZWkxvd2liQnFwWDVPbHp4UGVCMVF6VHg0NzZsX3cwMkhmaXNjeWVLSXJVV1BQZjJ6aDZnN28zWFBjcXZrQ1dwaEVWaW9sRXJieHhyVXQ5ZkdPRzlVUmxtUENtYjBlNm50aVpGMjY0anNTZHhsSERXWVUyXzZCTlJNVERfRld5d1JNVHVNbmMyQVEyc0NESEFjcDlGY0h6VlF4YW9WNTFlWi1hWlI1eHp0ZmIzY2I0VVhJck13ZFljZnFrUGNxeEtFMzUwZGM5NTdWNTlRN2RPT1AzZkNTeFF5NDlVM2hrQUQ4b2x2cXQ5c1pnUU0wSkhHcmJCM0tR?oc=5",
-      "published": "2026-11-19T16:42:18Z"
+      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOV2RhdzF5NWR0Y3F0cWpKci1IUHR1dms2WEE2T0NRX3J2dkQtMXVpei1DLUdQWWVKTFlpallaTG93aWJCcXBYNU9senhQZUIxUXpUeDQ3NmxfdzAySGZpc2N5ZUtJclVXUFBmMnpoNmc3bzNYUGNxdmtDV3BoRVZpb2xFcmJ4eHJVdDlmR09HOVVSbG1QQ21iMGU2bnRpWkYyNjRqc1NkeGxIRFdZVTJfNkJOUk1URF9GV3l3Uk1UdU1uYzJBUTJzQ0RIQWNwOUZjSHpWUXhhb1Y1MWVaLWFaUjV4enRmYjNjYjRVWElyTXdkWWNmcWtQY3F4S0UzNTBkYzk1N1Y1OVE3ZE9PUDNmQ1N4UXk0OVUzaGtBRDhvbHZxdDlzWmdRTTBKSEdyYkIzS1HSAbICQVVfeXFMTldkYXcxeTVkdGNxdHFqSnItSFB0dXZrNlhBNk9DUV9ydnZELTF1aXotQy1HUFllSkxZaWpZWkxvd2liQnFwWDVPbHp4UGVCMVF6VHg0NzZsX3cwMkhmaXNjeWVLSXJVV1BQZjJ6aDZnN28zWFBjcXZrQ1dwaEVWaW9sRXJieHhyVXQ5ZkdPRzlVUmxtUENtYjBlNm50aVpGMjY0anNTZHhsSERXWVUyXzZCTlJNVERfRld5d1JNVHVNbmMyQVEyc0NESEFjcDlGY0h6VlF4YW9WNTFlWi1hWlI1eHp0ZmIzY2I0VVhJck13ZFljZnFrUGNxeEtFMzUwZGM5NTdWNTlRN2RPT1AzZkNTeFF5NDlVM2hrQUQ4b2x2cXQ5c1pnUU0wSkhHcmJCM0tR?oc=5",
+      "published": "2026-11-19T16:42:20Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-20T03:18:29Z",
+    "fetched_at": "2026-11-20T04:18:20Z",
     "items": [],
     "debug": {
       "bytes": 498,
