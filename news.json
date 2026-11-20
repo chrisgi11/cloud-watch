@@ -1,8 +1,14 @@
 {
-  "fetched_at": "2026-11-20T07:18:28Z",
+  "fetched_at": "2026-11-20T08:18:07Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Microsoft 365 outage halted social services in Orange County",
+      "source": "New University",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMkFRandLTXVsN3FwVW9TUkE2OFFWWmF5SGZrdjZPeUlnMW1hY2NnYWZZemdXNWFpYU1ZcVZGZjR3dHJVTXdwOEk1dDZDTTFZUnBsZzdSa0NGTUs4MEpLLUszRUloODh3dHczUDYyOEpGekluRkJZNnIwX1h0UV9HVzVMQzNpTTA5YlBfWmh1OWl3NFEtaHZfTXAyUTZMX0U?oc=5",
+      "published": "2026-11-20T06:56:00Z"
+    },
     {
       "title": "Microsoft meltdown: Outlook, Teams and Copilot hit by global outage",
       "source": "IOL",
@@ -19,13 +25,7 @@
       "title": "Andrew Cullen | Microsoft outage shows that big tech can\u2019t be treated as too big to fail",
       "source": "News24",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcFJfVGlPbmVjZko1Qkl0emlKNU5Gc09IRWQ4b1dkYl9XMnNxQ2xPX200aGtaeG5oZmpaSXcxSExfZG9wS1FaNzZ3aEZyMmVRbjJEckYtT1RWVjE5MnNKaEMxY2dGbGJ4RWxQX19INXhnUEVrU1Z5bDU4cDdrbG9tdFI1SjZoSHFHbW1vZ3dvZmFTVFFNWlI0Q1h3MkZ5cTR0T29fZnpIWXNhUkZRV3A5MnkwaVB3OEEyenB3dGM5ZVVhRUNlaFdVbzlnMjVBallsS0tPeEJ3TE5aUkc1b0xJ?oc=5",
-      "published": "2026-11-20T01:49:34Z"
-    },
-    {
-      "title": "Microsoft 365 outage causes: how the gateway failed",
-      "source": "NeoTeo",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRHJ4c0RSbzNSbFdUc2VSUHgwS3VYaWNLYmoybzBURFA2LTh3NEc1M1R4XzBsblBVUWdhVG4tX25ja2ZQTkIxZ2Jic2xoQkVmNlpZVndvZC1VXzk1TTd5VHpaelQ0QWtxdnNvY2dTSGZSMjdTZGR4bEJYNk1hbUx1SzNn?oc=5",
-      "published": "2026-11-20T00:58:20Z"
+      "published": "2026-11-20T01:20:05Z"
     },
     {
       "title": "Microsoft CEO Nadella faces uncomfortable reality after outage",
@@ -95,7 +95,7 @@
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-20T07:18:29Z",
+    "fetched_at": "2026-11-20T08:18:07Z",
     "items": [],
     "debug": {
       "bytes": 498,
