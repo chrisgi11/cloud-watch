@@ -1,8 +1,20 @@
 {
-  "fetched_at": "2026-11-20T16:17:39Z",
+  "fetched_at": "2026-11-20T17:18:28Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Microsoft CEO Nadella Admits Testing Failed Before Outage",
+      "source": "JournalArta",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUmxIOEJ5WGpfeWw5TWdIaFlSVmZHTzFGTHJLZHRpTGFWS0JKLUVuX0VmTDZsZEhyTWJGdWtUdm5HTW5XOGJLS21tZEFZS2xyZERkbUZEcEJURi1IVFhEWU5FZmp1a0NKT1ZBdV8yNGlRYk1FeXVqTVhVTVFHUzF5UU1RYXRIcEY4VmR4ckh6Yw?oc=5",
+      "published": "2026-11-20T16:50:21Z"
+    },
+    {
+      "title": "Starbucks Down? Users Report Problems With Coffee Chain's Services as Wave of Tech Outages Rattles Businesses",
+      "source": "International Business Times Australia",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM0RNOTBrZXhGQS13MEY3eU95NGozaTZrZEhLUld3VGU3eW1iUHc1ekNkT1J3emRNcVAxTmZ4N3gwWE1hZV9ZczMtZzhla25jOFY3UTNnNXNHanZwN3VwWmtSSlo3MmZZcFdvUG1HVjdHVDRpWmhpM2hVQUtkcnlSVXpEZXJMbzRqZVE?oc=5",
+      "published": "2026-11-20T16:47:56Z"
+    },
     {
       "title": "After Microsoft 365's nearly 24-hour outage, Satya Nadella warns AI could help attackers operate at nation-state scale",
       "source": "Latin Times",
@@ -14,6 +26,12 @@
       "source": "Insurance Business",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaGtPRFVEM2tLVktzRjNBbFJDSTZUSnVYbVhEOWtVVlRNQ2Q3dnhfNEpGR3daMl9nc09KU2pXVEpGdEhLSVlIYVJNOU8yZWRwM1NZc051VzdieEkxY1Vzckh3UE0tbTFUR1h6SU5MRW4zMWJYTHhNbnRSSnVGcXpHZnZOZmtEbUgtTWNNQ25Ia3lBY2l1U2dnbjc0TmNkbTVqbjBncmVBV3RVektlYXhSRElCcFRhWWw0akEtQ3A2ZVE?oc=5",
       "published": "2026-11-20T14:56:39Z"
+    },
+    {
+      "title": "What caused the Microsoft outage?",
+      "source": "Roar News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRFgwZHpyb1pVZ2RSQ0dwVFhVLUJWdTVSMV9Nd1hjQUdWZU5ZUGhqcEZtRThiMmExeC1MUkpfSFhjakNudlNPZFZldllQYldJNk1qQnJnZDZrc1daUjFqY004eUhLSEhUTDNEbEFHUnRvLXdpUE0zM21KTlo4Z3lrVmR0NHc3WC1teFdUcjd1Z3RiampkRkRFYzRoMTRhM3Z3WjQzc1Nva3BWUQ?oc=5",
+      "published": "2026-11-20T14:11:08Z"
     },
     {
       "title": "Global Outlook outage disrupts email access at Queen\u2019s",
@@ -64,38 +82,20 @@
       "published": "2026-11-20T03:25:00Z"
     },
     {
+      "title": "Andrew Cullen | Microsoft outage shows that big tech can\u2019t be treated as too big to fail",
+      "source": "News24",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcFJfVGlPbmVjZko1Qkl0emlKNU5Gc09IRWQ4b1dkYl9XMnNxQ2xPX200aGtaeG5oZmpaSXcxSExfZG9wS1FaNzZ3aEZyMmVRbjJEckYtT1RWVjE5MnNKaEMxY2dGbGJ4RWxQX19INXhnUEVrU1Z5bDU4cDdrbG9tdFI1SjZoSHFHbW1vZ3dvZmFTVFFNWlI0Q1h3MkZ5cTR0T29fZnpIWXNhUkZRV3A5MnkwaVB3OEEyenB3dGM5ZVVhRUNlaFdVbzlnMjVBallsS0tPeEJ3TE5aUkc1b0xJ?oc=5",
+      "published": "2026-11-20T01:50:50Z"
+    },
+    {
       "title": "Microsoft Shares Rise 0.40% After Nadella Apologizes for Outage",
       "source": "JournalArta",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVTU5REFlNVRNVDBVMjdUdGN3R3Znd1lFbm9LZHBOYmJMNVJuckFOX1RuREVmU0FiN3gtWXplQmdLc21FREdiYnV1UldYVkZmVkg2WHNwZDc0dHAtZkRqYmt2NjFNWU56RWpOT1JoMDN5bHVXX1IwVVNGTVpyZkNFQUxHcXdVbGNBVVZj?oc=5",
       "published": "2026-11-19T23:58:23Z"
-    },
-    {
-      "title": "Andrew Cullen | Microsoft outage shows that big tech can\u2019t be treated as too big to fail",
-      "source": "News24",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcFJfVGlPbmVjZko1Qkl0emlKNU5Gc09IRWQ4b1dkYl9XMnNxQ2xPX200aGtaeG5oZmpaSXcxSExfZG9wS1FaNzZ3aEZyMmVRbjJEckYtT1RWVjE5MnNKaEMxY2dGbGJ4RWxQX19INXhnUEVrU1Z5bDU4cDdrbG9tdFI1SjZoSHFHbW1vZ3dvZmFTVFFNWlI0Q1h3MkZ5cTR0T29fZnpIWXNhUkZRV3A5MnkwaVB3OEEyenB3dGM5ZVVhRUNlaFdVbzlnMjVBallsS0tPeEJ3TE5aUkc1b0xJ?oc=5",
-      "published": "2026-11-19T23:20:07Z"
-    },
-    {
-      "title": "LibreOffice maker asks governments why they had no backup plan for the Microsoft 365 outage",
-      "source": "TechSpot",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbHpQcVRQczZNcEJfM0tUR01RUE9COWZZaDNTVFdkMDNlbnFHQzFUMWlQYl9uUk5YZlhjSUQzT2hxOU45OGZVV1lTWWhFNS1XdFdYWHl5Sk9vaXlWQWFTel96c19NcG9rSEo0anVnSmpZVjh4TnBya3B4T0thMm04Z0diR1FPRkZ3TTR2bmM4YVY5UmFhalJ3?oc=5",
-      "published": "2026-11-19T23:18:00Z"
-    },
-    {
-      "title": "\u2018The whole internet screams at once\u2019: Downdetector logged 6.4 million U.S. outage reports in a week as Microsoft, the FAA, Chase, and Apple went down",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaS15THU3NWZJcTNpQWktQUN0ZTNrOHZwcEdBYjV3UlpUMWE5bGtCNEJzcW5sWGU0NkE1Z2d4anMzaUx3ZmVLLWlUSWU5WkltLWZ1YU9JYkF4MzVyLWVVbERQSjZTV2RzQmh6RzF2SmZKZHhkeE5HS2Z2R09MVkh1dlc3NF8zVDF6alYzaDU1cWlRSTdCbGJPRWdB?oc=5",
-      "published": "2026-11-19T22:17:00Z"
-    },
-    {
-      "title": "Microsoft\u2019s Outage Wasn\u2019t the Real Failure. The Dangerous Part Came 36 Minutes Later",
-      "source": "Inc.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOUJyb0RoSnFuM3R6Y19rRndNX3BYWlMwZU8tVVlNemxNRHBOWHBGQk5JbjZabGxTSnh0eGxsdGl2ZkJJYmFWVF9UUS1oc3RUTGZ4QTMtbDdrSVk3cXRCZWQ0VnctTWtJam1tMmVXWl9FNXRObEFzc2tNbFVYMVZ2RHFtb3N3YzdKUHQ3NTEzU3B2VFd6MlpDRkEzU0VQY0FEelVNWg?oc=5",
-      "published": "2026-11-19T21:49:56Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-20T16:17:40Z",
+    "fetched_at": "2026-11-20T17:18:28Z",
     "items": [],
     "debug": {
       "bytes": 498,
