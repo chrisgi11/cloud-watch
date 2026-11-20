@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-20T19:18:28Z",
+  "fetched_at": "2026-11-20T20:17:53Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
@@ -12,8 +12,8 @@
     {
       "title": "Microsoft 365 Outage Today: Is Microsoft 365 Down in the US? Users Report Word, Excel, Outlook, Teams, OneDrive, SharePoint and Login Issues | Check Latest Downdetector Status",
       "source": "The Sunday Guardian",
-      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxORTJBeTIyNmx1MVdBeEYtc1ZOblRScFRlXzhRenZKXzVVamw3ZXI3NS13Q0IyQXFaNjhScUpUX2JtQzZUY2Z4X0J2dTFmMHVHX0ZpR2g3UUE3VXkzOUdjSXBzaUZPdExXb3E3SW9pX1dJZ1JKcTFBdVhCYVE5R05wbG5kYk5NbzlhSm9yck5ENVNLMjZjdGhSTENLLVBjeFZjWjhpdDhoUVd6aGdrNEppdURPUWI3SnBiMmV1ejBmekRrRk1JQVZiR0QtRV83ZVlSaWJudF95Mm1PNFlINlBSZkZDZThrWkM0b3I2VC1wZm92emk1a3VFczMyZmVUMWV1N2E4bjZvYjFhQV9yeE1DVkNPWmZFSWdDN08xMlZHaE1sZzNLYkpSYmJOTk1OTW0zU1d2NjhwZlkwWWtYVEx30gG_AkFVX3lxTE5FMkF5MjI2bHUxV0F4Ri1zVk5uVFJwVGVfOFF6dkpfNVVqbDdlcjc1LXdDQjJBcVo2OFJxSlRfYm1DNlRjZnhfQnZ1MWYwdUdfRmlHaDdRQTdVeTM5R2NJcHNpRk90TFdvcTdJb2lfV0lnUkpxMUF1WEJhUTlHTnBsbmRiTk1vOWFKb3JyTkQ1U0syNmN0aFJMQ0stUGN4VmNaOGl0OGhRV3poZ2s0Sml1RE9RYjdKcGIyZXV6MGZ6RGtGTUlBVmJHRC1FXzdlWVJpYm50X3kybU80WUg2UFJmRkNlOGtaQzRvcjZULXBmb3Z6aTVrdUVzMzJmZVQxZXU3YThuNm9iMWFBX3J4TUNWQ09aZkVJZ0M3TzEyVkdoTWxnM0tiSlJiYk5OTU5NbTNTV3Y2OHBmWTBZa1hUTHc?oc=5",
-      "published": "2026-11-20T17:16:58Z"
+      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOWFVhdGhCWUNSeTBBTTVzQm9fMmFTd3cxUkU0Mk1tQ2MxeTFEcmltc2hCWVR4SE5vc0ZEbnN2QkVSRVJmREtSYVBMOFlialhObEdCWXFuNGxRMEVKRERzOG5nNHpELUZteHpsLXh6NzVPNk9rejVfb01nZmkxdHpVeDgtNmNlcUE4UDJKazVOMnJsdmRNZ0hhNnpmT3JHeUZkRExiZU5xZ1FzN3RZT0NYbU5KRkpfVXpiTUpTZU9Ob0ZvdGRDcHFtNGNnSW1Ta1V3Vk5jVzN1SkF1U0RhQjVUclR4WHYxTVFXcTRYbFRRWmJ4amlkOGVyQUJWMkkxWHk1S280a1Y1enIxOVFpQU8wc01QbXVXSmI3aDNVdU1SNW9nNF8zcEt6eEFTeHZaaDdDOVNSQVBydW1KZ9IBvwJBVV95cUxORTJBeTIyNmx1MVdBeEYtc1ZOblRScFRlXzhRenZKXzVVamw3ZXI3NS13Q0IyQXFaNjhScUpUX2JtQzZUY2Z4X0J2dTFmMHVHX0ZpR2g3UUE3VXkzOUdjSXBzaUZPdExXb3E3SW9pX1dJZ1JKcTFBdVhCYVE5R05wbG5kYk5NbzlhSm9yck5ENVNLMjZjdGhSTENLLVBjeFZjWjhpdDhoUVd6aGdrNEppdURPUWI3SnBiMmV1ejBmekRrRk1JQVZiR0QtRV83ZVlSaWJudF95Mm1PNFlINlBSZkZDZThrWkM0b3I2VC1wZm92emk1a3VFczMyZmVUMWV1N2E4bjZvYjFhQV9yeE1DVkNPWmZFSWdDN08xMlZHaE1sZzNLYkpSYmJOTk1OTW0zU1d2NjhwZlkwWWtYVEx3?oc=5",
+      "published": "2026-11-20T17:16:57Z"
     },
     {
       "title": "Microsoft 365 Down Again? Users Report Fresh Problems Friday as Fears Linger After Last Week's Global Crash",
@@ -49,25 +49,13 @@
       "title": "What caused the Microsoft outage?",
       "source": "Roar News",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRFgwZHpyb1pVZ2RSQ0dwVFhVLUJWdTVSMV9Nd1hjQUdWZU5ZUGhqcEZtRThiMmExeC1MUkpfSFhjakNudlNPZFZldllQYldJNk1qQnJnZDZrc1daUjFqY004eUhLSEhUTDNEbEFHUnRvLXdpUE0zM21KTlo4Z3lrVmR0NHc3WC1teFdUcjd1Z3RiampkRkRFYzRoMTRhM3Z3WjQzc1Nva3BWUQ?oc=5",
-      "published": "2026-11-20T14:11:08Z"
-    },
-    {
-      "title": "Microsoft outage hits Welsh police reports as NHS and pharmacies warn of delays",
-      "source": "Herald.Wales",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUDNBUl9HM0dUMFUzUzFxYVo0SHUyU3VWSkhfd0JBRUEtR2l5RVNXTm9pRmdGOFZmRE14czUxd2tHdEUtNkVLcDR6T3hWYjF5Z3l2eGFON0duQ3FZeTdjOElOVkVaWnRRdV9jV3pjcElER2hCYUVjN05jQkg5SDBGNWJ3blZZVkRaZGZCOHRjR2RfVWk0WnQ4?oc=5",
-      "published": "2026-11-20T13:58:52Z"
+      "published": "2026-11-20T14:12:22Z"
     },
     {
       "title": "MP raises national security concerns over Microsoft outage",
       "source": "Herald.co.zw",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObjN5cGFZcDRvcThLbExHd2FTYmVoVUhqSHFuSVNLUWlUbndjVkVxM1NXSVZ5SzVRYnFyd3l1M1lvR3dHSUtIWElKSllqX0pzUkhMcWFFWDRiWmJCM3VrU0NtTVBsdWtCelVDZlRVMHBMd2ZYM2Z1MUNueFRmTDhNMzNXOU45ZzBOcG0xZDNzV2dIQWkz?oc=5",
       "published": "2026-11-20T13:33:58Z"
-    },
-    {
-      "title": "National Productivity Skyrockets After Microsoft Teams Goes Down",
-      "source": "The Babylon Bee",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQblFjZk54SVhZeEktOC13VlRjNlpPTmFXNWxoU212S2w2ZTZ2TVhnZENpaTA5a25YdkFDRHZsVFNEcEVtU1lyQ0VQQ2FBcW90SFdMRXJYSHRpblJ5WE55X2h3eV9US2hJT1ZmTzVGMkEzNGgzMGprd2I0ZFlFSHRhdlQtbkU2eV82SVlUX1FLYTJod1pEVGFV?oc=5",
-      "published": "2026-11-20T13:19:27Z"
     },
     {
       "title": "Global Outlook outage disrupts email access at Queen\u2019s",
@@ -92,10 +80,22 @@
       "source": "BW Businessworld",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZWhvck1ta1k1bjBKRDNEeWEwQ09ZS3ZtUkpuVTFuZ3ZNVG9fdnpjRS1UZVk0OS1VRV9NLUhNaEN4YmFyR3ZYR1JWRzdvTWZyemkxdjdXak9MelJ0Q0h5QnU4VFkwaGJ4R3VEdDRWZjlfWTR4NThIOHpCWGtQVFRCSnV1bGM1NW41TGdmekNoOFYxMkdLbVhpTjNfRFFadS1aNDBBaUVaNnBfYjIzLXpMa2ZFZ1R3bE92QS14LWVB?oc=5",
       "published": "2026-11-20T10:46:58Z"
+    },
+    {
+      "title": "Microsoft went down. Finance staff just found workarounds",
+      "source": "Financial News London",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSGNTMzNNVXlsaml0VG50ODcxcHE5N2lzY1ktOUw5ME9lQkJjT3kxTkFvOUIwNGJ2cjRuTVBWUXRuZGpSUXVab2hfSE80YWp2WHVSX2Z2N1gwZHVnNUh5ZlFtUnhJUFc2WG1UNThtN29UODFIQ2VLa1Y3Szg1V1czWV9ycFNOOUFzMERmdnAwZXJBQmhwdVZyc09MVGVsVEpl?oc=5",
+      "published": "2026-11-20T10:39:32Z"
+    },
+    {
+      "title": "Microsoft works to restore global Outlook outage affecting Teams and Copilot",
+      "source": "IOL",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObFZzaU8tbVRBMmRpb0V5bUlKcmc1VWstampqcjRwbkUtX2ZCR2NwRGtpZXh3RkVPd2RZUUEtdlkzOHlqR2h5c1F4Ymx2R2x6SExiZjVaUm1qVHRkaG5kTVJMYWFsVHhRSUtKM2ttb25hbmlhb29YTVE1Zl81ZlNucGFySktmWEpNaWJlczFlbk50Vm96M25lTEJkc1p6d3dWQndiXzVuWS1aZ0psY3phMkZudVhpYUNINHpJ?oc=5",
+      "published": "2026-11-20T10:12:14Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-20T19:18:29Z",
+    "fetched_at": "2026-11-20T20:17:54Z",
     "items": [],
     "debug": {
       "bytes": 498,
