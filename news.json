@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-20T05:18:17Z",
+  "fetched_at": "2026-11-20T06:18:16Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
@@ -13,7 +13,7 @@
       "title": "Andrew Cullen | Microsoft outage shows that big tech can\u2019t be treated as too big to fail",
       "source": "News24",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcFJfVGlPbmVjZko1Qkl0emlKNU5Gc09IRWQ4b1dkYl9XMnNxQ2xPX200aGtaeG5oZmpaSXcxSExfZG9wS1FaNzZ3aEZyMmVRbjJEckYtT1RWVjE5MnNKaEMxY2dGbGJ4RWxQX19INXhnUEVrU1Z5bDU4cDdrbG9tdFI1SjZoSHFHbW1vZ3dvZmFTVFFNWlI0Q1h3MkZ5cTR0T29fZnpIWXNhUkZRV3A5MnkwaVB3OEEyenB3dGM5ZVVhRUNlaFdVbzlnMjVBallsS0tPeEJ3TE5aUkc1b0xJ?oc=5",
-      "published": "2026-11-20T01:19:35Z"
+      "published": "2026-11-20T01:49:34Z"
     },
     {
       "title": "Microsoft CEO Nadella faces uncomfortable reality after outage",
@@ -82,20 +82,20 @@
       "published": "2026-11-19T17:34:00Z"
     },
     {
+      "title": "Microsoft 365 outage \u2018timely reminder of importance of operational resilience\u2019",
+      "source": "Insurance Times",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcjJzTXdRTFlFYzloRU1nclFGRXdiRFo0S0FLeEx6aUxEM3p5YkFRQ1dIRG5EcEdUYXcwYks0bFhoOW1scFdrVEl0LVZKSmZILWpxcEdKNUtyTEljWm4xUXY3WEpxc3MyLTBPdXR1REFZZ09NQzZkazRLMmNaYktsU3hhV0tLenZkRXVhT3BuNDgyZVBCMnhWMlhLbTNZYkd2RXVsaWQ5WngyUGkwWEs5Ykg3ekwyX3VoUDBEckhzV3NPdGNSV0EzQ0JB?oc=5",
+      "published": "2026-11-19T17:20:15Z"
+    },
+    {
       "title": "Microsoft CEO apologizes for Outlook outage tha...",
       "source": "Pluang",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQmtvcjVZU1hBLVNRMTF1a2FtNlVDc2RxMEVjdU5IeHRoRHdoR1lnaU5nczk4UEdnWkpVdVpzd3BEWEZpUWJiVFo2MmhUM1FNQklPdTdSNVNoS05pZjMzT2dTeFhFZ2pvS21Gc0l0bmQyLWpDWlIwQ3Z0c3FqWENvcjMtblFSWTdqZjFEaWZKYw?oc=5",
       "published": "2026-11-19T17:08:49Z"
-    },
-    {
-      "title": "Microsoft 365 Outage Today: Is Microsoft 365 Down in the US? Users Report Word, Excel, Outlook, Teams, OneDrive and Login Issues | Check Latest Downdetector Status",
-      "source": "The Sunday Guardian",
-      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPLVNNUy1MTlRwb1JxQ2FucTJQc0tEZnJnTVFfNURXc2dJR2pDN0dnU2YtRlVvYUQ2eEFKbWVkTHZlU0FDQXAyWi0td1dES21MOGR1THVka2kzZEhJaEwtMzRiVS1XUXdmVFV0WWN4RzNTWXh0STNDaEktSzVBWFROZjVqOTFwa0x2YjFHdE9DY2tTNGhpYWM3ZXotdEkwTWlSbWNiTXpOUFlSVDEteUlVSVlSRlBKZ2Y1eDhnb1FPdnNOdUVZRzVpTkZTWXVfLUkzZFBwUlNwUk82QVQ4NS1VVlhWbHd2WWhjZkhqSXBOX05WZ2dmSnJjSHFSVWRfNzdqd29pUFVBRkV3WFZoaVY0MF84VnpUbUpYTW9YUDI5ajQ0cXBadC10eUVUa0Q3cjI40gGwAkFVX3lxTE8tU01TLUxOVHBvUnFDYW5xMlBzS0RmcmdNUV81RFdzZ0lHakM3R2dTZi1GVW9hRDZ4QUptZWRMdmVTQUNBcDJaLS13V0RLbUw4ZHVMdWRraTNkSEloTC0zNGJVLVdRd2ZUVXRZY3hHM1NZeHRJM0NoSS1LNUFYVE5mNWo5MXBrTHZiMUd0T0Nja1M0aGlhYzdlei10STBNaVJtY2JNek5QWVJUMS15SVVJWVJGUEpnZjV4OGdvUU92c051RVlHNWlORlNZdV8tSTNkUHBSU3BSTzZBVDg1LVVWWFZsd3ZZaGNmSGpJcE5fTlZnZ2ZKcmNIcVJVZF83N2p3b2lQVUFGRXdYVmhpVjQwXzhWelRtSlhNb1hQMjlqNDRxcFp0LXR5RVRrRDdyMjg?oc=5",
-      "published": "2026-11-19T17:02:28Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-20T05:18:17Z",
+    "fetched_at": "2026-11-20T06:18:16Z",
     "items": [],
     "debug": {
       "bytes": 498,
