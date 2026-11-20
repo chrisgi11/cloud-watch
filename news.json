@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-20T00:17:51Z",
+  "fetched_at": "2026-11-20T01:17:49Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
@@ -22,12 +22,6 @@
       "published": "2026-11-19T22:17:00Z"
     },
     {
-      "title": "Microsoft 365 outage cause: how the gateway failed",
-      "source": "NeoTeo",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONHRyYXFLOUlUSEJqSGVwM2EyRjVydEZhMmt2LS02M3FIOHBXZHRHSjlSOHN0cUc5Q1NOMEtqUnhHOUxxMzdXUTJ1MlNrbGpxOEd0T0daZUVBVTVTbEtVeGlwc1VHaVUtZlpkV2d0dDdkU2dwMVJDMm56Q01lNU41Yw?oc=5",
-      "published": "2026-11-19T21:04:16Z"
-    },
-    {
       "title": "Microsoft outage tests Nadella's leadership and cloud strategy",
       "source": "Chosunbiz",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9pS2lCM1ZwSjE4UHFoZU1wMDUxNjFfdXdYY0ljQ1VqTEVoSm1POWkxXzUwQmItbGJZNC1fTUVfQ015N19pc3E2Y1psSDFmVmVPNzhNR2ZGTFBaSzRVOTdUcC1EOGFkZjB1QmYxNkZlMV9zOEdlZkdveUdB0gGOAUFVX3lxTE5ncWpNOGphd2lIZVdkZVR2UkRjamhKX3N4WWh0WnlXbWVLWGYxMHpZQW1oQUhDU3NQbmljME1mSzZET2xMaXA4Wk5wRTR5Q2VERHRZNW9Gamt5dXBwU2ZNU1FHTUZCeS0zN1U2Q3NfSDZUaGVHR3l6WC1kYVA3OVgtY09jRHoxR1F2b3otU0E?oc=5",
@@ -44,6 +38,12 @@
       "source": "Broadband Breakfast",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdXNGc3l4Mko4YmZtR280Y2R5RHlkZi1KS3l3ME9fbFJyLVh6dV9oRzFTNTdDLXdpN1l4ZFFBLUhhT2pnMDJDR2FoYTdzaHozRVIxWm1PWTZibDZDSDlJMHp1MFdRU09DbWozY0VIRGxpREgwWmZnLW5qc0FjM3ExRHFZWHN5dzltVjVYd21IREF5eHBBNUY1TGR0TEtMTzBlZVByTGxVWjFERl9oeGtSWENROA?oc=5",
       "published": "2026-11-19T19:06:14Z"
+    },
+    {
+      "title": "Microsoft 365 outage cause: how the gateway failed",
+      "source": "NeoTeo",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONHRyYXFLOUlUSEJqSGVwM2EyRjVydEZhMmt2LS02M3FIOHBXZHRHSjlSOHN0cUc5Q1NOMEtqUnhHOUxxMzdXUTJ1MlNrbGpxOEd0T0daZUVBVTVTbEtVeGlwc1VHaVUtZlpkV2d0dDdkU2dwMVJDMm56Q01lNU41Yw?oc=5",
+      "published": "2026-11-19T18:11:47Z"
     },
     {
       "title": "Microsoft CEO Sounds Alarm on AI Software Risks After Major Outlook Outage",
@@ -95,7 +95,7 @@
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-20T00:17:51Z",
+    "fetched_at": "2026-11-20T01:17:49Z",
     "items": [],
     "debug": {
       "bytes": 498,
