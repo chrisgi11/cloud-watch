@@ -1,8 +1,32 @@
 {
-  "fetched_at": "2026-11-19T23:18:09Z",
+  "fetched_at": "2026-11-20T00:17:51Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Microsoft Shares Rise 0.40% After Nadella Apologizes for Outage",
+      "source": "JournalArta",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVTU5REFlNVRNVDBVMjdUdGN3R3Znd1lFbm9LZHBOYmJMNVJuckFOX1RuREVmU0FiN3gtWXplQmdLc21FREdiYnV1UldYVkZmVkg2WHNwZDc0dHAtZkRqYmt2NjFNWU56RWpOT1JoMDN5bHVXX1IwVVNGTVpyZkNFQUxHcXdVbGNBVVZj?oc=5",
+      "published": "2026-11-19T23:58:23Z"
+    },
+    {
+      "title": "LibreOffice maker asks governments why they had no backup plan for the Microsoft 365 outage",
+      "source": "TechSpot",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbHpQcVRQczZNcEJfM0tUR01RUE9COWZZaDNTVFdkMDNlbnFHQzFUMWlQYl9uUk5YZlhjSUQzT2hxOU45OGZVV1lTWWhFNS1XdFdYWHl5Sk9vaXlWQWFTel96c19NcG9rSEo0anVnSmpZVjh4TnBya3B4T0thMm04Z0diR1FPRkZ3TTR2bmM4YVY5UmFhalJ3?oc=5",
+      "published": "2026-11-19T23:18:00Z"
+    },
+    {
+      "title": "\u2018The whole internet screams at once\u2019: Downdetector logged 6.4 million U.S. outage reports in a week as Microsoft, the FAA, Chase and Apple went down",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaS15THU3NWZJcTNpQWktQUN0ZTNrOHZwcEdBYjV3UlpUMWE5bGtCNEJzcW5sWGU0NkE1Z2d4anMzaUx3ZmVLLWlUSWU5WkltLWZ1YU9JYkF4MzVyLWVVbERQSjZTV2RzQmh6RzF2SmZKZHhkeE5HS2Z2R09MVkh1dlc3NF8zVDF6alYzaDU1cWlRSTdCbGJPRWdB?oc=5",
+      "published": "2026-11-19T22:17:00Z"
+    },
+    {
+      "title": "Microsoft 365 outage cause: how the gateway failed",
+      "source": "NeoTeo",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONHRyYXFLOUlUSEJqSGVwM2EyRjVydEZhMmt2LS02M3FIOHBXZHRHSjlSOHN0cUc5Q1NOMEtqUnhHOUxxMzdXUTJ1MlNrbGpxOEd0T0daZUVBVTVTbEtVeGlwc1VHaVUtZlpkV2d0dDdkU2dwMVJDMm56Q01lNU41Yw?oc=5",
+      "published": "2026-11-19T21:04:16Z"
+    },
     {
       "title": "Microsoft outage tests Nadella's leadership and cloud strategy",
       "source": "Chosunbiz",
@@ -66,36 +90,12 @@
     {
       "title": "Microsoft Outlook Outage Today: Is Outlook Down in the US? Users Report Email, App Login, Sending, Receiving and Calendar Issues | Check Latest Downdetector Status",
       "source": "The Sunday Guardian",
-      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOZG5LNmVLNUNxQ1ZPcExsUXVMZC0tYm1kTVYzX1FHc2VUVUlmMy0yWld5Z3E0WmVyY0VnU2lrMnVjMWxoakduVzByNjFqOTI2aUtMVjZ0SlRHMHNHUGpiRlg3bUhabWRGTllISFlzWGFMQWNzRTdlTEEtLVFuaXlDZnkzN1FEdlUyb0dFeUUxOU5LMkVhWVBHWlU2MTRPazBEckZlM3NHRzFCYjU2MWVmbVNZdk5OajBKazdqRkVITkIzVXJIRm9DT1RsYVl3cTFiVVozS1ZIdWRvZmRuZkRvVGVab0ZkLW0wVzVDcFBrb2RxaTV5OFVCbkpiY1FsUW51N1VlNXRfV2Z5S2VjdWp3c25mQkZxRmQtWFFKVGxCcHExMGhiT2h4R1V2R1nSAbICQVVfeXFMTldkYXcxeTVkdGNxdHFqSnItSFB0dXZrNlhBNk9DUV9ydnZELTF1aXotQy1HUFllSkxZaWpZWkxvd2liQnFwWDVPbHp4UGVCMVF6VHg0NzZsX3cwMkhmaXNjeWVLSXJVV1BQZjJ6aDZnN28zWFBjcXZrQ1dwaEVWaW9sRXJieHhyVXQ5ZkdPRzlVUmxtUENtYjBlNm50aVpGMjY0anNTZHhsSERXWVUyXzZCTlJNVERfRld5d1JNVHVNbmMyQVEyc0NESEFjcDlGY0h6VlF4YW9WNTFlWi1hWlI1eHp0ZmIzY2I0VVhJck13ZFljZnFrUGNxeEtFMzUwZGM5NTdWNTlRN2RPT1AzZkNTeFF5NDlVM2hrQUQ4b2x2cXQ5c1pnUU0wSkhHcmJCM0tR?oc=5",
-      "published": "2026-11-19T16:42:18Z"
-    },
-    {
-      "title": "A dozen industries impacted by the Microsoft 365 outage",
-      "source": "PropertyCasualty360",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdlJMUkNkdGM1WmtuMzZzaENXNGZGY1JsN0dHUEdqM2tuYzNMbGVMT3FRNzVwelFxU3Q2OTd6bGFVaDd5MDBPdzg3d0VsN0R3WTcxVWFkTFY2TlVPc1pYUkwwRnRzYXM3azZoZ2MtdkgyTGV1ZThxRVVGV0pSZnFGQWEwZWtjaTNiWTJCU1MwU2w4dUg3czdzVkh1YnZxMFpa?oc=5",
-      "published": "2026-11-19T16:23:13Z"
-    },
-    {
-      "title": "Microsoft 365 Down Again? Users Report Problems a Week After Massive Global Outage Knocked Out Outlook, Teams",
-      "source": "International Business Times Australia",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR0RyVElZNDh3a2pCS0g3Wkp1MjBZWWVHOVUySFZhNW9NMi1jc1BHNHl1NWVXblpOVDBpTjc0SHBXVVJ0YTlKMzRYeVBaZm1vTnJpNDZRR0Z0M0dWSVdBaXlERFFQMnF1QzFIUmRUYVhBSlc5Qk1aVFM5YmdaSnpIR21kZTRSS042NkdLQWRqdTBwOVBOY2JucjVn?oc=5",
-      "published": "2026-11-19T16:12:56Z"
-    },
-    {
-      "title": "Why a Continuity Plan Has to Work Without Email: Lessons From the Microsoft 365 Outage",
-      "source": "JD Supra",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTXZOZHJLc3FBQzROMFAxSmRHNy1kTTlZYTV3OFNReUROcl95bVlKYzl1Ulpxcnd1STBpZEpVVXJtX01rU3VUQjdzLXNPejhGemZuaHlrRjdSRjMwMEdrYUlfXzBHQzNycUFBcVh6djlpMmNhY3Rzc3N1UTIxcDZDcHJ3?oc=5",
-      "published": "2026-11-19T15:22:26Z"
-    },
-    {
-      "title": "Microsoft Outage Raises Questions Over UK Control of Critical Digital Infrastructure",
-      "source": "Tech Policy Press",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWkFVTkZ0NnlSRVBueE96SUxCWnFKVHVQOGN1dmpoOVFpOU15QlRWUDNjZFdsSkFkbGpFQmhGZ2dOdjlRT0RPbDQtRzE5RGMzMWRwVWtBaUJyaW55TGcxWS1qVjkwYUJQMnEwYnNidUhRNUpHc3hMTE1ZRHprc3MzeV9yQ2M0YVRIQURVWERsYTRIMXU1c0RuZ0JsZkdETFpYN1JOX2JWYUt0SHdPdWFzc2lJRmQ?oc=5",
-      "published": "2026-11-19T14:07:25Z"
+      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOV2RhdzF5NWR0Y3F0cWpKci1IUHR1dms2WEE2T0NRX3J2dkQtMXVpei1DLUdQWWVKTFlpallaTG93aWJCcXBYNU9senhQZUIxUXpUeDQ3NmxfdzAySGZpc2N5ZUtJclVXUFBmMnpoNmc3bzNYUGNxdmtDV3BoRVZpb2xFcmJ4eHJVdDlmR09HOVVSbG1QQ21iMGU2bnRpWkYyNjRqc1NkeGxIRFdZVTJfNkJOUk1URF9GV3l3Uk1UdU1uYzJBUTJzQ0RIQWNwOUZjSHpWUXhhb1Y1MWVaLWFaUjV4enRmYjNjYjRVWElyTXdkWWNmcWtQY3F4S0UzNTBkYzk1N1Y1OVE3ZE9PUDNmQ1N4UXk0OVUzaGtBRDhvbHZxdDlzWmdRTTBKSEdyYkIzS1HSAbICQVVfeXFMTldkYXcxeTVkdGNxdHFqSnItSFB0dXZrNlhBNk9DUV9ydnZELTF1aXotQy1HUFllSkxZaWpZWkxvd2liQnFwWDVPbHp4UGVCMVF6VHg0NzZsX3cwMkhmaXNjeWVLSXJVV1BQZjJ6aDZnN28zWFBjcXZrQ1dwaEVWaW9sRXJieHhyVXQ5ZkdPRzlVUmxtUENtYjBlNm50aVpGMjY0anNTZHhsSERXWVUyXzZCTlJNVERfRld5d1JNVHVNbmMyQVEyc0NESEFjcDlGY0h6VlF4YW9WNTFlWi1hWlI1eHp0ZmIzY2I0VVhJck13ZFljZnFrUGNxeEtFMzUwZGM5NTdWNTlRN2RPT1AzZkNTeFF5NDlVM2hrQUQ4b2x2cXQ5c1pnUU0wSkhHcmJCM0tR?oc=5",
+      "published": "2026-11-19T16:42:20Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-19T23:18:09Z",
+    "fetched_at": "2026-11-20T00:17:51Z",
     "items": [],
     "debug": {
       "bytes": 498,
