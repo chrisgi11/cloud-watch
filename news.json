@@ -1,8 +1,14 @@
 {
-  "fetched_at": "2026-11-20T15:18:30Z",
+  "fetched_at": "2026-11-20T16:17:39Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "After Microsoft 365's nearly 24-hour outage, Satya Nadella warns AI could help attackers operate at nation-state scale",
+      "source": "Latin Times",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY1BhX0M4aE5JR0YzcWFBYzZtc24tNHFxMWRzVmxPeEprXzRTWXcwVU4tcXlqV1RYa0IwMXlOUHBhd0lXT2wxNXV4NmhKZEJpcE90U2hPSWNHX0V4Q3ZWMXVqd2U0SzVmaG5CZnlmNjZ2VExuWVgyNGctVFZRMGNJYWZQVzJaQmd0OHJtRk1Sd0E?oc=5",
+      "published": "2026-11-20T15:37:58Z"
+    },
     {
       "title": "APRA calls Microsoft outage a \"near miss\" for financial system",
       "source": "Insurance Business",
@@ -37,19 +43,13 @@
       "title": "Microsoft went down. Finance staff just found workarounds",
       "source": "Financial News London",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSGNTMzNNVXlsaml0VG50ODcxcHE5N2lzY1ktOUw5ME9lQkJjT3kxTkFvOUIwNGJ2cjRuTVBWUXRuZGpSUXVab2hfSE80YWp2WHVSX2Z2N1gwZHVnNUh5ZlFtUnhJUFc2WG1UNThtN29UODFIQ2VLa1Y3Szg1V1czWV9ycFNOOUFzMERmdnAwZXJBQmhwdVZyc09MVGVsVEpl?oc=5",
-      "published": "2026-11-20T10:27:40Z"
+      "published": "2026-11-20T10:39:32Z"
     },
     {
       "title": "Microsoft works to restore global Outlook outage affecting Teams and Copilot",
       "source": "IOL",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObFZzaU8tbVRBMmRpb0V5bUlKcmc1VWstampqcjRwbkUtX2ZCR2NwRGtpZXh3RkVPd2RZUUEtdlkzOHlqR2h5c1F4Ymx2R2x6SExiZjVaUm1qVHRkaG5kTVJMYWFsVHhRSUtKM2ttb25hbmlhb29YTVE1Zl81ZlNucGFySktmWEpNaWJlczFlbk50Vm96M25lTEJkc1p6d3dWQndiXzVuWS1aZ0psY3phMkZudVhpYUNINHpJ?oc=5",
       "published": "2026-11-20T10:12:14Z"
-    },
-    {
-      "title": "Microsoft outage cause revealed: It was a perfect storm of problems",
-      "source": "Mashable",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aOXNncW9QdWVtZ3RXTHF5VnFncFJTcXptUWtGX0V6azdmcXZVQjBienJMdzJydEdseXhVZHZRcExPbS0xUXlCcXhyX2RDOUZOd0h3bEhwU1hiNF9hc0FNdTZLSkJGUVpz?oc=5",
-      "published": "2026-11-20T08:01:35Z"
     },
     {
       "title": "Microsoft 365 outage halted social services in Orange County",
@@ -62,12 +62,6 @@
       "source": "BigGo Finance",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwSEFsTWhrUjNWMVRkbkdFT09QZFhJSGlLVzVNN0txUjVOaHBiZm1xMEUwS056ZE51SGU5YzRBNWhiV0s5dVdYMGx1MGxKWHh6WjQyWmpSUDFJUjlGZzB1R19kTmlJTkdrQV9kd3JDVi1aeGtQMHc?oc=5",
       "published": "2026-11-20T03:25:00Z"
-    },
-    {
-      "title": "Microsoft CEO Nadella faces uncomfortable reality after outage",
-      "source": "TheStreet",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaEM1eWJqRDV1dG5iSzNxNmhVaXZiRW5rd1UzOTIzSTlqeUhYU1lvUm9mdHpHRFBRemZKdlZ3a2lJaE1VcmV0ZzNyWTJ3Zy1qQlIyekFMbG1OYWVHUUFjTGRjTEREZ052M2FOVlQ0QW9TbHU5c2h2dU1wS3l0MS1yMHgxN1Z1aHRFWmw3UkJfWXBuU0pGTUtneERzb0VnUks3?oc=5",
-      "published": "2026-11-20T00:47:00Z"
     },
     {
       "title": "Microsoft Shares Rise 0.40% After Nadella Apologizes for Outage",
@@ -92,10 +86,16 @@
       "source": "Fortune",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaS15THU3NWZJcTNpQWktQUN0ZTNrOHZwcEdBYjV3UlpUMWE5bGtCNEJzcW5sWGU0NkE1Z2d4anMzaUx3ZmVLLWlUSWU5WkltLWZ1YU9JYkF4MzVyLWVVbERQSjZTV2RzQmh6RzF2SmZKZHhkeE5HS2Z2R09MVkh1dlc3NF8zVDF6alYzaDU1cWlRSTdCbGJPRWdB?oc=5",
       "published": "2026-11-19T22:17:00Z"
+    },
+    {
+      "title": "Microsoft\u2019s Outage Wasn\u2019t the Real Failure. The Dangerous Part Came 36 Minutes Later",
+      "source": "Inc.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOUJyb0RoSnFuM3R6Y19rRndNX3BYWlMwZU8tVVlNemxNRHBOWHBGQk5JbjZabGxTSnh0eGxsdGl2ZkJJYmFWVF9UUS1oc3RUTGZ4QTMtbDdrSVk3cXRCZWQ0VnctTWtJam1tMmVXWl9FNXRObEFzc2tNbFVYMVZ2RHFtb3N3YzdKUHQ3NTEzU3B2VFd6MlpDRkEzU0VQY0FEelVNWg?oc=5",
+      "published": "2026-11-19T21:49:56Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-20T15:18:31Z",
+    "fetched_at": "2026-11-20T16:17:40Z",
     "items": [],
     "debug": {
       "bytes": 498,
