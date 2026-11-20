@@ -1,13 +1,19 @@
 {
-  "fetched_at": "2026-11-20T10:21:10Z",
+  "fetched_at": "2026-11-20T11:18:01Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
     {
+      "title": "Microsoft went down. Finance staff just found workarounds",
+      "source": "Financial News London",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSGNTMzNNVXlsaml0VG50ODcxcHE5N2lzY1ktOUw5ME9lQkJjT3kxTkFvOUIwNGJ2cjRuTVBWUXRuZGpSUXVab2hfSE80YWp2WHVSX2Z2N1gwZHVnNUh5ZlFtUnhJUFc2WG1UNThtN29UODFIQ2VLa1Y3Szg1V1czWV9ycFNOOUFzMERmdnAwZXJBQmhwdVZyc09MVGVsVEpl?oc=5",
+      "published": "2026-11-20T10:27:40Z"
+    },
+    {
       "title": "Microsoft meltdown: Outlook, Teams and Copilot hit by global outage",
       "source": "IOL",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcUdkZE1oOFJNQ3g5REZ2V1gzMXJmZnZla004ci1oelpldnFDYm1FaHREVXNSanRDRUgwTEI0U3NBU0FaNS1sOU1iQUNDZ0JVOW9qRy15UVdNeUQ2LXlLNDlENmJ0bVJjeXVST1l5dFZDUGZhaVRTM3FocU1ZMk1MTGJGQ1VYd3VpSmpQZTFpLUU0dmpIa1NmRE9mZlR0eTVLMlBCRzc0Z3FYaTlhZEoxc3RR?oc=5",
-      "published": "2026-11-20T08:13:44Z"
+      "published": "2026-11-20T09:12:10Z"
     },
     {
       "title": "Microsoft outage cause revealed: It was a perfect storm of problems",
@@ -34,10 +40,10 @@
       "published": "2026-11-20T03:25:00Z"
     },
     {
-      "title": "Andrew Cullen | Microsoft outage shows that big tech can\u2019t be treated as too big to fail",
-      "source": "News24",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcFJfVGlPbmVjZko1Qkl0emlKNU5Gc09IRWQ4b1dkYl9XMnNxQ2xPX200aGtaeG5oZmpaSXcxSExfZG9wS1FaNzZ3aEZyMmVRbjJEckYtT1RWVjE5MnNKaEMxY2dGbGJ4RWxQX19INXhnUEVrU1Z5bDU4cDdrbG9tdFI1SjZoSHFHbW1vZ3dvZmFTVFFNWlI0Q1h3MkZ5cTR0T29fZnpIWXNhUkZRV3A5MnkwaVB3OEEyenB3dGM5ZVVhRUNlaFdVbzlnMjVBallsS0tPeEJ3TE5aUkc1b0xJ?oc=5",
-      "published": "2026-11-20T01:20:05Z"
+      "title": "Microsoft 365 outage causes: how the gateway failed",
+      "source": "NeoTeo",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRHJ4c0RSbzNSbFdUc2VSUHgwS3VYaWNLYmoybzBURFA2LTh3NEc1M1R4XzBsblBVUWdhVG4tX25ja2ZQTkIxZ2Jic2xoQkVmNlpZVndvZC1VXzk1TTd5VHpaelQ0QWtxdnNvY2dTSGZSMjdTZGR4bEJYNk1hbUx1SzNn?oc=5",
+      "published": "2026-11-20T00:58:20Z"
     },
     {
       "title": "Microsoft CEO Nadella faces uncomfortable reality after outage",
@@ -82,20 +88,14 @@
       "published": "2026-11-19T19:06:14Z"
     },
     {
-      "title": "Microsoft 365 outage cause: how the gateway failed",
-      "source": "NeoTeo",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONHRyYXFLOUlUSEJqSGVwM2EyRjVydEZhMmt2LS02M3FIOHBXZHRHSjlSOHN0cUc5Q1NOMEtqUnhHOUxxMzdXUTJ1MlNrbGpxOEd0T0daZUVBVTVTbEtVeGlwc1VHaVUtZlpkV2d0dDdkU2dwMVJDMm56Q01lNU41Yw?oc=5",
-      "published": "2026-11-19T18:11:47Z"
-    },
-    {
-      "title": "Microsoft CEO Sounds Alarm on AI Software Risks After Major Outlook Outage",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbXNWQ1MzSmNMbmZ6M1FzcmlrOHpaUzdOeDNsVG5KS3RPbUVacEF1QmJ1Z0x6UE1RT001bi1SSEFuUUpyX2gtUzZScTV4Q2dIcGlXYTNKUVBtS1d6Mm9VT0d2MEZIaXJfZDVZYTMxWVRmRnBGbldVQ0Q4aXd4azVmRm1uSVNtV0pkdEdhcXA5RHZ4YnZ6bG9PcnNwU0JXMF9qSnNsNTk1aWNXNTUzaGhoR1hHU3Q2a3QyQVNfNHpJWVhUX29LY0ttcElSQ3oyUnc?oc=5",
-      "published": "2026-11-19T18:07:18Z"
+      "title": "Andrew Cullen | Microsoft outage shows that big tech can\u2019t be treated as too big to fail",
+      "source": "News24",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcFJfVGlPbmVjZko1Qkl0emlKNU5Gc09IRWQ4b1dkYl9XMnNxQ2xPX200aGtaeG5oZmpaSXcxSExfZG9wS1FaNzZ3aEZyMmVRbjJEckYtT1RWVjE5MnNKaEMxY2dGbGJ4RWxQX19INXhnUEVrU1Z5bDU4cDdrbG9tdFI1SjZoSHFHbW1vZ3dvZmFTVFFNWlI0Q1h3MkZ5cTR0T29fZnpIWXNhUkZRV3A5MnkwaVB3OEEyenB3dGM5ZVVhRUNlaFdVbzlnMjVBallsS0tPeEJ3TE5aUkc1b0xJ?oc=5",
+      "published": "2026-11-19T18:50:05Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-20T10:21:10Z",
+    "fetched_at": "2026-11-20T11:18:01Z",
     "items": [],
     "debug": {
       "bytes": 498,
