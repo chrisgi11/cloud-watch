@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-20T20:17:53Z",
+  "fetched_at": "2026-11-20T21:17:57Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
@@ -43,7 +43,7 @@
       "title": "APRA calls Microsoft outage a \"near miss\" for financial system",
       "source": "Insurance Business",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaGtPRFVEM2tLVktzRjNBbFJDSTZUSnVYbVhEOWtVVlRNQ2Q3dnhfNEpGR3daMl9nc09KU2pXVEpGdEhLSVlIYVJNOU8yZWRwM1NZc051VzdieEkxY1Vzckh3UE0tbTFUR1h6SU5MRW4zMWJYTHhNbnRSSnVGcXpHZnZOZmtEbUgtTWNNQ25Ia3lBY2l1U2dnbjc0TmNkbTVqbjBncmVBV3RVektlYXhSRElCcFRhWWw0akEtQ3A2ZVE?oc=5",
-      "published": "2026-11-20T14:56:39Z"
+      "published": "2026-11-20T15:00:48Z"
     },
     {
       "title": "What caused the Microsoft outage?",
@@ -95,7 +95,7 @@
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-20T20:17:54Z",
+    "fetched_at": "2026-11-20T21:17:57Z",
     "items": [],
     "debug": {
       "bytes": 498,
