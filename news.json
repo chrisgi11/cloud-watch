@@ -1,8 +1,20 @@
 {
-  "fetched_at": "2026-11-21T16:18:31Z",
+  "fetched_at": "2026-11-21T17:18:13Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Microsoft 365 Outage Raises Cloud Reliability Concerns",
+      "source": "varindia",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRjBQREZDTE9NQUdSLUMxRzg3b2gxUTNUVVRSZU96SFNwN1R0V0JBbldrdWZUSUx3a2k0b0hDRm9Rc3dXYnVXWEVWRU5RbGVTdjdEWVdEd1JkbzlYOU5JaVYxUnY2RXRXZHdXVVozaVVKM1kta2x6Z1FvS2wwajAzZG1xR0RvdEFtUURKSg?oc=5",
+      "published": "2026-11-21T16:38:01Z"
+    },
+    {
+      "title": "AWS outage on Nov. 15 disrupted 11 services in us-east-1 and went unnoticed",
+      "source": "news.lavx.hu",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT2t1WFliYTRldnUxeWZnd2I2a1JVd0llSlVWVWZRbGZqZ3dwM2Y3OUxNb1dvd01BYkNIVjBlblYxVXNwanZCNWJYRkh2c3RGTnlrNlJhUFZRQ0pkMkcwYUpXbHdfdEgxc1VHWllSUHV3VVAtYl9zdmpkSjFld3FaOEhiS0FJdHRGVlpqcnROZGNoVmM2OFZfYXRSY2VyNGJ5dndKMUhB?oc=5",
+      "published": "2026-11-21T16:16:05Z"
+    },
     {
       "title": "Downdetector Logs 14 Million Outage Reports in Its Busiest Week",
       "source": "The Eastern Herald",
@@ -80,22 +92,10 @@
       "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV09SdFVrTmt1VlN1QW5LVWRoTUk1YVMtNUlDSU1iY28yM3IwWXQ1dWR0Y3ZWZVFWakJvOEFaaEwzUHlubU5NbDVxMWRvaFZlZTVBRTUxVXVic2FDQVlSSV8yYXRoX0h3SWhjUFY1bC1VRXlCdnczeWFzV1JWeFozbFZRUHAzSGh2U1E?oc=5",
       "published": "2026-11-20T18:00:00Z"
-    },
-    {
-      "title": "Microsoft 365 Outage Today: Is Microsoft 365 Down in the US? Users Report Word, Excel, Outlook, Teams, OneDrive, SharePoint and Login Issues | Check Latest Downdetector Status",
-      "source": "The Sunday Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOWFVhdGhCWUNSeTBBTTVzQm9fMmFTd3cxUkU0Mk1tQ2MxeTFEcmltc2hCWVR4SE5vc0ZEbnN2QkVSRVJmREtSYVBMOFlialhObEdCWXFuNGxRMEVKRERzOG5nNHpELUZteHpsLXh6NzVPNk9rejVfb01nZmkxdHpVeDgtNmNlcUE4UDJKazVOMnJsdmRNZ0hhNnpmT3JHeUZkRExiZU5xZ1FzN3RZT0NYbU5KRkpfVXpiTUpTZU9Ob0ZvdGRDcHFtNGNnSW1Ta1V3Vk5jVzN1SkF1U0RhQjVUclR4WHYxTVFXcTRYbFRRWmJ4amlkOGVyQUJWMkkxWHk1S280a1Y1enIxOVFpQU8wc01QbXVXSmI3aDNVdU1SNW9nNF8zcEt6eEFTeHZaaDdDOVNSQVBydW1KZ9IBvwJBVV95cUxORTJBeTIyNmx1MVdBeEYtc1ZOblRScFRlXzhRenZKXzVVamw3ZXI3NS13Q0IyQXFaNjhScUpUX2JtQzZUY2Z4X0J2dTFmMHVHX0ZpR2g3UUE3VXkzOUdjSXBzaUZPdExXb3E3SW9pX1dJZ1JKcTFBdVhCYVE5R05wbG5kYk5NbzlhSm9yck5ENVNLMjZjdGhSTENLLVBjeFZjWjhpdDhoUVd6aGdrNEppdURPUWI3SnBiMmV1ejBmekRrRk1JQVZiR0QtRV83ZVlSaWJudF95Mm1PNFlINlBSZkZDZThrWkM0b3I2VC1wZm92emk1a3VFczMyZmVUMWV1N2E4bjZvYjFhQV9yeE1DVkNPWmZFSWdDN08xMlZHaE1sZzNLYkpSYmJOTk1OTW0zU1d2NjhwZlkwWWtYVEx3?oc=5",
-      "published": "2026-11-20T17:16:57Z"
-    },
-    {
-      "title": "Microsoft Investigates Attachment Upload Failures in New Outlook",
-      "source": "CyberSecurityNews",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GU3QyZkQ4MFFzb2VKWjJDbWNfeTVlTzBWeDIyQktMUmRyaVgzZGJNSGxwcTVnenhvamJFSlhpTjRRaC1NVGQ5eWVIWENZVlBnNmdEZTNGQjVTMGtUWXRsOElITVM1OUgxMjZxZV9NeGlHNk01cWfSAXtBVV95cUxOd2FnZWdJTzNpMmwwWmo3T2JHTWpOQ3ZNZHBVVTEzV3I1ZThUa2I2UG1LZTJPTm10QS1HVlo5RmhPTHdlYkJLZ3R1dFpyV2xJTzdjb25DN2RFS1ZoSDl6STczZWwybjluUXZuZmh4RjFDd2tXU3U4WnFVczA?oc=5",
-      "published": "2026-11-20T17:01:31Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-21T16:18:31Z",
+    "fetched_at": "2026-11-21T17:18:13Z",
     "items": [],
     "debug": {
       "bytes": 498,
