@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-21T07:17:50Z",
+  "fetched_at": "2026-11-21T07:36:04Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
@@ -8,6 +8,12 @@
       "source": "Mumbai Mirror",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRWUwcXJ1alVDQ05kdkpjcGF2V0dYam1GLUsySUVNaENOc2lsb184dmNvR0RtdnFKWTBrbThXQzNMSTNyeXBteHk5QUNoOUdJMHdtZkNxd0N2UUlsM2R0Ni1XelJBVDFRU0F3RmltVXB4R29vS09rN09FMWxWWnNBWmNRejBJOGtkLW5mU2hWVW9yM3pWVmp6dE9R?oc=5",
       "published": "2026-11-21T06:33:06Z"
+    },
+    {
+      "title": "Microsoft outage hits South African businesses, government services and universities",
+      "source": "IOL",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPendFUktGazBkcURFNFpQUjZEWnVwWWNNb1MwVkxjSFdpejVTOW13VExocHpTaTVRSmRaMnlkLTFDUzNzb2kxNm5oZUlRR185V2laWU5fYVFRbURRdExXUFVfVFBSSHRpYXBqb1NGVTVuMjlfSWRUZmx1U0hseEk0MGRrV0ZIWVU1MER2bVNOSWM2YUJhaVMtdUctdklJU20yQkRpZVIzb19OSDNqVE9uU3Vyb0JpbkcwMzZZdnJYaw?oc=5",
+      "published": "2026-11-21T06:15:19Z"
     },
     {
       "title": "When the suite goes dark: What Microsoft 365's November outage means for CIO resilience plans",
@@ -20,12 +26,6 @@
       "source": "IOL",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcUdkZE1oOFJNQ3g5REZ2V1gzMXJmZnZla004ci1oelpldnFDYm1FaHREVXNSanRDRUgwTEI0U3NBU0FaNS1sOU1iQUNDZ0JVOW9qRy15UVdNeUQ2LXlLNDlENmJ0bVJjeXVST1l5dFZDUGZhaVRTM3FocU1ZMk1MTGJGQ1VYd3VpSmpQZTFpLUU0dmpIa1NmRE9mZlR0eTVLMlBCRzc0Z3FYaTlhZEoxc3RR?oc=5",
       "published": "2026-11-21T04:40:53Z"
-    },
-    {
-      "title": "Microsoft outage hits South African businesses, government services and universities",
-      "source": "IOL",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPendFUktGazBkcURFNFpQUjZEWnVwWWNNb1MwVkxjSFdpejVTOW13VExocHpTaTVRSmRaMnlkLTFDUzNzb2kxNm5oZUlRR185V2laWU5fYVFRbURRdExXUFVfVFBSSHRpYXBqb1NGVTVuMjlfSWRUZmx1U0hseEk0MGRrV0ZIWVU1MER2bVNOSWM2YUJhaVMtdUctdklJU20yQkRpZVIzb19OSDNqVE9uU3Vyb0JpbkcwMzZZdnJYaw?oc=5",
-      "published": "2026-11-21T04:18:50Z"
     },
     {
       "title": "East Berbice in grips of 24 hour power outage",
@@ -95,7 +95,7 @@
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-21T07:17:50Z",
+    "fetched_at": "2026-11-21T07:36:04Z",
     "items": [],
     "debug": {
       "bytes": 498,
