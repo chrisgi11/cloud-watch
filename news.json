@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-21T00:18:09Z",
+  "fetched_at": "2026-11-21T00:20:13Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
@@ -8,6 +8,12 @@
       "source": "Mashable",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aOXNncW9QdWVtZ3RXTHF5VnFncFJTcXptUWtGX0V6azdmcXZVQjBienJMdzJydEdseXhVZHZRcExPbS0xUXlCcXhyX2RDOUZOd0h3bEhwU1hiNF9hc0FNdTZLSkJGUVpz?oc=5",
       "published": "2026-11-20T23:34:55Z"
+    },
+    {
+      "title": "Microsoft meltdown: Outlook, Teams and Copilot hit by global outage",
+      "source": "IOL",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcUdkZE1oOFJNQ3g5REZ2V1gzMXJmZnZla004ci1oelpldnFDYm1FaHREVXNSanRDRUgwTEI0U3NBU0FaNS1sOU1iQUNDZ0JVOW9qRy15UVdNeUQ2LXlLNDlENmJ0bVJjeXVST1l5dFZDUGZhaVRTM3FocU1ZMk1MTGJGQ1VYd3VpSmpQZTFpLUU0dmpIa1NmRE9mZlR0eTVLMlBCRzc0Z3FYaTlhZEoxc3RR?oc=5",
+      "published": "2026-11-20T22:47:56Z"
     },
     {
       "title": "Microsoft outage hits South African businesses, government services and universities",
@@ -86,16 +92,10 @@
       "source": "The Queen's Journal",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQWE0ZDFoM3Rtdm1lTXJhOUx1Qi01ZnY3c1VoU1RNeEcwS20xcjF4Rk1rUlJSZVo5aVA5OUxaYU1tUG1NY2k3aDBZZ0RXMTN2MGx6ZUJJWXpkUHVuZ0xDdlYzVkFnU3NOUmZveDJDZi1YOUNXVFRsc2R5WnRZcndEMVZMRlFDVURUNFFz?oc=5",
       "published": "2026-11-20T12:55:07Z"
-    },
-    {
-      "title": "Microsoft Outlook Outage Today: Is Outlook Down in the US? Users Report Problems Receiving and Sending Emails, Login Issues | Check Latest Downdetector Status",
-      "source": "The Sunday Guardian",
-      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNLS0tZHR6dkd3R0RjU19SWEpFRnFLb1RlM1NCQjNWelhKOHFTVW4zNHVJRnhjWWlCTUJMSFV1YXNBcmcwQkZhWG84T3pxR2d2V185eWVjVVR6RG5UUUtmNFFJOXhkYW5VcXVzdHkxWVo5WkRwZ19BUXpLeVpZTlYwY1U0WWR3QTdEZ2pObzlyZzA0clVnUV9Fb0NjSEl5c1RBMmY3bUQzdE9MdnJsaENVeGplZ1U0MTBZNERLQy0ybkhrRFA1MUZFOXE5SUtTbWhpQ051bF80ZGR2R196RlctMkd0V2xoUng4ajFXcnVfeWNuQ0I4Ul8zVDBXNjdhb2Z6cThrSktuZTI0bkVBVnRVNW0yWlNKQzhDNHRmMm94Qkc3OGJS0gGqAkFVX3lxTE5fUndhVEJib0ZuM0pKTmRidC1CcXNwWEdtb0NJZ2duUkxuNndQNVd5eS1iTjhJX1QySTZkNFBRNVZXSF96bkpQWkhfQVNUelc0Z2FCMjJlcVNUQWlmNGh2M3hTRGJrcjJwZWdyT29jOXZaN29IWjRwZzlrdTJlNUo1bHhLa0NGM0JUOE1HWHJMSWlodFdqQjVjNms0bERnNjgxSTN6OUxqODVwTEhncHNLbGpMbGdQSDFlUkUwTzgwemRRREp0QnhiRDdSc2FQVVl4ODlEVHpvczZwN1FZNU9FY3pJNUJmeFdZMDdGaVhqQkVaZjhyNjBpTjBTR19pSWZLeFh2NUxDN1BKVVFSWG5CeHI4Z3hHS3NycGVOWnV5M0FPUWZYZnRLdWc?oc=5",
-      "published": "2026-11-20T12:50:31Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-21T00:18:09Z",
+    "fetched_at": "2026-11-21T00:20:13Z",
     "items": [],
     "debug": {
       "bytes": 498,
