@@ -1,8 +1,14 @@
 {
-  "fetched_at": "2026-11-21T02:18:27Z",
+  "fetched_at": "2026-11-21T03:18:03Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "East Berbice in grips of 24 hour power outage",
+      "source": "Demerara Waves Online News- Guyana",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM2V1VnpZUWI0dmFja1JjUlBzLXRyTndlLWVvcU9jOGFGZ1lvWG9GOGt6QnFPa2JyUDhLNGJscWliWVJWYkFXUmREQ18yVDkzUzcwbHNfNUdfTEZ3bm5XdzF0LUtBckw3NXY0RzBlS01RcWFHc2xyajJqYVQ2dnpXTkZTX1ZkMFRYLUhN?oc=5",
+      "published": "2026-11-21T03:13:23Z"
+    },
     {
       "title": "The Outage Flu of 2026: Why is everything breaking at once?",
       "source": "CityNews Toronto",
@@ -10,16 +16,16 @@
       "published": "2026-11-21T01:36:00Z"
     },
     {
+      "title": "Microsoft outage hits South African businesses, government services and universities",
+      "source": "IOL",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPendFUktGazBkcURFNFpQUjZEWnVwWWNNb1MwVkxjSFdpejVTOW13VExocHpTaTVRSmRaMnlkLTFDUzNzb2kxNm5oZUlRR185V2laWU5fYVFRbURRdExXUFVfVFBSSHRpYXBqb1NGVTVuMjlfSWRUZmx1U0hseEk0MGRrV0ZIWVU1MER2bVNOSWM2YUJhaVMtdUctdklJU20yQkRpZVIzb19OSDNqVE9uU3Vyb0JpbkcwMzZZdnJYaw?oc=5",
+      "published": "2026-11-21T01:23:52Z"
+    },
+    {
       "title": "Microsoft meltdown: Outlook, Teams and Copilot hit by global outage",
       "source": "IOL",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcUdkZE1oOFJNQ3g5REZ2V1gzMXJmZnZla004ci1oelpldnFDYm1FaHREVXNSanRDRUgwTEI0U3NBU0FaNS1sOU1iQUNDZ0JVOW9qRy15UVdNeUQ2LXlLNDlENmJ0bVJjeXVST1l5dFZDUGZhaVRTM3FocU1ZMk1MTGJGQ1VYd3VpSmpQZTFpLUU0dmpIa1NmRE9mZlR0eTVLMlBCRzc0Z3FYaTlhZEoxc3RR?oc=5",
       "published": "2026-11-21T00:46:30Z"
-    },
-    {
-      "title": "Microsoft outage hits South African businesses, government services and universities",
-      "source": "IOL",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPendFUktGazBkcURFNFpQUjZEWnVwWWNNb1MwVkxjSFdpejVTOW13VExocHpTaTVRSmRaMnlkLTFDUzNzb2kxNm5oZUlRR185V2laWU5fYVFRbURRdExXUFVfVFBSSHRpYXBqb1NGVTVuMjlfSWRUZmx1U0hseEk0MGRrV0ZIWVU1MER2bVNOSWM2YUJhaVMtdUctdklJU20yQkRpZVIzb19OSDNqVE9uU3Vyb0JpbkcwMzZZdnJYaw?oc=5",
-      "published": "2026-11-21T00:24:07Z"
     },
     {
       "title": "Microsoft outage cause revealed: It was a perfect storm of problems",
@@ -34,28 +40,10 @@
       "published": "2026-11-20T23:34:28Z"
     },
     {
-      "title": "Anthropic Claude down: Why it said it was unable to authenticate code",
-      "source": "Mashable",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcDBjX2hrQXlxUEV2Q3pZVUlzVUpPcTU1TFpiaGY4bEtualhpY2FWemdBQnlpclpESjlVSkxobHJ1NDJyZU9FZlJSQW9odU1zUmdvazJqUXV6YmxPYmRDc19HWnNBTDRwRHVGcWJLc1VGZDd4RWxHUTF0Z0lKd05vOA?oc=5",
-      "published": "2026-11-20T23:30:34Z"
-    },
-    {
-      "title": "Microsoft Investigates Outlook Attachment Upload Failures",
-      "source": "Wisevoter",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNkFGN3ZQd2Fqb0dLbGhhVks5NWd5UnFtTXFVYWFFczRiejlRSzFjYlY0VWZoMVkxWDJfVVY4WWFRQVZTODI3VEdrQUZWcVNmbjdhdDZIUUY1N1haSDN4OW81Y2pINzhiS2Q3cmkxNGNURDlTWEhtcFdub1lFSU9iMW1zMG1BWkpuYXlKZGhfblpPT0hXSFZNTzA2a2tCeV96ckE?oc=5",
-      "published": "2026-11-20T19:44:27Z"
-    },
-    {
       "title": "'We ask whether you are now willing to listen': LibreOffice maker asks political organizations why there was no backup plan following the major Microsoft 365 outage",
       "source": "TechRadar",
       "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPWDFoYmROd2pOeGlHeU1tLUU2SWVtSm1sODlLeFZ0blpSVnY2N3NDcGJha3BkNUZ1LXdDTkVCbmsyR3l4ZUEwcjYzNmk0SHk5WTZXems3bUp5cENmRlNmSlgxMDZPTzJMaFhsa3Vld1VydzZscVpDcmMxLXp2MEh6ZHFMTTFYbXVVOUo4T3dsU1FhRFZRemhzLW1lcHFCdHhDTHpwQ1RwT0ZVSk44Z19aSDVPODBDSVg3LVFhcDFxS2Q1d1lfbERwWXBGTXZXOGppaUpOSy0zMWIxTVZuaGxIUnhyMHg1WFl4OFYwSldqcENQVmVfcERHeUlnaUFsNzFfWF8wTTl0N01TYWRIeUQ5dUVlTi16Y3o4cDEw?oc=5",
       "published": "2026-11-20T19:05:00Z"
-    },
-    {
-      "title": "Microsoft Confirms Global Outage Was Caused By One Of The Kids Downloading Link_Park_Numb.MP3",
-      "source": "The Betoota Advocate",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZWtiR003LU9FRVdCeG9WVzRPVVQya3BYQkxhVXFGcVVpTXZiTWhZZmNMSDFjZ0pzTzViWktxNndsbGlWTVg5NmNIQ0t2LW9MSm5HU3p5Y0FvS1hpYjZhN05ZWGZqVVdmcGEzX1NQRWdETHNQandmaXB3Si1YRVBzcDF2ekhvS0NVdUtkQ3IyczN3dXRSLTdKZVdrZ2JwNmg1aXVuZk44bno4N2tqY0xYSUNWdzdqajk1MndJQmo0NkVUcnlR?oc=5",
-      "published": "2026-11-20T18:54:14Z"
     },
     {
       "title": "Microsoft Investigates Attachment Upload Failures in New Outlook",
@@ -92,10 +80,22 @@
       "source": "International Business Times Australia",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM0RNOTBrZXhGQS13MEY3eU95NGozaTZrZEhLUld3VGU3eW1iUHc1ekNkT1J3emRNcVAxTmZ4N3gwWE1hZV9ZczMtZzhla25jOFY3UTNnNXNHanZwN3VwWmtSSlo3MmZZcFdvUG1HVjdHVDRpWmhpM2hVQUtkcnlSVXpEZXJMbzRqZVE?oc=5",
       "published": "2026-11-20T16:47:56Z"
+    },
+    {
+      "title": "After Microsoft 365's nearly 24-hour outage, Satya Nadella warns AI could help attackers operate at nation-state scale",
+      "source": "Latin Times",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY1BhX0M4aE5JR0YzcWFBYzZtc24tNHFxMWRzVmxPeEprXzRTWXcwVU4tcXlqV1RYa0IwMXlOUHBhd0lXT2wxNXV4NmhKZEJpcE90U2hPSWNHX0V4Q3ZWMXVqd2U0SzVmaG5CZnlmNjZ2VExuWVgyNGctVFZRMGNJYWZQVzJaQmd0OHJtRk1Sd0E?oc=5",
+      "published": "2026-11-20T15:37:58Z"
+    },
+    {
+      "title": "APRA calls Microsoft outage a \"near miss\" for financial system",
+      "source": "Insurance Business",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaGtPRFVEM2tLVktzRjNBbFJDSTZUSnVYbVhEOWtVVlRNQ2Q3dnhfNEpGR3daMl9nc09KU2pXVEpGdEhLSVlIYVJNOU8yZWRwM1NZc051VzdieEkxY1Vzckh3UE0tbTFUR1h6SU5MRW4zMWJYTHhNbnRSSnVGcXpHZnZOZmtEbUgtTWNNQ25Ia3lBY2l1U2dnbjc0TmNkbTVqbjBncmVBV3RVektlYXhSRElCcFRhWWw0akEtQ3A2ZVE?oc=5",
+      "published": "2026-11-20T15:00:48Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-21T02:18:27Z",
+    "fetched_at": "2026-11-21T03:18:03Z",
     "items": [],
     "debug": {
       "bytes": 498,
