@@ -1,8 +1,26 @@
 {
-  "fetched_at": "2026-11-21T14:17:43Z",
+  "fetched_at": "2026-11-21T15:18:04Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Microsoft outage cause revealed: It was a perfect storm of problems",
+      "source": "Mashable",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aOXNncW9QdWVtZ3RXTHF5VnFncFJTcXptUWtGX0V6azdmcXZVQjBienJMdzJydEdseXhVZHZRcExPbS0xUXlCcXhyX2RDOUZOd0h3bEhwU1hiNF9hc0FNdTZLSkJGUVpz?oc=5",
+      "published": "2026-11-21T15:09:56Z"
+    },
+    {
+      "title": "AWS got hit by an outage too. Here",
+      "source": "cedarnews.net",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA3VGMzR05LMGZqQ1pmVjkyMFk5ZkpTQlNaMGJ4OTBmMDZnak1xVi00Q1hwc3YxWmdXZExzclljbGppMHA1Mm1kVEpNSW1XOERaYzM3cUZwUTRnaHcwZHQzOC1raFBFOEVzOUlVMjNRREc5STBod3M0?oc=5",
+      "published": "2026-11-21T14:41:20Z"
+    },
+    {
+      "title": "AWS got hit by an outage too. Here's why you didn't hear about it",
+      "source": "The Register",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbXlBSFZUSWo1TVBlTTlRaTBPUFhGVU42RWJpY0YySlhpSG44emVVZTc1QnR1Z3oxVzN0NE5RSkJsUjdMNTFDaXBKQzUxRFJkNmU4bUUwSUJNTjdJOVh2cG9QLS1qQ2s2UzgwN25ldjZpYzQ5cXl1ZmUwMkNtTmxnR01INk1oZExFWlEzVHNUaVdhTDdZTXBSSTEwS0lpdklEWmFWYTZzcUVrNDZ0b0VxWC1McUV2UUhxOXN4OQ?oc=5",
+      "published": "2026-11-21T14:35:00Z"
+    },
     {
       "title": "Microsoft Says Over 80% of Gateway Servers Failed in Outage",
       "source": "JournalArta",
@@ -20,12 +38,6 @@
       "source": "Mashable",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLWUhCMk96bVJoQUhfcVdmc0k0UTJtTENtM2hiUDM3djdEbnVtRmlyUmtRQkotNnFxQ0xneFBfX204TmFyLUttZ09iU3ZXSC1UMG5JRDd2eE5yVnlxOXF3Y0ZnVVh5Y3JjRWFYU1Zid0xqOUE?oc=5",
       "published": "2026-11-21T13:06:29Z"
-    },
-    {
-      "title": "Microsoft outage cause revealed: It was a perfect storm of problems",
-      "source": "Mashable",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aOXNncW9QdWVtZ3RXTHF5VnFncFJTcXptUWtGX0V6azdmcXZVQjBienJMdzJydEdseXhVZHZRcExPbS0xUXlCcXhyX2RDOUZOd0h3bEhwU1hiNF9hc0FNdTZLSkJGUVpz?oc=5",
-      "published": "2026-11-21T07:32:56Z"
     },
     {
       "title": "Microsoft 365 Outage Takes Down Outlook and Copilot, Prompting Mumbai Offices to Switch to Phone Calls and In-Person Updates",
@@ -80,22 +92,10 @@
       "source": "International Business Times Australia",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNT3hZLUhRM1FBQ3F3OTUwV2ExZEpVbUtWeFdsTmFab1BSSmlEN01BV0Z0cFZtbVJ0Y0FqcklWNUJpVnlVbE5IUU5WME1ZZFJOdm9CU3dWVURpODdTY1VGZy1rODF6SmpHQ0dhWV9uOS1KOFBOU3RYbXpNRkx4YkpRX0ZVSjBtNzhLcFE?oc=5",
       "published": "2026-11-20T16:55:57Z"
-    },
-    {
-      "title": "Microsoft Outlook Down? Users Report Problems Friday as Microsoft Rolls Out Fix for Missing Contacts in Teams",
-      "source": "International Business Times Australia",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeUVyQy0xS25EY2VzNEFXb1RBS0VBU0oxR0Fwc0hyR2JEMV9UYUQ2aFFkWEpRYktpRVdkbDlqbi1CQlRjOS1wd2ozZzZQeXllal9WdkgxMmtFYldfV1pFdTh6WFFFQXBJemJ2U1JRVHZ4NFdvLUJSeXdac2hXd3k4RzZKajN0aHNLdGZiU1Zua2NiZ1k?oc=5",
-      "published": "2026-11-20T16:55:14Z"
-    },
-    {
-      "title": "Microsoft CEO Nadella Admits Testing Failed Before Outage",
-      "source": "JournalArta",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUmxIOEJ5WGpfeWw5TWdIaFlSVmZHTzFGTHJLZHRpTGFWS0JKLUVuX0VmTDZsZEhyTWJGdWtUdm5HTW5XOGJLS21tZEFZS2xyZERkbUZEcEJURi1IVFhEWU5FZmp1a0NKT1ZBdV8yNGlRYk1FeXVqTVhVTVFHUzF5UU1RYXRIcEY4VmR4ckh6Yw?oc=5",
-      "published": "2026-11-20T16:50:21Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-21T14:17:43Z",
+    "fetched_at": "2026-11-21T15:18:04Z",
     "items": [],
     "debug": {
       "bytes": 498,
