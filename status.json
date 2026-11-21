@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T08:18:00Z",
+  "generated_at": "2026-11-21T09:18:24Z",
   "source": "StatusGator public service pages",
   "services": [
     {
@@ -9,7 +9,7 @@
       "url": "https://statusgator.com/services/microsoft-teams",
       "status": "up",
       "status_text": "Microsoft Teams is up",
-      "sg_last_checked": "November 21, 2026 at 8:16 AM UTC",
+      "sg_last_checked": "November 21, 2026 at 9:16 AM UTC",
       "reports_24h": 14,
       "active_incident": null,
       "latest_incident": {
@@ -18,7 +18,7 @@
         "severity": "Warn",
         "duration": "1d 9h 23m"
       },
-      "fetched_at": "2026-11-21T08:18:00Z",
+      "fetched_at": "2026-11-21T09:18:24Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -29,18 +29,18 @@
       "url": "https://statusgator.com/services/exchange-online",
       "status": "up",
       "status_text": "Exchange Online is up",
-      "sg_last_checked": "November 20, 2026 at 9:13 PM UTC",
+      "sg_last_checked": "November 21, 2026 at 9:13 AM UTC",
       "reports_24h": null,
       "active_incident": null,
       "latest_incident": {
-        "title": "Some users may be unable to open or upload attachments in the Outlook new client",
-        "start": "Nov 20, 2026 4:13 PM",
+        "title": "Some users may be unable to open or upload attachments in the new Outlook client",
+        "start": "Nov 20, 2026 10:03 PM",
         "severity": "Warn",
-        "duration": "1h 15m"
+        "duration": "11h"
       },
-      "fetched_at": "2026-11-20T21:17:58Z",
-      "fetch_ok": false,
-      "fetch_error": "StopIteration: "
+      "fetched_at": "2026-11-21T09:18:24Z",
+      "fetch_ok": true,
+      "fetch_error": null
     },
     {
       "id": "m365-apps",
@@ -49,11 +49,11 @@
       "url": "https://statusgator.com/services/microsoft-365-apps",
       "status": "up",
       "status_text": "Microsoft 365 apps is up",
-      "sg_last_checked": "November 21, 2026 at 8:17 AM UTC",
+      "sg_last_checked": "November 21, 2026 at 9:17 AM UTC",
       "reports_24h": 7,
       "active_incident": null,
       "latest_incident": null,
-      "fetched_at": "2026-11-21T08:18:00Z",
+      "fetched_at": "2026-11-21T09:18:24Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -64,7 +64,7 @@
       "url": "https://statusgator.com/services/microsoft-365-suite",
       "status": "up",
       "status_text": "Microsoft 365 suite is up",
-      "sg_last_checked": "November 21, 2026 at 8:13 AM UTC",
+      "sg_last_checked": "November 21, 2026 at 9:13 AM UTC",
       "reports_24h": 0,
       "active_incident": null,
       "latest_incident": {
@@ -73,7 +73,7 @@
         "severity": "Warn",
         "duration": "9h 22m"
       },
-      "fetched_at": "2026-11-21T08:18:00Z",
+      "fetched_at": "2026-11-21T09:18:24Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -84,11 +84,11 @@
       "url": "https://statusgator.com/services/azure",
       "status": "up",
       "status_text": "Azure is up",
-      "sg_last_checked": "November 21, 2026 at 8:15 AM UTC",
-      "reports_24h": 5,
+      "sg_last_checked": "November 21, 2026 at 9:15 AM UTC",
+      "reports_24h": 4,
       "active_incident": null,
       "latest_incident": null,
-      "fetched_at": "2026-11-21T08:18:00Z",
+      "fetched_at": "2026-11-21T09:18:24Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -99,7 +99,7 @@
       "url": "https://statusgator.com/services/microsoft-entra",
       "status": "up",
       "status_text": "Microsoft Entra is up",
-      "sg_last_checked": "November 21, 2026 at 8:13 AM UTC",
+      "sg_last_checked": "November 21, 2026 at 9:13 AM UTC",
       "reports_24h": 0,
       "active_incident": null,
       "latest_incident": {
@@ -108,7 +108,7 @@
         "severity": "Warn",
         "duration": "8h 45m"
       },
-      "fetched_at": "2026-11-21T08:18:00Z",
+      "fetched_at": "2026-11-21T09:18:24Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -119,11 +119,11 @@
       "url": "https://statusgator.com/services/power-platform",
       "status": "up",
       "status_text": "Power Platform is up",
-      "sg_last_checked": "November 21, 2026 at 8:15 AM UTC",
+      "sg_last_checked": "November 21, 2026 at 9:16 AM UTC",
       "reports_24h": 0,
       "active_incident": null,
       "latest_incident": null,
-      "fetched_at": "2026-11-21T08:18:00Z",
+      "fetched_at": "2026-11-21T09:18:24Z",
       "fetch_ok": true,
       "fetch_error": null
     }
