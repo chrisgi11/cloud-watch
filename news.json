@@ -1,8 +1,14 @@
 {
-  "fetched_at": "2026-11-21T15:36:23Z",
+  "fetched_at": "2026-11-21T16:18:31Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Downdetector Logs 14 Million Outage Reports in Its Busiest Week",
+      "source": "The Eastern Herald",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVFJQcWtYTHNJZVotTnQ0OUxWZkNXT2VvSUJfek9fZDBvOTdnemVmLXlQUlg2Q29PX1hzdEhIM2pkeVBNeFZfbjRXWER6TFJPajlra2Q4bE1ybkdrN0dJMkhISzI2NTFDa3UtbzZDVUxqUnZpLVBoMnZTMTFEZXVCa1dtQ3Znc2M1clN2UkhxMGR5WHFtQ255dWNhQXE3TzFB?oc=5",
+      "published": "2026-11-21T15:54:27Z"
+    },
     {
       "title": "Microsoft outage cause revealed: It was a perfect storm of problems",
       "source": "Mashable",
@@ -86,16 +92,10 @@
       "source": "CyberSecurityNews",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GU3QyZkQ4MFFzb2VKWjJDbWNfeTVlTzBWeDIyQktMUmRyaVgzZGJNSGxwcTVnenhvamJFSlhpTjRRaC1NVGQ5eWVIWENZVlBnNmdEZTNGQjVTMGtUWXRsOElITVM1OUgxMjZxZV9NeGlHNk01cWfSAXtBVV95cUxOd2FnZWdJTzNpMmwwWmo3T2JHTWpOQ3ZNZHBVVTEzV3I1ZThUa2I2UG1LZTJPTm10QS1HVlo5RmhPTHdlYkJLZ3R1dFpyV2xJTzdjb25DN2RFS1ZoSDl6STczZWwybjluUXZuZmh4RjFDd2tXU3U4WnFVczA?oc=5",
       "published": "2026-11-20T17:01:31Z"
-    },
-    {
-      "title": "Microsoft 365 Down Again? Users Report Fresh Problems Friday as Fears Linger After Last Week's Global Crash",
-      "source": "International Business Times Australia",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNT3hZLUhRM1FBQ3F3OTUwV2ExZEpVbUtWeFdsTmFab1BSSmlEN01BV0Z0cFZtbVJ0Y0FqcklWNUJpVnlVbE5IUU5WME1ZZFJOdm9CU3dWVURpODdTY1VGZy1rODF6SmpHQ0dhWV9uOS1KOFBOU3RYbXpNRkx4YkpRX0ZVSjBtNzhLcFE?oc=5",
-      "published": "2026-11-20T16:55:57Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-21T15:36:23Z",
+    "fetched_at": "2026-11-21T16:18:31Z",
     "items": [],
     "debug": {
       "bytes": 498,
