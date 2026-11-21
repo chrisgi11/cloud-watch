@@ -1,25 +1,19 @@
 {
-  "fetched_at": "2026-11-21T11:17:47Z",
+  "fetched_at": "2026-11-21T12:17:47Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Microsoft outage hits South African businesses, government services and universities",
+      "source": "IOL",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPendFUktGazBkcURFNFpQUjZEWnVwWWNNb1MwVkxjSFdpejVTOW13VExocHpTaTVRSmRaMnlkLTFDUzNzb2kxNm5oZUlRR185V2laWU5fYVFRbURRdExXUFVfVFBSSHRpYXBqb1NGVTVuMjlfSWRUZmx1U0hseEk0MGRrV0ZIWVU1MER2bVNOSWM2YUJhaVMtdUctdklJU20yQkRpZVIzb19OSDNqVE9uU3Vyb0JpbkcwMzZZdnJYaw?oc=5",
+      "published": "2026-11-21T11:06:31Z"
+    },
     {
       "title": "Microsoft meltdown: Outlook, Teams and Copilot hit by global outage",
       "source": "IOL",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcUdkZE1oOFJNQ3g5REZ2V1gzMXJmZnZla004ci1oelpldnFDYm1FaHREVXNSanRDRUgwTEI0U3NBU0FaNS1sOU1iQUNDZ0JVOW9qRy15UVdNeUQ2LXlLNDlENmJ0bVJjeXVST1l5dFZDUGZhaVRTM3FocU1ZMk1MTGJGQ1VYd3VpSmpQZTFpLUU0dmpIa1NmRE9mZlR0eTVLMlBCRzc0Z3FYaTlhZEoxc3RR?oc=5",
       "published": "2026-11-21T09:32:05Z"
-    },
-    {
-      "title": "Microsoft outage hits South African businesses, government services and universities",
-      "source": "IOL",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPendFUktGazBkcURFNFpQUjZEWnVwWWNNb1MwVkxjSFdpejVTOW13VExocHpTaTVRSmRaMnlkLTFDUzNzb2kxNm5oZUlRR185V2laWU5fYVFRbURRdExXUFVfVFBSSHRpYXBqb1NGVTVuMjlfSWRUZmx1U0hseEk0MGRrV0ZIWVU1MER2bVNOSWM2YUJhaVMtdUctdklJU20yQkRpZVIzb19OSDNqVE9uU3Vyb0JpbkcwMzZZdnJYaw?oc=5",
-      "published": "2026-11-21T09:09:56Z"
-    },
-    {
-      "title": "Microsoft outage: Does Microsoft owe you money? What to know.",
-      "source": "Mashable",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKOUVfMTNXLTFIX21qMU05N3ZzdDV5bi05bnBvc190ZUpiR0RhWWEwSUtaZVpiMEhDVzVfUXFGTDl3NVpNTHNTM3dvYzI3QWJOS2RYNzljLWdJZzI3SnBtamFqUW40b21qdE1kN1RKUFhidw?oc=5",
-      "published": "2026-11-21T09:02:02Z"
     },
     {
       "title": "Microsoft outage cause revealed: It was a perfect storm of problems",
@@ -92,10 +86,16 @@
       "source": "JournalArta",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUmxIOEJ5WGpfeWw5TWdIaFlSVmZHTzFGTHJLZHRpTGFWS0JKLUVuX0VmTDZsZEhyTWJGdWtUdm5HTW5XOGJLS21tZEFZS2xyZERkbUZEcEJURi1IVFhEWU5FZmp1a0NKT1ZBdV8yNGlRYk1FeXVqTVhVTVFHUzF5UU1RYXRIcEY4VmR4ckh6Yw?oc=5",
       "published": "2026-11-20T16:50:21Z"
+    },
+    {
+      "title": "Starbucks Down? Users Report Problems With Coffee Chain's Services as Wave of Tech Outages Rattles Businesses",
+      "source": "International Business Times Australia",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM0RNOTBrZXhGQS13MEY3eU95NGozaTZrZEhLUld3VGU3eW1iUHc1ekNkT1J3emRNcVAxTmZ4N3gwWE1hZV9ZczMtZzhla25jOFY3UTNnNXNHanZwN3VwWmtSSlo3MmZZcFdvUG1HVjdHVDRpWmhpM2hVQUtkcnlSVXpEZXJMbzRqZVE?oc=5",
+      "published": "2026-11-20T16:47:56Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-21T11:17:48Z",
+    "fetched_at": "2026-11-21T12:17:48Z",
     "items": [],
     "debug": {
       "bytes": 498,
