@@ -1,25 +1,31 @@
 {
-  "fetched_at": "2026-11-21T05:18:05Z",
+  "fetched_at": "2026-11-21T06:18:16Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
     {
-      "title": "East Berbice in grips of 24 hour power outage",
-      "source": "Demerara Waves Online News- Guyana",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM2V1VnpZUWI0dmFja1JjUlBzLXRyTndlLWVvcU9jOGFGZ1lvWG9GOGt6QnFPa2JyUDhLNGJscWliWVJWYkFXUmREQ18yVDkzUzcwbHNfNUdfTEZ3bm5XdzF0LUtBckw3NXY0RzBlS01RcWFHc2xyajJqYVQ2dnpXTkZTX1ZkMFRYLUhN?oc=5",
-      "published": "2026-11-21T03:13:23Z"
+      "title": "When the suite goes dark: What Microsoft 365's November outage means for CIO resilience plans",
+      "source": "Express Computer",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM2Y2R3lQTWV0VFY5clhUcHRUcmVXc1VISktxcHZTa3o1dU5KZWduRWJLVkxwckNqZXpMRE5fYnIxM0RMS0NsRzRjQUFjSFowOTVQT0YzS2R4Ym9kMDAwcG1jdlR5STdVTTFVSzhtSmZRaEdYOFpJVkxsX3hxRTFKeUpxenZNNi1PME0zZFIxZ2VUY0NhUHVSMVNPeXlVazBSYkJpVTVHS3VsZjRJOEtwYTZPQ0RmWk8wdWJWM1g2X1drelZGbW91Tm1SOGNXZEdp?oc=5",
+      "published": "2026-11-21T05:04:32Z"
     },
     {
       "title": "Microsoft meltdown: Outlook, Teams and Copilot hit by global outage",
       "source": "IOL",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcUdkZE1oOFJNQ3g5REZ2V1gzMXJmZnZla004ci1oelpldnFDYm1FaHREVXNSanRDRUgwTEI0U3NBU0FaNS1sOU1iQUNDZ0JVOW9qRy15UVdNeUQ2LXlLNDlENmJ0bVJjeXVST1l5dFZDUGZhaVRTM3FocU1ZMk1MTGJGQ1VYd3VpSmpQZTFpLUU0dmpIa1NmRE9mZlR0eTVLMlBCRzc0Z3FYaTlhZEoxc3RR?oc=5",
-      "published": "2026-11-21T02:44:18Z"
+      "published": "2026-11-21T04:40:53Z"
     },
     {
       "title": "Microsoft outage hits South African businesses, government services and universities",
       "source": "IOL",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPendFUktGazBkcURFNFpQUjZEWnVwWWNNb1MwVkxjSFdpejVTOW13VExocHpTaTVRSmRaMnlkLTFDUzNzb2kxNm5oZUlRR185V2laWU5fYVFRbURRdExXUFVfVFBSSHRpYXBqb1NGVTVuMjlfSWRUZmx1U0hseEk0MGRrV0ZIWVU1MER2bVNOSWM2YUJhaVMtdUctdklJU20yQkRpZVIzb19OSDNqVE9uU3Vyb0JpbkcwMzZZdnJYaw?oc=5",
-      "published": "2026-11-21T02:22:13Z"
+      "published": "2026-11-21T04:18:50Z"
+    },
+    {
+      "title": "East Berbice in grips of 24 hour power outage",
+      "source": "Demerara Waves Online News- Guyana",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPM2V1VnpZUWI0dmFja1JjUlBzLXRyTndlLWVvcU9jOGFGZ1lvWG9GOGt6QnFPa2JyUDhLNGJscWliWVJWYkFXUmREQ18yVDkzUzcwbHNfNUdfTEZ3bm5XdzF0LUtBckw3NXY0RzBlS01RcWFHc2xyajJqYVQ2dnpXTkZTX1ZkMFRYLUhN?oc=5",
+      "published": "2026-11-21T03:13:23Z"
     },
     {
       "title": "The Outage Flu of 2026: Why is everything breaking at once?",
@@ -86,16 +92,10 @@
       "source": "International Business Times Australia",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM0RNOTBrZXhGQS13MEY3eU95NGozaTZrZEhLUld3VGU3eW1iUHc1ekNkT1J3emRNcVAxTmZ4N3gwWE1hZV9ZczMtZzhla25jOFY3UTNnNXNHanZwN3VwWmtSSlo3MmZZcFdvUG1HVjdHVDRpWmhpM2hVQUtkcnlSVXpEZXJMbzRqZVE?oc=5",
       "published": "2026-11-20T16:47:56Z"
-    },
-    {
-      "title": "After Microsoft 365's nearly 24-hour outage, Satya Nadella warns AI could help attackers operate at nation-state scale",
-      "source": "Latin Times",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY1BhX0M4aE5JR0YzcWFBYzZtc24tNHFxMWRzVmxPeEprXzRTWXcwVU4tcXlqV1RYa0IwMXlOUHBhd0lXT2wxNXV4NmhKZEJpcE90U2hPSWNHX0V4Q3ZWMXVqd2U0SzVmaG5CZnlmNjZ2VExuWVgyNGctVFZRMGNJYWZQVzJaQmd0OHJtRk1Sd0E?oc=5",
-      "published": "2026-11-20T15:37:58Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-21T05:18:05Z",
+    "fetched_at": "2026-11-21T06:18:16Z",
     "items": [],
     "debug": {
       "bytes": 498,
