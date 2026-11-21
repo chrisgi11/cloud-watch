@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T06:46:26Z",
+  "generated_at": "2026-11-21T07:17:51Z",
   "source": "StatusGator public service pages",
   "services": [
     {
@@ -9,7 +9,7 @@
       "url": "https://statusgator.com/services/microsoft-teams",
       "status": "up",
       "status_text": "Microsoft Teams is up",
-      "sg_last_checked": "November 21, 2026 at 6:46 AM UTC",
+      "sg_last_checked": "November 21, 2026 at 7:16 AM UTC",
       "reports_24h": 15,
       "active_incident": null,
       "latest_incident": {
@@ -18,7 +18,7 @@
         "severity": "Warn",
         "duration": "1d 9h 23m"
       },
-      "fetched_at": "2026-11-21T06:46:26Z",
+      "fetched_at": "2026-11-21T07:17:51Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -49,11 +49,11 @@
       "url": "https://statusgator.com/services/microsoft-365-apps",
       "status": "up",
       "status_text": "Microsoft 365 apps is up",
-      "sg_last_checked": "November 21, 2026 at 6:42 AM UTC",
+      "sg_last_checked": "November 21, 2026 at 7:17 AM UTC",
       "reports_24h": 7,
       "active_incident": null,
       "latest_incident": null,
-      "fetched_at": "2026-11-21T06:46:26Z",
+      "fetched_at": "2026-11-21T07:17:51Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -64,7 +64,7 @@
       "url": "https://statusgator.com/services/microsoft-365-suite",
       "status": "up",
       "status_text": "Microsoft 365 suite is up",
-      "sg_last_checked": "November 21, 2026 at 6:44 AM UTC",
+      "sg_last_checked": "November 21, 2026 at 7:08 AM UTC",
       "reports_24h": 0,
       "active_incident": null,
       "latest_incident": {
@@ -73,7 +73,7 @@
         "severity": "Warn",
         "duration": "9h 22m"
       },
-      "fetched_at": "2026-11-21T06:46:26Z",
+      "fetched_at": "2026-11-21T07:17:51Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -84,11 +84,11 @@
       "url": "https://statusgator.com/services/azure",
       "status": "up",
       "status_text": "Azure is up",
-      "sg_last_checked": "November 21, 2026 at 6:35 AM UTC",
+      "sg_last_checked": "November 21, 2026 at 7:09 AM UTC",
       "reports_24h": 5,
       "active_incident": null,
       "latest_incident": null,
-      "fetched_at": "2026-11-21T06:46:26Z",
+      "fetched_at": "2026-11-21T07:17:51Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -99,7 +99,7 @@
       "url": "https://statusgator.com/services/microsoft-entra",
       "status": "up",
       "status_text": "Microsoft Entra is up",
-      "sg_last_checked": "November 21, 2026 at 6:43 AM UTC",
+      "sg_last_checked": "November 21, 2026 at 7:13 AM UTC",
       "reports_24h": 0,
       "active_incident": null,
       "latest_incident": {
@@ -108,7 +108,7 @@
         "severity": "Warn",
         "duration": "8h 45m"
       },
-      "fetched_at": "2026-11-21T06:46:26Z",
+      "fetched_at": "2026-11-21T07:17:51Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -119,11 +119,11 @@
       "url": "https://statusgator.com/services/power-platform",
       "status": "up",
       "status_text": "Power Platform is up",
-      "sg_last_checked": "November 21, 2026 at 6:46 AM UTC",
+      "sg_last_checked": "November 21, 2026 at 7:16 AM UTC",
       "reports_24h": 0,
       "active_incident": null,
       "latest_incident": null,
-      "fetched_at": "2026-11-21T06:46:26Z",
+      "fetched_at": "2026-11-21T07:17:51Z",
       "fetch_ok": true,
       "fetch_error": null
     }
