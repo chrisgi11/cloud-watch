@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-21T10:17:56Z",
+  "fetched_at": "2026-11-21T11:17:47Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
@@ -7,13 +7,19 @@
       "title": "Microsoft meltdown: Outlook, Teams and Copilot hit by global outage",
       "source": "IOL",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcUdkZE1oOFJNQ3g5REZ2V1gzMXJmZnZla004ci1oelpldnFDYm1FaHREVXNSanRDRUgwTEI0U3NBU0FaNS1sOU1iQUNDZ0JVOW9qRy15UVdNeUQ2LXlLNDlENmJ0bVJjeXVST1l5dFZDUGZhaVRTM3FocU1ZMk1MTGJGQ1VYd3VpSmpQZTFpLUU0dmpIa1NmRE9mZlR0eTVLMlBCRzc0Z3FYaTlhZEoxc3RR?oc=5",
-      "published": "2026-11-21T08:33:47Z"
+      "published": "2026-11-21T09:32:05Z"
     },
     {
       "title": "Microsoft outage hits South African businesses, government services and universities",
       "source": "IOL",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPendFUktGazBkcURFNFpQUjZEWnVwWWNNb1MwVkxjSFdpejVTOW13VExocHpTaTVRSmRaMnlkLTFDUzNzb2kxNm5oZUlRR185V2laWU5fYVFRbURRdExXUFVfVFBSSHRpYXBqb1NGVTVuMjlfSWRUZmx1U0hseEk0MGRrV0ZIWVU1MER2bVNOSWM2YUJhaVMtdUctdklJU20yQkRpZVIzb19OSDNqVE9uU3Vyb0JpbkcwMzZZdnJYaw?oc=5",
-      "published": "2026-11-21T08:11:43Z"
+      "published": "2026-11-21T09:09:56Z"
+    },
+    {
+      "title": "Microsoft outage: Does Microsoft owe you money? What to know.",
+      "source": "Mashable",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKOUVfMTNXLTFIX21qMU05N3ZzdDV5bi05bnBvc190ZUpiR0RhWWEwSUtaZVpiMEhDVzVfUXFGTDl3NVpNTHNTM3dvYzI3QWJOS2RYNzljLWdJZzI3SnBtamFqUW40b21qdE1kN1RKUFhidw?oc=5",
+      "published": "2026-11-21T09:02:02Z"
     },
     {
       "title": "Microsoft outage cause revealed: It was a perfect storm of problems",
@@ -44,12 +50,6 @@
       "source": "CityNews Toronto",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONDhMcmhYVFVlYWFVQzJMVFNKWTNUSE5mQlU3d0MtU0FQeEJFNXE2U0N2VnNWYWVpVVE2eUREQUMtbTQyclhsTVpscmRrWkF6QlNUd2VxYkVJUkZReDFGQkNQYVl3YnVkRXE5SkpmOGJLZ0prZ1ZzQXJkZnE1WHYwYldvQ29saWhlNW14LW1HUnhQT01nUUFOaUQzSElkZw?oc=5",
       "published": "2026-11-21T01:36:00Z"
-    },
-    {
-      "title": "Microsoft outage: Does Microsoft owe you money? What to know.",
-      "source": "Mashable",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKOUVfMTNXLTFIX21qMU05N3ZzdDV5bi05bnBvc190ZUpiR0RhWWEwSUtaZVpiMEhDVzVfUXFGTDl3NVpNTHNTM3dvYzI3QWJOS2RYNzljLWdJZzI3SnBtamFqUW40b21qdE1kN1RKUFhidw?oc=5",
-      "published": "2026-11-20T23:34:28Z"
     },
     {
       "title": "'We ask whether you are now willing to listen': LibreOffice maker asks political organizations why there was no backup plan following the major Microsoft 365 outage",
@@ -95,7 +95,7 @@
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-21T10:17:56Z",
+    "fetched_at": "2026-11-21T11:17:48Z",
     "items": [],
     "debug": {
       "bytes": 498,
