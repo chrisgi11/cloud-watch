@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-21T19:17:53Z",
+  "fetched_at": "2026-11-21T20:17:58Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
@@ -88,14 +88,14 @@
       "published": "2026-11-21T01:36:00Z"
     },
     {
-      "title": "\u2018We ask whether you are now willing to listen\u2019: LibreOffice maker questions backup plans after Microsoft 365 outage",
-      "source": "Mezha.net",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9KbGJfcGJEdVRLOWdsbkUxT1gxWkVZN0xFZGdXVmp5Z1EtVy1IQW54dTNlN0R1b1hJckRLNEZXNjdzTEZvMWllQ3BxMXFqR1QzS3d1dWI2QW5VWERSVWRhalFWRmw2LUo1MHNoUHFWRkVjVkxDdlFWUjg1Nk1nQQ?oc=5",
-      "published": "2026-11-20T19:15:59Z"
+      "title": "Outlook, FAA, bank outage, oh my! How to practice \u2018cyber hygiene\u2019 in the AI age",
+      "source": "The Virginian-Pilot",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3X3JsN3BSUGJlbENmZl9oQ3pja0lwbjg4TWxkRlhXcUdZU3RodzJpcHBPUXQ5X2NOUE5kbERXamJhcTQwTUJYdHVNci1pUzFLQjl3ZVhMRi1rMUZJMkV3bFdNT3JBTmlZOXp2Qg?oc=5",
+      "published": "2026-11-21T00:19:22Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-21T19:17:53Z",
+    "fetched_at": "2026-11-21T20:17:59Z",
     "items": [],
     "debug": {
       "bytes": 498,
