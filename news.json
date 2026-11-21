@@ -1,8 +1,14 @@
 {
-  "fetched_at": "2026-11-20T23:18:23Z",
+  "fetched_at": "2026-11-21T00:18:09Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Microsoft outage cause revealed: It was a perfect storm of problems",
+      "source": "Mashable",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aOXNncW9QdWVtZ3RXTHF5VnFncFJTcXptUWtGX0V6azdmcXZVQjBienJMdzJydEdseXhVZHZRcExPbS0xUXlCcXhyX2RDOUZOd0h3bEhwU1hiNF9hc0FNdTZLSkJGUVpz?oc=5",
+      "published": "2026-11-20T23:34:55Z"
+    },
     {
       "title": "Microsoft outage hits South African businesses, government services and universities",
       "source": "IOL",
@@ -32,6 +38,12 @@
       "source": "International Business Times Australia",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNT3hZLUhRM1FBQ3F3OTUwV2ExZEpVbUtWeFdsTmFab1BSSmlEN01BV0Z0cFZtbVJ0Y0FqcklWNUJpVnlVbE5IUU5WME1ZZFJOdm9CU3dWVURpODdTY1VGZy1rODF6SmpHQ0dhWV9uOS1KOFBOU3RYbXpNRkx4YkpRX0ZVSjBtNzhLcFE?oc=5",
       "published": "2026-11-20T16:55:57Z"
+    },
+    {
+      "title": "Microsoft Outlook Down? Users Report Problems Friday as Microsoft Rolls Out Fix for Missing Contacts in Teams",
+      "source": "International Business Times Australia",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeUVyQy0xS25EY2VzNEFXb1RBS0VBU0oxR0Fwc0hyR2JEMV9UYUQ2aFFkWEpRYktpRVdkbDlqbi1CQlRjOS1wd2ozZzZQeXllal9WdkgxMmtFYldfV1pFdTh6WFFFQXBJemJ2U1JRVHZ4NFdvLUJSeXdac2hXd3k4RzZKajN0aHNLdGZiU1Zua2NiZ1k?oc=5",
+      "published": "2026-11-20T16:55:14Z"
     },
     {
       "title": "Microsoft CEO Nadella Admits Testing Failed Before Outage",
@@ -80,22 +92,10 @@
       "source": "The Sunday Guardian",
       "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNLS0tZHR6dkd3R0RjU19SWEpFRnFLb1RlM1NCQjNWelhKOHFTVW4zNHVJRnhjWWlCTUJMSFV1YXNBcmcwQkZhWG84T3pxR2d2V185eWVjVVR6RG5UUUtmNFFJOXhkYW5VcXVzdHkxWVo5WkRwZ19BUXpLeVpZTlYwY1U0WWR3QTdEZ2pObzlyZzA0clVnUV9Fb0NjSEl5c1RBMmY3bUQzdE9MdnJsaENVeGplZ1U0MTBZNERLQy0ybkhrRFA1MUZFOXE5SUtTbWhpQ051bF80ZGR2R196RlctMkd0V2xoUng4ajFXcnVfeWNuQ0I4Ul8zVDBXNjdhb2Z6cThrSktuZTI0bkVBVnRVNW0yWlNKQzhDNHRmMm94Qkc3OGJS0gGqAkFVX3lxTE5fUndhVEJib0ZuM0pKTmRidC1CcXNwWEdtb0NJZ2duUkxuNndQNVd5eS1iTjhJX1QySTZkNFBRNVZXSF96bkpQWkhfQVNUelc0Z2FCMjJlcVNUQWlmNGh2M3hTRGJrcjJwZWdyT29jOXZaN29IWjRwZzlrdTJlNUo1bHhLa0NGM0JUOE1HWHJMSWlodFdqQjVjNms0bERnNjgxSTN6OUxqODVwTEhncHNLbGpMbGdQSDFlUkUwTzgwemRRREp0QnhiRDdSc2FQVVl4ODlEVHpvczZwN1FZNU9FY3pJNUJmeFdZMDdGaVhqQkVaZjhyNjBpTjBTR19pSWZLeFh2NUxDN1BKVVFSWG5CeHI4Z3hHS3NycGVOWnV5M0FPUWZYZnRLdWc?oc=5",
       "published": "2026-11-20T12:50:31Z"
-    },
-    {
-      "title": "The Outlook outage may have been the most useful hour some offices had all year",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTnZFNVRmMktBUDZfQ1NuR3ppTzNraU1keHlyZGpqWk1oLUoxbmpmdmV1XzVBLWI1YjhkR2QwbVA2QlRoRDNjaVlaWm16UEFyMzhSYlpvN3lVZ3ExOXhxQW56MEFfU2JwM3F4VXRMUVRIN1UteDd6UGxLemViUWNaQ3l0U1pkTjdzbGMzQlB4eG55RGRKS3ZLZnpZLXRmQzdhWjlaQWNKNEdLUWk1?oc=5",
-      "published": "2026-11-20T12:30:00Z"
-    },
-    {
-      "title": "Microsoft Warns Outlook, Teams Users Of Phishing Attacks Exploiting 365 Outage",
-      "source": "BW Businessworld",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZWhvck1ta1k1bjBKRDNEeWEwQ09ZS3ZtUkpuVTFuZ3ZNVG9fdnpjRS1UZVk0OS1VRV9NLUhNaEN4YmFyR3ZYR1JWRzdvTWZyemkxdjdXak9MelJ0Q0h5QnU4VFkwaGJ4R3VEdDRWZjlfWTR4NThIOHpCWGtQVFRCSnV1bGM1NW41TGdmekNoOFYxMkdLbVhpTjNfRFFadS1aNDBBaUVaNnBfYjIzLXpMa2ZFZ1R3bE92QS14LWVB?oc=5",
-      "published": "2026-11-20T10:46:58Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-20T23:18:23Z",
+    "fetched_at": "2026-11-21T00:18:09Z",
     "items": [],
     "debug": {
       "bytes": 498,
