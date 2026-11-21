@@ -1,8 +1,14 @@
 {
-  "fetched_at": "2026-11-21T06:18:16Z",
+  "fetched_at": "2026-11-21T07:17:50Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Microsoft 365 Outage Takes Down Outlook and Copilot, Prompting Mumbai Offices to Switch to Phone Calls and In-Person Updates",
+      "source": "Mumbai Mirror",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRWUwcXJ1alVDQ05kdkpjcGF2V0dYam1GLUsySUVNaENOc2lsb184dmNvR0RtdnFKWTBrbThXQzNMSTNyeXBteHk5QUNoOUdJMHdtZkNxd0N2UUlsM2R0Ni1XelJBVDFRU0F3RmltVXB4R29vS09rN09FMWxWWnNBWmNRejBJOGtkLW5mU2hWVW9yM3pWVmp6dE9R?oc=5",
+      "published": "2026-11-21T06:33:06Z"
+    },
     {
       "title": "When the suite goes dark: What Microsoft 365's November outage means for CIO resilience plans",
       "source": "Express Computer",
@@ -86,16 +92,10 @@
       "source": "JournalArta",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUmxIOEJ5WGpfeWw5TWdIaFlSVmZHTzFGTHJLZHRpTGFWS0JKLUVuX0VmTDZsZEhyTWJGdWtUdm5HTW5XOGJLS21tZEFZS2xyZERkbUZEcEJURi1IVFhEWU5FZmp1a0NKT1ZBdV8yNGlRYk1FeXVqTVhVTVFHUzF5UU1RYXRIcEY4VmR4ckh6Yw?oc=5",
       "published": "2026-11-20T16:50:21Z"
-    },
-    {
-      "title": "Starbucks Down? Users Report Problems With Coffee Chain's Services as Wave of Tech Outages Rattles Businesses",
-      "source": "International Business Times Australia",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM0RNOTBrZXhGQS13MEY3eU95NGozaTZrZEhLUld3VGU3eW1iUHc1ekNkT1J3emRNcVAxTmZ4N3gwWE1hZV9ZczMtZzhla25jOFY3UTNnNXNHanZwN3VwWmtSSlo3MmZZcFdvUG1HVjdHVDRpWmhpM2hVQUtkcnlSVXpEZXJMbzRqZVE?oc=5",
-      "published": "2026-11-20T16:47:56Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-21T06:18:16Z",
+    "fetched_at": "2026-11-21T07:17:50Z",
     "items": [],
     "debug": {
       "bytes": 498,
