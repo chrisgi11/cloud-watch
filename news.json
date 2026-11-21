@@ -1,8 +1,26 @@
 {
-  "fetched_at": "2026-11-21T07:36:04Z",
+  "fetched_at": "2026-11-21T08:17:57Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Microsoft outage cause revealed: It was a perfect storm of problems",
+      "source": "Mashable",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aOXNncW9QdWVtZ3RXTHF5VnFncFJTcXptUWtGX0V6azdmcXZVQjBienJMdzJydEdseXhVZHZRcExPbS0xUXlCcXhyX2RDOUZOd0h3bEhwU1hiNF9hc0FNdTZLSkJGUVpz?oc=5",
+      "published": "2026-11-21T07:32:56Z"
+    },
+    {
+      "title": "Microsoft outage hits South African businesses, government services and universities",
+      "source": "IOL",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPendFUktGazBkcURFNFpQUjZEWnVwWWNNb1MwVkxjSFdpejVTOW13VExocHpTaTVRSmRaMnlkLTFDUzNzb2kxNm5oZUlRR185V2laWU5fYVFRbURRdExXUFVfVFBSSHRpYXBqb1NGVTVuMjlfSWRUZmx1U0hseEk0MGRrV0ZIWVU1MER2bVNOSWM2YUJhaVMtdUctdklJU20yQkRpZVIzb19OSDNqVE9uU3Vyb0JpbkcwMzZZdnJYaw?oc=5",
+      "published": "2026-11-21T07:13:33Z"
+    },
+    {
+      "title": "Microsoft meltdown: Outlook, Teams and Copilot hit by global outage",
+      "source": "IOL",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcUdkZE1oOFJNQ3g5REZ2V1gzMXJmZnZla004ci1oelpldnFDYm1FaHREVXNSanRDRUgwTEI0U3NBU0FaNS1sOU1iQUNDZ0JVOW9qRy15UVdNeUQ2LXlLNDlENmJ0bVJjeXVST1l5dFZDUGZhaVRTM3FocU1ZMk1MTGJGQ1VYd3VpSmpQZTFpLUU0dmpIa1NmRE9mZlR0eTVLMlBCRzc0Z3FYaTlhZEoxc3RR?oc=5",
+      "published": "2026-11-21T06:37:24Z"
+    },
     {
       "title": "Microsoft 365 Outage Takes Down Outlook and Copilot, Prompting Mumbai Offices to Switch to Phone Calls and In-Person Updates",
       "source": "Mumbai Mirror",
@@ -10,22 +28,10 @@
       "published": "2026-11-21T06:33:06Z"
     },
     {
-      "title": "Microsoft outage hits South African businesses, government services and universities",
-      "source": "IOL",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPendFUktGazBkcURFNFpQUjZEWnVwWWNNb1MwVkxjSFdpejVTOW13VExocHpTaTVRSmRaMnlkLTFDUzNzb2kxNm5oZUlRR185V2laWU5fYVFRbURRdExXUFVfVFBSSHRpYXBqb1NGVTVuMjlfSWRUZmx1U0hseEk0MGRrV0ZIWVU1MER2bVNOSWM2YUJhaVMtdUctdklJU20yQkRpZVIzb19OSDNqVE9uU3Vyb0JpbkcwMzZZdnJYaw?oc=5",
-      "published": "2026-11-21T06:15:19Z"
-    },
-    {
       "title": "When the suite goes dark: What Microsoft 365's November outage means for CIO resilience plans",
       "source": "Express Computer",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM2Y2R3lQTWV0VFY5clhUcHRUcmVXc1VISktxcHZTa3o1dU5KZWduRWJLVkxwckNqZXpMRE5fYnIxM0RMS0NsRzRjQUFjSFowOTVQT0YzS2R4Ym9kMDAwcG1jdlR5STdVTTFVSzhtSmZRaEdYOFpJVkxsX3hxRTFKeUpxenZNNi1PME0zZFIxZ2VUY0NhUHVSMVNPeXlVazBSYkJpVTVHS3VsZjRJOEtwYTZPQ0RmWk8wdWJWM1g2X1drelZGbW91Tm1SOGNXZEdp?oc=5",
       "published": "2026-11-21T05:04:32Z"
-    },
-    {
-      "title": "Microsoft meltdown: Outlook, Teams and Copilot hit by global outage",
-      "source": "IOL",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcUdkZE1oOFJNQ3g5REZ2V1gzMXJmZnZla004ci1oelpldnFDYm1FaHREVXNSanRDRUgwTEI0U3NBU0FaNS1sOU1iQUNDZ0JVOW9qRy15UVdNeUQ2LXlLNDlENmJ0bVJjeXVST1l5dFZDUGZhaVRTM3FocU1ZMk1MTGJGQ1VYd3VpSmpQZTFpLUU0dmpIa1NmRE9mZlR0eTVLMlBCRzc0Z3FYaTlhZEoxc3RR?oc=5",
-      "published": "2026-11-21T04:40:53Z"
     },
     {
       "title": "East Berbice in grips of 24 hour power outage",
@@ -38,12 +44,6 @@
       "source": "CityNews Toronto",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONDhMcmhYVFVlYWFVQzJMVFNKWTNUSE5mQlU3d0MtU0FQeEJFNXE2U0N2VnNWYWVpVVE2eUREQUMtbTQyclhsTVpscmRrWkF6QlNUd2VxYkVJUkZReDFGQkNQYVl3YnVkRXE5SkpmOGJLZ0prZ1ZzQXJkZnE1WHYwYldvQ29saWhlNW14LW1HUnhQT01nUUFOaUQzSElkZw?oc=5",
       "published": "2026-11-21T01:36:00Z"
-    },
-    {
-      "title": "Microsoft outage cause revealed: It was a perfect storm of problems",
-      "source": "Mashable",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aOXNncW9QdWVtZ3RXTHF5VnFncFJTcXptUWtGX0V6azdmcXZVQjBienJMdzJydEdseXhVZHZRcExPbS0xUXlCcXhyX2RDOUZOd0h3bEhwU1hiNF9hc0FNdTZLSkJGUVpz?oc=5",
-      "published": "2026-11-20T23:34:55Z"
     },
     {
       "title": "Microsoft outage: Does Microsoft owe you money? What to know.",
@@ -95,7 +95,7 @@
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-21T07:36:04Z",
+    "fetched_at": "2026-11-21T08:17:57Z",
     "items": [],
     "debug": {
       "bytes": 498,
