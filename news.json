@@ -1,8 +1,14 @@
 {
-  "fetched_at": "2026-11-21T17:18:13Z",
+  "fetched_at": "2026-11-21T18:18:25Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Microsoft\u2019s final Outlook outage report details testing gaps and safeguards that backfired",
+      "source": "GeekWire",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUzVEMnFIMDdJN1RyQl9kaVpBTHBVdnVKZlFaVmV4blRXNWRBNW9FS1dETkF2Q243b3NxR2U0c0FiVXd0Qm9wLXpab1dBQnRVSlNiZzJOMEhYRGlPbklPSWZmNTlLMmZ5RUg4VVRsWG1saW9XZ0FOLWlCaFdHTGdiZ1VDeGtWZGxYaWI4T2xtenpwUzRyU051Y3BCTG1haDd4aHVVQ1Zlc0EyYnNtNVhyQzhvdDdWU3lvbjR2NQ?oc=5",
+      "published": "2026-11-21T17:31:16Z"
+    },
     {
       "title": "Microsoft 365 Outage Raises Cloud Reliability Concerns",
       "source": "varindia",
@@ -82,20 +88,14 @@
       "published": "2026-11-21T01:36:00Z"
     },
     {
-      "title": "'We ask whether you are now willing to listen': LibreOffice maker asks political organizations why there was no backup plan following the major Microsoft 365 outage",
-      "source": "TechRadar",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPWDFoYmROd2pOeGlHeU1tLUU2SWVtSm1sODlLeFZ0blpSVnY2N3NDcGJha3BkNUZ1LXdDTkVCbmsyR3l4ZUEwcjYzNmk0SHk5WTZXems3bUp5cENmRlNmSlgxMDZPTzJMaFhsa3Vld1VydzZscVpDcmMxLXp2MEh6ZHFMTTFYbXVVOUo4T3dsU1FhRFZRemhzLW1lcHFCdHhDTHpwQ1RwT0ZVSk44Z19aSDVPODBDSVg3LVFhcDFxS2Q1d1lfbERwWXBGTXZXOGppaUpOSy0zMWIxTVZuaGxIUnhyMHg1WFl4OFYwSldqcENQVmVfcERHeUlnaUFsNzFfWF8wTTl0N01TYWRIeUQ5dUVlTi16Y3o4cDEw?oc=5",
-      "published": "2026-11-20T19:05:00Z"
-    },
-    {
-      "title": "Australians urged to have back-up plan for when tech services go dark",
-      "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV09SdFVrTmt1VlN1QW5LVWRoTUk1YVMtNUlDSU1iY28yM3IwWXQ1dWR0Y3ZWZVFWakJvOEFaaEwzUHlubU5NbDVxMWRvaFZlZTVBRTUxVXVic2FDQVlSSV8yYXRoX0h3SWhjUFY1bC1VRXlCdnczeWFzV1JWeFozbFZRUHAzSGh2U1E?oc=5",
-      "published": "2026-11-20T18:00:00Z"
+      "title": "\u2018We ask whether you are now willing to listen\u2019: LibreOffice maker questions backup plans after Microsoft 365 outage",
+      "source": "Mezha.net",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9KbGJfcGJEdVRLOWdsbkUxT1gxWkVZN0xFZGdXVmp5Z1EtVy1IQW54dTNlN0R1b1hJckRLNEZXNjdzTEZvMWllQ3BxMXFqR1QzS3d1dWI2QW5VWERSVWRhalFWRmw2LUo1MHNoUHFWRkVjVkxDdlFWUjg1Nk1nQQ?oc=5",
+      "published": "2026-11-20T19:15:59Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-21T17:18:13Z",
+    "fetched_at": "2026-11-21T18:18:25Z",
     "items": [],
     "debug": {
       "bytes": 498,
