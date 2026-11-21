@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-21T03:18:03Z",
+  "fetched_at": "2026-11-21T04:18:10Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
@@ -10,22 +10,22 @@
       "published": "2026-11-21T03:13:23Z"
     },
     {
-      "title": "The Outage Flu of 2026: Why is everything breaking at once?",
-      "source": "CityNews Toronto",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONDhMcmhYVFVlYWFVQzJMVFNKWTNUSE5mQlU3d0MtU0FQeEJFNXE2U0N2VnNWYWVpVVE2eUREQUMtbTQyclhsTVpscmRrWkF6QlNUd2VxYkVJUkZReDFGQkNQYVl3YnVkRXE5SkpmOGJLZ0prZ1ZzQXJkZnE1WHYwYldvQ29saWhlNW14LW1HUnhQT01nUUFOaUQzSElkZw?oc=5",
-      "published": "2026-11-21T01:36:00Z"
+      "title": "Microsoft meltdown: Outlook, Teams and Copilot hit by global outage",
+      "source": "IOL",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcUdkZE1oOFJNQ3g5REZ2V1gzMXJmZnZla004ci1oelpldnFDYm1FaHREVXNSanRDRUgwTEI0U3NBU0FaNS1sOU1iQUNDZ0JVOW9qRy15UVdNeUQ2LXlLNDlENmJ0bVJjeXVST1l5dFZDUGZhaVRTM3FocU1ZMk1MTGJGQ1VYd3VpSmpQZTFpLUU0dmpIa1NmRE9mZlR0eTVLMlBCRzc0Z3FYaTlhZEoxc3RR?oc=5",
+      "published": "2026-11-21T02:44:18Z"
     },
     {
       "title": "Microsoft outage hits South African businesses, government services and universities",
       "source": "IOL",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPendFUktGazBkcURFNFpQUjZEWnVwWWNNb1MwVkxjSFdpejVTOW13VExocHpTaTVRSmRaMnlkLTFDUzNzb2kxNm5oZUlRR185V2laWU5fYVFRbURRdExXUFVfVFBSSHRpYXBqb1NGVTVuMjlfSWRUZmx1U0hseEk0MGRrV0ZIWVU1MER2bVNOSWM2YUJhaVMtdUctdklJU20yQkRpZVIzb19OSDNqVE9uU3Vyb0JpbkcwMzZZdnJYaw?oc=5",
-      "published": "2026-11-21T01:23:52Z"
+      "published": "2026-11-21T02:22:13Z"
     },
     {
-      "title": "Microsoft meltdown: Outlook, Teams and Copilot hit by global outage",
-      "source": "IOL",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcUdkZE1oOFJNQ3g5REZ2V1gzMXJmZnZla004ci1oelpldnFDYm1FaHREVXNSanRDRUgwTEI0U3NBU0FaNS1sOU1iQUNDZ0JVOW9qRy15UVdNeUQ2LXlLNDlENmJ0bVJjeXVST1l5dFZDUGZhaVRTM3FocU1ZMk1MTGJGQ1VYd3VpSmpQZTFpLUU0dmpIa1NmRE9mZlR0eTVLMlBCRzc0Z3FYaTlhZEoxc3RR?oc=5",
-      "published": "2026-11-21T00:46:30Z"
+      "title": "The Outage Flu of 2026: Why is everything breaking at once?",
+      "source": "CityNews Toronto",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONDhMcmhYVFVlYWFVQzJMVFNKWTNUSE5mQlU3d0MtU0FQeEJFNXE2U0N2VnNWYWVpVVE2eUREQUMtbTQyclhsTVpscmRrWkF6QlNUd2VxYkVJUkZReDFGQkNQYVl3YnVkRXE5SkpmOGJLZ0prZ1ZzQXJkZnE1WHYwYldvQ29saWhlNW14LW1HUnhQT01nUUFOaUQzSElkZw?oc=5",
+      "published": "2026-11-21T01:36:00Z"
     },
     {
       "title": "Microsoft outage cause revealed: It was a perfect storm of problems",
@@ -46,16 +46,22 @@
       "published": "2026-11-20T19:05:00Z"
     },
     {
-      "title": "Microsoft Investigates Attachment Upload Failures in New Outlook",
-      "source": "CyberSecurityNews",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GU3QyZkQ4MFFzb2VKWjJDbWNfeTVlTzBWeDIyQktMUmRyaVgzZGJNSGxwcTVnenhvamJFSlhpTjRRaC1NVGQ5eWVIWENZVlBnNmdEZTNGQjVTMGtUWXRsOElITVM1OUgxMjZxZV9NeGlHNk01cWfSAXtBVV95cUxOd2FnZWdJTzNpMmwwWmo3T2JHTWpOQ3ZNZHBVVTEzV3I1ZThUa2I2UG1LZTJPTm10QS1HVlo5RmhPTHdlYkJLZ3R1dFpyV2xJTzdjb25DN2RFS1ZoSDl6STczZWwybjluUXZuZmh4RjFDd2tXU3U4WnFVczA?oc=5",
-      "published": "2026-11-20T17:18:15Z"
+      "title": "Australians urged to have back-up plan for when tech services go dark",
+      "source": "ABC News & Headlines \u2013 Australian Broadcasting Corporation",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV09SdFVrTmt1VlN1QW5LVWRoTUk1YVMtNUlDSU1iY28yM3IwWXQ1dWR0Y3ZWZVFWakJvOEFaaEwzUHlubU5NbDVxMWRvaFZlZTVBRTUxVXVic2FDQVlSSV8yYXRoX0h3SWhjUFY1bC1VRXlCdnczeWFzV1JWeFozbFZRUHAzSGh2U1E?oc=5",
+      "published": "2026-11-20T18:00:00Z"
     },
     {
       "title": "Microsoft 365 Outage Today: Is Microsoft 365 Down in the US? Users Report Word, Excel, Outlook, Teams, OneDrive, SharePoint and Login Issues | Check Latest Downdetector Status",
       "source": "The Sunday Guardian",
       "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOWFVhdGhCWUNSeTBBTTVzQm9fMmFTd3cxUkU0Mk1tQ2MxeTFEcmltc2hCWVR4SE5vc0ZEbnN2QkVSRVJmREtSYVBMOFlialhObEdCWXFuNGxRMEVKRERzOG5nNHpELUZteHpsLXh6NzVPNk9rejVfb01nZmkxdHpVeDgtNmNlcUE4UDJKazVOMnJsdmRNZ0hhNnpmT3JHeUZkRExiZU5xZ1FzN3RZT0NYbU5KRkpfVXpiTUpTZU9Ob0ZvdGRDcHFtNGNnSW1Ta1V3Vk5jVzN1SkF1U0RhQjVUclR4WHYxTVFXcTRYbFRRWmJ4amlkOGVyQUJWMkkxWHk1S280a1Y1enIxOVFpQU8wc01QbXVXSmI3aDNVdU1SNW9nNF8zcEt6eEFTeHZaaDdDOVNSQVBydW1KZ9IBvwJBVV95cUxORTJBeTIyNmx1MVdBeEYtc1ZOblRScFRlXzhRenZKXzVVamw3ZXI3NS13Q0IyQXFaNjhScUpUX2JtQzZUY2Z4X0J2dTFmMHVHX0ZpR2g3UUE3VXkzOUdjSXBzaUZPdExXb3E3SW9pX1dJZ1JKcTFBdVhCYVE5R05wbG5kYk5NbzlhSm9yck5ENVNLMjZjdGhSTENLLVBjeFZjWjhpdDhoUVd6aGdrNEppdURPUWI3SnBiMmV1ejBmekRrRk1JQVZiR0QtRV83ZVlSaWJudF95Mm1PNFlINlBSZkZDZThrWkM0b3I2VC1wZm92emk1a3VFczMyZmVUMWV1N2E4bjZvYjFhQV9yeE1DVkNPWmZFSWdDN08xMlZHaE1sZzNLYkpSYmJOTk1OTW0zU1d2NjhwZlkwWWtYVEx3?oc=5",
       "published": "2026-11-20T17:16:57Z"
+    },
+    {
+      "title": "Microsoft Investigates Attachment Upload Failures in New Outlook",
+      "source": "CyberSecurityNews",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GU3QyZkQ4MFFzb2VKWjJDbWNfeTVlTzBWeDIyQktMUmRyaVgzZGJNSGxwcTVnenhvamJFSlhpTjRRaC1NVGQ5eWVIWENZVlBnNmdEZTNGQjVTMGtUWXRsOElITVM1OUgxMjZxZV9NeGlHNk01cWfSAXtBVV95cUxOd2FnZWdJTzNpMmwwWmo3T2JHTWpOQ3ZNZHBVVTEzV3I1ZThUa2I2UG1LZTJPTm10QS1HVlo5RmhPTHdlYkJLZ3R1dFpyV2xJTzdjb25DN2RFS1ZoSDl6STczZWwybjluUXZuZmh4RjFDd2tXU3U4WnFVczA?oc=5",
+      "published": "2026-11-20T17:01:31Z"
     },
     {
       "title": "Microsoft 365 Down Again? Users Report Fresh Problems Friday as Fears Linger After Last Week's Global Crash",
@@ -86,16 +92,10 @@
       "source": "Latin Times",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY1BhX0M4aE5JR0YzcWFBYzZtc24tNHFxMWRzVmxPeEprXzRTWXcwVU4tcXlqV1RYa0IwMXlOUHBhd0lXT2wxNXV4NmhKZEJpcE90U2hPSWNHX0V4Q3ZWMXVqd2U0SzVmaG5CZnlmNjZ2VExuWVgyNGctVFZRMGNJYWZQVzJaQmd0OHJtRk1Sd0E?oc=5",
       "published": "2026-11-20T15:37:58Z"
-    },
-    {
-      "title": "APRA calls Microsoft outage a \"near miss\" for financial system",
-      "source": "Insurance Business",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaGtPRFVEM2tLVktzRjNBbFJDSTZUSnVYbVhEOWtVVlRNQ2Q3dnhfNEpGR3daMl9nc09KU2pXVEpGdEhLSVlIYVJNOU8yZWRwM1NZc051VzdieEkxY1Vzckh3UE0tbTFUR1h6SU5MRW4zMWJYTHhNbnRSSnVGcXpHZnZOZmtEbUgtTWNNQ25Ia3lBY2l1U2dnbjc0TmNkbTVqbjBncmVBV3RVektlYXhSRElCcFRhWWw0akEtQ3A2ZVE?oc=5",
-      "published": "2026-11-20T15:00:48Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-21T03:18:03Z",
+    "fetched_at": "2026-11-21T04:18:10Z",
     "items": [],
     "debug": {
       "bytes": 498,
