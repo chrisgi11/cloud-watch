@@ -1,13 +1,19 @@
 {
-  "fetched_at": "2026-11-22T16:18:16Z",
+  "fetched_at": "2026-11-22T17:17:53Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
     {
-      "title": "Delta Air Lines delays at Hartsfield-Jackson ongoing as teams work to \u2018restore automation\u2019",
-      "source": "WSB-TV",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQY0RsNzdjQlFwdjBKdk43Z2ZGZDVKazZONmJ3czg0RmsyNmJKSUl1dEJfVHQ0NmxDbW16ZGpUdHdjN21HTTNkOHZZeG5CMXZ2STJ3ekd5YVBsc05mVjIzanRlNXFWRGVvX1M1Tktrckd4bVp3YU1pMlBwSVFRTnViOURMUmQ2ZF9CYjNIS1hydHpYaUN4bTNJc2piLXY5TUpZQkY1akRQZHl2d3cwTndWaVd2d25zdkpXdURjRllnYXA3dXVxRnM0TlVtYlhuQWtNOFpqYVNNN051dHdRa0ttd1psWWlRZTlB0gH8AUFVX3lxTE1Udk5CbkVnclRyTGxxNDhkVG5iYjJWR2pPOEJXdC1aZmQzS3JYRmNsQ1QzTDh4VWlScTlzYXg2b0psVUQxRXBBUThlTW8wOVcwVFFzR0x5NzNvT04tQ0lJNWNEOXZ1Q3ljUjBTNGQzTXd5WGhzNWFnbjZxRmpmNVFJQlFlVTJ5SGhrLXNTN2VxY0JJMUJFM2h1QlJaQXBWSjMzczgzeVNiMFF6Y1RYMWNZQktPZVR2eGRYaFhISENvQnVVWURBRmJzbHZENHVtZXFqOGNFbmpmTW1BVTJ0ZjVfbWl1YURJbW53SXk2YURua05hZ1JDb2VqMW95NA?oc=5",
-      "published": "2026-11-22T14:14:34Z"
+      "title": "Microsoft outage cause revealed: It was a perfect storm of problems",
+      "source": "Mashable",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aOXNncW9QdWVtZ3RXTHF5VnFncFJTcXptUWtGX0V6azdmcXZVQjBienJMdzJydEdseXhVZHZRcExPbS0xUXlCcXhyX2RDOUZOd0h3bEhwU1hiNF9hc0FNdTZLSkJGUVpz?oc=5",
+      "published": "2026-11-22T17:11:38Z"
+    },
+    {
+      "title": "Microsoft 365 went down for almost 24 hours due to a flaw that testing missed",
+      "source": "Foro3D",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ29mNENvQ05aci1MTDN1b3MyRHJfRUhVQW5nRW1RWmtpT3NkZUcxYkhXZFJoVzZlNDhMR3NnSGVIakxlWXpvbHB3ZEdqdGxXUWlvSFE2SVRLUVNqOGRpTjNmUjFfYTR0aE1YWkhhWjgyZ2kyLXZwa1NReU1HcF9HOERkVUFQZG5kX1I1a1h0VGdkbENibGswa09faHctR1NQT293SGQza3o0M1hRRjVVOGRB?oc=5",
+      "published": "2026-11-22T16:52:41Z"
     },
     {
       "title": "Microsoft outage: Could have done more to prevent global disruption, says CEO Nadella",
@@ -86,16 +92,10 @@
       "source": "varindia",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRjBQREZDTE9NQUdSLUMxRzg3b2gxUTNUVVRSZU96SFNwN1R0V0JBbldrdWZUSUx3a2k0b0hDRm9Rc3dXYnVXWEVWRU5RbGVTdjdEWVdEd1JkbzlYOU5JaVYxUnY2RXRXZHdXVVozaVVKM1kta2x6Z1FvS2wwajAzZG1xR0RvdEFtUURKSg?oc=5",
       "published": "2026-11-21T16:38:01Z"
-    },
-    {
-      "title": "AWS outage on Nov. 15 disrupted 11 services in us-east-1 and went unnoticed",
-      "source": "news.lavx.hu",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT2t1WFliYTRldnUxeWZnd2I2a1JVd0llSlVWVWZRbGZqZ3dwM2Y3OUxNb1dvd01BYkNIVjBlblYxVXNwanZCNWJYRkh2c3RGTnlrNlJhUFZRQ0pkMkcwYUpXbHdfdEgxc1VHWllSUHV3VVAtYl9zdmpkSjFld3FaOEhiS0FJdHRGVlpqcnROZGNoVmM2OFZfYXRSY2VyNGJ5dndKMUhB?oc=5",
-      "published": "2026-11-21T16:16:05Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-22T16:25:16Z",
+    "fetched_at": "2026-11-22T17:17:53Z",
     "items": [],
     "debug": {
       "bytes": 498,
