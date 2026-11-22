@@ -1,14 +1,8 @@
 {
-  "fetched_at": "2026-11-22T02:17:38Z",
+  "fetched_at": "2026-11-22T03:17:42Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
-    {
-      "title": "Microsoft outage: Does Microsoft owe you money? What to know.",
-      "source": "Mashable",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKOUVfMTNXLTFIX21qMU05N3ZzdDV5bi05bnBvc190ZUpiR0RhWWEwSUtaZVpiMEhDVzVfUXFGTDl3NVpNTHNTM3dvYzI3QWJOS2RYNzljLWdJZzI3SnBtamFqUW40b21qdE1kN1RKUFhidw?oc=5",
-      "published": "2026-11-22T01:14:14Z"
-    },
     {
       "title": "Microsoft outage hits South African businesses, government services and universities",
       "source": "IOL",
@@ -26,6 +20,12 @@
       "source": "JournalArta",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMktjbmNDN0VrbFNBemJ1WnB1UE5LREJMaWs1bDdGY3NsM1hidGJ5WmQ2MUE3WUdiNDhmUE5SZVNZczZGUHhjMnNObTJkMWcxNVZYVk5ITThlS3N2bE9NbE5DUUUzdUg3amtxMW1TWjZVV0lRdTN5MVMzNjAxOWgzWGVHTDdDbWUyWVNuN2oydkl2bms?oc=5",
       "published": "2026-11-22T00:16:18Z"
+    },
+    {
+      "title": "Microsoft outage: Does Microsoft owe you money? What to know.",
+      "source": "Mashable",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKOUVfMTNXLTFIX21qMU05N3ZzdDV5bi05bnBvc190ZUpiR0RhWWEwSUtaZVpiMEhDVzVfUXFGTDl3NVpNTHNTM3dvYzI3QWJOS2RYNzljLWdJZzI3SnBtamFqUW40b21qdE1kN1RKUFhidw?oc=5",
+      "published": "2026-11-22T00:16:09Z"
     },
     {
       "title": "Microsoft blames months-old software glitch for global service outage",
@@ -95,7 +95,7 @@
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-22T02:17:38Z",
+    "fetched_at": "2026-11-22T03:17:42Z",
     "items": [],
     "debug": {
       "bytes": 498,
