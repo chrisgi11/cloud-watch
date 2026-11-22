@@ -1,31 +1,37 @@
 {
-  "fetched_at": "2026-11-22T03:17:42Z",
+  "fetched_at": "2026-11-22T04:18:05Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
     {
-      "title": "Microsoft outage hits South African businesses, government services and universities",
-      "source": "IOL",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPendFUktGazBkcURFNFpQUjZEWnVwWWNNb1MwVkxjSFdpejVTOW13VExocHpTaTVRSmRaMnlkLTFDUzNzb2kxNm5oZUlRR185V2laWU5fYVFRbURRdExXUFVfVFBSSHRpYXBqb1NGVTVuMjlfSWRUZmx1U0hseEk0MGRrV0ZIWVU1MER2bVNOSWM2YUJhaVMtdUctdklJU20yQkRpZVIzb19OSDNqVE9uU3Vyb0JpbkcwMzZZdnJYaw?oc=5",
-      "published": "2026-11-22T00:44:01Z"
+      "title": "Tech experts urge digital 'emergency exits' after global outage wave",
+      "source": "Daily Voice Of Asia",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcS1zLUxFTHFiRHRZWXc0LUhEVmY4cTh1ZS1xalFsbm9McGpJWGhwT0VrV3pDdXg2T09mdkJGNEw3QlhYSU1iMWJwUmV4Y2lxVGVZYXdHRElCeHNzWnQwdzNuallRR0FSZTFOVVlnZVJxM0EzcUZGTUtac1I1MVFOc09tYjk4RUg2eXVPMzlJcWk3UDVySllLRmlCU2ZWalZUdjFHYQ?oc=5",
+      "published": "2026-11-22T04:00:50Z"
     },
     {
       "title": "Microsoft outage was largest of 2026, report says",
       "source": "Mashable",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLWUhCMk96bVJoQUhfcVdmc0k0UTJtTENtM2hiUDM3djdEbnVtRmlyUmtRQkotNnFxQ0xneFBfX204TmFyLUttZ09iU3ZXSC1UMG5JRDd2eE5yVnlxOXF3Y0ZnVVh5Y3JjRWFYU1Zid0xqOUE?oc=5",
-      "published": "2026-11-22T00:30:03Z"
+      "published": "2026-11-22T02:26:26Z"
+    },
+    {
+      "title": "Microsoft outage: Does Microsoft owe you money? What to know.",
+      "source": "Mashable",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKOUVfMTNXLTFIX21qMU05N3ZzdDV5bi05bnBvc190ZUpiR0RhWWEwSUtaZVpiMEhDVzVfUXFGTDl3NVpNTHNTM3dvYzI3QWJOS2RYNzljLWdJZzI3SnBtamFqUW40b21qdE1kN1RKUFhidw?oc=5",
+      "published": "2026-11-22T02:12:25Z"
+    },
+    {
+      "title": "AWS us-east-1 region experienced unnoticed outage",
+      "source": "ET Datacenters",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSmY0NUdUQU1CUTY3dFk5Q0VJOUxzVW9GQ3NfOWdHWGJtR3JJc1VVaUtpQjBvQ0VDYVgyOENHMFZ0cWFYTFFlV0oySUtQa19sS0FmMnpmbW1YOWJibUFMMkhHQzNUTTR5ZC1jUGgtRHdQRl9Rd1dlSVRhNWtTUm5XOWwwclk4WGtGaXgxTmF0ZEYzR3dqOGRRdEJtTTRRenI4TkdyLVcwV1ZHOGhSRE82b1dyWFBac1VBekdqM3Z1WVdsQkJzcnpzcGFETDZLUXNP0gHUAUFVX3lxTFAtVFNSSWhENXZlMHp4bzRLSmN5dEduOC1pU0swS0FOb25iazBYT0RwSDNSTmZCUVE4MHZCVW9MU2g3M2syM2l5NnpWV25DWU0yRC10R0ppa2tXd2xuOUktS1JMaTAwLVpRY1JaVHI3NUIwN0JUc24xa3QzOHhwZlJsZXlJYU9Tb0d6YlZBV2NVazFHWmxVNHdkLTdRV0otaFlUZkFNTGIyQWFKUWJpRHpjbUIzVW9wUU1YRDRvVDFDVVVrekhKS1U4THo3OGhOX3ZLTUtm?oc=5",
+      "published": "2026-11-22T02:03:29Z"
     },
     {
       "title": "Microsoft Says Outlook Testing Missed Bug Behind Worldwide Outage",
       "source": "JournalArta",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMktjbmNDN0VrbFNBemJ1WnB1UE5LREJMaWs1bDdGY3NsM1hidGJ5WmQ2MUE3WUdiNDhmUE5SZVNZczZGUHhjMnNObTJkMWcxNVZYVk5ITThlS3N2bE9NbE5DUUUzdUg3amtxMW1TWjZVV0lRdTN5MVMzNjAxOWgzWGVHTDdDbWUyWVNuN2oydkl2bms?oc=5",
       "published": "2026-11-22T00:16:18Z"
-    },
-    {
-      "title": "Microsoft outage: Does Microsoft owe you money? What to know.",
-      "source": "Mashable",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKOUVfMTNXLTFIX21qMU05N3ZzdDV5bi05bnBvc190ZUpiR0RhWWEwSUtaZVpiMEhDVzVfUXFGTDl3NVpNTHNTM3dvYzI3QWJOS2RYNzljLWdJZzI3SnBtamFqUW40b21qdE1kN1RKUFhidw?oc=5",
-      "published": "2026-11-22T00:16:09Z"
     },
     {
       "title": "Microsoft blames months-old software glitch for global service outage",
@@ -86,16 +92,10 @@
       "source": "TheDailyNewsOnline.com",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOZmtWb1RsOXhxTzNjTDFWcG02OGx0ZnZleVktMVhtdHY0QWhESF90VkxuVnpzZzFoVFVwMUJlY1ZYZ25acUp6cVI0YTB1dVBpalBOMk5US3B5UlQ1RFo3aE5ZX3pxUDIxcU5fYnJSYVV1NjRFaWpvbnpHU24xZWhnWG1OTlpjdTZHdEtKMFhoVDNnaFdJanhYSmtqVy12a1hlTFBvWU9naC1nOUtvXzJoNVB4QllhMVhwQ1VrZFBpVDZfa01lZGVRZmcxT3JnMlJTSXFUbmRhOTNFVzFlV2U5N2QycXVCUFotQkxPM09KN2lBalNmZVlwWEFYUUJ1Zw?oc=5",
       "published": "2026-11-21T13:30:00Z"
-    },
-    {
-      "title": "Microsoft 365 Outage Takes Down Outlook and Copilot, Prompting Mumbai Offices to Switch to Phone Calls and In-Person Updates",
-      "source": "Mumbai Mirror",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRWUwcXJ1alVDQ05kdkpjcGF2V0dYam1GLUsySUVNaENOc2lsb184dmNvR0RtdnFKWTBrbThXQzNMSTNyeXBteHk5QUNoOUdJMHdtZkNxd0N2UUlsM2R0Ni1XelJBVDFRU0F3RmltVXB4R29vS09rN09FMWxWWnNBWmNRejBJOGtkLW5mU2hWVW9yM3pWVmp6dE9R?oc=5",
-      "published": "2026-11-21T06:33:06Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-22T03:17:42Z",
+    "fetched_at": "2026-11-22T04:18:05Z",
     "items": [],
     "debug": {
       "bytes": 498,
