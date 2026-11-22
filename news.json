@@ -1,8 +1,14 @@
 {
-  "fetched_at": "2026-11-22T13:17:56Z",
+  "fetched_at": "2026-11-22T14:18:12Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Microsoft outage: Could have done more to prevent global disruption, says CEO Nadella",
+      "source": "Cityairnews",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN3RWblhVQUNfcXI3RVZKaUxBTWx1b28yajFpbE5rb1g3eHFwNFF1eWpXZ3UzUjBEanFtbXVZNE5PeEhwcmpycXJwX0ZvRUZoSFB2dXNlR1RqMnZLS1FtUURpZmJoWWw0bG5nMTZzb05RZFZIM0RtRzl2WFZvcl8xemMycmhaalhEMXBnZW9FZjZ6QXRfaG11SnBSVlpaYm5lU1J5dXFGSE5hRlJybmNoLURLU0NPRk0tdmhr?oc=5",
+      "published": "2026-11-22T13:18:53Z"
+    },
     {
       "title": "Microsoft Confirms Some Outlook Emails Were Never Delivered During November 12 Outage",
       "source": "Windows Report",
@@ -38,12 +44,6 @@
       "source": "IOL",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRVkwY0VXckx4clllNllTVXRYNHYtY1lTbFFicjF1RzZjMV9pWVVoeV9YOFhZdkhjOW9SNllPbVRITDhpVE1CeG9rNjZJM1ExTkxwQ3pydFUyYk1IS3Z3Q2oxVTdHZjdvYUphRHhzX2ZJdHhBLWRqck9wRUVYeEZGVHFfaHVabXhvVHdNYWdzS21WZU9yVGRXQkVyWUZBMW1fek8yTHNpVndpWEk2VUJWWldicHR1YXVzTHRRTlBwajZNaUxnTTBtNGVR?oc=5",
       "published": "2026-11-22T04:07:57Z"
-    },
-    {
-      "title": "Tech experts urge digital 'emergency exits' after global outage wave",
-      "source": "Daily Voice Of Asia",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcS1zLUxFTHFiRHRZWXc0LUhEVmY4cTh1ZS1xalFsbm9McGpJWGhwT0VrV3pDdXg2T09mdkJGNEw3QlhYSU1iMWJwUmV4Y2lxVGVZYXdHRElCeHNzWnQwdzNuallRR0FSZTFOVVlnZVJxM0EzcUZGTUtac1I1MVFOc09tYjk4RUg2eXVPMzlJcWk3UDVySllLRmlCU2ZWalZUdjFHYQ?oc=5",
-      "published": "2026-11-22T04:00:50Z"
     },
     {
       "title": "Microsoft Outage Explained: Hidden Bug and Teams Traffic Surge Set Off Cascading Failure Across Microsoft 365",
@@ -95,7 +95,7 @@
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-22T13:17:56Z",
+    "fetched_at": "2026-11-22T14:18:12Z",
     "items": [],
     "debug": {
       "bytes": 498,
