@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T21:15:20Z",
+  "generated_at": "2026-11-22T21:18:01Z",
   "source": "StatusGator public service pages",
   "services": [
     {
@@ -18,7 +18,7 @@
         "severity": "Warn",
         "duration": "1d 9h 23m"
       },
-      "fetched_at": "2026-11-22T21:15:20Z",
+      "fetched_at": "2026-11-22T21:18:01Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -38,7 +38,7 @@
         "severity": "Warn",
         "duration": "11h"
       },
-      "fetched_at": "2026-11-22T21:15:20Z",
+      "fetched_at": "2026-11-22T21:18:01Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -53,7 +53,7 @@
       "reports_24h": 0,
       "active_incident": null,
       "latest_incident": null,
-      "fetched_at": "2026-11-22T21:15:20Z",
+      "fetched_at": "2026-11-22T21:18:01Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -64,7 +64,7 @@
       "url": "https://statusgator.com/services/microsoft-365-suite",
       "status": "up",
       "status_text": "Microsoft 365 suite is up",
-      "sg_last_checked": "November 22, 2026 at 9:09 PM UTC",
+      "sg_last_checked": "November 22, 2026 at 9:14 PM UTC",
       "reports_24h": null,
       "active_incident": null,
       "latest_incident": {
@@ -73,7 +73,7 @@
         "severity": "Warn",
         "duration": "9h 22m"
       },
-      "fetched_at": "2026-11-22T21:15:20Z",
+      "fetched_at": "2026-11-22T21:18:01Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -84,11 +84,11 @@
       "url": "https://statusgator.com/services/azure",
       "status": "up",
       "status_text": "Azure is up",
-      "sg_last_checked": "November 22, 2026 at 9:10 PM UTC",
+      "sg_last_checked": "November 22, 2026 at 9:15 PM UTC",
       "reports_24h": 2,
       "active_incident": null,
       "latest_incident": null,
-      "fetched_at": "2026-11-22T21:15:20Z",
+      "fetched_at": "2026-11-22T21:18:01Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -108,7 +108,7 @@
         "severity": "Warn",
         "duration": "8h 45m"
       },
-      "fetched_at": "2026-11-22T21:15:20Z",
+      "fetched_at": "2026-11-22T21:18:01Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -123,7 +123,7 @@
       "reports_24h": 0,
       "active_incident": null,
       "latest_incident": null,
-      "fetched_at": "2026-11-22T21:15:20Z",
+      "fetched_at": "2026-11-22T21:18:01Z",
       "fetch_ok": true,
       "fetch_error": null
     }
