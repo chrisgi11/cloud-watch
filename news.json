@@ -1,8 +1,26 @@
 {
-  "fetched_at": "2026-11-22T01:18:36Z",
+  "fetched_at": "2026-11-22T02:17:38Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Microsoft outage: Does Microsoft owe you money? What to know.",
+      "source": "Mashable",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKOUVfMTNXLTFIX21qMU05N3ZzdDV5bi05bnBvc190ZUpiR0RhWWEwSUtaZVpiMEhDVzVfUXFGTDl3NVpNTHNTM3dvYzI3QWJOS2RYNzljLWdJZzI3SnBtamFqUW40b21qdE1kN1RKUFhidw?oc=5",
+      "published": "2026-11-22T01:14:14Z"
+    },
+    {
+      "title": "Microsoft outage hits South African businesses, government services and universities",
+      "source": "IOL",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPendFUktGazBkcURFNFpQUjZEWnVwWWNNb1MwVkxjSFdpejVTOW13VExocHpTaTVRSmRaMnlkLTFDUzNzb2kxNm5oZUlRR185V2laWU5fYVFRbURRdExXUFVfVFBSSHRpYXBqb1NGVTVuMjlfSWRUZmx1U0hseEk0MGRrV0ZIWVU1MER2bVNOSWM2YUJhaVMtdUctdklJU20yQkRpZVIzb19OSDNqVE9uU3Vyb0JpbkcwMzZZdnJYaw?oc=5",
+      "published": "2026-11-22T00:44:01Z"
+    },
+    {
+      "title": "Microsoft outage was largest of 2026, report says",
+      "source": "Mashable",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLWUhCMk96bVJoQUhfcVdmc0k0UTJtTENtM2hiUDM3djdEbnVtRmlyUmtRQkotNnFxQ0xneFBfX204TmFyLUttZ09iU3ZXSC1UMG5JRDd2eE5yVnlxOXF3Y0ZnVVh5Y3JjRWFYU1Zid0xqOUE?oc=5",
+      "published": "2026-11-22T00:30:03Z"
+    },
     {
       "title": "Microsoft Says Outlook Testing Missed Bug Behind Worldwide Outage",
       "source": "JournalArta",
@@ -14,18 +32,6 @@
       "source": "KIRO 7 News Seattle",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdWdlSklwR2F5bnpWYWRZV2FDRGg4NFdvdzhaLWo1cGU0YVlmMEhiZERDY0FzQU5idHJ6aXlCdXJkSE0zamhFZ1pVM2FHX2dZT3YyM2xNOHZZZXdKWVVGVEsxLUVNLXpVVEQyMFZLeDdnVFBzb3JfUGEtcWpIRDdmU1RHV08xX0xKS01SbGJiV0R4NHpybTAwRDlFV214TkZlSzJXWDBzTzQydDB5clNrd0hkMV9aVmlwa1M4YU1ic1JHcFhyVmhnUzZjXzhRZjFQdGFERUFVLXTSAdgBQVVfeXFMUHVnZUpJcEdheW56VmFkWVdhQ0RoODRXb3c4Wi1qNXBlNGFZZjBIYmREQ2NBc0FOYnRyeml5QnVyZEhNM2poRWdaVTNhR19nWU92MjNsTTh2WWV3SllVRlRLMS1FTS16VVREMjBWS3g3Z1RQc29yX1BhLXFqSEQ3ZlNUR1dPMV9MSktNUmxiYldEeDR6cm0wMEQ5RVdteE5GZUsyV1gwc080MnQweXJTa3dIZDFfWlZpcGtTOGFNYnNSR3BYclZoZ1M2Y184UWYxUHRhREVBVS10?oc=5",
       "published": "2026-11-21T23:29:41Z"
-    },
-    {
-      "title": "Microsoft outage was largest of 2026, report says",
-      "source": "Mashable",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLWUhCMk96bVJoQUhfcVdmc0k0UTJtTENtM2hiUDM3djdEbnVtRmlyUmtRQkotNnFxQ0xneFBfX204TmFyLUttZ09iU3ZXSC1UMG5JRDd2eE5yVnlxOXF3Y0ZnVVh5Y3JjRWFYU1Zid0xqOUE?oc=5",
-      "published": "2026-11-21T21:09:55Z"
-    },
-    {
-      "title": "Microsoft outage: Does Microsoft owe you money? What to know.",
-      "source": "Mashable",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKOUVfMTNXLTFIX21qMU05N3ZzdDV5bi05bnBvc190ZUpiR0RhWWEwSUtaZVpiMEhDVzVfUXFGTDl3NVpNTHNTM3dvYzI3QWJOS2RYNzljLWdJZzI3SnBtamFqUW40b21qdE1kN1RKUFhidw?oc=5",
-      "published": "2026-11-21T20:46:07Z"
     },
     {
       "title": "Microsoft\u2019s final Outlook outage report details testing gaps and safeguards that backfired",
@@ -86,16 +92,10 @@
       "source": "Mumbai Mirror",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRWUwcXJ1alVDQ05kdkpjcGF2V0dYam1GLUsySUVNaENOc2lsb184dmNvR0RtdnFKWTBrbThXQzNMSTNyeXBteHk5QUNoOUdJMHdtZkNxd0N2UUlsM2R0Ni1XelJBVDFRU0F3RmltVXB4R29vS09rN09FMWxWWnNBWmNRejBJOGtkLW5mU2hWVW9yM3pWVmp6dE9R?oc=5",
       "published": "2026-11-21T06:33:06Z"
-    },
-    {
-      "title": "When the suite goes dark: What Microsoft 365's November outage means for CIO resilience plans",
-      "source": "Express Computer",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM2Y2R3lQTWV0VFY5clhUcHRUcmVXc1VISktxcHZTa3o1dU5KZWduRWJLVkxwckNqZXpMRE5fYnIxM0RMS0NsRzRjQUFjSFowOTVQT0YzS2R4Ym9kMDAwcG1jdlR5STdVTTFVSzhtSmZRaEdYOFpJVkxsX3hxRTFKeUpxenZNNi1PME0zZFIxZ2VUY0NhUHVSMVNPeXlVazBSYkJpVTVHS3VsZjRJOEtwYTZPQ0RmWk8wdWJWM1g2X1drelZGbW91Tm1SOGNXZEdp?oc=5",
-      "published": "2026-11-21T05:04:32Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-22T01:18:36Z",
+    "fetched_at": "2026-11-22T02:17:38Z",
     "items": [],
     "debug": {
       "bytes": 498,
