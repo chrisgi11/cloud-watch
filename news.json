@@ -1,8 +1,14 @@
 {
-  "fetched_at": "2026-11-22T07:17:53Z",
+  "fetched_at": "2026-11-22T08:14:51Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "BSP gives banks more time to file forex reports after Microsoft 365 outage",
+      "source": "Bilyonaryo Business",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRkkzTWhOMVVjZGthTmRPbU54dTRRUmozR3F0M0d2dC1WWUJVaGtkZjAzTjQ2ckcxTHVyaDNrcUJ1YThYT2tkODhidm1pUXZsdmZUdnFNOEhrcXViWEtLU1VGWEpmWjNLRllTaXNfTGxkLVYtcG9LSl9HbnIyX3ZhT2dxRnc2OWZGd25Pc19ReTRPZmVaYXZQWWZlZk9wZXM?oc=5",
+      "published": "2026-11-22T08:11:35Z"
+    },
     {
       "title": "Microsoft admits some emails bounced during global Outlook outage, reveals new failures",
       "source": "Neowin",
@@ -14,12 +20,6 @@
       "source": "International Business Times Australia",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaXNyWEx6cG56YVZINGVIc1lYVEhzbnJRU25HWmdJTnJoUEV1SlNLVFI0VEdTMG8xRnVVQmE5SmdRNFpYUFlpR0NpWElhRlA5MWRyRGRQR2NERGk0RTNyY2M1Nkg0cHFMMXhYZWR0Y25WVXRLU052MEMzMXJVUGREQzlB?oc=5",
       "published": "2026-11-22T04:28:23Z"
-    },
-    {
-      "title": "Microsoft outage was largest of 2026, report says",
-      "source": "Mashable",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLWUhCMk96bVJoQUhfcVdmc0k0UTJtTENtM2hiUDM3djdEbnVtRmlyUmtRQkotNnFxQ0xneFBfX204TmFyLUttZ09iU3ZXSC1UMG5JRDd2eE5yVnlxOXF3Y0ZnVVh5Y3JjRWFYU1Zid0xqOUE?oc=5",
-      "published": "2026-11-22T04:22:56Z"
     },
     {
       "title": "Microsoft outage raises uncomfortable questions about business reliance on Big Tech",
@@ -95,7 +95,7 @@
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-22T07:17:54Z",
+    "fetched_at": "2026-11-22T08:14:51Z",
     "items": [],
     "debug": {
       "bytes": 498,
