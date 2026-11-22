@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-22T12:18:07Z",
+  "fetched_at": "2026-11-22T13:17:56Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
@@ -58,12 +58,6 @@
       "published": "2026-11-22T02:03:29Z"
     },
     {
-      "title": "Unions, IT expert warn of health sector's reliance on Microsoft after outage",
-      "source": "PravdaReport",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyRFp3bTBJNG1jVUpkV25UUTlON3ZRWDBnLWx4UnAycm5MLTh5M3VXR281UGRlSHFQbjJaTktYSVMxOVV5UU4tb0dFeHBXS3hZWUpiYjhRcTVQN3J1cDRBNFBvaEpPLXJxRlF0MUl5TDN6ZFdI?oc=5",
-      "published": "2026-11-22T02:02:00Z"
-    },
-    {
       "title": "Microsoft Says Outlook Testing Missed Bug Behind Worldwide Outage",
       "source": "JournalArta",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMktjbmNDN0VrbFNBemJ1WnB1UE5LREJMaWs1bDdGY3NsM1hidGJ5WmQ2MUE3WUdiNDhmUE5SZVNZczZGUHhjMnNObTJkMWcxNVZYVk5ITThlS3N2bE9NbE5DUUUzdUg3amtxMW1TWjZVV0lRdTN5MVMzNjAxOWgzWGVHTDdDbWUyWVNuN2oydkl2bms?oc=5",
@@ -76,12 +70,6 @@
       "published": "2026-11-21T23:29:41Z"
     },
     {
-      "title": "HMRC issues warning to households after Microsoft outage",
-      "source": "Birmingham Live",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTTZ0ZGwtQThyOFhDZ2tNbGcwTEdRSFF4R2hfVjdFWS04VUhWNjRyWVBkUmF6LVdzLVluc1VVM1p1c3JsNmpZMGZyREZnbTJXSmN5eGRpaW83cWRWM3hXekk0N1RFUk50ZHduNmpyVlRnVTFUM1d2VVRacC10UERzZHQtbWFmV2VEdFlJV25NYTJiMm55dWgwN0VySUptZ1NwWWRTLdIBpAFBVV95cUxPTTZ0ZGwtQThyOFhDZ2tNbGcwTEdRSFF4R2hfVjdFWS04VUhWNjRyWVBkUmF6LVdzLVluc1VVM1p1c3JsNmpZMGZyREZnbTJXSmN5eGRpaW83cWRWM3hXekk0N1RFUk50ZHduNmpyVlRnVTFUM1d2VVRacC10UERzZHQtbWFmV2VEdFlJV25NYTJiMm55dWgwN0VySUptZ1NwWWRTLQ?oc=5",
-      "published": "2026-11-21T19:12:00Z"
-    },
-    {
       "title": "Microsoft\u2019s final Outlook outage report details testing gaps and safeguards that backfired",
       "source": "GeekWire",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUzVEMnFIMDdJN1RyQl9kaVpBTHBVdnVKZlFaVmV4blRXNWRBNW9FS1dETkF2Q243b3NxR2U0c0FiVXd0Qm9wLXpab1dBQnRVSlNiZzJOMEhYRGlPbklPSWZmNTlLMmZ5RUg4VVRsWG1saW9XZ0FOLWlCaFdHTGdiZ1VDeGtWZGxYaWI4T2xtenpwUzRyU051Y3BCTG1haDd4aHVVQ1Zlc0EyYnNtNVhyQzhvdDdWU3lvbjR2NQ?oc=5",
@@ -92,10 +80,22 @@
       "source": "varindia",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRjBQREZDTE9NQUdSLUMxRzg3b2gxUTNUVVRSZU96SFNwN1R0V0JBbldrdWZUSUx3a2k0b0hDRm9Rc3dXYnVXWEVWRU5RbGVTdjdEWVdEd1JkbzlYOU5JaVYxUnY2RXRXZHdXVVozaVVKM1kta2x6Z1FvS2wwajAzZG1xR0RvdEFtUURKSg?oc=5",
       "published": "2026-11-21T16:38:01Z"
+    },
+    {
+      "title": "AWS outage on Nov. 15 disrupted 11 services in us-east-1 and went unnoticed",
+      "source": "news.lavx.hu",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT2t1WFliYTRldnUxeWZnd2I2a1JVd0llSlVWVWZRbGZqZ3dwM2Y3OUxNb1dvd01BYkNIVjBlblYxVXNwanZCNWJYRkh2c3RGTnlrNlJhUFZRQ0pkMkcwYUpXbHdfdEgxc1VHWllSUHV3VVAtYl9zdmpkSjFld3FaOEhiS0FJdHRGVlpqcnROZGNoVmM2OFZfYXRSY2VyNGJ5dndKMUhB?oc=5",
+      "published": "2026-11-21T16:16:05Z"
+    },
+    {
+      "title": "Downdetector Logs 14 Million Outage Reports in Its Busiest Week",
+      "source": "The Eastern Herald",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVFJQcWtYTHNJZVotTnQ0OUxWZkNXT2VvSUJfek9fZDBvOTdnemVmLXlQUlg2Q29PX1hzdEhIM2pkeVBNeFZfbjRXWER6TFJPajlra2Q4bE1ybkdrN0dJMkhISzI2NTFDa3UtbzZDVUxqUnZpLVBoMnZTMTFEZXVCa1dtQ3Znc2M1clN2UkhxMGR5WHFtQ255dWNhQXE3TzFB?oc=5",
+      "published": "2026-11-21T15:54:27Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-22T12:18:07Z",
+    "fetched_at": "2026-11-22T13:17:56Z",
     "items": [],
     "debug": {
       "bytes": 498,
