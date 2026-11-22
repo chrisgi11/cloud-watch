@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-22T08:18:13Z",
+  "fetched_at": "2026-11-22T09:17:48Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
@@ -7,19 +7,13 @@
       "title": "BSP gives banks more time to file forex reports after Microsoft 365 outage",
       "source": "Bilyonaryo Business",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRkkzTWhOMVVjZGthTmRPbU54dTRRUmozR3F0M0d2dC1WWUJVaGtkZjAzTjQ2ckcxTHVyaDNrcUJ1YThYT2tkODhidm1pUXZsdmZUdnFNOEhrcXViWEtLU1VGWEpmWjNLRllTaXNfTGxkLVYtcG9LSl9HbnIyX3ZhT2dxRnc2OWZGd25Pc19ReTRPZmVaYXZQWWZlZk9wZXM?oc=5",
-      "published": "2026-11-22T08:11:35Z"
+      "published": "2026-11-22T08:31:27Z"
     },
     {
       "title": "Microsoft admits some emails bounced during global Outlook outage, reveals new failures",
       "source": "Neowin",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV0Z4WGlNcjRBQy03bTNqdWNoVU13NmE5ZXl5RzNYSFUyUGtaanRXQ3hWVGUzYVF5R0VwYzJlNkx3SGJEWDgxQk9MR0NydUs2cV96ekJMcDJGVmZoV1NkSkhQRUs2NmJQblI0Uk1pcng4eVZmbnJUeXpBZ0kwak9lWWZCOHFVcVRlSDVWTzhYc1dxbURjSWwzYXBCU3RiekFtS2stMkR2TVRGSkxCQmJLMk5NaGdGUQ?oc=5",
       "published": "2026-11-22T05:24:00Z"
-    },
-    {
-      "title": "Microsoft outage was largest of 2026, report says",
-      "source": "Mashable",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLWUhCMk96bVJoQUhfcVdmc0k0UTJtTENtM2hiUDM3djdEbnVtRmlyUmtRQkotNnFxQ0xneFBfX204TmFyLUttZ09iU3ZXSC1UMG5JRDd2eE5yVnlxOXF3Y0ZnVVh5Y3JjRWFYU1Zid0xqOUE?oc=5",
-      "published": "2026-11-22T05:21:06Z"
     },
     {
       "title": "When the Cloud Goes Down: How Businesses Can Prepare for the Next Major IT Outage Before It Hits Them",
@@ -92,10 +86,16 @@
       "source": "cedarnews.net",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA3VGMzR05LMGZqQ1pmVjkyMFk5ZkpTQlNaMGJ4OTBmMDZnak1xVi00Q1hwc3YxWmdXZExzclljbGppMHA1Mm1kVEpNSW1XOERaYzM3cUZwUTRnaHcwZHQzOC1raFBFOEVzOUlVMjNRREc5STBod3M0?oc=5",
       "published": "2026-11-21T14:41:20Z"
+    },
+    {
+      "title": "AWS got hit by an outage too. Here's why you didn't hear about it",
+      "source": "The Register",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbXlBSFZUSWo1TVBlTTlRaTBPUFhGVU42RWJpY0YySlhpSG44emVVZTc1QnR1Z3oxVzN0NE5RSkJsUjdMNTFDaXBKQzUxRFJkNmU4bUUwSUJNTjdJOVh2cG9QLS1qQ2s2UzgwN25ldjZpYzQ5cXl1ZmUwMkNtTmxnR01INk1oZExFWlEzVHNUaVdhTDdZTXBSSTEwS0lpdklEWmFWYTZzcUVrNDZ0b0VxWC1McUV2UUhxOXN4OQ?oc=5",
+      "published": "2026-11-21T14:35:00Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-22T08:18:13Z",
+    "fetched_at": "2026-11-22T09:17:48Z",
     "items": [],
     "debug": {
       "bytes": 498,
