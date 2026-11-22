@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-22T06:18:00Z",
+  "fetched_at": "2026-11-22T07:17:53Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
@@ -20,6 +20,12 @@
       "source": "Mashable",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLWUhCMk96bVJoQUhfcVdmc0k0UTJtTENtM2hiUDM3djdEbnVtRmlyUmtRQkotNnFxQ0xneFBfX204TmFyLUttZ09iU3ZXSC1UMG5JRDd2eE5yVnlxOXF3Y0ZnVVh5Y3JjRWFYU1Zid0xqOUE?oc=5",
       "published": "2026-11-22T04:22:56Z"
+    },
+    {
+      "title": "Microsoft outage raises uncomfortable questions about business reliance on Big Tech",
+      "source": "IOL",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRVkwY0VXckx4clllNllTVXRYNHYtY1lTbFFicjF1RzZjMV9pWVVoeV9YOFhZdkhjOW9SNllPbVRITDhpVE1CeG9rNjZJM1ExTkxwQ3pydFUyYk1IS3Z3Q2oxVTdHZjdvYUphRHhzX2ZJdHhBLWRqck9wRUVYeEZGVHFfaHVabXhvVHdNYWdzS21WZU9yVGRXQkVyWUZBMW1fek8yTHNpVndpWEk2VUJWWldicHR1YXVzTHRRTlBwajZNaUxnTTBtNGVR?oc=5",
+      "published": "2026-11-22T04:07:57Z"
     },
     {
       "title": "Tech experts urge digital 'emergency exits' after global outage wave",
@@ -86,16 +92,10 @@
       "source": "The Register",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbXlBSFZUSWo1TVBlTTlRaTBPUFhGVU42RWJpY0YySlhpSG44emVVZTc1QnR1Z3oxVzN0NE5RSkJsUjdMNTFDaXBKQzUxRFJkNmU4bUUwSUJNTjdJOVh2cG9QLS1qQ2s2UzgwN25ldjZpYzQ5cXl1ZmUwMkNtTmxnR01INk1oZExFWlEzVHNUaVdhTDdZTXBSSTEwS0lpdklEWmFWYTZzcUVrNDZ0b0VxWC1McUV2UUhxOXN4OQ?oc=5",
       "published": "2026-11-21T14:35:00Z"
-    },
-    {
-      "title": "Microsoft Says Over 80% of Gateway Servers Failed in Outage",
-      "source": "JournalArta",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQME94MmdNZ3J4dHJ5Z2JiRFNQVGJGc2NMdkNmdUVUakhGSzFDTFVoRWV4WmNLekpTLUw4TkpMTVctVko0dFNMRzZURm80SzFmX1VMNG9uVm5ySXU5UXZoS0hYOFljTDgwTzVpanVDRTFQOWJtUlVPYjY3cnNSSkJlY1Z4YW1EOVFGUU1Lc2lR?oc=5",
-      "published": "2026-11-21T14:11:23Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-22T06:18:00Z",
+    "fetched_at": "2026-11-22T07:17:54Z",
     "items": [],
     "debug": {
       "bytes": 498,
