@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-22T18:18:09Z",
+  "fetched_at": "2026-11-22T19:17:54Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
@@ -8,6 +8,12 @@
       "source": "Mashable",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aOXNncW9QdWVtZ3RXTHF5VnFncFJTcXptUWtGX0V6azdmcXZVQjBienJMdzJydEdseXhVZHZRcExPbS0xUXlCcXhyX2RDOUZOd0h3bEhwU1hiNF9hc0FNdTZLSkJGUVpz?oc=5",
       "published": "2026-11-22T17:11:38Z"
+    },
+    {
+      "title": "Delta Outage Leads to Nationwide Delays Days Before Thanksgiving",
+      "source": "TMZ",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jSkZZei1ZNXUwYk5DeGVHTFlmcHJFTDZGZThyVWlLVlo0eVF2RTZFajhzaDQzTTNxLWZGblBiYlBMWmpnYmRlZUFFTm40REpHNDZMTlQzZ2NnSDV1T3NjZWxIbnJZQ1Y1Q2FGWnNHeTJWMVk?oc=5",
+      "published": "2026-11-22T17:02:53Z"
     },
     {
       "title": "Microsoft 365 went down for almost 24 hours due to a flaw that testing missed",
@@ -86,16 +92,10 @@
       "source": "GeekWire",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUzVEMnFIMDdJN1RyQl9kaVpBTHBVdnVKZlFaVmV4blRXNWRBNW9FS1dETkF2Q243b3NxR2U0c0FiVXd0Qm9wLXpab1dBQnRVSlNiZzJOMEhYRGlPbklPSWZmNTlLMmZ5RUg4VVRsWG1saW9XZ0FOLWlCaFdHTGdiZ1VDeGtWZGxYaWI4T2xtenpwUzRyU051Y3BCTG1haDd4aHVVQ1Zlc0EyYnNtNVhyQzhvdDdWU3lvbjR2NQ?oc=5",
       "published": "2026-11-21T17:31:16Z"
-    },
-    {
-      "title": "Microsoft 365 Outage Raises Cloud Reliability Concerns",
-      "source": "varindia",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRjBQREZDTE9NQUdSLUMxRzg3b2gxUTNUVVRSZU96SFNwN1R0V0JBbldrdWZUSUx3a2k0b0hDRm9Rc3dXYnVXWEVWRU5RbGVTdjdEWVdEd1JkbzlYOU5JaVYxUnY2RXRXZHdXVVozaVVKM1kta2x6Z1FvS2wwajAzZG1xR0RvdEFtUURKSg?oc=5",
-      "published": "2026-11-21T16:38:01Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-22T18:18:10Z",
+    "fetched_at": "2026-11-22T19:17:54Z",
     "items": [],
     "debug": {
       "bytes": 498,
