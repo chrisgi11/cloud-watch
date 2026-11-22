@@ -1,8 +1,14 @@
 {
-  "fetched_at": "2026-11-22T04:18:05Z",
+  "fetched_at": "2026-11-22T05:18:17Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "When the Cloud Goes Down: How Businesses Can Prepare for the Next Major IT Outage Before It Hits Them",
+      "source": "International Business Times Australia",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaXNyWEx6cG56YVZINGVIc1lYVEhzbnJRU25HWmdJTnJoUEV1SlNLVFI0VEdTMG8xRnVVQmE5SmdRNFpYUFlpR0NpWElhRlA5MWRyRGRQR2NERGk0RTNyY2M1Nkg0cHFMMXhYZWR0Y25WVXRLU052MEMzMXJVUGREQzlB?oc=5",
+      "published": "2026-11-22T04:28:23Z"
+    },
     {
       "title": "Tech experts urge digital 'emergency exits' after global outage wave",
       "source": "Daily Voice Of Asia",
@@ -10,16 +16,10 @@
       "published": "2026-11-22T04:00:50Z"
     },
     {
-      "title": "Microsoft outage was largest of 2026, report says",
-      "source": "Mashable",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLWUhCMk96bVJoQUhfcVdmc0k0UTJtTENtM2hiUDM3djdEbnVtRmlyUmtRQkotNnFxQ0xneFBfX204TmFyLUttZ09iU3ZXSC1UMG5JRDd2eE5yVnlxOXF3Y0ZnVVh5Y3JjRWFYU1Zid0xqOUE?oc=5",
-      "published": "2026-11-22T02:26:26Z"
-    },
-    {
-      "title": "Microsoft outage: Does Microsoft owe you money? What to know.",
-      "source": "Mashable",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKOUVfMTNXLTFIX21qMU05N3ZzdDV5bi05bnBvc190ZUpiR0RhWWEwSUtaZVpiMEhDVzVfUXFGTDl3NVpNTHNTM3dvYzI3QWJOS2RYNzljLWdJZzI3SnBtamFqUW40b21qdE1kN1RKUFhidw?oc=5",
-      "published": "2026-11-22T02:12:25Z"
+      "title": "Microsoft Outage Explained: Hidden Bug and Teams Traffic Surge Set Off Cascading Failure Across Microsoft 365",
+      "source": "International Business Times Australia",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRE5ndjRZTjNxYjFNUExKUVNBR2Y1eGZtZ2FVNU9VbDRwRFFNSy1jbGxId2hjWk5MczFRZi1sQ0tJTVZUNzBoN3RRaEZWYnhnTWMwdGNGejI4WExsYVNfZ2VLa3VDb1BKd0Rocm1HVDRhVFdHdEdKWEM4aWNfaVRKUW1JMWNTTW8?oc=5",
+      "published": "2026-11-22T03:54:28Z"
     },
     {
       "title": "AWS us-east-1 region experienced unnoticed outage",
@@ -95,7 +95,7 @@
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-22T04:18:05Z",
+    "fetched_at": "2026-11-22T05:18:17Z",
     "items": [],
     "debug": {
       "bytes": 498,
