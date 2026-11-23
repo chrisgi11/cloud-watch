@@ -1,8 +1,20 @@
 {
-  "fetched_at": "2026-11-23T19:18:08Z",
+  "fetched_at": "2026-11-23T20:18:04Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Microsoft explains, step by step, how its major global outage happened and why it took so long to restore services",
+      "source": "El Cronista",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORmlKcUljRDlpWHptSk5JRllaRUsxSm1MTG56UW5xQU16Yl9SUnRXeVlJck1BNG1PcnNhbngtejZNU21wVUtOQUozcmstdkJ4Ti1jMnpiYUtyTmhZUXpCeC10V2VJTTZtT3hSNkpBTDBfZlhockxRdU1XTVlzWWFZejAwcW56eHFfNUlrTThsS19WY1N1aFZPaGE2SlNEMXM0aDVpX25WakhLZzlfQmRDaFpxZ1RUSVF6RDhlNUFKR1NQLUJ4WmdqSi1meUtJQXlqLXB5S2Nkek44TG52QVM0?oc=5",
+      "published": "2026-11-23T19:17:46Z"
+    },
+    {
+      "title": "Outlook outage fallout: Does Microsoft owe users more than an apology? | Ryan Bridge TODAY",
+      "source": "NZ Herald",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNZEttbUhwMkttME5yNU56dVhkaUkwZS1RQzBGWWJqSzJfc3N1ZklCb2JEZjNDVzhiLW4wR0loYVhKSmJQN3h5cl8yaGlXMlQyYUlwblVUcHNSdkU5S2RPcTBFTmtFR1B2NWN6MHkycXo3SkFsbmlQc1lkLTZ2UWZ3SVhxdDhVQllOck9xNmZFUVNCWEpTMm1DbWE0RE5VNXFoaGZaZjFRYWVUQ2Y0T0xXcldaa05PeFlyaThIb1paZWVQMUEwUlk1dGdpUnhISTE1eDR3TWt1R2QzcUdBeENjN0ltdjB6c3dtUnNEdkdPTjMwSzBhd01mcHBwQVdKcDA4MWF1RktoNA?oc=5",
+      "published": "2026-11-23T19:13:00Z"
+    },
     {
       "title": "Is it an outage or are you being hacked? A 2-minute check before you panic, reset passwords or call 'suppo",
       "source": "The Economic Times",
@@ -11,8 +23,8 @@
     },
     {
       "title": "Microsoft's Outlook outage didn't take long to become phishing bait",
-      "source": "Windows Central",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU1B4VzlnS3dNdDhuQ2k4Z3pnQnJiZVVfQTVZNlJRTlVrS2ktQkhyWHJmUktzQThEaWN4ZGRvYTNaV0lDSU1STlVTOXpIby00cVBvbkg5d2tFT3RvaElNU0ZBdWxJbmtEVkVFNkcxc1kxMnNZcnFwei1fUWk0QnhVbkZEakdZTnp3dTJveDJFNlRQVnVtMC1OWm5JcE5jcEJDNG9iNjJGOHIxSDZjdjQ3ZUtDYjZ3YlVJZXdIck9TbDY5ZVkxV1E?oc=5",
+      "source": "Yahoo Tech",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObGRJay1fQkQ4UVlURElBOXE4Q19QZFdjeERoaEItckc1ZDIzX0ljTGZPek15OG41c1NQZzFQSHZLd1IzZFFvV3NWMnZsUGYyNThVWm1ZYnVycENVd1lqcEVSbFdGcG9iWk1oX0JyOVpTbFNFSDdZQTQ3ZjZnVGVwQXUyUzFvTjI1Smp2Y0ZybFlIZjhRR0dnRXlqbElTZw?oc=5",
       "published": "2026-11-23T17:25:55Z"
     },
     {
@@ -26,6 +38,12 @@
       "source": "NeoTeo",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYnBhZVZoaVpTWi11UERSVHM2dmR0R0J0YkRuZzZfUDF2TktCU2RQcXhsUVBQLWNoQ0JNQm5VQjYxUEJpakFaVlI4ZFpWQjJwN2NOb0FkSUxqN19veDhqLUhxdUlqWERJLWpVM3BERURUSWc5NmFUaVJ1U19IRU8tTlFObVBoaFB4MjFFR0lB?oc=5",
       "published": "2026-11-23T17:14:26Z"
+    },
+    {
+      "title": "Microsoft Outage Report Details Testing Gaps and Lost Emails",
+      "source": "news.lavx.hu",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQem0zV0N1TU5GTW04MlNjaklJZDRjNGF4VzhZVU8yS2JxNVVCazV2cWtHOWxRT1RqZnM2ZmVpZWJJVE1fZkY4Q0V3VFk1R0tkeUg5QUdEODB3SEMxUkk1NXRtd01lNVhDR0JZU2NpbmtpYmdMWEFiUEtqQ09SVTJCM3VaeDBzS0c2eXFXeWxLY0NVMTA?oc=5",
+      "published": "2026-11-23T16:57:36Z"
     },
     {
       "title": "Microsoft Outlook Outage Today: Is Outlook Down in the US? Users Report Email, App Login, Website, Sending and Receiving Messages Issues | Check Latest Downdetector Status",
@@ -74,28 +92,10 @@
       "source": "Beinsure",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBUb1BoTTlpa2pERzd4WW10eWhsSlRRMVFZc3R3RlZJaUdpNV9hcEJ5NmlIYzgzMzRiRnZjYzNGQlBJR1NhaXlpVlV5TDduNzlTck9mbDNUdDdHcFpldEgtVjQ0WWI2Uk0tTEVzZERpN3g0cThNd1BhMXhHaTNEZw?oc=5",
       "published": "2026-11-23T14:49:13Z"
-    },
-    {
-      "title": "New Outlook's attachment issues sent users into the arms of its predecessor",
-      "source": "The Register",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeU9DLTdGQmw4dkZmRDNTN3JXRGhTc1BRQkN0UXg4eU5Ob0JlNUZldVJ6VGRZLWZJNHl5MGVjZ3BqdnVGX2gyWnd5a25uZ0RGQU9pRTZReDNGYmF0dmFtdENVT1JLVG1RWGhLMUJPMFlsQjB6R1llbWVPMklTckgzS2pVczlSVXVlUDVubVhuOURfc3UwUDBSWlJUWDc4eXdzeDdHYWI1ZXdYenlFdkRRYmVxZGZOTV9oajU3Sy1POFlNYW9a?oc=5",
-      "published": "2026-11-23T12:30:00Z"
-    },
-    {
-      "title": "Weekly Recap: Raised EPS outlook and Trigon labor outage weighs on Q4",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR3pYbFJhbGNKd3NXcm80Y1V0Q3BtM0hYbFgwTmR6QUM3RkktdkVkTFdqTWowTG40NzZoZ1gyZWJwOHNEQURtNmhoMVF5eU1JNGNjd3MtWVo1ZE5OMXJNTi13NU1sYjI2VU5hY09pQ1NlcHY1T2FaemtERTdSeExBZWtkc05uemFfS1QzQjIwLWNIcG5Xay15Sk5pTzZQc09PTXF5UmhZWDVWc1NhSUdTNVJiTXZTVUVuN2JQUTNFQk1SLW9PWjRxVDR3?oc=5",
-      "published": "2026-11-23T11:00:00Z"
-    },
-    {
-      "title": "Weekly Recap: Azure revenue growth and Maia 300 AI chip unveiling",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdTJLNGZUM2ZLZEV3d3JWZEM2Z1pqYzRkM0E1bWdpNjJHcVhraEQyTU9vNTZ2T1RzNlF4UWs5aUVCNU9jN3R2NmhQN1ptM2JiQXJtRFl2SmExekh0bG5JZzV0eTVFODJZancxRUxUcF82RDhRRE9mTk5YS3dNZWhsS0F4aWc0MlN3YnFYZDBoNnlLMDg2NktSZ2pPU3gxYXVkajM3bmNqRmY0dTB4ZHJpbDh4dlF1ZVBNRlNpd1p6cV94Z29H?oc=5",
-      "published": "2026-11-23T11:00:00Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-23T19:18:08Z",
+    "fetched_at": "2026-11-23T20:18:04Z",
     "items": [],
     "debug": {
       "bytes": 498,
