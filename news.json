@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-23T22:37:35Z",
+  "fetched_at": "2026-11-23T23:17:52Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
@@ -52,6 +52,12 @@
       "published": "2026-11-23T17:14:26Z"
     },
     {
+      "title": "Microsoft Outage Report Details Testing Gaps and Lost Emails",
+      "source": "news.lavx.hu",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQem0zV0N1TU5GTW04MlNjaklJZDRjNGF4VzhZVU8yS2JxNVVCazV2cWtHOWxRT1RqZnM2ZmVpZWJJVE1fZkY4Q0V3VFk1R0tkeUg5QUdEODB3SEMxUkk1NXRtd01lNVhDR0JZU2NpbmtpYmdMWEFiUEtqQ09SVTJCM3VaeDBzS0c2eXFXeWxLY0NVMTA?oc=5",
+      "published": "2026-11-23T16:57:36Z"
+    },
+    {
       "title": "Microsoft Outlook Outage Today: Is Outlook Down in the US? Users Report Email, App Login, Website, Sending and Receiving Messages Issues | Check Latest Downdetector Status",
       "source": "The Sunday Guardian",
       "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOcnVkNFZ5S3BoYnNzMWl1dW1mTFFBak9fMUxpUXFjaWR0UGx0QjdtcWFtTGdnNk9HNlZDVGNHM0hiRmpEc0ptYk1Wb0FUMTJ2VjFQUWJoemdRR05CRzR5UHdxMjFHLVpQa1BCc2FMeXk2NVcwajQzSWxXQ3VtMVg1MER4Zk1hUnV5amptM3FOZ0gwRUVaYmJlcmxlbkpiSndDU0FtemRTN0tiR1dNQ0F6b0I5YlBTd0dqcDNfRDNoZWJSOEVNT1Zfd1VxMnJXUWY2YWkzcnNJZW15TXhBN1gwNzJIMGMxSl9ydXZwTm1EMVlqa1hBS0Vyb3VSMnhTeUhWYzVxQWxJbklxV2xiT1ZQZ1hNVG9tWjJQSlQtdHB3REVocXVnZzFJZ2NXcG5DWFJMQnR2M213ZEhvOThV0gG8AkFVX3lxTE5ydWQ0VnlLcGhic3MxaXV1bWZMUUFqT18xTGlRcWNpZHRQbHRCN21xYW1MZ2c2T0c2VkNUY0czSGJGakRzSm1iTVZvQVQxMnZWMVBRYmh6Z1FHTkJHNHlQd3EyMUctWlBrUEJzYUx5eTY1VzBqNDNJbFdDdW0xWDUwRHhmTWFSdXlqam0zcU5nSDBFRVpiYmVybGVuSmJKd0NTQW16ZFM3S2JHV01DQXpvQjliUFN3R2pwM19EM2hlYlI4RU1PVl93VXEycldRZjZhaTNyc0llbXlNeEE3WDA3MkgwYzFKX3J1dnBObUQxWWprWEFLRXJvdVIyeFN5SFZjNXFBbEluSXFXbGJPVlBnWE1Ub21aMlBKVC10cHdERWhxdWdnMUlnY1dwbkNYUkxCdHYzbXdkSG85OFU?oc=5",
@@ -86,16 +92,10 @@
       "source": "International Business Times Australia",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVUZxMmNRd3VrUzRWN2JSZjRmUl8xalhOUG9XckEzYkcxMFYxYlhtMWFnUzhjOVBOY2ZWYzZGT3oyTkNaTHlZbFJ4QXJYREFWT1IydVgxME9sQXU1bUZySXM4VV9CVnJBazFsYTNaZUpWbFlrci1ZX0JicGRvWWhvU3BLU1RvcVo3dGVFNA?oc=5",
       "published": "2026-11-23T15:52:15Z"
-    },
-    {
-      "title": "CyberCube estimates Microsoft 365 outage insurance losses below $100 mn, up to $350 mn",
-      "source": "Beinsure",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNDAzUW5sS0ZPWkRvR25ZdDN2RW11U0M0NFI1SkhEaks1M0tJYlQ4b3M5WVlKRVNETE9qOWhqRE1PSEdZdWdmTTdEQjJKX1EzRk9RUElrQzV6bzBVal80OUs2V09GLWxGLTVPcFdNQjZpQ1U3YnlvMGNNcmdfOWV6cWNXSWM5dVVLeU1Odg?oc=5",
-      "published": "2026-11-23T15:03:18Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-23T22:37:35Z",
+    "fetched_at": "2026-11-23T23:17:52Z",
     "items": [],
     "debug": {
       "bytes": 498,
