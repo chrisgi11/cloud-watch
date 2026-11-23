@@ -1,13 +1,19 @@
 {
-  "fetched_at": "2026-11-23T07:17:46Z",
+  "fetched_at": "2026-11-23T08:18:04Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
     {
-      "title": "BB Stock Rises Overnight: BlackBerry Takes On Browser Security With New Windows Launch Amid US Tech Outage",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQckdJX3I4Q3F4SlJCdWNUdzQwSHNoVkhLalNkQjVzSXRRNGJraTZ2X0h1cDctZUxGeTZ2bmxKV2pSRkdGSWI5VmNfNUF2VEwtemtJdGo0bTlmSHEyQ0tUOG1xZlRtNzFRUGRMZ0hhQXlKZ3dWLWVEMVhha2hJRThnZHFjX0gwSU9HXzFTSzVQa2NVbHUzWGNCY0ZVYmJualR5dVVQRFdYNTJPZVJiRlBwVDRaaWpyRHQ1VjZSWG5GV3ZTalo2RkJwYzJ2R2hScHVSM3NPQWtyN3FTaHNYUDBUWlNVTW1HSzhkdnlORTVUbFNmTDVudHhWeGJR?oc=5",
-      "published": "2026-11-23T06:31:00Z"
+      "title": "APRA focus drawn to offshore material providers reliance",
+      "source": "InvestorDaily",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNXBFVUVXYVJBZnFkYzNqTjRQcXp1RmFlWHlNbFYtUDAtU3V0WnlNOTVXNWVpODlVelJLZHRkYXpBODdaWlVNUWpncS1ZVU1MSzFoOFFWZ01kdVNwZi1aeWxsZmtaQnk0ZF94M19IZXBHZzFXQzdOcHhxWEFsMDNUZjJvSGlHejRYLUVHU2lvSXZhejZMamlqUU8wT1E?oc=5",
+      "published": "2026-11-23T07:47:03Z"
+    },
+    {
+      "title": "Days After Global Outlook Outage, Microsoft Warns More Disruptions Ahead. Here's Why",
+      "source": "NDTV",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN0sxVmJ2M3ExTVotOEItLWU1TlhsMGUwSzZISXBYTk1raWowajZCeFFVRzV3T3FmZ2R2UTN2T29XQ0RlazBDYnBIVUFkQ1FJMC1KZXRjQmc0d2c5R1B5Q2RCbWh1YkVLZkt5bmp0Zkk3UTJ1R1cwc2tTc1EwanJLUUN2a1hsV0hKSWw3NVZOREllMXJ0TVlUYVNReExsR09Fb1JvVlQ0V1hlZ012M3FoNHR6YUJ6N1hrSXVQSkVlVdIBxwFBVV95cUxNM1h0SkdTaEFiYXN5WXZNT3VTNHJyN3c1bGNsc1dkMUhPdTkyVVF3U3JlallhekJGcVZXZU5LUGsyNWtNZnA2aEJOMi16NGEzUWNlZXlZU012VUsxMXhqQmVTVUZ4WWF5cE5seFBQY3R0cE1IZFgwSlA1bDlpR0xVR1FfUEFqSThrM0RtMy16SG5OcllCLWF2MjZiWHY0Q2lEMWJPSGltQy04R19iZ0s1TjlzaThWMkxxWGtFVTg1Zm9VUnNvX3FJ?oc=5",
+      "published": "2026-11-23T07:08:42Z"
     },
     {
       "title": "Microsoft 365 Down Again? Users Report New Problems Sunday Night, Days After Global Outlook and Teams Outage",
@@ -70,12 +76,6 @@
       "published": "2026-11-22T11:00:23Z"
     },
     {
-      "title": "Microsoft outage affects entities under Portugal\u2019s Ministry of Health",
-      "source": "The Portugal News",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZHlobUV3THh4T1UwQkxJRjNFeDc0blJpVm5WYUFleU4zS2U2eXg3RFVzcVhFNm9tZGlDeTV2djYyUHUya3FyS1BkX3BjcDROdm1sUnJCRTRzNXZxckFtbTRIRDNvVVREQ2ZqbHFJVTNUaF9xUm5rbHE1bm1QODlNUjhfVWF1NEMtMk9tU0lyTHRYUm9FdFJqamZfN0RJMXJnQTlvczhnQlVaaGJxRlVmNUNpTGIyQ1QtbG04bi1qdkphQQ?oc=5",
-      "published": "2026-11-22T10:52:43Z"
-    },
-    {
       "title": "Microsoft's final Outlook outage report lists 13 fixes after tests on older servers missed the bug",
       "source": "MLQ.ai",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORnNJREhwaDdCWUdTaGl4TUJGeEFOcTlaSkJpbXllMUFiWV82bVp5cmxEWlpZU1JDbW1RNU11c1lBMU96MUdwb1BhVy1fWmNxSWNObGlTNGw2QzJXcWRuZDRYeDZUQURMem95WGtaLXRsNVFka0xQd1JJWEx4WEZvTk9hSEJQeHhIcWR4Q0pQZHhEcFFlWU84RUw5aVlyWHVHZVlWSTl3WlFVTDRmZXpDdDNkbmNvZkVESWc?oc=5",
@@ -95,7 +95,7 @@
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-23T07:17:46Z",
+    "fetched_at": "2026-11-23T08:18:04Z",
     "items": [],
     "debug": {
       "bytes": 498,
