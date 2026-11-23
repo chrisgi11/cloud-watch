@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-23T05:17:55Z",
+  "fetched_at": "2026-11-23T06:17:46Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
@@ -46,9 +46,9 @@
       "published": "2026-11-22T16:52:41Z"
     },
     {
-      "title": "Delta flight delays caused by weight-and-balance system outage",
+      "title": "Delta system outage causes widespread flight delays",
       "source": "ABC7 New York",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQampNNTAtQ2ZOamgxSzVrdlZVTDVURlpyUm1pYVlFRWxzYnhGYkpUVVVGeHlfZHVGOHdFbmV0dy0yS1h2THVEN2JfR0pTbW9Fd1lTV1ZLNGR5bnVJQzZzTWNxeWZJbUdPeU13Z3UzNWdBQjQ5dk9JVHMtU2RSclN4R1FUOE9haVJ0N0FzVXdLWjFVcjTSAZgBQVVfeXFMT0xVR1A1QTlPLUo4R05wMkM2VGZJQXQzN2lfc2EyT1E2eVROd0xNUEFqMl9ZRDBPWGFBUTNPaENMa1A4XzF3V001bnAyRzh0cU5mem9qTEhiTjEtSGJ4OHlfQkhkdm44d0RfVGFlQUNESklSYnFpWDhzY3h0X2loeWN4ajdZXzBmamJVdjB6WDU1MEY4YnRzc1A?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQampNNTAtQ2ZOamgxSzVrdlZVTDVURlpyUm1pYVlFRWxzYnhGYkpUVVVGeHlfZHVGOHdFbmV0dy0yS1h2THVEN2JfR0pTbW9Fd1lTV1ZLNGR5bnVJQzZzTWNxeWZJbUdPeU13Z3UzNWdBQjQ5dk9JVHMtU2RSclN4R1FUOE9haVJ0N0FzVXdLWjFVcjQ?oc=5",
       "published": "2026-11-22T15:43:03Z"
     },
     {
@@ -95,7 +95,7 @@
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-23T05:17:55Z",
+    "fetched_at": "2026-11-23T06:17:46Z",
     "items": [],
     "debug": {
       "bytes": 498,
