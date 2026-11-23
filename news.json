@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-22T23:17:39Z",
+  "fetched_at": "2026-11-23T00:17:44Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
@@ -8,6 +8,12 @@
       "source": "Firstpost",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOczZtLXpqWmhHX1VLYkx4QTRmY2ItSnJkY3gxVER3cmI1SlRrNTdRcFpqNUx6bExyZW51QlkyWUxKdDEyRVVZYjducmxtUE9fRFROTHJOYkJOWWZDTHBVeTFibW0zX0Q1QlI0VHpJTU43WC01dWJYTlY3Z0FYQzUtdWgyUWJtZWJIZld0MkxSWmhqSmxKamtVR1RHcDBRRHlxc19rY2ljTGVYbEhINTF2MXhUZ2VtVGNZQnVwNjJYUEx6cjV2QmZQdWV5ekRGQjQ0S0HSAdcBQVVfeXFMUEx2VVd6THNjZjRkNERVR050ZkJ3aU9RY3VwY0JHQm9nbVVsNGQ2cnJHS3RWd1VpeW02dHR0QzIzTHRRQ1JILVZIbmhiQ3o5SFE4ODBydXk5Z1kxOEtHMnVpTXNQSlFSZk5GLXlZOGJpcFo5OXFUUDhKLTJ2cGV5eGNaSkZlcGtra21xTmEtRHFhcWlMVkdhc2dkZVg0TmdYNFdQeThod0t5NkVOWEg1eWxjOVo3aWxzaDZFUEo3WWU2SHg4ZFBQWUVrYWpRakNNZzJDdmEwTlE?oc=5",
       "published": "2026-11-22T19:53:36Z"
+    },
+    {
+      "title": "Microsoft Faces Washington Scrutiny Over ByteDance Deal as It Untangles a Two-Month-Old Outlook Bug",
+      "source": "ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQSFV0UjNfblV0T0x6VFNKVEZPbURKV2VYOXRobk5KQUpfUklzdE0yeTBVLXRtRF9CcS0wU1FjS2xBYlRBNl9pTVNaNV92aFBHOFVQaFEyQkpPdVZMRkNsbVJmNF9CVDhuQlJva0hjZDJWQ1loQi1tSno3LU1qRFVZYk9SMThENjNRYkplZm8xUTBGQTlidjJyVG9wRGxPYU1sNHhiTlNkaEthZnA2eWlZMFhOeWVuRkZueVZ0MUxJQ2FXNnJDQW5nV1I2QUhMV3hKcVpyc2M3LXZoZ3FoN2l4NENOTTJJQ0FubnU1SVYwOVQtTl9PeFdwa2drYnlzZldl?oc=5",
+      "published": "2026-11-22T17:42:21Z"
     },
     {
       "title": "Microsoft outage cause revealed: It was a perfect storm of problems",
@@ -86,16 +92,10 @@
       "source": "JournalArta",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMktjbmNDN0VrbFNBemJ1WnB1UE5LREJMaWs1bDdGY3NsM1hidGJ5WmQ2MUE3WUdiNDhmUE5SZVNZczZGUHhjMnNObTJkMWcxNVZYVk5ITThlS3N2bE9NbE5DUUUzdUg3amtxMW1TWjZVV0lRdTN5MVMzNjAxOWgzWGVHTDdDbWUyWVNuN2oydkl2bms?oc=5",
       "published": "2026-11-22T00:16:18Z"
-    },
-    {
-      "title": "Microsoft blames months-old software glitch for global service outage",
-      "source": "KIRO 7 News Seattle",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdWdlSklwR2F5bnpWYWRZV2FDRGg4NFdvdzhaLWo1cGU0YVlmMEhiZERDY0FzQU5idHJ6aXlCdXJkSE0zamhFZ1pVM2FHX2dZT3YyM2xNOHZZZXdKWVVGVEsxLUVNLXpVVEQyMFZLeDdnVFBzb3JfUGEtcWpIRDdmU1RHV08xX0xKS01SbGJiV0R4NHpybTAwRDlFV214TkZlSzJXWDBzTzQydDB5clNrd0hkMV9aVmlwa1M4YU1ic1JHcFhyVmhnUzZjXzhRZjFQdGFERUFVLXTSAdgBQVVfeXFMUHVnZUpJcEdheW56VmFkWVdhQ0RoODRXb3c4Wi1qNXBlNGFZZjBIYmREQ2NBc0FOYnRyeml5QnVyZEhNM2poRWdaVTNhR19nWU92MjNsTTh2WWV3SllVRlRLMS1FTS16VVREMjBWS3g3Z1RQc29yX1BhLXFqSEQ3ZlNUR1dPMV9MSktNUmxiYldEeDR6cm0wMEQ5RVdteE5GZUsyV1gwc080MnQweXJTa3dIZDFfWlZpcGtTOGFNYnNSR3BYclZoZ1M2Y184UWYxUHRhREVBVS10?oc=5",
-      "published": "2026-11-21T23:29:41Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-22T23:17:39Z",
+    "fetched_at": "2026-11-23T00:17:44Z",
     "items": [],
     "debug": {
       "bytes": 498,
