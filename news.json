@@ -1,13 +1,31 @@
 {
-  "fetched_at": "2026-11-23T17:17:56Z",
+  "fetched_at": "2026-11-23T18:17:45Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
     {
+      "title": "Is it an outage or are you being hacked? A 2-minute check before you panic, reset passwords or call 'suppo",
+      "source": "The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPaUFuX3h6RGRBTVlyQ1hFRGFYTmtMcDdPUFo2YldxYUtXMEkwUmF6WkRmUklNQkkyc0dWWGhUU3hNeHVqQlRBLXpXLWJSUzdEV09jcmRYWThiaDhmM091RlpBdExMTTBWSVRNWHVSRGdzdUdNSkpWVkE1WmhrUFIyODlOazhscDR0SnZlcEFheld6MVNRNGdETkh0V0Y3VjFrTTdCNjlNRF9nWGlhZG5MbUZ5cENzcFZFWWl4alkxRTBLekMtLUprREVXMW53eEo2RkVFX0VBU0JoU1NYdm0tbkh4SjJ5dGhuWnNUSjJRNWVRTC0tVG9VQnpxb3PSAYICQVVfeXFMTmtoRFZVYURxX1h1QWtEWm5iZkFUMlJaTjdNNldLRDVTaGNhdTZYRHJGXzAxS2xJZkYtMTNOSzRQY2c0MWhENWU1X0tBakl1aklEVVNlR2RYYzd5Rk5qZ3BHTEpldFJUaGJGZHUwb1ducVFoOUs1TGU4dHlIamVfVVZwMlppYTRpQ0JrVmRKSEl1ZU9YSmt2Yl9wZUdQRVo5Z0oweGdERk55SHlkUnZuc0R3WmxGWG9LZ1pXTmdsUk1xRVl4WDVKb2t5VWxqcy1LazNISUx0emVCdjVucnpDZGVjVDFNbHBkM0hsRks1YVJCUDVfQWtnaDlEcGpSVmpiS0FR?oc=5",
+      "published": "2026-11-23T17:42:14Z"
+    },
+    {
+      "title": "Microsoft's Outlook outage didn't take long to become phishing bait",
+      "source": "Windows Central",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU1B4VzlnS3dNdDhuQ2k4Z3pnQnJiZVVfQTVZNlJRTlVrS2ktQkhyWHJmUktzQThEaWN4ZGRvYTNaV0lDSU1STlVTOXpIby00cVBvbkg5d2tFT3RvaElNU0ZBdWxJbmtEVkVFNkcxc1kxMnNZcnFwei1fUWk0QnhVbkZEakdZTnp3dTJveDJFNlRQVnVtMC1OWm5JcE5jcEJDNG9iNjJGOHIxSDZjdjQ3ZUtDYjZ3YlVJZXdIck9TbDY5ZVkxV1E?oc=5",
+      "published": "2026-11-23T17:25:55Z"
+    },
+    {
+      "title": "Microsoft\u2019s Outage Report: Bounced Emails and Silent Security Failures",
+      "source": "Gadget Review",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcUxlU1lPMEFDWjY2TW9YTWRhMy1pVzY4SnMwTUNlYWtpNTJxNm5ZWXNfNlJwSUI1cEs4Tlo4VlhGZGZKY2IycUMyUjFlT2hkZDdNU0lXaGplUFdUWDB1WTJUU1JLaHhpRy1Ca0RYT0JnRENzcUUzU0MtdFBTcXVic2l4dWdMMk0zblRaTTY1VzdjVG1POFVUVGNXQVU0QQ?oc=5",
+      "published": "2026-11-23T17:17:53Z"
+    },
+    {
       "title": "Microsoft Outlook Outage Today: Is Outlook Down in the US? Users Report Email, App Login, Website, Sending and Receiving Messages Issues | Check Latest Downdetector Status",
       "source": "The Sunday Guardian",
-      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQUmdUNmRVZ2JxRm8taUxRTDNGd042dEhwVVBLNU1IelhxQy1xVnlsWEVva2tJcFpWa0xGYjJQVWJyYkxGVGJEOTN1X0V3bVJ1QnpBYnl0aEZNa05HUkFBcFBPV1c2OFlmZTNrdkROakdFZWd3MVNXVjJ6a0FTbDJkdnR6bGdaZnpzcVMxUmdBTUg4ZHpKN2xXVmVFQXpGRWtxRGQxQ3FWLW96Z2pmQXNEQ2VKQzBWWHJJczQxUWowVDVWWWtlVW11bFFIQmlyakllcEJKOGhlTE5ENUlueTRCdTJkNXVVYzNDX2x5LWdOclJtUDlwZHZyZWJ5dHpaTk5GODdXUFFNcUZtSHNfd0VsZDdjQkFMVzRjeUJEVE9yVXE3M1lINW43TWpKMWZ4dDNMdC1DQm5jQdIBvAJBVV95cUxOcnVkNFZ5S3BoYnNzMWl1dW1mTFFBak9fMUxpUXFjaWR0UGx0QjdtcWFtTGdnNk9HNlZDVGNHM0hiRmpEc0ptYk1Wb0FUMTJ2VjFQUWJoemdRR05CRzR5UHdxMjFHLVpQa1BCc2FMeXk2NVcwajQzSWxXQ3VtMVg1MER4Zk1hUnV5amptM3FOZ0gwRUVaYmJlcmxlbkpiSndDU0FtemRTN0tiR1dNQ0F6b0I5YlBTd0dqcDNfRDNoZWJSOEVNT1Zfd1VxMnJXUWY2YWkzcnNJZW15TXhBN1gwNzJIMGMxSl9ydXZwTm1EMVlqa1hBS0Vyb3VSMnhTeUhWYzVxQWxJbklxV2xiT1ZQZ1hNVG9tWjJQSlQtdHB3REVocXVnZzFJZ2NXcG5DWFJMQnR2M213ZEhvOThV?oc=5",
-      "published": "2026-11-23T16:39:33Z"
+      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOcnVkNFZ5S3BoYnNzMWl1dW1mTFFBak9fMUxpUXFjaWR0UGx0QjdtcWFtTGdnNk9HNlZDVGNHM0hiRmpEc0ptYk1Wb0FUMTJ2VjFQUWJoemdRR05CRzR5UHdxMjFHLVpQa1BCc2FMeXk2NVcwajQzSWxXQ3VtMVg1MER4Zk1hUnV5amptM3FOZ0gwRUVaYmJlcmxlbkpiSndDU0FtemRTN0tiR1dNQ0F6b0I5YlBTd0dqcDNfRDNoZWJSOEVNT1Zfd1VxMnJXUWY2YWkzcnNJZW15TXhBN1gwNzJIMGMxSl9ydXZwTm1EMVlqa1hBS0Vyb3VSMnhTeUhWYzVxQWxJbklxV2xiT1ZQZ1hNVG9tWjJQSlQtdHB3REVocXVnZzFJZ2NXcG5DWFJMQnR2M213ZEhvOThV0gG8AkFVX3lxTE5ydWQ0VnlLcGhic3MxaXV1bWZMUUFqT18xTGlRcWNpZHRQbHRCN21xYW1MZ2c2T0c2VkNUY0czSGJGakRzSm1iTVZvQVQxMnZWMVBRYmh6Z1FHTkJHNHlQd3EyMUctWlBrUEJzYUx5eTY1VzBqNDNJbFdDdW0xWDUwRHhmTWFSdXlqam0zcU5nSDBFRVpiYmVybGVuSmJKd0NTQW16ZFM3S2JHV01DQXpvQjliUFN3R2pwM19EM2hlYlI4RU1PVl93VXEycldRZjZhaTNyc0llbXlNeEE3WDA3MkgwYzFKX3J1dnBObUQxWWprWEFLRXJvdVIyeFN5SFZjNXFBbEluSXFXbGJPVlBnWE1Ub21aMlBKVC10cHdERWhxdWdnMUlnY1dwbkNYUkxCdHYzbXdkSG85OFU?oc=5",
+      "published": "2026-11-23T16:39:37Z"
     },
     {
       "title": "What the Microsoft 365 outage taught us",
@@ -74,28 +92,10 @@
       "source": "Firstpost",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOczZtLXpqWmhHX1VLYkx4QTRmY2ItSnJkY3gxVER3cmI1SlRrNTdRcFpqNUx6bExyZW51QlkyWUxKdDEyRVVZYjducmxtUE9fRFROTHJOYkJOWWZDTHBVeTFibW0zX0Q1QlI0VHpJTU43WC01dWJYTlY3Z0FYQzUtdWgyUWJtZWJIZld0MkxSWmhqSmxKamtVR1RHcDBRRHlxc19rY2ljTGVYbEhINTF2MXhUZ2VtVGNZQnVwNjJYUEx6cjV2QmZQdWV5ekRGQjQ0S0HSAdcBQVVfeXFMUEx2VVd6THNjZjRkNERVR050ZkJ3aU9RY3VwY0JHQm9nbVVsNGQ2cnJHS3RWd1VpeW02dHR0QzIzTHRRQ1JILVZIbmhiQ3o5SFE4ODBydXk5Z1kxOEtHMnVpTXNQSlFSZk5GLXlZOGJpcFo5OXFUUDhKLTJ2cGV5eGNaSkZlcGtra21xTmEtRHFhcWlMVkdhc2dkZVg0TmdYNFdQeThod0t5NkVOWEg1eWxjOVo3aWxzaDZFUEo3WWU2SHg4ZFBQWUVrYWpRakNNZzJDdmEwTlE?oc=5",
       "published": "2026-11-22T19:53:36Z"
-    },
-    {
-      "title": "Delta Outage Leads to Nationwide Delays Days Before Thanksgiving",
-      "source": "TMZ",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jSkZZei1ZNXUwYk5DeGVHTFlmcHJFTDZGZThyVWlLVlo0eVF2RTZFajhzaDQzTTNxLWZGblBiYlBMWmpnYmRlZUFFTm40REpHNDZMTlQzZ2NnSDV1T3NjZWxIbnJZQ1Y1Q2FGWnNHeTJWMVk?oc=5",
-      "published": "2026-11-22T17:02:53Z"
-    },
-    {
-      "title": "Is Your Business Ready for the Next Cloud Outage? The Communications Commissioner Explains",
-      "source": "POLITIS - To the point",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWHdseU9kM2tCSm9KQS1idmo0TVZtUXJHbG1QZl9vdGM5Sk54cGZHbFduMWltQXBUSU9yUHNFUEw4Rmd2anhZajhubW5ZTVBfTzN1SlRCOERsS2dDVWduVjFTamgzTVhkSVpWelZrUDFiMkRfSl9PTUhiQUxiRkdYQ1FnR3hMd2E2RXpNay1vaGpDb1NJQy1CRjJ6SkJyMWxuMWZfU3FJVHNCM2xTSUhmbldRWXpodVNtQ002UHpHOG9jZGdZczBQSlJmN0EtOExEdHFWRGhn?oc=5",
-      "published": "2026-11-22T17:01:00Z"
-    },
-    {
-      "title": "Microsoft 365 went down for almost 24 hours due to a flaw that testing missed",
-      "source": "Foro3D",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ29mNENvQ05aci1MTDN1b3MyRHJfRUhVQW5nRW1RWmtpT3NkZUcxYkhXZFJoVzZlNDhMR3NnSGVIakxlWXpvbHB3ZEdqdGxXUWlvSFE2SVRLUVNqOGRpTjNmUjFfYTR0aE1YWkhhWjgyZ2kyLXZwa1NReU1HcF9HOERkVUFQZG5kX1I1a1h0VGdkbENibGswa09faHctR1NQT293SGQza3o0M1hRRjVVOGRB?oc=5",
-      "published": "2026-11-22T16:52:41Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-23T17:17:56Z",
+    "fetched_at": "2026-11-23T18:17:45Z",
     "items": [],
     "debug": {
       "bytes": 498,
