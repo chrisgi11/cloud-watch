@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-23T18:17:45Z",
+  "fetched_at": "2026-11-23T19:18:08Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
@@ -22,6 +22,12 @@
       "published": "2026-11-23T17:17:53Z"
     },
     {
+      "title": "Japan Microsoft 365 outage response: Furukawa\u2019s requests",
+      "source": "NeoTeo",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYnBhZVZoaVpTWi11UERSVHM2dmR0R0J0YkRuZzZfUDF2TktCU2RQcXhsUVBQLWNoQ0JNQm5VQjYxUEJpakFaVlI4ZFpWQjJwN2NOb0FkSUxqN19veDhqLUhxdUlqWERJLWpVM3BERURUSWc5NmFUaVJ1U19IRU8tTlFObVBoaFB4MjFFR0lB?oc=5",
+      "published": "2026-11-23T17:14:26Z"
+    },
+    {
       "title": "Microsoft Outlook Outage Today: Is Outlook Down in the US? Users Report Email, App Login, Website, Sending and Receiving Messages Issues | Check Latest Downdetector Status",
       "source": "The Sunday Guardian",
       "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOcnVkNFZ5S3BoYnNzMWl1dW1mTFFBak9fMUxpUXFjaWR0UGx0QjdtcWFtTGdnNk9HNlZDVGNHM0hiRmpEc0ptYk1Wb0FUMTJ2VjFQUWJoemdRR05CRzR5UHdxMjFHLVpQa1BCc2FMeXk2NVcwajQzSWxXQ3VtMVg1MER4Zk1hUnV5amptM3FOZ0gwRUVaYmJlcmxlbkpiSndDU0FtemRTN0tiR1dNQ0F6b0I5YlBTd0dqcDNfRDNoZWJSOEVNT1Zfd1VxMnJXUWY2YWkzcnNJZW15TXhBN1gwNzJIMGMxSl9ydXZwTm1EMVlqa1hBS0Vyb3VSMnhTeUhWYzVxQWxJbklxV2xiT1ZQZ1hNVG9tWjJQSlQtdHB3REVocXVnZzFJZ2NXcG5DWFJMQnR2M213ZEhvOThV0gG8AkFVX3lxTE5ydWQ0VnlLcGhic3MxaXV1bWZMUUFqT18xTGlRcWNpZHRQbHRCN21xYW1MZ2c2T0c2VkNUY0czSGJGakRzSm1iTVZvQVQxMnZWMVBRYmh6Z1FHTkJHNHlQd3EyMUctWlBrUEJzYUx5eTY1VzBqNDNJbFdDdW0xWDUwRHhmTWFSdXlqam0zcU5nSDBFRVpiYmVybGVuSmJKd0NTQW16ZFM3S2JHV01DQXpvQjliUFN3R2pwM19EM2hlYlI4RU1PVl93VXEycldRZjZhaTNyc0llbXlNeEE3WDA3MkgwYzFKX3J1dnBObUQxWWprWEFLRXJvdVIyeFN5SFZjNXFBbEluSXFXbGJPVlBnWE1Ub21aMlBKVC10cHdERWhxdWdnMUlnY1dwbkNYUkxCdHYzbXdkSG85OFU?oc=5",
@@ -32,6 +38,18 @@
       "source": "NationalWorld",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRExydFB0SElFLU5USEt6c3Ezb0tYTGI2X2o1NldpWUo4bnVKdGlRZkMyVFhPVUM2c3RPbHRaZ3VYVTRTWDhvN1dNQ3R5RWVUbGVQTTg2UTQ2aHNaMXNzY2FRV1ZRVWtoWlJGRGMyNlBIY3VnTXh5TVAtM05ESHd3NjItMjR2NE1rdzd1a2d0aEpQUQ?oc=5",
       "published": "2026-11-23T16:39:27Z"
+    },
+    {
+      "title": "Microsoft details causes of Outlook outage that affected millions",
+      "source": "Mezha.net",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVk5KNGtqNGIycGVSdDFtdHIxM0ZaM0Z4N1NTTjZOb2UwMWNiVHhPbVFXY205Mm5rNlRCcGxneXk0MDlteXhNNmJYYk1XWHFVU3Q1Um9jaURTSGdaYk1zbWx3UzI0aFpLT1FxWmJZVXhOVXhoWnEzUm5zMEVuVTg1N1JqeElFbkp6dVBz?oc=5",
+      "published": "2026-11-23T16:28:29Z"
+    },
+    {
+      "title": "Microsoft's Outlook outage came down to a perfect storm",
+      "source": "Yahoo Tech",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaGJPV213OFV5MEV6MEt5aFYxcTBma0M5WG9LYnFORGhrdGRUVWZkM29yS2VNaG0tSFQ5Qm9NNTJaYnRhN016RWdzaGlodmF1VlZPcHVsZVlRNlBzQ1VwQ2VLWmNOeV82Z2hrRXRYZUVCWVhzdldCSnJKZGJDRDMxMkxKTXk3QWdxSWQ5RS00Y0RDQVlzMVhZ?oc=5",
+      "published": "2026-11-23T16:17:09Z"
     },
     {
       "title": "Microsoft mega outage: Report reveals testing gaps and emails that never arrived",
@@ -58,6 +76,12 @@
       "published": "2026-11-23T14:49:13Z"
     },
     {
+      "title": "New Outlook's attachment issues sent users into the arms of its predecessor",
+      "source": "The Register",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeU9DLTdGQmw4dkZmRDNTN3JXRGhTc1BRQkN0UXg4eU5Ob0JlNUZldVJ6VGRZLWZJNHl5MGVjZ3BqdnVGX2gyWnd5a25uZ0RGQU9pRTZReDNGYmF0dmFtdENVT1JLVG1RWGhLMUJPMFlsQjB6R1llbWVPMklTckgzS2pVczlSVXVlUDVubVhuOURfc3UwUDBSWlJUWDc4eXdzeDdHYWI1ZXdYenlFdkRRYmVxZGZOTV9oajU3Sy1POFlNYW9a?oc=5",
+      "published": "2026-11-23T12:30:00Z"
+    },
+    {
       "title": "Weekly Recap: Raised EPS outlook and Trigon labor outage weighs on Q4",
       "source": "TradingView",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR3pYbFJhbGNKd3NXcm80Y1V0Q3BtM0hYbFgwTmR6QUM3RkktdkVkTFdqTWowTG40NzZoZ1gyZWJwOHNEQURtNmhoMVF5eU1JNGNjd3MtWVo1ZE5OMXJNTi13NU1sYjI2VU5hY09pQ1NlcHY1T2FaemtERTdSeExBZWtkc05uemFfS1QzQjIwLWNIcG5Xay15Sk5pTzZQc09PTXF5UmhZWDVWc1NhSUdTNVJiTXZTVUVuN2JQUTNFQk1SLW9PWjRxVDR3?oc=5",
@@ -68,34 +92,10 @@
       "source": "TradingView",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdTJLNGZUM2ZLZEV3d3JWZEM2Z1pqYzRkM0E1bWdpNjJHcVhraEQyTU9vNTZ2T1RzNlF4UWs5aUVCNU9jN3R2NmhQN1ptM2JiQXJtRFl2SmExekh0bG5JZzV0eTVFODJZancxRUxUcF82RDhRRE9mTk5YS3dNZWhsS0F4aWc0MlN3YnFYZDBoNnlLMDg2NktSZ2pPU3gxYXVkajM3bmNqRmY0dTB4ZHJpbDh4dlF1ZVBNRlNpd1p6cV94Z29H?oc=5",
       "published": "2026-11-23T11:00:00Z"
-    },
-    {
-      "title": "Microsoft confirms data breach due to a bug in Entra Connect Health",
-      "source": "Techzine Global",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRG1va3lsUlcwMFFERVpqdzdqZVMtT3VTRjhHUVRIeUZSd2hUMkxSZURYdkY2VVBUUkk3RUxDWmx2S3NkZkVkdXNDR0dEMFdwbE1EZWJ3VWJqT2NWanZxVko2UzVwVmhyN0xYaTFlRWNieDV0YzRKMXpUbnl0UnZYYWRSRE1OMXpHN3pGUVUyWk9vcWtBYVJhNTJSUFhhS2RGMVZtRkhjaFl1aUZXMGNTT2JUMA?oc=5",
-      "published": "2026-11-23T09:34:52Z"
-    },
-    {
-      "title": "Days After Global Outlook Outage, Microsoft Warns More Disruptions Ahead. Here's Why",
-      "source": "NDTV",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN0sxVmJ2M3ExTVotOEItLWU1TlhsMGUwSzZISXBYTk1raWowajZCeFFVRzV3T3FmZ2R2UTN2T29XQ0RlazBDYnBIVUFkQ1FJMC1KZXRjQmc0d2c5R1B5Q2RCbWh1YkVLZkt5bmp0Zkk3UTJ1R1cwc2tTc1EwanJLUUN2a1hsV0hKSWw3NVZOREllMXJ0TVlUYVNReExsR09Fb1JvVlQ0V1hlZ012M3FoNHR6YUJ6N1hrSXVQSkVlVdIBxwFBVV95cUxNM1h0SkdTaEFiYXN5WXZNT3VTNHJyN3c1bGNsc1dkMUhPdTkyVVF3U3JlallhekJGcVZXZU5LUGsyNWtNZnA2aEJOMi16NGEzUWNlZXlZU012VUsxMXhqQmVTVUZ4WWF5cE5seFBQY3R0cE1IZFgwSlA1bDlpR0xVR1FfUEFqSThrM0RtMy16SG5OcllCLWF2MjZiWHY0Q2lEMWJPSGltQy04R19iZ0s1TjlzaThWMkxxWGtFVTg1Zm9VUnNvX3FJ?oc=5",
-      "published": "2026-11-23T07:08:42Z"
-    },
-    {
-      "title": "Microsoft 365 Down Again? Users Report New Problems Sunday Night, Days After Global Outlook and Teams Outage",
-      "source": "International Business Times Australia",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UWGhfYjYwQlZKZ3pXZmt2SWp0YnhRanJVdEVuSnZSUnRkMDBTckxvVUtDZ0h2bmRHalZIMDBtZmJPelkwUHBGM19ZWHVEXzJuMDd0b05FaDVjUGo5ZG9mUzN6dENLam1rdEp1QWFhTG9wMExTQjBubldYSzdQWk0?oc=5",
-      "published": "2026-11-23T04:00:22Z"
-    },
-    {
-      "title": "Delta baggage system outage delays flights across US as Thanksgiving travel rush approaches",
-      "source": "Firstpost",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOczZtLXpqWmhHX1VLYkx4QTRmY2ItSnJkY3gxVER3cmI1SlRrNTdRcFpqNUx6bExyZW51QlkyWUxKdDEyRVVZYjducmxtUE9fRFROTHJOYkJOWWZDTHBVeTFibW0zX0Q1QlI0VHpJTU43WC01dWJYTlY3Z0FYQzUtdWgyUWJtZWJIZld0MkxSWmhqSmxKamtVR1RHcDBRRHlxc19rY2ljTGVYbEhINTF2MXhUZ2VtVGNZQnVwNjJYUEx6cjV2QmZQdWV5ekRGQjQ0S0HSAdcBQVVfeXFMUEx2VVd6THNjZjRkNERVR050ZkJ3aU9RY3VwY0JHQm9nbVVsNGQ2cnJHS3RWd1VpeW02dHR0QzIzTHRRQ1JILVZIbmhiQ3o5SFE4ODBydXk5Z1kxOEtHMnVpTXNQSlFSZk5GLXlZOGJpcFo5OXFUUDhKLTJ2cGV5eGNaSkZlcGtra21xTmEtRHFhcWlMVkdhc2dkZVg0TmdYNFdQeThod0t5NkVOWEg1eWxjOVo3aWxzaDZFUEo3WWU2SHg4ZFBQWUVrYWpRakNNZzJDdmEwTlE?oc=5",
-      "published": "2026-11-22T19:53:36Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-23T18:17:45Z",
+    "fetched_at": "2026-11-23T19:18:08Z",
     "items": [],
     "debug": {
       "bytes": 498,
