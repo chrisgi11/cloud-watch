@@ -1,8 +1,26 @@
 {
-  "fetched_at": "2026-11-23T16:18:17Z",
+  "fetched_at": "2026-11-23T17:17:56Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Microsoft Outlook Outage Today: Is Outlook Down in the US? Users Report Email, App Login, Website, Sending and Receiving Messages Issues | Check Latest Downdetector Status",
+      "source": "The Sunday Guardian",
+      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQUmdUNmRVZ2JxRm8taUxRTDNGd042dEhwVVBLNU1IelhxQy1xVnlsWEVva2tJcFpWa0xGYjJQVWJyYkxGVGJEOTN1X0V3bVJ1QnpBYnl0aEZNa05HUkFBcFBPV1c2OFlmZTNrdkROakdFZWd3MVNXVjJ6a0FTbDJkdnR6bGdaZnpzcVMxUmdBTUg4ZHpKN2xXVmVFQXpGRWtxRGQxQ3FWLW96Z2pmQXNEQ2VKQzBWWHJJczQxUWowVDVWWWtlVW11bFFIQmlyakllcEJKOGhlTE5ENUlueTRCdTJkNXVVYzNDX2x5LWdOclJtUDlwZHZyZWJ5dHpaTk5GODdXUFFNcUZtSHNfd0VsZDdjQkFMVzRjeUJEVE9yVXE3M1lINW43TWpKMWZ4dDNMdC1DQm5jQdIBvAJBVV95cUxOcnVkNFZ5S3BoYnNzMWl1dW1mTFFBak9fMUxpUXFjaWR0UGx0QjdtcWFtTGdnNk9HNlZDVGNHM0hiRmpEc0ptYk1Wb0FUMTJ2VjFQUWJoemdRR05CRzR5UHdxMjFHLVpQa1BCc2FMeXk2NVcwajQzSWxXQ3VtMVg1MER4Zk1hUnV5amptM3FOZ0gwRUVaYmJlcmxlbkpiSndDU0FtemRTN0tiR1dNQ0F6b0I5YlBTd0dqcDNfRDNoZWJSOEVNT1Zfd1VxMnJXUWY2YWkzcnNJZW15TXhBN1gwNzJIMGMxSl9ydXZwTm1EMVlqa1hBS0Vyb3VSMnhTeUhWYzVxQWxJbklxV2xiT1ZQZ1hNVG9tWjJQSlQtdHB3REVocXVnZzFJZ2NXcG5DWFJMQnR2M213ZEhvOThV?oc=5",
+      "published": "2026-11-23T16:39:33Z"
+    },
+    {
+      "title": "What the Microsoft 365 outage taught us",
+      "source": "NationalWorld",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRExydFB0SElFLU5USEt6c3Ezb0tYTGI2X2o1NldpWUo4bnVKdGlRZkMyVFhPVUM2c3RPbHRaZ3VYVTRTWDhvN1dNQ3R5RWVUbGVQTTg2UTQ2aHNaMXNzY2FRV1ZRVWtoWlJGRGMyNlBIY3VnTXh5TVAtM05ESHd3NjItMjR2NE1rdzd1a2d0aEpQUQ?oc=5",
+      "published": "2026-11-23T16:39:27Z"
+    },
+    {
+      "title": "Microsoft mega outage: Report reveals testing gaps and emails that never arrived",
+      "source": "The Register",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdVZ0UjlwbFE3ZkMwSXZ2dkN0NXRtaWVkVWowWVNKd1gzenN0SG9ydmVJZ1VDUzBkLUpqS2tLbnkxY1BCa3NYbG56VWx1aXZlSnFjTzFsUlBkLWZ3bG0zeEJldGRQTnVJT2N6aFlfaWhwbUhTblE3d3dGcUdNM2Z3dWNOb1FQRndFUUhMVFhJV0luSTlEM2haRG1SR3BKdTRDYTdUN1NMXzNlVVJ0Tlp4VkxxSV9ta2otNEJlX0FWN2EwdUVveFRfWm55OA?oc=5",
+      "published": "2026-11-23T16:16:00Z"
+    },
     {
       "title": "Atlassian Down? Users Report Problems With Jira, Confluence and Bitbucket as Status Page Shows All Clear",
       "source": "International Business Times Australia",
@@ -20,12 +38,6 @@
       "source": "Beinsure",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBUb1BoTTlpa2pERzd4WW10eWhsSlRRMVFZc3R3RlZJaUdpNV9hcEJ5NmlIYzgzMzRiRnZjYzNGQlBJR1NhaXlpVlV5TDduNzlTck9mbDNUdDdHcFpldEgtVjQ0WWI2Uk0tTEVzZERpN3g0cThNd1BhMXhHaTNEZw?oc=5",
       "published": "2026-11-23T14:49:13Z"
-    },
-    {
-      "title": "What the Microsoft 365 outage taught us",
-      "source": "NationalWorld",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRExydFB0SElFLU5USEt6c3Ezb0tYTGI2X2o1NldpWUo4bnVKdGlRZkMyVFhPVUM2c3RPbHRaZ3VYVTRTWDhvN1dNQ3R5RWVUbGVQTTg2UTQ2aHNaMXNzY2FRV1ZRVWtoWlJGRGMyNlBIY3VnTXh5TVAtM05ESHd3NjItMjR2NE1rdzd1a2d0aEpQUQ?oc=5",
-      "published": "2026-11-23T12:17:33Z"
     },
     {
       "title": "Weekly Recap: Raised EPS outlook and Trigon labor outage weighs on Q4",
@@ -80,22 +92,10 @@
       "source": "Foro3D",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ29mNENvQ05aci1MTDN1b3MyRHJfRUhVQW5nRW1RWmtpT3NkZUcxYkhXZFJoVzZlNDhMR3NnSGVIakxlWXpvbHB3ZEdqdGxXUWlvSFE2SVRLUVNqOGRpTjNmUjFfYTR0aE1YWkhhWjgyZ2kyLXZwa1NReU1HcF9HOERkVUFQZG5kX1I1a1h0VGdkbENibGswa09faHctR1NQT293SGQza3o0M1hRRjVVOGRB?oc=5",
       "published": "2026-11-22T16:52:41Z"
-    },
-    {
-      "title": "Delta system outage causes widespread flight delays",
-      "source": "ABC7 New York",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQampNNTAtQ2ZOamgxSzVrdlZVTDVURlpyUm1pYVlFRWxzYnhGYkpUVVVGeHlfZHVGOHdFbmV0dy0yS1h2THVEN2JfR0pTbW9Fd1lTV1ZLNGR5bnVJQzZzTWNxeWZJbUdPeU13Z3UzNWdBQjQ5dk9JVHMtU2RSclN4R1FUOE9haVJ0N0FzVXdLWjFVcjQ?oc=5",
-      "published": "2026-11-22T15:43:03Z"
-    },
-    {
-      "title": "Microsoft outage raises uncomfortable questions about business reliance on Big Tech",
-      "source": "IOL",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRVkwY0VXckx4clllNllTVXRYNHYtY1lTbFFicjF1RzZjMV9pWVVoeV9YOFhZdkhjOW9SNllPbVRITDhpVE1CeG9rNjZJM1ExTkxwQ3pydFUyYk1IS3Z3Q2oxVTdHZjdvYUphRHhzX2ZJdHhBLWRqck9wRUVYeEZGVHFfaHVabXhvVHdNYWdzS21WZU9yVGRXQkVyWUZBMW1fek8yTHNpVndpWEk2VUJWWldicHR1YXVzTHRRTlBwajZNaUxnTTBtNGVR?oc=5",
-      "published": "2026-11-22T11:20:54Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-23T16:18:17Z",
+    "fetched_at": "2026-11-23T17:17:56Z",
     "items": [],
     "debug": {
       "bytes": 498,
