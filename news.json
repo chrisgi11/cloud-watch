@@ -1,8 +1,14 @@
 {
-  "fetched_at": "2026-11-23T12:18:36Z",
+  "fetched_at": "2026-11-23T13:18:29Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "What the Microsoft 365 outage taught us",
+      "source": "NationalWorld",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRExydFB0SElFLU5USEt6c3Ezb0tYTGI2X2o1NldpWUo4bnVKdGlRZkMyVFhPVUM2c3RPbHRaZ3VYVTRTWDhvN1dNQ3R5RWVUbGVQTTg2UTQ2aHNaMXNzY2FRV1ZRVWtoWlJGRGMyNlBIY3VnTXh5TVAtM05ESHd3NjItMjR2NE1rdzd1a2d0aEpQUQ?oc=5",
+      "published": "2026-11-23T12:17:33Z"
+    },
     {
       "title": "Weekly Recap: Raised EPS outlook and Trigon labor outage weighs on Q4",
       "source": "TradingView",
@@ -10,16 +16,10 @@
       "published": "2026-11-23T11:00:00Z"
     },
     {
-      "title": "What the Microsoft 365 outage taught us",
-      "source": "NationalWorld",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxORDBhNTBaRU4wV29JdWotSmxONTRfVnFJMWx6SGEyQVF1V1FJTTRtYUpYaW5RdHB2NV9WcUhwTDBpcFFKYUxVR1hLdjRYaG9XTzBtbVE0aFJadGxfdjBwMmZmYTBHZDVPLW9DZS1PaUM0STU5dHlQbjByT0NvaC1WZ2ZCSlpickdDbzNwOEFLWU9kRzh3MHpwUkloQjMySEN3aGdHRGktNDdCUVJCY2hwcDhFNms1MXpmSFZSNTNTeE00RTlITnU0ZDdybDVqem1fSWpJNDFHVzZiTGFYYmlaMlhGc01qUDczNFNRc2Zzd0RNNVNEZV9QdW80YXFXdlNOZnBrZ2VLUXgtelBJVVY0WA?oc=5",
-      "published": "2026-11-23T10:47:10Z"
-    },
-    {
-      "title": "APRA focus drawn to offshore material providers reliance",
-      "source": "InvestorDaily",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNXBFVUVXYVJBZnFkYzNqTjRQcXp1RmFlWHlNbFYtUDAtU3V0WnlNOTVXNWVpODlVelJLZHRkYXpBODdaWlVNUWpncS1ZVU1MSzFoOFFWZ01kdVNwZi1aeWxsZmtaQnk0ZF94M19IZXBHZzFXQzdOcHhxWEFsMDNUZjJvSGlHejRYLUVHU2lvSXZhejZMamlqUU8wT1E?oc=5",
-      "published": "2026-11-23T07:47:03Z"
+      "title": "Weekly Recap: Azure revenue growth and Maia 300 AI chip unveiling",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdTJLNGZUM2ZLZEV3d3JWZEM2Z1pqYzRkM0E1bWdpNjJHcVhraEQyTU9vNTZ2T1RzNlF4UWs5aUVCNU9jN3R2NmhQN1ptM2JiQXJtRFl2SmExekh0bG5JZzV0eTVFODJZancxRUxUcF82RDhRRE9mTk5YS3dNZWhsS0F4aWc0MlN3YnFYZDBoNnlLMDg2NktSZ2pPU3gxYXVkajM3bmNqRmY0dTB4ZHJpbDh4dlF1ZVBNRlNpd1p6cV94Z29H?oc=5",
+      "published": "2026-11-23T11:00:00Z"
     },
     {
       "title": "Days After Global Outlook Outage, Microsoft Warns More Disruptions Ahead. Here's Why",
@@ -95,7 +95,7 @@
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-23T12:18:37Z",
+    "fetched_at": "2026-11-23T13:18:29Z",
     "items": [],
     "debug": {
       "bytes": 498,
