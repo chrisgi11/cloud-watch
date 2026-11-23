@@ -1,8 +1,14 @@
 {
-  "fetched_at": "2026-11-23T10:18:15Z",
+  "fetched_at": "2026-11-23T11:06:32Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "What the Microsoft 365 outage taught us",
+      "source": "NationalWorld",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxORDBhNTBaRU4wV29JdWotSmxONTRfVnFJMWx6SGEyQVF1V1FJTTRtYUpYaW5RdHB2NV9WcUhwTDBpcFFKYUxVR1hLdjRYaG9XTzBtbVE0aFJadGxfdjBwMmZmYTBHZDVPLW9DZS1PaUM0STU5dHlQbjByT0NvaC1WZ2ZCSlpickdDbzNwOEFLWU9kRzh3MHpwUkloQjMySEN3aGdHRGktNDdCUVJCY2hwcDhFNms1MXpmSFZSNTNTeE00RTlITnU0ZDdybDVqem1fSWpJNDFHVzZiTGFYYmlaMlhGc01qUDczNFNRc2Zzd0RNNVNEZV9QdW80YXFXdlNOZnBrZ2VLUXgtelBJVVY0WA?oc=5",
+      "published": "2026-11-23T10:47:10Z"
+    },
     {
       "title": "APRA focus drawn to offshore material providers reliance",
       "source": "InvestorDaily",
@@ -26,12 +32,6 @@
       "source": "Mashable",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aOXNncW9QdWVtZ3RXTHF5VnFncFJTcXptUWtGX0V6azdmcXZVQjBienJMdzJydEdseXhVZHZRcExPbS0xUXlCcXhyX2RDOUZOd0h3bEhwU1hiNF9hc0FNdTZLSkJGUVpz?oc=5",
       "published": "2026-11-23T00:44:36Z"
-    },
-    {
-      "title": "'Is This All Just Coincidence?': Inside the Unprecedented Wave of Global Digital Outages",
-      "source": "news.sbs.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oSkE2bjB0bm5kSFBCSXhGR1ZZbzU3UHo2Z2pJb29raGN5WXhXeExyZlVYU1FJMUpMeXdDYk1qZXNiV01GUDlHTEpXQkhxeG1KU2R0QTJhZzVVY2EteFdHZ2FaaVhQSUY3czk0ek1n?oc=5",
-      "published": "2026-11-23T00:03:24Z"
     },
     {
       "title": "Delta baggage system outage delays flights across US as Thanksgiving travel rush approaches",
@@ -95,7 +95,7 @@
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-23T10:18:16Z",
+    "fetched_at": "2026-11-23T11:06:32Z",
     "items": [],
     "debug": {
       "bytes": 498,
