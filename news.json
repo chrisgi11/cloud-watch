@@ -1,8 +1,14 @@
 {
-  "fetched_at": "2026-11-23T06:17:46Z",
+  "fetched_at": "2026-11-23T07:17:46Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "BB Stock Rises Overnight: BlackBerry Takes On Browser Security With New Windows Launch Amid US Tech Outage",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQckdJX3I4Q3F4SlJCdWNUdzQwSHNoVkhLalNkQjVzSXRRNGJraTZ2X0h1cDctZUxGeTZ2bmxKV2pSRkdGSWI5VmNfNUF2VEwtemtJdGo0bTlmSHEyQ0tUOG1xZlRtNzFRUGRMZ0hhQXlKZ3dWLWVEMVhha2hJRThnZHFjX0gwSU9HXzFTSzVQa2NVbHUzWGNCY0ZVYmJualR5dVVQRFdYNTJPZVJiRlBwVDRaaWpyRHQ1VjZSWG5GV3ZTalo2RkJwYzJ2R2hScHVSM3NPQWtyN3FTaHNYUDBUWlNVTW1HSzhkdnlORTVUbFNmTDVudHhWeGJR?oc=5",
+      "published": "2026-11-23T06:31:00Z"
+    },
     {
       "title": "Microsoft 365 Down Again? Users Report New Problems Sunday Night, Days After Global Outlook and Teams Outage",
       "source": "International Business Times Australia",
@@ -86,16 +92,10 @@
       "source": "Neowin",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV0Z4WGlNcjRBQy03bTNqdWNoVU13NmE5ZXl5RzNYSFUyUGtaanRXQ3hWVGUzYVF5R0VwYzJlNkx3SGJEWDgxQk9MR0NydUs2cV96ekJMcDJGVmZoV1NkSkhQRUs2NmJQblI0Uk1pcng4eVZmbnJUeXpBZ0kwak9lWWZCOHFVcVRlSDVWTzhYc1dxbURjSWwzYXBCU3RiekFtS2stMkR2TVRGSkxCQmJLMk5NaGdGUQ?oc=5",
       "published": "2026-11-22T05:24:00Z"
-    },
-    {
-      "title": "When the Cloud Goes Down: How Businesses Can Prepare for the Next Major IT Outage Before It Hits Them",
-      "source": "International Business Times Australia",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaXNyWEx6cG56YVZINGVIc1lYVEhzbnJRU25HWmdJTnJoUEV1SlNLVFI0VEdTMG8xRnVVQmE5SmdRNFpYUFlpR0NpWElhRlA5MWRyRGRQR2NERGk0RTNyY2M1Nkg0cHFMMXhYZWR0Y25WVXRLU052MEMzMXJVUGREQzlB?oc=5",
-      "published": "2026-11-22T04:28:23Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-23T06:17:46Z",
+    "fetched_at": "2026-11-23T07:17:46Z",
     "items": [],
     "debug": {
       "bytes": 498,
