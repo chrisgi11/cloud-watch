@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-23T09:17:45Z",
+  "fetched_at": "2026-11-23T10:18:15Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
@@ -26,6 +26,12 @@
       "source": "Mashable",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aOXNncW9QdWVtZ3RXTHF5VnFncFJTcXptUWtGX0V6azdmcXZVQjBienJMdzJydEdseXhVZHZRcExPbS0xUXlCcXhyX2RDOUZOd0h3bEhwU1hiNF9hc0FNdTZLSkJGUVpz?oc=5",
       "published": "2026-11-23T00:44:36Z"
+    },
+    {
+      "title": "'Is This All Just Coincidence?': Inside the Unprecedented Wave of Global Digital Outages",
+      "source": "news.sbs.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oSkE2bjB0bm5kSFBCSXhGR1ZZbzU3UHo2Z2pJb29raGN5WXhXeExyZlVYU1FJMUpMeXdDYk1qZXNiV01GUDlHTEpXQkhxeG1KU2R0QTJhZzVVY2EteFdHZ2FaaVhQSUY3czk0ek1n?oc=5",
+      "published": "2026-11-23T00:03:24Z"
     },
     {
       "title": "Delta baggage system outage delays flights across US as Thanksgiving travel rush approaches",
@@ -82,12 +88,6 @@
       "published": "2026-11-22T05:24:00Z"
     },
     {
-      "title": "When the Cloud Goes Down: How Businesses Can Prepare for the Next Major IT Outage Before It Hits Them",
-      "source": "International Business Times Australia",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaXNyWEx6cG56YVZINGVIc1lYVEhzbnJRU25HWmdJTnJoUEV1SlNLVFI0VEdTMG8xRnVVQmE5SmdRNFpYUFlpR0NpWElhRlA5MWRyRGRQR2NERGk0RTNyY2M1Nkg0cHFMMXhYZWR0Y25WVXRLU052MEMzMXJVUGREQzlB?oc=5",
-      "published": "2026-11-22T04:28:23Z"
-    },
-    {
       "title": "Microsoft Outage Explained: Hidden Bug and Teams Traffic Surge Set Off Cascading Failure Across Microsoft 365",
       "source": "International Business Times Australia",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRE5ndjRZTjNxYjFNUExKUVNBR2Y1eGZtZ2FVNU9VbDRwRFFNSy1jbGxId2hjWk5MczFRZi1sQ0tJTVZUNzBoN3RRaEZWYnhnTWMwdGNGejI4WExsYVNfZ2VLa3VDb1BKd0Rocm1HVDRhVFdHdEdKWEM4aWNfaVRKUW1JMWNTTW8?oc=5",
@@ -95,7 +95,7 @@
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-23T09:17:45Z",
+    "fetched_at": "2026-11-23T10:18:16Z",
     "items": [],
     "debug": {
       "bytes": 498,
