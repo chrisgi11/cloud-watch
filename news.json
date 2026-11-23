@@ -1,13 +1,25 @@
 {
-  "fetched_at": "2026-11-23T14:18:10Z",
+  "fetched_at": "2026-11-23T16:18:17Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
     {
-      "title": "Equipment outage in Atlanta causes over 1,600 Delta flight delays",
-      "source": "connectradio.fm",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWWw1Y21KMDkwU0pFWXhCM3NHMktzRzF3WkNTcmtlZVpHY0l2alJ3NlJKSmp3SGJ5MjMxbEQ2Ml9lMW5tcjBnV1FmUnc1bEtZVVg3N0ZLLXRZQzlMTThxR3FxRXpXVjBqUE1qOENsTWtjLU5VVjhselBxQ1BpNTVsUm5EZUpaMnd2dU41S2lOMDJyc0NvRXdhTFhXZm1LOGJFaXd6RmU2TXJsZw?oc=5",
-      "published": "2026-11-23T12:51:38Z"
+      "title": "Atlassian Down? Users Report Problems With Jira, Confluence and Bitbucket as Status Page Shows All Clear",
+      "source": "International Business Times Australia",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVUZxMmNRd3VrUzRWN2JSZjRmUl8xalhOUG9XckEzYkcxMFYxYlhtMWFnUzhjOVBOY2ZWYzZGT3oyTkNaTHlZbFJ4QXJYREFWT1IydVgxME9sQXU1bUZySXM4VV9CVnJBazFsYTNaZUpWbFlrci1ZX0JicGRvWWhvU3BLU1RvcVo3dGVFNA?oc=5",
+      "published": "2026-11-23T15:52:15Z"
+    },
+    {
+      "title": "CyberCube estimates Microsoft 365 outage insurance losses below $100 mn, up to $350 mn",
+      "source": "Beinsure",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNDAzUW5sS0ZPWkRvR25ZdDN2RW11U0M0NFI1SkhEaks1M0tJYlQ4b3M5WVlKRVNETE9qOWhqRE1PSEdZdWdmTTdEQjJKX1EzRk9RUElrQzV6bzBVal80OUs2V09GLWxGLTVPcFdNQjZpQ1U3YnlvMGNNcmdfOWV6cWNXSWM5dVVLeU1Odg?oc=5",
+      "published": "2026-11-23T15:03:18Z"
+    },
+    {
+      "title": "CyberCube activates cyber catastrophe response after global Microsoft outage",
+      "source": "Beinsure",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBUb1BoTTlpa2pERzd4WW10eWhsSlRRMVFZc3R3RlZJaUdpNV9hcEJ5NmlIYzgzMzRiRnZjYzNGQlBJR1NhaXlpVlV5TDduNzlTck9mbDNUdDdHcFpldEgtVjQ0WWI2Uk0tTEVzZERpN3g0cThNd1BhMXhHaTNEZw?oc=5",
+      "published": "2026-11-23T14:49:13Z"
     },
     {
       "title": "What the Microsoft 365 outage taught us",
@@ -26,6 +38,12 @@
       "source": "TradingView",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdTJLNGZUM2ZLZEV3d3JWZEM2Z1pqYzRkM0E1bWdpNjJHcVhraEQyTU9vNTZ2T1RzNlF4UWs5aUVCNU9jN3R2NmhQN1ptM2JiQXJtRFl2SmExekh0bG5JZzV0eTVFODJZancxRUxUcF82RDhRRE9mTk5YS3dNZWhsS0F4aWc0MlN3YnFYZDBoNnlLMDg2NktSZ2pPU3gxYXVkajM3bmNqRmY0dTB4ZHJpbDh4dlF1ZVBNRlNpd1p6cV94Z29H?oc=5",
       "published": "2026-11-23T11:00:00Z"
+    },
+    {
+      "title": "Microsoft confirms data breach due to a bug in Entra Connect Health",
+      "source": "Techzine Global",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRG1va3lsUlcwMFFERVpqdzdqZVMtT3VTRjhHUVRIeUZSd2hUMkxSZURYdkY2VVBUUkk3RUxDWmx2S3NkZkVkdXNDR0dEMFdwbE1EZWJ3VWJqT2NWanZxVko2UzVwVmhyN0xYaTFlRWNieDV0YzRKMXpUbnl0UnZYYWRSRE1OMXpHN3pGUVUyWk9vcWtBYVJhNTJSUFhhS2RGMVZtRkhjaFl1aUZXMGNTT2JUMA?oc=5",
+      "published": "2026-11-23T09:34:52Z"
     },
     {
       "title": "Days After Global Outlook Outage, Microsoft Warns More Disruptions Ahead. Here's Why",
@@ -52,6 +70,12 @@
       "published": "2026-11-22T17:02:53Z"
     },
     {
+      "title": "Is Your Business Ready for the Next Cloud Outage? The Communications Commissioner Explains",
+      "source": "POLITIS - To the point",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWHdseU9kM2tCSm9KQS1idmo0TVZtUXJHbG1QZl9vdGM5Sk54cGZHbFduMWltQXBUSU9yUHNFUEw4Rmd2anhZajhubW5ZTVBfTzN1SlRCOERsS2dDVWduVjFTamgzTVhkSVpWelZrUDFiMkRfSl9PTUhiQUxiRkdYQ1FnR3hMd2E2RXpNay1vaGpDb1NJQy1CRjJ6SkJyMWxuMWZfU3FJVHNCM2xTSUhmbldRWXpodVNtQ002UHpHOG9jZGdZczBQSlJmN0EtOExEdHFWRGhn?oc=5",
+      "published": "2026-11-22T17:01:00Z"
+    },
+    {
       "title": "Microsoft 365 went down for almost 24 hours due to a flaw that testing missed",
       "source": "Foro3D",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ29mNENvQ05aci1MTDN1b3MyRHJfRUhVQW5nRW1RWmtpT3NkZUcxYkhXZFJoVzZlNDhMR3NnSGVIakxlWXpvbHB3ZEdqdGxXUWlvSFE2SVRLUVNqOGRpTjNmUjFfYTR0aE1YWkhhWjgyZ2kyLXZwa1NReU1HcF9HOERkVUFQZG5kX1I1a1h0VGdkbENibGswa09faHctR1NQT293SGQza3o0M1hRRjVVOGRB?oc=5",
@@ -68,34 +92,10 @@
       "source": "IOL",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRVkwY0VXckx4clllNllTVXRYNHYtY1lTbFFicjF1RzZjMV9pWVVoeV9YOFhZdkhjOW9SNllPbVRITDhpVE1CeG9rNjZJM1ExTkxwQ3pydFUyYk1IS3Z3Q2oxVTdHZjdvYUphRHhzX2ZJdHhBLWRqck9wRUVYeEZGVHFfaHVabXhvVHdNYWdzS21WZU9yVGRXQkVyWUZBMW1fek8yTHNpVndpWEk2VUJWWldicHR1YXVzTHRRTlBwajZNaUxnTTBtNGVR?oc=5",
       "published": "2026-11-22T11:20:54Z"
-    },
-    {
-      "title": "Microsoft Confirms Some Outlook Emails Were Never Delivered During November 12 Outage",
-      "source": "Windows Report",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNGlibzR0anVvVHd1S0NFbndFU29XdlR0NkRMb18yYU5OTGE1R0ZydjBxNlR6d2U4TU5VRi1PUC1KTE1PRlVDeVpfMjJkUGJpQlIyWHNzbGtMck9yak5IZktEZWNtT0UyWThkRExmRmpwdGpzdVNLMkxEc1R0aUtWc1BVR0ZSTElGSXlLZnpwbXEtQWZmd2hpbjMzNzR0WEcxRTZ6UmxzMmItMHVpNXQzeFZB?oc=5",
-      "published": "2026-11-22T11:00:23Z"
-    },
-    {
-      "title": "Microsoft's final Outlook outage report lists 13 fixes after tests on older servers missed the bug",
-      "source": "MLQ.ai",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORnNJREhwaDdCWUdTaGl4TUJGeEFOcTlaSkJpbXllMUFiWV82bVp5cmxEWlpZU1JDbW1RNU11c1lBMU96MUdwb1BhVy1fWmNxSWNObGlTNGw2QzJXcWRuZDRYeDZUQURMem95WGtaLXRsNVFka0xQd1JJWEx4WEZvTk9hSEJQeHhIcWR4Q0pQZHhEcFFlWU84RUw5aVlyWHVHZVlWSTl3WlFVTDRmZXpDdDNkbmNvZkVESWc?oc=5",
-      "published": "2026-11-22T10:39:59Z"
-    },
-    {
-      "title": "BSP gives banks more time to file forex reports after Microsoft 365 outage",
-      "source": "Bilyonaryo Business",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRkkzTWhOMVVjZGthTmRPbU54dTRRUmozR3F0M0d2dC1WWUJVaGtkZjAzTjQ2ckcxTHVyaDNrcUJ1YThYT2tkODhidm1pUXZsdmZUdnFNOEhrcXViWEtLU1VGWEpmWjNLRllTaXNfTGxkLVYtcG9LSl9HbnIyX3ZhT2dxRnc2OWZGd25Pc19ReTRPZmVaYXZQWWZlZk9wZXM?oc=5",
-      "published": "2026-11-22T08:31:27Z"
-    },
-    {
-      "title": "Microsoft admits some emails bounced during global Outlook outage, reveals new failures",
-      "source": "Neowin",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV0Z4WGlNcjRBQy03bTNqdWNoVU13NmE5ZXl5RzNYSFUyUGtaanRXQ3hWVGUzYVF5R0VwYzJlNkx3SGJEWDgxQk9MR0NydUs2cV96ekJMcDJGVmZoV1NkSkhQRUs2NmJQblI0Uk1pcng4eVZmbnJUeXpBZ0kwak9lWWZCOHFVcVRlSDVWTzhYc1dxbURjSWwzYXBCU3RiekFtS2stMkR2TVRGSkxCQmJLMk5NaGdGUQ?oc=5",
-      "published": "2026-11-22T05:24:00Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-23T15:18:42Z",
+    "fetched_at": "2026-11-23T16:18:17Z",
     "items": [],
     "debug": {
       "bytes": 498,
