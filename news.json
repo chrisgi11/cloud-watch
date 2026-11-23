@@ -1,8 +1,14 @@
 {
-  "fetched_at": "2026-11-23T13:18:29Z",
+  "fetched_at": "2026-11-23T14:18:10Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Equipment outage in Atlanta causes over 1,600 Delta flight delays",
+      "source": "connectradio.fm",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWWw1Y21KMDkwU0pFWXhCM3NHMktzRzF3WkNTcmtlZVpHY0l2alJ3NlJKSmp3SGJ5MjMxbEQ2Ml9lMW5tcjBnV1FmUnc1bEtZVVg3N0ZLLXRZQzlMTThxR3FxRXpXVjBqUE1qOENsTWtjLU5VVjhselBxQ1BpNTVsUm5EZUpaMnd2dU41S2lOMDJyc0NvRXdhTFhXZm1LOGJFaXd6RmU2TXJsZw?oc=5",
+      "published": "2026-11-23T12:51:38Z"
+    },
     {
       "title": "What the Microsoft 365 outage taught us",
       "source": "NationalWorld",
@@ -86,16 +92,10 @@
       "source": "Neowin",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV0Z4WGlNcjRBQy03bTNqdWNoVU13NmE5ZXl5RzNYSFUyUGtaanRXQ3hWVGUzYVF5R0VwYzJlNkx3SGJEWDgxQk9MR0NydUs2cV96ekJMcDJGVmZoV1NkSkhQRUs2NmJQblI0Uk1pcng4eVZmbnJUeXpBZ0kwak9lWWZCOHFVcVRlSDVWTzhYc1dxbURjSWwzYXBCU3RiekFtS2stMkR2TVRGSkxCQmJLMk5NaGdGUQ?oc=5",
       "published": "2026-11-22T05:24:00Z"
-    },
-    {
-      "title": "Microsoft Outage Explained: Hidden Bug and Teams Traffic Surge Set Off Cascading Failure Across Microsoft 365",
-      "source": "International Business Times Australia",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRE5ndjRZTjNxYjFNUExKUVNBR2Y1eGZtZ2FVNU9VbDRwRFFNSy1jbGxId2hjWk5MczFRZi1sQ0tJTVZUNzBoN3RRaEZWYnhnTWMwdGNGejI4WExsYVNfZ2VLa3VDb1BKd0Rocm1HVDRhVFdHdEdKWEM4aWNfaVRKUW1JMWNTTW8?oc=5",
-      "published": "2026-11-22T03:54:28Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-23T13:18:29Z",
+    "fetched_at": "2026-11-23T14:18:10Z",
     "items": [],
     "debug": {
       "bytes": 498,
