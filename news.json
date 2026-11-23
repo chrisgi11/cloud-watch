@@ -1,8 +1,32 @@
 {
-  "fetched_at": "2026-11-23T01:17:59Z",
+  "fetched_at": "2026-11-23T02:18:05Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "'Is This All Just Coincidence?': Inside the Unprecedented Wave of Global Digital Outages",
+      "source": "news.sbs.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByNmI1Mk40UTdzVElTRjVuVXduTHlqVmkyT19HZV8zVExRckdzeEdvRHJTQlFfWnhwcWFwMFFucmh3RU44c1U3VEtkNlpNSE9MNnRUQmR6U0NESEdTMGhXQ1NxT3dFUQ?oc=5",
+      "published": "2026-11-23T00:03:00Z"
+    },
+    {
+      "title": "Bell MTS says cyberattack behind recent email outage",
+      "source": "Winnipeg Free Press",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQzlqUmE2NTgtT3RPOUxyR0lxdjhRSkttcHY3d2lmaUU2XzloN0cyaWc2eGhpMWpFd0J6eVpPM1Q0SU5YZmIzcDBram40ZXNhcXQ1b3h2aUZOVUxzdzUtbXFEY1kybXl5bkhUazZzQktmb3R2QmY4REQwcHVkWGZkZHNmTHlIeEY1Q3hvNnR0dGZ5NlZNS0JDQW55Y2pVZ1F2N1RBSGQ2bGdBblZjcDJF?oc=5",
+      "published": "2026-11-22T23:11:35Z"
+    },
+    {
+      "title": "Americans should expect more technology outages and disruptions as companies and government agencies replace aging systems, the top US intelligence official said on Sunday. Read more: https://www.gmanetwork.com/news/topstories/world/1010445/us-i",
+      "source": "Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPazlmV3lsQXd2UmpvYkxVVzlTV0FqNFFJSDJmdzRwZ0NzQXFjQUowUkJKZHNYVzkxTGRZZnAzem1UOTc4RWhHWHNkQTNhMmVEcnRDZG11dzVaS01vZXMtVy1zVXcxLTc2SHpPNTExYnN4TnJOMmxhb01SM2VLWlAtNElINHJTQVVQQ2pmMF9aN2l0V3ZsUEFsTXVfbFpoTmJnbVFTUVRlTzZqbERnRDZaWHpQOWRfNW9ZQVpnYjRzWWlJeDBRZ0lyZEdzSmp3SlJmVzVuVA?oc=5",
+      "published": "2026-11-22T22:55:21Z"
+    },
+    {
+      "title": "Microsoft, service outage causes severe repercussions for UK healthcare",
+      "source": "jiji press",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVWJEb3htRkFocVBCMElEdGhVblJEbml2RGhKSng2RUtsb1NaTmQ4aVBrQy1fRzlfdzl0ZVZlSUZoQlJ3MWJ6Q3VvaDI2N0Z4dEdGTnNVdEZtbElNY2ZNMkJ4RlZsVklwY2hnRko5dGRZOXFrdW8wcWNCc0o2WWRvTDFULWh4X2ZKWXZ1VXhDSGxXLXhTeTRR?oc=5",
+      "published": "2026-11-22T22:49:29Z"
+    },
     {
       "title": "Delta baggage system outage delays flights across US as Thanksgiving travel rush approaches",
       "source": "Firstpost",
@@ -10,10 +34,28 @@
       "published": "2026-11-22T19:53:36Z"
     },
     {
+      "title": "At least 3,500 Delta flights delayed at major US airports as airline hit with outage sparking Thanksgiving travel chaos",
+      "source": "The Sun",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT0pkMkxTVVowTGtvTTF1VVJmdUl0eE1tODRUbmctamZ5SmxwTEFQX2VKMUpTeTZDekNJRUdIWFBHOGlybUVSS254M3NYdWZnRzZhTjE5TWFjaG1ncmRNOUl3eWduZFBUX1JndThxYjZnUzVHczBrQ1FnYzJyVnJkeWpzcmNlREdIVUt0STgta0Y0eldVaDNKandRaVl3Zw?oc=5",
+      "published": "2026-11-22T18:37:36Z"
+    },
+    {
+      "title": "Everything Is Breaking. Here\u2019s the Cybersecurity Stock That Benefits",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcVhaeDl2S25MdVZHcTRYQmtkLW1xU1lwUzJrNjIzWThvcG1xX1ppeEZQeEhMdFpjSmFDRzQ1cW5OeUdHMmlZNmswbFRaVW5Rbk4wUm8za2dUaUY3WXY1NVloTVI4TWZlTnJhNHc2MThUek10UWs0OGJwZk9wV2VsWEYwYmtaUWtma3RmR1VjQVNyT2h5MFRKek9YM1ZYY2UyaVBNNnFJa3otcERFUmJ2djhvWUpxU0xiUUpxdk5PbV9KVVdUOUdzTWlrWQ?oc=5",
+      "published": "2026-11-22T18:00:00Z"
+    },
+    {
       "title": "Microsoft Faces Washington Scrutiny Over ByteDance Deal as It Untangles a Two-Month-Old Outlook Bug",
       "source": "ad-hoc-news.de",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQSFV0UjNfblV0T0x6VFNKVEZPbURKV2VYOXRobk5KQUpfUklzdE0yeTBVLXRtRF9CcS0wU1FjS2xBYlRBNl9pTVNaNV92aFBHOFVQaFEyQkpPdVZMRkNsbVJmNF9CVDhuQlJva0hjZDJWQ1loQi1tSno3LU1qRFVZYk9SMThENjNRYkplZm8xUTBGQTlidjJyVG9wRGxPYU1sNHhiTlNkaEthZnA2eWlZMFhOeWVuRkZueVZ0MUxJQ2FXNnJDQW5nV1I2QUhMV3hKcVpyc2M3LXZoZ3FoN2l4NENOTTJJQ0FubnU1SVYwOVQtTl9PeFdwa2drYnlzZldl?oc=5",
       "published": "2026-11-22T17:42:21Z"
+    },
+    {
+      "title": "Delta Outage Delays 700 Flights Across Its Network",
+      "source": "bsinews.id",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CcVYxN2E4dVBod25WaTNGNVhWYXlRVmhsRnI1bGNHdkE0LVhlV0UzdUlUZC0zLTdKdnRWbExMM2tqenQ4UnNLWlFUUVA5SWo5bWNrX0FMdWlRdjFz?oc=5",
+      "published": "2026-11-22T17:23:00Z"
     },
     {
       "title": "Microsoft outage cause revealed: It was a perfect storm of problems",
@@ -40,62 +82,20 @@
       "published": "2026-11-22T15:43:03Z"
     },
     {
-      "title": "Microsoft outage raises uncomfortable questions about business reliance on Big Tech",
-      "source": "IOL",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRVkwY0VXckx4clllNllTVXRYNHYtY1lTbFFicjF1RzZjMV9pWVVoeV9YOFhZdkhjOW9SNllPbVRITDhpVE1CeG9rNjZJM1ExTkxwQ3pydFUyYk1IS3Z3Q2oxVTdHZjdvYUphRHhzX2ZJdHhBLWRqck9wRUVYeEZGVHFfaHVabXhvVHdNYWdzS21WZU9yVGRXQkVyWUZBMW1fek8yTHNpVndpWEk2VUJWWldicHR1YXVzTHRRTlBwajZNaUxnTTBtNGVR?oc=5",
-      "published": "2026-11-22T11:20:54Z"
+      "title": "Is Your Business Ready for the Next Cloud Outage? The Communications Commissioner Explains",
+      "source": "POLITIS - To the point",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWHdseU9kM2tCSm9KQS1idmo0TVZtUXJHbG1QZl9vdGM5Sk54cGZHbFduMWltQXBUSU9yUHNFUEw4Rmd2anhZajhubW5ZTVBfTzN1SlRCOERsS2dDVWduVjFTamgzTVhkSVpWelZrUDFiMkRfSl9PTUhiQUxiRkdYQ1FnR3hMd2E2RXpNay1vaGpDb1NJQy1CRjJ6SkJyMWxuMWZfU3FJVHNCM2xTSUhmbldRWXpodVNtQ002UHpHOG9jZGdZczBQSlJmN0EtOExEdHFWRGhn?oc=5",
+      "published": "2026-11-22T15:24:44Z"
     },
     {
-      "title": "Microsoft Confirms Some Outlook Emails Were Never Delivered During November 12 Outage",
-      "source": "Windows Report",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNGlibzR0anVvVHd1S0NFbndFU29XdlR0NkRMb18yYU5OTGE1R0ZydjBxNlR6d2U4TU5VRi1PUC1KTE1PRlVDeVpfMjJkUGJpQlIyWHNzbGtMck9yak5IZktEZWNtT0UyWThkRExmRmpwdGpzdVNLMkxEc1R0aUtWc1BVR0ZSTElGSXlLZnpwbXEtQWZmd2hpbjMzNzR0WEcxRTZ6UmxzMmItMHVpNXQzeFZB?oc=5",
-      "published": "2026-11-22T11:00:23Z"
-    },
-    {
-      "title": "Microsoft's final Outlook outage report lists 13 fixes after tests on older servers missed the bug",
-      "source": "MLQ.ai",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORnNJREhwaDdCWUdTaGl4TUJGeEFOcTlaSkJpbXllMUFiWV82bVp5cmxEWlpZU1JDbW1RNU11c1lBMU96MUdwb1BhVy1fWmNxSWNObGlTNGw2QzJXcWRuZDRYeDZUQURMem95WGtaLXRsNVFka0xQd1JJWEx4WEZvTk9hSEJQeHhIcWR4Q0pQZHhEcFFlWU84RUw5aVlyWHVHZVlWSTl3WlFVTDRmZXpDdDNkbmNvZkVESWc?oc=5",
-      "published": "2026-11-22T10:39:59Z"
-    },
-    {
-      "title": "BSP gives banks more time to file forex reports after Microsoft 365 outage",
-      "source": "Bilyonaryo Business",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRkkzTWhOMVVjZGthTmRPbU54dTRRUmozR3F0M0d2dC1WWUJVaGtkZjAzTjQ2ckcxTHVyaDNrcUJ1YThYT2tkODhidm1pUXZsdmZUdnFNOEhrcXViWEtLU1VGWEpmWjNLRllTaXNfTGxkLVYtcG9LSl9HbnIyX3ZhT2dxRnc2OWZGd25Pc19ReTRPZmVaYXZQWWZlZk9wZXM?oc=5",
-      "published": "2026-11-22T08:31:27Z"
-    },
-    {
-      "title": "Microsoft admits some emails bounced during global Outlook outage, reveals new failures",
-      "source": "Neowin",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV0Z4WGlNcjRBQy03bTNqdWNoVU13NmE5ZXl5RzNYSFUyUGtaanRXQ3hWVGUzYVF5R0VwYzJlNkx3SGJEWDgxQk9MR0NydUs2cV96ekJMcDJGVmZoV1NkSkhQRUs2NmJQblI0Uk1pcng4eVZmbnJUeXpBZ0kwak9lWWZCOHFVcVRlSDVWTzhYc1dxbURjSWwzYXBCU3RiekFtS2stMkR2TVRGSkxCQmJLMk5NaGdGUQ?oc=5",
-      "published": "2026-11-22T05:24:00Z"
-    },
-    {
-      "title": "When the Cloud Goes Down: How Businesses Can Prepare for the Next Major IT Outage Before It Hits Them",
-      "source": "International Business Times Australia",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaXNyWEx6cG56YVZINGVIc1lYVEhzbnJRU25HWmdJTnJoUEV1SlNLVFI0VEdTMG8xRnVVQmE5SmdRNFpYUFlpR0NpWElhRlA5MWRyRGRQR2NERGk0RTNyY2M1Nkg0cHFMMXhYZWR0Y25WVXRLU052MEMzMXJVUGREQzlB?oc=5",
-      "published": "2026-11-22T04:28:23Z"
-    },
-    {
-      "title": "Microsoft Outage Explained: Hidden Bug and Teams Traffic Surge Set Off Cascading Failure Across Microsoft 365",
-      "source": "International Business Times Australia",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRE5ndjRZTjNxYjFNUExKUVNBR2Y1eGZtZ2FVNU9VbDRwRFFNSy1jbGxId2hjWk5MczFRZi1sQ0tJTVZUNzBoN3RRaEZWYnhnTWMwdGNGejI4WExsYVNfZ2VLa3VDb1BKd0Rocm1HVDRhVFdHdEdKWEM4aWNfaVRKUW1JMWNTTW8?oc=5",
-      "published": "2026-11-22T03:54:28Z"
-    },
-    {
-      "title": "AWS us-east-1 region experienced unnoticed outage",
-      "source": "ET Datacenters",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSmY0NUdUQU1CUTY3dFk5Q0VJOUxzVW9GQ3NfOWdHWGJtR3JJc1VVaUtpQjBvQ0VDYVgyOENHMFZ0cWFYTFFlV0oySUtQa19sS0FmMnpmbW1YOWJibUFMMkhHQzNUTTR5ZC1jUGgtRHdQRl9Rd1dlSVRhNWtTUm5XOWwwclk4WGtGaXgxTmF0ZEYzR3dqOGRRdEJtTTRRenI4TkdyLVcwV1ZHOGhSRE82b1dyWFBac1VBekdqM3Z1WVdsQkJzcnpzcGFETDZLUXNP0gHUAUFVX3lxTFAtVFNSSWhENXZlMHp4bzRLSmN5dEduOC1pU0swS0FOb25iazBYT0RwSDNSTmZCUVE4MHZCVW9MU2g3M2syM2l5NnpWV25DWU0yRC10R0ppa2tXd2xuOUktS1JMaTAwLVpRY1JaVHI3NUIwN0JUc24xa3QzOHhwZlJsZXlJYU9Tb0d6YlZBV2NVazFHWmxVNHdkLTdRV0otaFlUZkFNTGIyQWFKUWJpRHpjbUIzVW9wUU1YRDRvVDFDVVVrekhKS1U4THo3OGhOX3ZLTUtm?oc=5",
-      "published": "2026-11-22T02:04:08Z"
-    },
-    {
-      "title": "Outlook problems reported in Portugal during Microsoft outage",
-      "source": "The Portugal News",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYVhfMjFHdWE3bXR6ak5BTkpKQUhLSGw5dldiUG1HOTdGWUxHVWlFT25LM0Y2SS1UQm12V21udnNEQzdlUU1YN1QyTHdsUnQ3STVhdHhRVHlIcmUwTDlYMlB2djRvSDczUFYxSTlMLWtIb2s5OHI3VDZlMTBBVnc1TDN2b2d4Y1hURjVyNkZxWF9mS29TOTFtTnRubktLRGM3SUxjRDNiWktHbTlud3luSWEyaHNLSExV?oc=5",
-      "published": "2026-11-22T00:43:16Z"
+      "title": "Etzioni on AI: The outage conspiracy theories are wrong \u2014 our rush to patch and upgrade is the culprit",
+      "source": "GeekWire",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUERnU0pLbEVUMkl1dmc1Q0dWWjhWV0k0Q2Q2bjBxMDZsQ0hNN3N3Sk5TNGNUVGljemFHNnh1TDhLYjhBWnhhalMwQzFwR09wb09OeHBlWUg0R3NqTGItLTl5OExKa2Q1T0d1U3RxUjduX0luRkEwWGJEYUEwNlRhRFRUSE1STGMzZG4xRWVwQUZ0cGd6emg1WlVhbWlvWDVzcEhRRjUzSjQtd3lRa053d192NEVNb1pPMFR5SzZKYmUyOEViQmI2bjV3?oc=5",
+      "published": "2026-11-22T15:04:53Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-23T01:17:59Z",
+    "fetched_at": "2026-11-23T02:18:05Z",
     "items": [],
     "debug": {
       "bytes": 498,
