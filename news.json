@@ -1,8 +1,14 @@
 {
-  "fetched_at": "2026-11-23T20:18:04Z",
+  "fetched_at": "2026-11-23T21:17:44Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Minnkota Power rating affirmed at BBB+ as outage pressures keep outlook negative",
+      "source": "Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMnE2QzE2Y0VUYVl2TUZ0cDQzNldtVHM1UGFDUzdxUG1ZZTNZQVQ0ekd2MFRrbEhBUWloekNGV2JIcFVPYWg4X3FjMjhXU2NoUXNYNC03SXgtdjhNS1VJTFZueE9fcVFNOGt2QkJFM3g5d05WS3pTTkp2ZGc4MEZpc2d6N1BhVHhPV1I3RTlmVnJrQXc?oc=5",
+      "published": "2026-11-23T20:21:36Z"
+    },
     {
       "title": "Microsoft explains, step by step, how its major global outage happened and why it took so long to restore services",
       "source": "El Cronista",
@@ -16,6 +22,12 @@
       "published": "2026-11-23T19:13:00Z"
     },
     {
+      "title": "Microsoft Blames Software Flaw, Traffic Surge and Reduced Capacity for Global Microsoft 365 Outage",
+      "source": "INDIA New England News",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcS1sNFBXcmFTZ0dmYWNSMkxScnJqOTZjWUNoejRLVV92YnFnX245ZWJ6RmJ4eU9SR3dVTlkxajRMUmU0LTRHeFIwVjJkTDN3b2I3YmRmMWNrSlh4Y0drN205di1JQVBTTHlabkUxbzFHN0RxYXV2M0lSRW9ndXhjWVNzMVE5MzFTcThuZmhtUEQydE5RazhaQWhySVpJZWl4VFA1X3hCZXBzTTVpRkY1SkMyNjdTTERkVDRmdC1YRGNWbkRU?oc=5",
+      "published": "2026-11-23T18:52:30Z"
+    },
+    {
       "title": "Is it an outage or are you being hacked? A 2-minute check before you panic, reset passwords or call 'suppo",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPaUFuX3h6RGRBTVlyQ1hFRGFYTmtMcDdPUFo2YldxYUtXMEkwUmF6WkRmUklNQkkyc0dWWGhUU3hNeHVqQlRBLXpXLWJSUzdEV09jcmRYWThiaDhmM091RlpBdExMTTBWSVRNWHVSRGdzdUdNSkpWVkE1WmhrUFIyODlOazhscDR0SnZlcEFheld6MVNRNGdETkh0V0Y3VjFrTTdCNjlNRF9nWGlhZG5MbUZ5cENzcFZFWWl4alkxRTBLekMtLUprREVXMW53eEo2RkVFX0VBU0JoU1NYdm0tbkh4SjJ5dGhuWnNUSjJRNWVRTC0tVG9VQnpxb3PSAYICQVVfeXFMTmtoRFZVYURxX1h1QWtEWm5iZkFUMlJaTjdNNldLRDVTaGNhdTZYRHJGXzAxS2xJZkYtMTNOSzRQY2c0MWhENWU1X0tBakl1aklEVVNlR2RYYzd5Rk5qZ3BHTEpldFJUaGJGZHUwb1ducVFoOUs1TGU4dHlIamVfVVZwMlppYTRpQ0JrVmRKSEl1ZU9YSmt2Yl9wZUdQRVo5Z0oweGdERk55SHlkUnZuc0R3WmxGWG9LZ1pXTmdsUk1xRVl4WDVKb2t5VWxqcy1LazNISUx0emVCdjVucnpDZGVjVDFNbHBkM0hsRks1YVJCUDVfQWtnaDlEcGpSVmpiS0FR?oc=5",
@@ -23,8 +35,8 @@
     },
     {
       "title": "Microsoft's Outlook outage didn't take long to become phishing bait",
-      "source": "Yahoo Tech",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObGRJay1fQkQ4UVlURElBOXE4Q19QZFdjeERoaEItckc1ZDIzX0ljTGZPek15OG41c1NQZzFQSHZLd1IzZFFvV3NWMnZsUGYyNThVWm1ZYnVycENVd1lqcEVSbFdGcG9iWk1oX0JyOVpTbFNFSDdZQTQ3ZjZnVGVwQXUyUzFvTjI1Smp2Y0ZybFlIZjhRR0dnRXlqbElTZw?oc=5",
+      "source": "Windows Central",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU1B4VzlnS3dNdDhuQ2k4Z3pnQnJiZVVfQTVZNlJRTlVrS2ktQkhyWHJmUktzQThEaWN4ZGRvYTNaV0lDSU1STlVTOXpIby00cVBvbkg5d2tFT3RvaElNU0ZBdWxJbmtEVkVFNkcxc1kxMnNZcnFwei1fUWk0QnhVbkZEakdZTnp3dTJveDJFNlRQVnVtMC1OWm5JcE5jcEJDNG9iNjJGOHIxSDZjdjQ3ZUtDYjZ3YlVJZXdIck9TbDY5ZVkxV1E?oc=5",
       "published": "2026-11-23T17:25:55Z"
     },
     {
@@ -34,7 +46,7 @@
       "published": "2026-11-23T17:17:53Z"
     },
     {
-      "title": "Japan Microsoft 365 outage response: Furukawa\u2019s requests",
+      "title": "Japan\u2019s Furukawa details requests after Microsoft 365 outage",
       "source": "NeoTeo",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYnBhZVZoaVpTWi11UERSVHM2dmR0R0J0YkRuZzZfUDF2TktCU2RQcXhsUVBQLWNoQ0JNQm5VQjYxUEJpakFaVlI4ZFpWQjJwN2NOb0FkSUxqN19veDhqLUhxdUlqWERJLWpVM3BERURUSWc5NmFUaVJ1U19IRU8tTlFObVBoaFB4MjFFR0lB?oc=5",
       "published": "2026-11-23T17:14:26Z"
@@ -48,8 +60,8 @@
     {
       "title": "Microsoft Outlook Outage Today: Is Outlook Down in the US? Users Report Email, App Login, Website, Sending and Receiving Messages Issues | Check Latest Downdetector Status",
       "source": "The Sunday Guardian",
-      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOcnVkNFZ5S3BoYnNzMWl1dW1mTFFBak9fMUxpUXFjaWR0UGx0QjdtcWFtTGdnNk9HNlZDVGNHM0hiRmpEc0ptYk1Wb0FUMTJ2VjFQUWJoemdRR05CRzR5UHdxMjFHLVpQa1BCc2FMeXk2NVcwajQzSWxXQ3VtMVg1MER4Zk1hUnV5amptM3FOZ0gwRUVaYmJlcmxlbkpiSndDU0FtemRTN0tiR1dNQ0F6b0I5YlBTd0dqcDNfRDNoZWJSOEVNT1Zfd1VxMnJXUWY2YWkzcnNJZW15TXhBN1gwNzJIMGMxSl9ydXZwTm1EMVlqa1hBS0Vyb3VSMnhTeUhWYzVxQWxJbklxV2xiT1ZQZ1hNVG9tWjJQSlQtdHB3REVocXVnZzFJZ2NXcG5DWFJMQnR2M213ZEhvOThV0gG8AkFVX3lxTE5ydWQ0VnlLcGhic3MxaXV1bWZMUUFqT18xTGlRcWNpZHRQbHRCN21xYW1MZ2c2T0c2VkNUY0czSGJGakRzSm1iTVZvQVQxMnZWMVBRYmh6Z1FHTkJHNHlQd3EyMUctWlBrUEJzYUx5eTY1VzBqNDNJbFdDdW0xWDUwRHhmTWFSdXlqam0zcU5nSDBFRVpiYmVybGVuSmJKd0NTQW16ZFM3S2JHV01DQXpvQjliUFN3R2pwM19EM2hlYlI4RU1PVl93VXEycldRZjZhaTNyc0llbXlNeEE3WDA3MkgwYzFKX3J1dnBObUQxWWprWEFLRXJvdVIyeFN5SFZjNXFBbEluSXFXbGJPVlBnWE1Ub21aMlBKVC10cHdERWhxdWdnMUlnY1dwbkNYUkxCdHYzbXdkSG85OFU?oc=5",
-      "published": "2026-11-23T16:39:37Z"
+      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQUmdUNmRVZ2JxRm8taUxRTDNGd042dEhwVVBLNU1IelhxQy1xVnlsWEVva2tJcFpWa0xGYjJQVWJyYkxGVGJEOTN1X0V3bVJ1QnpBYnl0aEZNa05HUkFBcFBPV1c2OFlmZTNrdkROakdFZWd3MVNXVjJ6a0FTbDJkdnR6bGdaZnpzcVMxUmdBTUg4ZHpKN2xXVmVFQXpGRWtxRGQxQ3FWLW96Z2pmQXNEQ2VKQzBWWHJJczQxUWowVDVWWWtlVW11bFFIQmlyakllcEJKOGhlTE5ENUlueTRCdTJkNXVVYzNDX2x5LWdOclJtUDlwZHZyZWJ5dHpaTk5GODdXUFFNcUZtSHNfd0VsZDdjQkFMVzRjeUJEVE9yVXE3M1lINW43TWpKMWZ4dDNMdC1DQm5jQdIBvAJBVV95cUxOcnVkNFZ5S3BoYnNzMWl1dW1mTFFBak9fMUxpUXFjaWR0UGx0QjdtcWFtTGdnNk9HNlZDVGNHM0hiRmpEc0ptYk1Wb0FUMTJ2VjFQUWJoemdRR05CRzR5UHdxMjFHLVpQa1BCc2FMeXk2NVcwajQzSWxXQ3VtMVg1MER4Zk1hUnV5amptM3FOZ0gwRUVaYmJlcmxlbkpiSndDU0FtemRTN0tiR1dNQ0F6b0I5YlBTd0dqcDNfRDNoZWJSOEVNT1Zfd1VxMnJXUWY2YWkzcnNJZW15TXhBN1gwNzJIMGMxSl9ydXZwTm1EMVlqa1hBS0Vyb3VSMnhTeUhWYzVxQWxJbklxV2xiT1ZQZ1hNVG9tWjJQSlQtdHB3REVocXVnZzFJZ2NXcG5DWFJMQnR2M213ZEhvOThV?oc=5",
+      "published": "2026-11-23T16:39:33Z"
     },
     {
       "title": "What the Microsoft 365 outage taught us",
@@ -65,8 +77,8 @@
     },
     {
       "title": "Microsoft's Outlook outage came down to a perfect storm",
-      "source": "Yahoo Tech",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaGJPV213OFV5MEV6MEt5aFYxcTBma0M5WG9LYnFORGhrdGRUVWZkM29yS2VNaG0tSFQ5Qm9NNTJaYnRhN016RWdzaGlodmF1VlZPcHVsZVlRNlBzQ1VwQ2VLWmNOeV82Z2hrRXRYZUVCWVhzdldCSnJKZGJDRDMxMkxKTXk3QWdxSWQ5RS00Y0RDQVlzMVhZ?oc=5",
+      "source": "Windows Central",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd3hNTGpMNTN1YVZ6cXUtS0pSOE5RcXZWNEpoSDMyVXFvSzhNNnJGX1JjOTUtbEI0VXhfTE02YWxwTW4xYklRTXFqZGdScC02bHNNLXVZamZuX0tRdEtZZHRXSVRuNHZnRzVxZ1RSbGdDSmNzT2hfbFVFc0hDNE42WlB3YklUcmE5TGxtQldJd2JKSWFCUnpoVEcxMjRSNFZzSFVqbFVDd2pxU1UtQ0g2c1hJVzVLelB4cUZkT2hrcFNFcm8?oc=5",
       "published": "2026-11-23T16:17:09Z"
     },
     {
@@ -80,22 +92,10 @@
       "source": "International Business Times Australia",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVUZxMmNRd3VrUzRWN2JSZjRmUl8xalhOUG9XckEzYkcxMFYxYlhtMWFnUzhjOVBOY2ZWYzZGT3oyTkNaTHlZbFJ4QXJYREFWT1IydVgxME9sQXU1bUZySXM4VV9CVnJBazFsYTNaZUpWbFlrci1ZX0JicGRvWWhvU3BLU1RvcVo3dGVFNA?oc=5",
       "published": "2026-11-23T15:52:15Z"
-    },
-    {
-      "title": "CyberCube estimates Microsoft 365 outage insurance losses below $100 mn, up to $350 mn",
-      "source": "Beinsure",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNDAzUW5sS0ZPWkRvR25ZdDN2RW11U0M0NFI1SkhEaks1M0tJYlQ4b3M5WVlKRVNETE9qOWhqRE1PSEdZdWdmTTdEQjJKX1EzRk9RUElrQzV6bzBVal80OUs2V09GLWxGLTVPcFdNQjZpQ1U3YnlvMGNNcmdfOWV6cWNXSWM5dVVLeU1Odg?oc=5",
-      "published": "2026-11-23T15:03:18Z"
-    },
-    {
-      "title": "CyberCube activates cyber catastrophe response after global Microsoft outage",
-      "source": "Beinsure",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBUb1BoTTlpa2pERzd4WW10eWhsSlRRMVFZc3R3RlZJaUdpNV9hcEJ5NmlIYzgzMzRiRnZjYzNGQlBJR1NhaXlpVlV5TDduNzlTck9mbDNUdDdHcFpldEgtVjQ0WWI2Uk0tTEVzZERpN3g0cThNd1BhMXhHaTNEZw?oc=5",
-      "published": "2026-11-23T14:49:13Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-23T20:18:04Z",
+    "fetched_at": "2026-11-23T21:17:44Z",
     "items": [],
     "debug": {
       "bytes": 498,
