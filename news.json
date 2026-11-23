@@ -1,8 +1,14 @@
 {
-  "fetched_at": "2026-11-23T11:18:26Z",
+  "fetched_at": "2026-11-23T12:18:36Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Weekly Recap: Raised EPS outlook and Trigon labor outage weighs on Q4",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR3pYbFJhbGNKd3NXcm80Y1V0Q3BtM0hYbFgwTmR6QUM3RkktdkVkTFdqTWowTG40NzZoZ1gyZWJwOHNEQURtNmhoMVF5eU1JNGNjd3MtWVo1ZE5OMXJNTi13NU1sYjI2VU5hY09pQ1NlcHY1T2FaemtERTdSeExBZWtkc05uemFfS1QzQjIwLWNIcG5Xay15Sk5pTzZQc09PTXF5UmhZWDVWc1NhSUdTNVJiTXZTVUVuN2JQUTNFQk1SLW9PWjRxVDR3?oc=5",
+      "published": "2026-11-23T11:00:00Z"
+    },
     {
       "title": "What the Microsoft 365 outage taught us",
       "source": "NationalWorld",
@@ -26,12 +32,6 @@
       "source": "International Business Times Australia",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UWGhfYjYwQlZKZ3pXZmt2SWp0YnhRanJVdEVuSnZSUnRkMDBTckxvVUtDZ0h2bmRHalZIMDBtZmJPelkwUHBGM19ZWHVEXzJuMDd0b05FaDVjUGo5ZG9mUzN6dENLam1rdEp1QWFhTG9wMExTQjBubldYSzdQWk0?oc=5",
       "published": "2026-11-23T04:00:22Z"
-    },
-    {
-      "title": "Microsoft outage cause revealed: It was a perfect storm of problems",
-      "source": "Mashable",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aOXNncW9QdWVtZ3RXTHF5VnFncFJTcXptUWtGX0V6azdmcXZVQjBienJMdzJydEdseXhVZHZRcExPbS0xUXlCcXhyX2RDOUZOd0h3bEhwU1hiNF9hc0FNdTZLSkJGUVpz?oc=5",
-      "published": "2026-11-23T00:44:36Z"
     },
     {
       "title": "Delta baggage system outage delays flights across US as Thanksgiving travel rush approaches",
@@ -95,7 +95,7 @@
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-23T11:18:26Z",
+    "fetched_at": "2026-11-23T12:18:37Z",
     "items": [],
     "debug": {
       "bytes": 498,
