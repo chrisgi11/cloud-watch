@@ -1,8 +1,14 @@
 {
-  "fetched_at": "2026-11-24T01:18:03Z",
+  "fetched_at": "2026-11-24T02:18:35Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "AWS Faces Customer Backlash Over 93-Minute Delay in Outage Alert",
+      "source": "THE ELEC, Korea Electronics Industry Media",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMSWE0OWlrVWg1RnBQLUhfOHh5RVRVUi1CVXFaaUd2clR3Znk4dENlajRnbUExcUNXbDllZDNNNnIzZTZRZmxDc1VFcjF0dmZpR2ttUUU5RUU0c3JadUtpNjRqWU5VTTA?oc=5",
+      "published": "2026-11-24T01:40:11Z"
+    },
     {
       "title": "Minnkota Power rating affirmed at BBB+ as outage pressures keep outlook negative",
       "source": "Traders Union",
@@ -86,16 +92,10 @@
       "source": "Mezha.net",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVk5KNGtqNGIycGVSdDFtdHIxM0ZaM0Z4N1NTTjZOb2UwMWNiVHhPbVFXY205Mm5rNlRCcGxneXk0MDlteXhNNmJYYk1XWHFVU3Q1Um9jaURTSGdaYk1zbWx3UzI0aFpLT1FxWmJZVXhOVXhoWnEzUm5zMEVuVTg1N1JqeElFbkp6dVBz?oc=5",
       "published": "2026-11-23T16:28:29Z"
-    },
-    {
-      "title": "Microsoft's Outlook outage came down to a perfect storm",
-      "source": "Windows Central",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd3hNTGpMNTN1YVZ6cXUtS0pSOE5RcXZWNEpoSDMyVXFvSzhNNnJGX1JjOTUtbEI0VXhfTE02YWxwTW4xYklRTXFqZGdScC02bHNNLXVZamZuX0tRdEtZZHRXSVRuNHZnRzVxZ1RSbGdDSmNzT2hfbFVFc0hDNE42WlB3YklUcmE5TGxtQldJd2JKSWFCUnpoVEcxMjRSNFZzSFVqbFVDd2pxU1UtQ0g2c1hJVzVLelB4cUZkT2hrcFNFcm8?oc=5",
-      "published": "2026-11-23T16:17:09Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-24T01:18:03Z",
+    "fetched_at": "2026-11-24T02:18:35Z",
     "items": [],
     "debug": {
       "bytes": 498,
