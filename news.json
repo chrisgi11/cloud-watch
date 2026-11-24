@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-23T23:17:52Z",
+  "fetched_at": "2026-11-24T00:18:11Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
@@ -26,6 +26,12 @@
       "source": "INDIA New England News",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcS1sNFBXcmFTZ0dmYWNSMkxScnJqOTZjWUNoejRLVV92YnFnX245ZWJ6RmJ4eU9SR3dVTlkxajRMUmU0LTRHeFIwVjJkTDN3b2I3YmRmMWNrSlh4Y0drN205di1JQVBTTHlabkUxbzFHN0RxYXV2M0lSRW9ndXhjWVNzMVE5MzFTcThuZmhtUEQydE5RazhaQWhySVpJZWl4VFA1X3hCZXBzTTVpRkY1SkMyNjdTTERkVDRmdC1YRGNWbkRU?oc=5",
       "published": "2026-11-23T18:52:30Z"
+    },
+    {
+      "title": "Microsoft president on email outage and potential data center tax",
+      "source": "cedarnews.net",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRzZ1dkZzZ3VXcWdqeWRlTWpTcTN0QnhpRk5tZER5S1JYd3dhYWY5Nk5kamxta2ZFdG1oSE54akQxT3JqYlZ1VFZWTGo1QmtNUWpFNjg3cHdkODZVbFdTV3h6VGhhTzV6U2VNZklsck4tdHdRS1VMOUlnSmxTS2lZU1gwdUtMRmJwSnBOQ1dVektEOE94dVpJR2NNTQ?oc=5",
+      "published": "2026-11-23T18:01:29Z"
     },
     {
       "title": "Is it an outage or are you being hacked? A 2-minute check before you panic, reset passwords or call 'suppo",
@@ -86,16 +92,10 @@
       "source": "The Register",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdVZ0UjlwbFE3ZkMwSXZ2dkN0NXRtaWVkVWowWVNKd1gzenN0SG9ydmVJZ1VDUzBkLUpqS2tLbnkxY1BCa3NYbG56VWx1aXZlSnFjTzFsUlBkLWZ3bG0zeEJldGRQTnVJT2N6aFlfaWhwbUhTblE3d3dGcUdNM2Z3dWNOb1FQRndFUUhMVFhJV0luSTlEM2haRG1SR3BKdTRDYTdUN1NMXzNlVVJ0Tlp4VkxxSV9ta2otNEJlX0FWN2EwdUVveFRfWm55OA?oc=5",
       "published": "2026-11-23T16:16:00Z"
-    },
-    {
-      "title": "Atlassian Down? Users Report Problems With Jira, Confluence and Bitbucket as Status Page Shows All Clear",
-      "source": "International Business Times Australia",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVUZxMmNRd3VrUzRWN2JSZjRmUl8xalhOUG9XckEzYkcxMFYxYlhtMWFnUzhjOVBOY2ZWYzZGT3oyTkNaTHlZbFJ4QXJYREFWT1IydVgxME9sQXU1bUZySXM4VV9CVnJBazFsYTNaZUpWbFlrci1ZX0JicGRvWWhvU3BLU1RvcVo3dGVFNA?oc=5",
-      "published": "2026-11-23T15:52:15Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-23T23:17:52Z",
+    "fetched_at": "2026-11-24T00:18:11Z",
     "items": [],
     "debug": {
       "bytes": 498,
