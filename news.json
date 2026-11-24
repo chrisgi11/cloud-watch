@@ -1,25 +1,31 @@
 {
-  "fetched_at": "2026-11-24T05:18:26Z",
+  "fetched_at": "2026-11-24T06:17:53Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
     {
-      "title": "Microsoft Outage Review Finds Gaps in Server Testing",
-      "source": "The Defiant",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZktPcHIwQVJnT3J2YWMwRjRtLXVLUVdOQWZtRmFVMHVwTUVhczY3MnhxRDV6Qkwzem1MeTRxcWNnUXpYYVZZTG5pRkxYUEtQVWpPRDJVTml5dmx1ejNUal8yaXBXbDdOU2V3SzJ4ejJJVFBOcXRxOVp1T2NPaHhxYVhPZmNCdU51cUZzZ2dqN2Q3REF3RTEwRVhzR1E3cmM?oc=5",
-      "published": "2026-11-24T05:04:40Z"
-    },
-    {
-      "title": "Microsoft Outage: Brad Smith Warns More Disruptions Ahead",
+      "title": "Microsoft Outage Warning: Brad Smith Says More Disruptions Likely After Perfect Storm Failure",
       "source": "theopenpress.in",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaDBvNTNfZUZCUF9hUU9wQU04aDBnbFZGdlIzMWZ2SzF1aG9TTUpXM1FLSm5IMWg3Y24yV2w5RFdJSWQ2ek91cUk4b3h4cFotVlBFUEQtQTJpYTBvOHFpUDAyZFcxX1Z2RXBDY0x2QzhRWmdON3BqMGxWQ3U3VXNneW1GNUc2SDFSV0tMbkQtdjhZdTZqQzFmdUxpaU1DX3c?oc=5",
-      "published": "2026-11-24T04:30:00Z"
+      "published": "2026-11-24T06:06:33Z"
+    },
+    {
+      "title": "Microsoft outage: Brad Smith blames 'perfect storm' of updates, traffic",
+      "source": "TechGig",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWk1EUy13c2ZvTnJfVnNNTlBGajV3SzJBbGRfdU1HZ3RMeS1EeV9IR0dJQWNHU2xfdWNPZDNZM2RzcE9faXgxX1pfWTIzckpENmh1TlZZTXE1WW9DN0JtYXREd2doZE5xQnFwd05uSnljT2NlNVdSY1JqZWdlTG1JYnBuNS01TzBKT3haVFdqVm9rRkFXQUJUZFBSZGROaGdsZ0lZV2F3M3psUWN5R2ZTejd1STR5bmhQRG02TjR6MXhqZ2l0Q0E?oc=5",
+      "published": "2026-11-24T01:40:27Z"
     },
     {
       "title": "AWS Faces Customer Backlash Over 93-Minute Delay in Outage Alert",
       "source": "THE ELEC, Korea Electronics Industry Media",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMSWE0OWlrVWg1RnBQLUhfOHh5RVRVUi1CVXFaaUd2clR3Znk4dENlajRnbUExcUNXbDllZDNNNnIzZTZRZmxDc1VFcjF0dmZpR2ttUUU5RUU0c3JadUtpNjRqWU5VTTA?oc=5",
       "published": "2026-11-24T01:40:11Z"
+    },
+    {
+      "title": "Microsoft Outage Review Finds Gaps in Server Testing",
+      "source": "The Defiant",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZktPcHIwQVJnT3J2YWMwRjRtLXVLUVdOQWZtRmFVMHVwTUVhczY3MnhxRDV6Qkwzem1MeTRxcWNnUXpYYVZZTG5pRkxYUEtQVWpPRDJVTml5dmx1ejNUal8yaXBXbDdOU2V3SzJ4ejJJVFBOcXRxOVp1T2NPaHhxYVhPZmNCdU51cUZzZ2dqN2Q3REF3RTEwRVhzR1E3cmM?oc=5",
+      "published": "2026-11-24T01:04:40Z"
     },
     {
       "title": "Minnkota Power rating affirmed at BBB+ as outage pressures keep outlook negative",
@@ -44,12 +50,6 @@
       "source": "INDIA New England News",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcS1sNFBXcmFTZ0dmYWNSMkxScnJqOTZjWUNoejRLVV92YnFnX245ZWJ6RmJ4eU9SR3dVTlkxajRMUmU0LTRHeFIwVjJkTDN3b2I3YmRmMWNrSlh4Y0drN205di1JQVBTTHlabkUxbzFHN0RxYXV2M0lSRW9ndXhjWVNzMVE5MzFTcThuZmhtUEQydE5RazhaQWhySVpJZWl4VFA1X3hCZXBzTTVpRkY1SkMyNjdTTERkVDRmdC1YRGNWbkRU?oc=5",
       "published": "2026-11-23T18:52:30Z"
-    },
-    {
-      "title": "Microsoft president on email outage and potential data center tax",
-      "source": "cedarnews.net",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRzZ1dkZzZ3VXcWdqeWRlTWpTcTN0QnhpRk5tZER5S1JYd3dhYWY5Nk5kamxta2ZFdG1oSE54akQxT3JqYlZ1VFZWTGo1QmtNUWpFNjg3cHdkODZVbFdTV3h6VGhhTzV6U2VNZklsck4tdHdRS1VMOUlnSmxTS2lZU1gwdUtMRmJwSnBOQ1dVektEOE94dVpJR2NNTQ?oc=5",
-      "published": "2026-11-23T18:01:29Z"
     },
     {
       "title": "Is it an outage or are you being hacked? A 2-minute check before you panic, reset passwords or call 'suppo",
@@ -95,7 +95,7 @@
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-24T05:18:26Z",
+    "fetched_at": "2026-11-24T06:17:53Z",
     "items": [],
     "debug": {
       "bytes": 498,
