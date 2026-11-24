@@ -1,8 +1,14 @@
 {
-  "fetched_at": "2026-11-24T13:18:01Z",
+  "fetched_at": "2026-11-24T14:18:29Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Microsoft Outage Warning: Brad Smith Says More Disruptions Likely After Perfect Storm Failure",
+      "source": "theopenpress.in",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaDBvNTNfZUZCUF9hUU9wQU04aDBnbFZGdlIzMWZ2SzF1aG9TTUpXM1FLSm5IMWg3Y24yV2w5RFdJSWQ2ek91cUk4b3h4cFotVlBFUEQtQTJpYTBvOHFpUDAyZFcxX1Z2RXBDY0x2QzhRWmdON3BqMGxWQ3U3VXNneW1GNUc2SDFSV0tMbkQtdjhZdTZqQzFmdUxpaU1DX3c?oc=5",
+      "published": "2026-11-24T13:36:38Z"
+    },
     {
       "title": "The Microsoft Outage Brought a Surge of Phishing Email",
       "source": "KnowBe4 Blog",
@@ -20,12 +26,6 @@
       "source": "Korben",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwTWpWZXJUaGdfNmROMGFQaUxTRFpXUGRmNmI0dm9HUlFDb2lqM1pMWWhSdW16VE9LTm5hNWRIdWtDOEhxZEMzaGNJOUVTVXZTRl9xdXhRUDFyZFdrWXp0MnNYbjN4VkJ1MW9CR2lfSDhoTUEtVHRF?oc=5",
       "published": "2026-11-24T10:43:39Z"
-    },
-    {
-      "title": "Microsoft Outage Warning: Brad Smith Says More Disruptions Likely After Perfect Storm Failure",
-      "source": "theopenpress.in",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaDBvNTNfZUZCUF9hUU9wQU04aDBnbFZGdlIzMWZ2SzF1aG9TTUpXM1FLSm5IMWg3Y24yV2w5RFdJSWQ2ek91cUk4b3h4cFotVlBFUEQtQTJpYTBvOHFpUDAyZFcxX1Z2RXBDY0x2QzhRWmdON3BqMGxWQ3U3VXNneW1GNUc2SDFSV0tMbkQtdjhZdTZqQzFmdUxpaU1DX3c?oc=5",
-      "published": "2026-11-24T10:29:53Z"
     },
     {
       "title": "Outlook is back. What else went down?",
@@ -95,7 +95,7 @@
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-24T13:18:01Z",
+    "fetched_at": "2026-11-24T14:18:29Z",
     "items": [],
     "debug": {
       "bytes": 498,
