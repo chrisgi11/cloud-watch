@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-24T10:17:43Z",
+  "fetched_at": "2026-11-24T11:18:17Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
@@ -7,19 +7,25 @@
       "title": "Microsoft Outage Warning: Brad Smith Says More Disruptions Likely After Perfect Storm Failure",
       "source": "theopenpress.in",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaDBvNTNfZUZCUF9hUU9wQU04aDBnbFZGdlIzMWZ2SzF1aG9TTUpXM1FLSm5IMWg3Y24yV2w5RFdJSWQ2ek91cUk4b3h4cFotVlBFUEQtQTJpYTBvOHFpUDAyZFcxX1Z2RXBDY0x2QzhRWmdON3BqMGxWQ3U3VXNneW1GNUc2SDFSV0tMbkQtdjhZdTZqQzFmdUxpaU1DX3c?oc=5",
-      "published": "2026-11-24T08:59:12Z"
+      "published": "2026-11-24T10:29:53Z"
+    },
+    {
+      "title": "Outlook is back. What else went down?",
+      "source": "Cyprus Business News",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wVjdCVnBaamhIcTRXR3czcW91bzdZY3RvZE42LWpLZUppdFFiSDhxMmhZdXFNZTFqYUlRN0lvcFVJUXVDQTRMaTY1cVBuUUpCU3gxTVZFNTF0aUhNMWx3eHFUS0lYNjU4YUxhWm1BSzhBY3paa3d6RHhpb3Uydw?oc=5",
+      "published": "2026-11-24T10:29:12Z"
+    },
+    {
+      "title": "Microsoft Outage Review Finds Gaps in Server Testing",
+      "source": "The Defiant",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZktPcHIwQVJnT3J2YWMwRjRtLXVLUVdOQWZtRmFVMHVwTUVhczY3MnhxRDV6Qkwzem1MeTRxcWNnUXpYYVZZTG5pRkxYUEtQVWpPRDJVTml5dmx1ejNUal8yaXBXbDdOU2V3SzJ4ejJJVFBOcXRxOVp1T2NPaHhxYVhPZmNCdU51cUZzZ2dqN2Q3REF3RTEwRVhzR1E3cmM?oc=5",
+      "published": "2026-11-24T06:50:42Z"
     },
     {
       "title": "Microsoft outage: A lesson in operational resilience",
       "source": "City AM",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVl9RWER2bmJyU3IxREJ3Um51Wkh3dlZQX3NnN2Fva3VMYVBoa2VHeHpqQnl5d1VxYmxPSnZnaDVucDFza3BkRFgzMk1WVkF3RUdRR3d5Vl9OeS1MY2w4Mmxqc0RwdXlUVEhhdW9tdk00QUpONWhublZNakMxVVZ2VGpiWQ?oc=5",
       "published": "2026-11-24T05:13:00Z"
-    },
-    {
-      "title": "Microsoft Outage Review Finds Gaps in Server Testing",
-      "source": "The Defiant",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZktPcHIwQVJnT3J2YWMwRjRtLXVLUVdOQWZtRmFVMHVwTUVhczY3MnhxRDV6Qkwzem1MeTRxcWNnUXpYYVZZTG5pRkxYUEtQVWpPRDJVTml5dmx1ejNUal8yaXBXbDdOU2V3SzJ4ejJJVFBOcXRxOVp1T2NPaHhxYVhPZmNCdU51cUZzZ2dqN2Q3REF3RTEwRVhzR1E3cmM?oc=5",
-      "published": "2026-11-24T03:50:41Z"
     },
     {
       "title": "Microsoft says some consumer emails hit a dead end in November\u2019s Outlook outage",
@@ -86,16 +92,10 @@
       "source": "Windows Central",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU1B4VzlnS3dNdDhuQ2k4Z3pnQnJiZVVfQTVZNlJRTlVrS2ktQkhyWHJmUktzQThEaWN4ZGRvYTNaV0lDSU1STlVTOXpIby00cVBvbkg5d2tFT3RvaElNU0ZBdWxJbmtEVkVFNkcxc1kxMnNZcnFwei1fUWk0QnhVbkZEakdZTnp3dTJveDJFNlRQVnVtMC1OWm5JcE5jcEJDNG9iNjJGOHIxSDZjdjQ3ZUtDYjZ3YlVJZXdIck9TbDY5ZVkxV1E?oc=5",
       "published": "2026-11-23T17:25:55Z"
-    },
-    {
-      "title": "Microsoft\u2019s Outage Report: Bounced Emails and Silent Security Failures",
-      "source": "Gadget Review",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcUxlU1lPMEFDWjY2TW9YTWRhMy1pVzY4SnMwTUNlYWtpNTJxNm5ZWXNfNlJwSUI1cEs4Tlo4VlhGZGZKY2IycUMyUjFlT2hkZDdNU0lXaGplUFdUWDB1WTJUU1JLaHhpRy1Ca0RYT0JnRENzcUUzU0MtdFBTcXVic2l4dWdMMk0zblRaTTY1VzdjVG1POFVUVGNXQVU0QQ?oc=5",
-      "published": "2026-11-23T17:17:53Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-24T10:17:43Z",
+    "fetched_at": "2026-11-24T11:18:17Z",
     "items": [],
     "debug": {
       "bytes": 498,
