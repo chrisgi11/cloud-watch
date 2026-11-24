@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-24T18:08:03Z",
+  "fetched_at": "2026-11-24T18:18:02Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
@@ -14,6 +14,12 @@
       "source": "NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNFYtQTNRVGk1a2oyX3FGbXNTRVZkaklxdkhKVDlEZHVYcllpem5TTnI0Ni1xR0pMdlpLWlFweFVOWE02VDJPR0M3aUQtS0ltQXUwWVJZQkg3Wlh5MWJtU2dRYXZaczhoYUxRbkNkaE1GRUtNeHB0YnFmc21YSExTTUg4SlVZUS1tNFRZYmxMbVlwdHV0YlpSZTZJZlByVzkyXzJPREx5U3QzR0VNaVUyeFFmWEpfMEtzUWU1V3dyMng0QzVMYURWdTRzc1lxRWZ3ZkVr0gHbAUFVX3lxTE9ZSVhhbjBXVkRKakZCcXhRUEZYQjlQV2wwcFd5bHdFYjZRVFlCRy1uUFVFQXVYTk1rSXhTLXpINWF0cWM5ZE9ybFQ0MldZS3BQVVZSdUdnZE5JRFpMXzVaUVpObDF2bkFXZXZJa1VFd25mMlZSWEJvbldSdFFNbURwaUU4d2JxVzBpVHNNOWdGcUtFSGZIYl85YnFmWmdNM2pSdkFOUGZ3U2JmTF9aVlpTQngxWU8tejl1ZHlVQTJWakI0WlRTWEVlTWF0VkowcWZMbFhEMzNvanpMZw?oc=5",
       "published": "2026-11-24T17:44:24Z"
+    },
+    {
+      "title": "Microsoft's Final Outage Report Blames a July Bug and Confirms Some Emails Never Arrived",
+      "source": "gHacks",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQy1LYXVXcGptNmQ3MDZqY0NfUFBteTBpSUNaTGk4MnltV0doTXRMcEg0alRjcU1IeTlubTAxQTdFWUE1RVI4d0E0c3M4YlJEekpKQlVUZkVwekRXNGNwUUhZNE1ORV91azAxZEt4cFQyaUtkZXZEMnlweXAyNDhEWkNyUnJFckJscDdrOHFmRnk3Rl9NNVRNYTBSSFFRMG5SZ1FsTVBOWl81SVAwWFRVMWxlbzVwV3dlZWxEeG1PQQ?oc=5",
+      "published": "2026-11-24T17:40:59Z"
     },
     {
       "title": "Microsoft Sets One-Hour Recovery Target After M365 Outage",
@@ -40,16 +46,16 @@
       "published": "2026-11-24T17:16:53Z"
     },
     {
+      "title": "Microsoft Slips Below $500 as 24-Hour Cloud Outage Spurs Internal 'Code Red'",
+      "source": "BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtOVdsdk0wamNsazFQLWU4bk4zOEN3MkhyVmVWRWk0UXBnS0E1WGUyZ20tdVRLdkFfUW91a185TUd1NHhuWkFCSkFkWXY5NE5vVTJKc3N1Mnh5UGVROTRqUXFiendkbkVIYktMUWx0STJyZ29nOWc?oc=5",
+      "published": "2026-11-24T17:07:07Z"
+    },
+    {
       "title": "Microsoft Reveals Testing Gaps Behind 365 Outage",
       "source": "SuaraGarut.ID",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZOURXMnA5V25DM0RwZ2h5RWl1UEhLQWVzenVsTmF6c2oyWmNRVjNrN3FLOXIyLU5iOVJ0Uk9VUVdDS3ZkSXZhcXdmblRDTWhUYTA4SnBhUnZBaklDUkRMb2ZieUdGM0FFUHc?oc=5",
       "published": "2026-11-24T17:06:00Z"
-    },
-    {
-      "title": "Microsoft Slips Below $500 as 24-Hour Cloud Outage Spurs Internal 'Code Red'",
-      "source": "BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtOVdsdk0wamNsazFQLWU4bk4zOEN3MkhyVmVWRWk0UXBnS0E1WGUyZ20tdVRLdkFfUW91a185TUd1NHhuWkFCSkFkWXY5NE5vVTJKc3N1Mnh5UGVROTRqUXFiendkbkVIYktMUWx0STJyZ29nOWc?oc=5",
-      "published": "2026-11-24T17:05:00Z"
     },
     {
       "title": "Microsoft Reveals Testing Failures Behind 365 Outage",
@@ -86,16 +92,10 @@
       "source": "Pragativadi",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQN0dydVZqWDgwVF8tRXJNZDlHSWo5N0NFdk1jOFh5TE1rTGdYMTJWV2xUWFFKYVNZS0Q3Sm96ZlhKNnB5SnJnQWFKcjFPT054WGZ6MDZ2d016TTBwZ2hoVm1yeWIzTm9UdGk5ZVlHYzc5LUlfbEN5MkVtaFlYb1gzMDZITEJkZ0V0RFN0QllaZXpYUGpyaXkyaFJhX25WZHBBTVFmVHFuZy1ZV1BQcGFxVmFxaFhlbVFPa2IwR0txeUR6dmhuN3JJVWYwUEZMeks5eGtvb1lhS01zTmZR?oc=5",
       "published": "2026-11-24T16:54:39Z"
-    },
-    {
-      "title": "\u2018Code Red means that this is the highest priority work\u2019: Microsoft",
-      "source": "The Next Web",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZDZmTG8zeEFWb0xqVlEySWY3cms2MF9LTUt2Ymw4RmZiY0lJVnZnaVFmb3hSSm1mQmV0ZkFsMnpYbVJ4a0JCdnpiREl1UTd6dFNRR1lHbllBcWU5dVpBVHZ3NEt5Wi1Qd1VoaVhVVzFVMGsyejJzVGdaSThqaFk0U0FqQy1fWndhTDNr?oc=5",
-      "published": "2026-11-24T16:51:36Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-24T18:08:03Z",
+    "fetched_at": "2026-11-24T18:18:02Z",
     "items": [],
     "debug": {
       "bytes": 498,
