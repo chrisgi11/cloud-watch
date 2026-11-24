@@ -1,8 +1,20 @@
 {
-  "fetched_at": "2026-11-24T15:17:39Z",
+  "fetched_at": "2026-11-24T16:17:54Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Microsoft reportedly declares \u2018Code Red\u2019 for M365 reliability after major November outage",
+      "source": "Business Upturn",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOY19ybDdwVDVfN2JZc18wUWFOR04xODEzTkVuamJtZU8wMlRUNGktSE9EUnF0eU53SHp3dGVjWGs4a19NekpOVFVDRW9ZT3VFWGcyMHllVHpnelV1UnluRXdaQm9pa2xkX1NmcWFRYmtCSmtPTjJKUjVzY0dkRWxISms2WExlc25kb29OVENwTEx3MGxuQXlSS0wyQW5ya1VReEVqTk9aLTlEVTRHMExONGRHLVc0WGxfNWxhX1N3cjJIRUZLaEREeDQ2SC1vcy0tQ0E?oc=5",
+      "published": "2026-11-24T16:13:00Z"
+    },
+    {
+      "title": "Microsoft Declared A \u201cCode Red\u201d After A 24-Hour M365 Outage",
+      "source": "Finimize",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONFQ3eGltakVSTTg4S0wwTDc2TTYzeWRyNFRfM3oxWTdhVHUyU3o1NDBLTklPMnB6ZjVzMmNkWW9iN2ZqaDNoRlEtYlhrMnUwWDZsYk1ETUw5SHhBamtXSGVqSzM4UGhSN1pCTUFBblJ4SFRtNnZZcnAybUtoZnBsRUhFOUlxRDZyQmZyUkNoSQ?oc=5",
+      "published": "2026-11-24T16:00:46Z"
+    },
     {
       "title": "Microsoft Outage Warning: Brad Smith Says More Disruptions Likely After Perfect Storm Failure",
       "source": "theopenpress.in",
@@ -80,22 +92,10 @@
       "source": "The Seattle Times",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVg1LURBWFdTR3gwN1ZrVXZkQnFwaHA0MHBITmFnZFhXcm5tMkJPc0tDMDlMbWZQUHg2emxUdzY3TnRuNjBxUnFneVpNRWlfTFd0TjJ6OVpNc29vclFJZGl2SnN3RlZvV1MxdUxJZDdZQ1JydkVfT3lJeFd5TG1YVEpHM3lFTVp0QkdqLUtrRENMY2tmSmowc3hiZGVKeko0V2hTT1NmMXlPaEs1RlRj?oc=5",
       "published": "2026-11-24T01:22:55Z"
-    },
-    {
-      "title": "Outlook November 12 Blackout and Phishing Scam",
-      "source": "Meteora Web",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWWRPZTVFbGptUm5ySWNxNG40RXBacDR4YnhnZVY4c1pnV0c3LTFRTEx4T2M4VjlWektrRndGZG8tRkctOXRVLUVvNE1jYmpCbEV3NTBENUMxX1B0UEhwX0tWYXRnRnB6Vy13LUZLbkNDdXBVSnBiNHB4Ykg5WUdCTFhfaTYwOU5abm1ONjc1amtwU0gtNnAyRVdtWkRNZ1R1RDh3bA?oc=5",
-      "published": "2026-11-23T23:04:21Z"
-    },
-    {
-      "title": "Minnkota Power rating affirmed at BBB+ as outage pressures keep outlook negative",
-      "source": "Traders Union",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMnE2QzE2Y0VUYVl2TUZ0cDQzNldtVHM1UGFDUzdxUG1ZZTNZQVQ0ekd2MFRrbEhBUWloekNGV2JIcFVPYWg4X3FjMjhXU2NoUXNYNC03SXgtdjhNS1VJTFZueE9fcVFNOGt2QkJFM3g5d05WS3pTTkp2ZGc4MEZpc2d6N1BhVHhPV1I3RTlmVnJrQXc?oc=5",
-      "published": "2026-11-23T20:21:36Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-24T15:17:39Z",
+    "fetched_at": "2026-11-24T16:17:54Z",
     "items": [],
     "debug": {
       "bytes": 498,
