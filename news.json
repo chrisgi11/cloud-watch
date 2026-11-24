@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-24T06:25:11Z",
+  "fetched_at": "2026-11-24T08:17:45Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
@@ -7,7 +7,19 @@
       "title": "Microsoft Outage Warning: Brad Smith Says More Disruptions Likely After Perfect Storm Failure",
       "source": "theopenpress.in",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaDBvNTNfZUZCUF9hUU9wQU04aDBnbFZGdlIzMWZ2SzF1aG9TTUpXM1FLSm5IMWg3Y24yV2w5RFdJSWQ2ek91cUk4b3h4cFotVlBFUEQtQTJpYTBvOHFpUDAyZFcxX1Z2RXBDY0x2QzhRWmdON3BqMGxWQ3U3VXNneW1GNUc2SDFSV0tMbkQtdjhZdTZqQzFmdUxpaU1DX3c?oc=5",
-      "published": "2026-11-24T06:06:33Z"
+      "published": "2026-11-24T07:36:45Z"
+    },
+    {
+      "title": "Microsoft outage: A lesson in operational resilience",
+      "source": "City AM",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVl9RWER2bmJyU3IxREJ3Um51Wkh3dlZQX3NnN2Fva3VMYVBoa2VHeHpqQnl5d1VxYmxPSnZnaDVucDFza3BkRFgzMk1WVkF3RUdRR3d5Vl9OeS1MY2w4Mmxqc0RwdXlUVEhhdW9tdk00QUpONWhublZNakMxVVZ2VGpiWQ?oc=5",
+      "published": "2026-11-24T05:13:00Z"
+    },
+    {
+      "title": "Microsoft says some consumer emails hit a dead end in November\u2019s Outlook outage",
+      "source": "Digg",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1OUGZRdjU5OWk2N2Rlc092SHNFcHJNNUdIazQzUDBTOVk0VFZLU1lTRzVzay1yZV85NlBaSENWMWdHenQt?oc=5",
+      "published": "2026-11-24T02:32:33Z"
     },
     {
       "title": "Microsoft outage: Brad Smith blames 'perfect storm' of updates, traffic",
@@ -26,6 +38,12 @@
       "source": "The Defiant",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZktPcHIwQVJnT3J2YWMwRjRtLXVLUVdOQWZtRmFVMHVwTUVhczY3MnhxRDV6Qkwzem1MeTRxcWNnUXpYYVZZTG5pRkxYUEtQVWpPRDJVTml5dmx1ejNUal8yaXBXbDdOU2V3SzJ4ejJJVFBOcXRxOVp1T2NPaHhxYVhPZmNCdU51cUZzZ2dqN2Q3REF3RTEwRVhzR1E3cmM?oc=5",
       "published": "2026-11-24T01:04:40Z"
+    },
+    {
+      "title": "Outlook November 12 Blackout and Phishing Scam",
+      "source": "Meteora Web",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWWRPZTVFbGptUm5ySWNxNG40RXBacDR4YnhnZVY4c1pnV0c3LTFRTEx4T2M4VjlWektrRndGZG8tRkctOXRVLUVvNE1jYmpCbEV3NTBENUMxX1B0UEhwX0tWYXRnRnB6Vy13LUZLbkNDdXBVSnBiNHB4Ykg5WUdCTFhfaTYwOU5abm1ONjc1amtwU0gtNnAyRVdtWkRNZ1R1RDh3bA?oc=5",
+      "published": "2026-11-23T23:04:21Z"
     },
     {
       "title": "Minnkota Power rating affirmed at BBB+ as outage pressures keep outlook negative",
@@ -52,6 +70,12 @@
       "published": "2026-11-23T18:52:30Z"
     },
     {
+      "title": "Microsoft president on email outage and potential data center tax",
+      "source": "cedarnews.net",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRzZ1dkZzZ3VXcWdqeWRlTWpTcTN0QnhpRk5tZER5S1JYd3dhYWY5Nk5kamxta2ZFdG1oSE54akQxT3JqYlZ1VFZWTGo1QmtNUWpFNjg3cHdkODZVbFdTV3h6VGhhTzV6U2VNZklsck4tdHdRS1VMOUlnSmxTS2lZU1gwdUtMRmJwSnBOQ1dVektEOE94dVpJR2NNTQ?oc=5",
+      "published": "2026-11-23T18:01:29Z"
+    },
+    {
       "title": "Is it an outage or are you being hacked? A 2-minute check before you panic, reset passwords or call 'suppo",
       "source": "The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPaUFuX3h6RGRBTVlyQ1hFRGFYTmtMcDdPUFo2YldxYUtXMEkwUmF6WkRmUklNQkkyc0dWWGhUU3hNeHVqQlRBLXpXLWJSUzdEV09jcmRYWThiaDhmM091RlpBdExMTTBWSVRNWHVSRGdzdUdNSkpWVkE1WmhrUFIyODlOazhscDR0SnZlcEFheld6MVNRNGdETkh0V0Y3VjFrTTdCNjlNRF9nWGlhZG5MbUZ5cENzcFZFWWl4alkxRTBLekMtLUprREVXMW53eEo2RkVFX0VBU0JoU1NYdm0tbkh4SjJ5dGhuWnNUSjJRNWVRTC0tVG9VQnpxb3PSAYICQVVfeXFMTmtoRFZVYURxX1h1QWtEWm5iZkFUMlJaTjdNNldLRDVTaGNhdTZYRHJGXzAxS2xJZkYtMTNOSzRQY2c0MWhENWU1X0tBakl1aklEVVNlR2RYYzd5Rk5qZ3BHTEpldFJUaGJGZHUwb1ducVFoOUs1TGU4dHlIamVfVVZwMlppYTRpQ0JrVmRKSEl1ZU9YSmt2Yl9wZUdQRVo5Z0oweGdERk55SHlkUnZuc0R3WmxGWG9LZ1pXTmdsUk1xRVl4WDVKb2t5VWxqcy1LazNISUx0emVCdjVucnpDZGVjVDFNbHBkM0hsRks1YVJCUDVfQWtnaDlEcGpSVmpiS0FR?oc=5",
@@ -68,34 +92,10 @@
       "source": "Gadget Review",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcUxlU1lPMEFDWjY2TW9YTWRhMy1pVzY4SnMwTUNlYWtpNTJxNm5ZWXNfNlJwSUI1cEs4Tlo4VlhGZGZKY2IycUMyUjFlT2hkZDdNU0lXaGplUFdUWDB1WTJUU1JLaHhpRy1Ca0RYT0JnRENzcUUzU0MtdFBTcXVic2l4dWdMMk0zblRaTTY1VzdjVG1POFVUVGNXQVU0QQ?oc=5",
       "published": "2026-11-23T17:17:53Z"
-    },
-    {
-      "title": "Japan\u2019s Furukawa details requests after Microsoft 365 outage",
-      "source": "NeoTeo",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYnBhZVZoaVpTWi11UERSVHM2dmR0R0J0YkRuZzZfUDF2TktCU2RQcXhsUVBQLWNoQ0JNQm5VQjYxUEJpakFaVlI4ZFpWQjJwN2NOb0FkSUxqN19veDhqLUhxdUlqWERJLWpVM3BERURUSWc5NmFUaVJ1U19IRU8tTlFObVBoaFB4MjFFR0lB?oc=5",
-      "published": "2026-11-23T17:14:26Z"
-    },
-    {
-      "title": "Microsoft Outage Report Details Testing Gaps and Lost Emails",
-      "source": "news.lavx.hu",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQem0zV0N1TU5GTW04MlNjaklJZDRjNGF4VzhZVU8yS2JxNVVCazV2cWtHOWxRT1RqZnM2ZmVpZWJJVE1fZkY4Q0V3VFk1R0tkeUg5QUdEODB3SEMxUkk1NXRtd01lNVhDR0JZU2NpbmtpYmdMWEFiUEtqQ09SVTJCM3VaeDBzS0c2eXFXeWxLY0NVMTA?oc=5",
-      "published": "2026-11-23T16:57:36Z"
-    },
-    {
-      "title": "Microsoft Outlook Outage Today: Is Outlook Down in the US? Users Report Email, App Login, Website, Sending and Receiving Messages Issues | Check Latest Downdetector Status",
-      "source": "The Sunday Guardian",
-      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOcnVkNFZ5S3BoYnNzMWl1dW1mTFFBak9fMUxpUXFjaWR0UGx0QjdtcWFtTGdnNk9HNlZDVGNHM0hiRmpEc0ptYk1Wb0FUMTJ2VjFQUWJoemdRR05CRzR5UHdxMjFHLVpQa1BCc2FMeXk2NVcwajQzSWxXQ3VtMVg1MER4Zk1hUnV5amptM3FOZ0gwRUVaYmJlcmxlbkpiSndDU0FtemRTN0tiR1dNQ0F6b0I5YlBTd0dqcDNfRDNoZWJSOEVNT1Zfd1VxMnJXUWY2YWkzcnNJZW15TXhBN1gwNzJIMGMxSl9ydXZwTm1EMVlqa1hBS0Vyb3VSMnhTeUhWYzVxQWxJbklxV2xiT1ZQZ1hNVG9tWjJQSlQtdHB3REVocXVnZzFJZ2NXcG5DWFJMQnR2M213ZEhvOThV0gG8AkFVX3lxTE5ydWQ0VnlLcGhic3MxaXV1bWZMUUFqT18xTGlRcWNpZHRQbHRCN21xYW1MZ2c2T0c2VkNUY0czSGJGakRzSm1iTVZvQVQxMnZWMVBRYmh6Z1FHTkJHNHlQd3EyMUctWlBrUEJzYUx5eTY1VzBqNDNJbFdDdW0xWDUwRHhmTWFSdXlqam0zcU5nSDBFRVpiYmVybGVuSmJKd0NTQW16ZFM3S2JHV01DQXpvQjliUFN3R2pwM19EM2hlYlI4RU1PVl93VXEycldRZjZhaTNyc0llbXlNeEE3WDA3MkgwYzFKX3J1dnBObUQxWWprWEFLRXJvdVIyeFN5SFZjNXFBbEluSXFXbGJPVlBnWE1Ub21aMlBKVC10cHdERWhxdWdnMUlnY1dwbkNYUkxCdHYzbXdkSG85OFU?oc=5",
-      "published": "2026-11-23T16:39:37Z"
-    },
-    {
-      "title": "What the Microsoft 365 outage taught us",
-      "source": "NationalWorld",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRExydFB0SElFLU5USEt6c3Ezb0tYTGI2X2o1NldpWUo4bnVKdGlRZkMyVFhPVUM2c3RPbHRaZ3VYVTRTWDhvN1dNQ3R5RWVUbGVQTTg2UTQ2aHNaMXNzY2FRV1ZRVWtoWlJGRGMyNlBIY3VnTXh5TVAtM05ESHd3NjItMjR2NE1rdzd1a2d0aEpQUQ?oc=5",
-      "published": "2026-11-23T16:39:27Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-24T07:18:02Z",
+    "fetched_at": "2026-11-24T08:17:45Z",
     "items": [],
     "debug": {
       "bytes": 498,
