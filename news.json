@@ -1,13 +1,43 @@
 {
-  "fetched_at": "2026-11-24T17:18:01Z",
+  "fetched_at": "2026-11-24T18:08:03Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
     {
+      "title": "Microsoft Launches Code Red Initiative After Major Microsoft 365 Outage",
+      "source": "Coin Edition",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNURCLWJsY0YxRGpjcWVCNHdyT0IyVUxhRG5vMm1DUGxiZnl6Y0JRSkdJMkZ1SjNMSFk5dldEYzlsYUViWVc1b3dvNFZTNGNsQlU0T2s1eW13TzdOajZ6N0pST3VuTzZHbEJnYjcxSUxLUjBJbFFUV3NIemtxbzRUV0Nka1Y2NGhCTXZNLVlCcWp0U0lfTHJoOWdPMldNV2VMZzJReDBHQUk4ZkJYRjZOT09wdw?oc=5",
+      "published": "2026-11-24T17:49:43Z"
+    },
+    {
+      "title": "A Bug From July Took Down Outlook And Teams For 24 Hours. Now Microsoft Has Declared 'Code Red\u2019",
+      "source": "NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNFYtQTNRVGk1a2oyX3FGbXNTRVZkaklxdkhKVDlEZHVYcllpem5TTnI0Ni1xR0pMdlpLWlFweFVOWE02VDJPR0M3aUQtS0ltQXUwWVJZQkg3Wlh5MWJtU2dRYXZaczhoYUxRbkNkaE1GRUtNeHB0YnFmc21YSExTTUg4SlVZUS1tNFRZYmxMbVlwdHV0YlpSZTZJZlByVzkyXzJPREx5U3QzR0VNaVUyeFFmWEpfMEtzUWU1V3dyMng0QzVMYURWdTRzc1lxRWZ3ZkVr0gHbAUFVX3lxTE9ZSVhhbjBXVkRKakZCcXhRUEZYQjlQV2wwcFd5bHdFYjZRVFlCRy1uUFVFQXVYTk1rSXhTLXpINWF0cWM5ZE9ybFQ0MldZS3BQVVZSdUdnZE5JRFpMXzVaUVpObDF2bkFXZXZJa1VFd25mMlZSWEJvbldSdFFNbURwaUU4d2JxVzBpVHNNOWdGcUtFSGZIYl85YnFmWmdNM2pSdkFOUGZ3U2JmTF9aVlpTQngxWU8tejl1ZHlVQTJWakI0WlRTWEVlTWF0VkowcWZMbFhEMzNvanpMZw?oc=5",
+      "published": "2026-11-24T17:44:24Z"
+    },
+    {
+      "title": "Microsoft Sets One-Hour Recovery Target After M365 Outage",
+      "source": "Demokratis.co.id",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jX05WemFGSDk2dHNMMXBvRmRlaDJiV1VZeXE5RnJYS0dYVkNSUll0YUFSdU1ZNk9hVDV3R090R2NoUHUzZEZJS2dha01qUVUxZ2dKU2JKTnJmZThpSlg5bUwtUXFsaWt1T1J2SlBnWQ?oc=5",
+      "published": "2026-11-24T17:40:00Z"
+    },
+    {
+      "title": "Microsoft Orders Code Red to Overhaul Outage Response",
+      "source": "cwibc.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JV1hSeHdfV1UtWVVZSk1oRkRZQlVnck5TbzJUT2lhTm1NbC1SaWE4ZVM2Y3paTFJwM3pmWk83UWZObmk0MU5XV0xXQWQwRHJSNm1KWUZvOE41X3lYUFNtYzNzN3JyMzNR?oc=5",
+      "published": "2026-11-24T17:38:00Z"
+    },
+    {
+      "title": "Microsoft Declares Code Red After 24-Hour Outage",
+      "source": "Wisevoter",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObjIxeFM3WnVneHJqcWFFanppdW96Q1dxQWtwMEhJT2pvWjRpS1ExVWEwVzJ4ZG9zbGpYLTRKMmlLNVNDNlJ5NEdRYlhPTjFVbVRmTklCX3ozMnJDOEJhcUZHaGI5XzMxbC1PSEl4RHhGcHo5WUtMUjE1R2JFdUY1cnl6RHk?oc=5",
+      "published": "2026-11-24T17:37:47Z"
+    },
+    {
       "title": "Microsoft declares a 'Code Red' after its 24-hour Microsoft 365 outage, internal memos show",
       "source": "MLQ.ai",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVS1SRGVnTTIwYXhONFBLUnVHcmh5amtraExlaFNETFFpaFZsb2E3VkF5VmRUdm1kOVZ4di1qbDhxTHBfclpIaS0xVDdieUgteGVILU82NlhIXzVZeWhRRC1QaDJaSk5XR1V3OUFjVXowRHJMS1VhdWhGQmhESlRGbGI1RlE1cFlkMmxSZG5KZ2ZONHVaQ3BQQjl0SkVnczg1OEYyZzFCMjl1OXpFTVE?oc=5",
-      "published": "2026-11-24T17:16:57Z"
+      "published": "2026-11-24T17:16:53Z"
     },
     {
       "title": "Microsoft Reveals Testing Gaps Behind 365 Outage",
@@ -62,40 +92,10 @@
       "source": "The Next Web",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZDZmTG8zeEFWb0xqVlEySWY3cms2MF9LTUt2Ymw4RmZiY0lJVnZnaVFmb3hSSm1mQmV0ZkFsMnpYbVJ4a0JCdnpiREl1UTd6dFNRR1lHbllBcWU5dVpBVHZ3NEt5Wi1Qd1VoaVhVVzFVMGsyejJzVGdaSThqaFk0U0FqQy1fWndhTDNr?oc=5",
       "published": "2026-11-24T16:51:36Z"
-    },
-    {
-      "title": "Microsoft declared Code Red to overhaul response after 24-hour outage",
-      "source": "Holder.io",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DNWE1WG8ycGlCbDRiSWtwSk1BLWUzdG9IaDFJbmhuUkFsaHlQbExHVUlJcXRQNlRaRE5qVXNpaDBoeUdWdGhNU05wdXVRalZlTzBIXy04STZ6SW9qNkE?oc=5",
-      "published": "2026-11-24T16:50:14Z"
-    },
-    {
-      "title": "Microsoft blames Windows defect for 24-hour Teams and Exchange outage",
-      "source": "NewsBytes",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcjI3T2JKR0NiWExZMGtCUXZnclMxdGVZM0MzYTZBcmU2UUlyYzU3VGtvNk01aW9mMU5OS1RLb0YwWFZOOGlBN25vaUJxdXFKRzN6MkR0al9iTXdvSWtWUUpxbjZLRjBLZ3N2Q1RGTk1nWlpWekZ5ZkppajZCMG9lX2NDb1hISUlyMC0zelpGODNZLXNpWXh5Vk1sZ1VRaVVDMjVXOFl4MElCRmtTajEyQ1pNc2RTUlU?oc=5",
-      "published": "2026-11-24T16:39:35Z"
-    },
-    {
-      "title": "Microsoft Outage Warning: Brad Smith Says More Disruptions Likely After Perfect Storm Failure",
-      "source": "theopenpress.in",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaDBvNTNfZUZCUF9hUU9wQU04aDBnbFZGdlIzMWZ2SzF1aG9TTUpXM1FLSm5IMWg3Y24yV2w5RFdJSWQ2ek91cUk4b3h4cFotVlBFUEQtQTJpYTBvOHFpUDAyZFcxX1Z2RXBDY0x2QzhRWmdON3BqMGxWQ3U3VXNneW1GNUc2SDFSV0tMbkQtdjhZdTZqQzFmdUxpaU1DX3c?oc=5",
-      "published": "2026-11-24T16:36:55Z"
-    },
-    {
-      "title": "Microsoft Stock Falls 7% in a Month as 24-Hour Outage Triggers \"Code Red\"",
-      "source": "Coinpaper",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMmswXzV3QXUxa3JXUFpWUEtGWHZyZzdjdUpsN0pmZzgxM2pqaFMzeXVidDV1ZEY1ZmNJbDIxMHJ5WkVaUF9ValMwdTZzSVQ2Qjdid0RvX3NISXNlLTNiYmx5dTlWdVNvcUVEX2RNNElFeDU5WjlaRTF3a3UzaHBTeXIzZFUxdDFTeDJ1Q1ozdGlJX2FXVmNKSXhaMHV6QVk?oc=5",
-      "published": "2026-11-24T16:29:14Z"
-    },
-    {
-      "title": "Microsoft engineers faced 'fog of war' during 24-hour outage: report (MSFT:NASDAQ)",
-      "source": "Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZXdjMEJSdlpsWVNMV3hya0k1NDRJYXJhZGJoYnZ2VElkUDNxeUh4dF96YVZUak8xaGxfaEVPVm1oOWh6VVFoRzNBLU9ESkxkeDJwQlI1YzhXS3p1dWE3eml2UzdyMTFvbmM4bERmcC1kLWIydm1yS0hRVUZHeTFXNEdETmRuMkwzNjZiRjJBMzBkVm1NSFVLN18xdnNmS203SHRobFRB?oc=5",
-      "published": "2026-11-24T16:24:30Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-24T17:18:01Z",
+    "fetched_at": "2026-11-24T18:08:03Z",
     "items": [],
     "debug": {
       "bytes": 498,
