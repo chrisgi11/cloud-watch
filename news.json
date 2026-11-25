@@ -1,8 +1,14 @@
 {
-  "fetched_at": "2026-11-25T02:26:24Z",
+  "fetched_at": "2026-11-25T03:18:02Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Microsoft sets up \u201ccode red\u201d after it\u2019s 24-hour outage. But what does it mean?",
+      "source": "91.1 Hot Fm",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWWJfRDU5b3lpMTRDMXN4aVE4d1VrR1dNMElaZmNCRXVWVmE2NXlyNDNneW9wQ2s1MXUxVGRpSjhsQkcyT3llY183X0k0d3lDbzgxR09lT2xfNWR0ZU13OTRUX2xOWlJLMV9vVnJLYTItTElwLVI0YklMc1R5QmlTclNZLU5NU1V1TFJfb2tHeGdVeDMycVdFMXBhazl2ZGVUVlcwdm9wSXFKRkl3R19DWl9ER1JWeGhjRF93bms2cw?oc=5",
+      "published": "2026-11-25T03:15:22Z"
+    },
     {
       "title": "Microsoft declares 'Code Red' after nearly 24-hour outage to prevent future service failures. What it means?",
       "source": "WION",
@@ -64,6 +70,12 @@
       "published": "2026-11-24T23:19:35Z"
     },
     {
+      "title": "Microsoft issues \u2018Code Red\u2019 alert following outage: Report",
+      "source": "NewsNation",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbGROZS02WFlwa2I3eXM3Q1F4cV8teW1wYnQtQjhOcEI3T2N3VC0wUHdjR1JzeHhHRXp1QThROUhQdVctR0E0SFJwd0VydXNkMzBvWFFTb1UzaEJZQkJDWm5zODV2ZmJGTW0xTXNzRWpCVHV5Ylg2YzdtNkVtdjczUXln0gGHAUFVX3lxTE9HRnNVZENGYlJpSlJnUTY0TldJdnloOGlRRlI3UU4yTnY5cFB0bzFxLXhCaWQzclJSVmV5TDVfTlFiMDdJWUFYQ25jcVJXX29Vd1J0cTd0VkxHblNiblpHdHdrSEdWNFBjRlJMNkV4eGtmeVBWSXNyOFJCVlh5eFdxUUtxanczMA?oc=5",
+      "published": "2026-11-24T23:01:10Z"
+    },
+    {
       "title": "Microsoft\u2019s historic cloud outage exposed an engineering \u201cfog of war\u201d",
       "source": "Ars Technica",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd3N2cjRYc2MyZTh4cGdIbjB4a2dac0h2VG5TN21RdllmQjdhNHg2UWNsRVNpaGUyUmFibjkwT1JEOWx2WE5QTmtXYUk2SXR3Y2VsQ3NBRFYzOUlIOXp3cHZYV0pabktqQlBnaUttQlFZcVlMMU90SGphZjJuREVsSnBLZEJBd0tuY0VFY0lKRU1feUVpMm5pa2FrcnRrMTZrYjlpbjA1aldzRDg?oc=5",
@@ -80,22 +92,10 @@
       "source": "Clayton Utz",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVXNnNEFfbFI4cURNZEJMV2tFa1pEMFM1SGpjRkloczBnNzV5SGQ1TmdOcU1aU3BjWG8zQmpoQ3dBUWstWDd2cllORWl4OUE2MEVrcGRjR1NnM3R6SlJlYnpjMmE4TUR5MmttUXI3V2FqNlNwVF9WelRZbjRYSDBzY1pkRXBBbVlaY0ozNUtEanBRRlJROERwbTBZVTdGMHNkRWFVNk9DOA?oc=5",
       "published": "2026-11-24T21:57:04Z"
-    },
-    {
-      "title": "Microsoft Declares Code Red After Historic Service Outage",
-      "source": "bsinews.id",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tLV8wVzlwaFNCRE1ZbnlMcXVzTnd5T2JwWG9wSE9FWl95OHJCY2lBQkRtOUZMdkd0QmVDVWdBTWoxZUlUMjA0bmpaR0dJdXZJV1ZwOFU2U3dRTHdDXzdhUENwQVIzUQ?oc=5",
-      "published": "2026-11-24T21:56:00Z"
-    },
-    {
-      "title": "Microsoft Code Red: Tech Giant Declares Emergency Overhaul After Historic Global Outage Exposed 'Fog Of War' In Crisis Response",
-      "source": "The Sunday Guardian",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNaEJ2QzJzQk1EaTVUYVlaeGF4d2ZyTkNtS2FVRmpnc2VzS3ItUjFESl83eFZhbmx6Mm1GVEJjS2ZsQ1NuOTZrTDdBWHhqd1NhUzZDUFprcWtCSHUtVF9hMndDRmFmWUFTUWhBWjVTV1U1R280NUliN3l4b1REbU54bEFtU0plN1MyNk0yWW1VVnh2c1ljZkxzbHY0QjAzd2RjY2ZUS2ltLTU1dFhDSGR4WmtvS2tTZXBsakNLVWZiTWdEWVRXRnlXb2R1clpLTzVuLVpaeUxuMlA4OTNMS0J6UEkwSFJFZ1JnOVUyTXVlYnpjR3pOVlQ3Ml9qdWJva2s4S1VV?oc=5",
-      "published": "2026-11-24T21:52:16Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-25T02:26:24Z",
+    "fetched_at": "2026-11-25T03:18:02Z",
     "items": [],
     "debug": {
       "bytes": 498,
