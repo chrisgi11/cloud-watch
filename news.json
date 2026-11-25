@@ -1,8 +1,14 @@
 {
-  "fetched_at": "2026-11-25T22:17:44Z",
+  "fetched_at": "2026-11-25T23:17:49Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Digital Outages and Business Continuity",
+      "source": "BlackBerry",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMENrWWVldmNMN0wtYjJYMEg0MU1wbTdweDl0UHNCejVBaC1FeXgwdnlseVNQVXBKdHNiQ01pdUtBVEY3WmMtcTUxeGdxdF96Z1lpdXJzZEFRSEtJeE9jX09GdXh3ZmpPOHJDaTRuYUFkS3hEUGZvX1Z1Zy1yWXVJRXhCWWNkaDBJSlVSMzhjU2NsQ1JhZ3RoY1BlYjhLNE51Z3lV?oc=5",
+      "published": "2026-11-25T22:41:15Z"
+    },
     {
       "title": "Allstate outage leaves customers unable to access accounts ahead of Thanksgiving",
       "source": "The American Bazaar",
@@ -58,6 +64,12 @@
       "published": "2026-11-25T17:04:48Z"
     },
     {
+      "title": "What\u2019s plan B when Microsoft 365 goes down? IT leaders weigh in",
+      "source": "TechTarget",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ2FxSmtPUVpTVDRCVkdTNVJyeWlVZVVkTXlmeGoxbXZ2VUtIaURRcFFCdkJSNVBzY0tuTHZNYjBtbnAzTFBUNzlfLWpySVFnLUZuYXBSQjhNOFNWOFlad1J1Ymlza196LU5POEg4bkRWRjRqdUtvdGNjN0NUODl5UVRGRzRxcXFwNzhmQVdRRVhScnpNVXFTa1FoMnEyZmpsYmw4?oc=5",
+      "published": "2026-11-25T16:53:04Z"
+    },
+    {
       "title": "Microsoft declares \u2018code red\u2019 review after 365 software outage",
       "source": "Washington Times",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbDJKeWlaZEpDMmFYbmZ3Vm9sWE5jdmtVcXI1ckxOUnJYVWpWd2h3V2h6N3ZlNnQxVXRFWkt3cXpCVlpUakNVc0RPTXBfMnpVSmVoMWczcHdtazdmcmh6RVQtOHVtV2VQenVNYmlnTDJfaW5KX2prMDZwdEtna242TnBPZDM4SXdTNTR3emtSTnpFRXYzc1l0SjVzcHNaNzZXY0ItYW1UWQ?oc=5",
@@ -80,22 +92,10 @@
       "source": "TweakTown",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbk13bHhYZGlPTVcxdWN0NlV6Y1M5SUh6QU1VYTVYN2tMNl9sMWRaQjNpbm5nZDllVEo5OUFEZEFkQUEwNmRWMnlINXNiX2NGX05sTHpkVUttSG9pdUJIRTlpNnpXcllEVFRsX012cVJqNjBLMXlpalVlWU9pcHY4LTNjZ3dEQnpYMEp0MlFlNUZlUVdxczMyMS1TckVxQ3FuOEd6cXEwdjU5elRVbXhDZjhPYVNNMzNQbWNvMzhB?oc=5",
       "published": "2026-11-25T15:06:02Z"
-    },
-    {
-      "title": "Microsoft Code Red After Outlook and M365 Blackout",
-      "source": "Meteora Web",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMmJfRzdfTHB1cURtbDdoVjNObDhXa3BROUdScWZ5RDJ1WE8zV3c5YzJFVG9IcF9HdFhmZlI3SjJWc29FMmNnRWg3NGwzZ1lMLTVLWk16S3BhOHFMd3FzNkhsTU5oSEEwbi00TmdvNnQ5ejl5clBkWHBVdFRGbXFqN0dzd28tRkZDRHg5VnpHcWdpVXlrMFA3SHdwNG5YWHAySUZV?oc=5",
-      "published": "2026-11-25T15:04:23Z"
-    },
-    {
-      "title": "Code Red explained Inside Microsoft\u2019s plan to prevent another outage",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTEROWXpZSklaOVVDdUdNVEFxYjV5c1VqbTBPcXgxSG9WSnpjNlFBZm9qYTBhZ1JFWXRGLUJkZE9RNDhIMl9MazhVYWlLSDZRSFZ1cUxFUjRFUklNUGdHc0RmanJ0SGdLbEYtaU9iRmhUdHowenlkMzdfWjdlSHJncWxzNkpUSWktZFgzeFlFa25DZkFfUkNtckJNX3JtdXRtaWNKSTlfU0NyYXpCV2JVSmxxam5mX2xCWG5DMHRWMzRTcW9mQWN1Q0I3X2c5cVk5cDNR?oc=5",
-      "published": "2026-11-25T15:01:00Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-25T22:17:44Z",
+    "fetched_at": "2026-11-25T23:17:49Z",
     "items": [],
     "debug": {
       "bytes": 498,
