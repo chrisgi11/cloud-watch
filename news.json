@@ -1,8 +1,38 @@
 {
-  "fetched_at": "2026-11-25T08:18:01Z",
+  "fetched_at": "2026-11-25T09:18:13Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Outlook outage: what happened to delayed email",
+      "source": "NeoTeo",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONm90UW40bkZzUnBlSEZsWENHMHBKaW5FdXpUWklmclNFakZfdXVaVW13LS14ay1WM2xESXhSeWx1WnZHMXVQc3Y5SnJreXNZQWwwNlBWcUdZdFVfejhVWDlya2VoUTYySVpvRTF0YU9UeWFlMU5QVXdYbTY4QkttRmhB?oc=5",
+      "published": "2026-11-25T09:06:04Z"
+    },
+    {
+      "title": "Microsoft Declares \u2018Code Red\u2019 After Lengthy Outage",
+      "source": "Silicon UK",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdDdwSDcyWDlBaE1wcFFkTm1yQlZYMlFmdUdDaEIzZWVaM2RIX05vNTFla1dqYlV1NmFNcUEwMDZsazVvTVNETEE0cFlsWkxGNmlWRjFWN0lKamJQZXdpMDBsTWQxaDRMQ2FFSXV1d2VscjdrXzZ5WWFFZy1JZVVaVEszLW8zU0V5?oc=5",
+      "published": "2026-11-25T09:05:23Z"
+    },
+    {
+      "title": "Microsoft declares code red following historic outage",
+      "source": "Techzine Global",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbXRNVzJHZW9NbDdVLVhGR1otSHp6RlFUYjUxci0zN1FsRy15Z2dLZGxVS1p4LWJhUVllUGh4S0p0Z1VKMHpzSXhnUG5PNzR3Zkw0NFdfOXp0cmM3bDF3OVZYS2hzUGdYQW5PZVphSG1MZ0psdXM2RUNmWlJQWXBvTDNDaVZlVnp3VHg4SGhyQ2EyWE1xdUhMT0UyS201d281?oc=5",
+      "published": "2026-11-25T08:36:14Z"
+    },
+    {
+      "title": "Microsoft is reportedly in 'Code Red' mode following massive outage and targeting faster recovery time for future incidents",
+      "source": "Windows Report",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOUZfcERadlA1VE41SE5pOEM2ZEtuZUViNnA1SHZtbEJlUGtBWXhWNEhsc2QtM21rNzFSVHZvdEE5aTRaUG02M0JnRmdCSzlGU1Y5MUVudzE4RnRjOXNIenhJT0lnQVZCc3hLWTQ1bWpCcXEyenh5dEx0VTZjZkgydWQtYm9fR3BHUGxuTUw3U3pPZXNoVEVjOGdLc0g5Z0cwM2FQa0hPckhnajBmMk82bVVXU2UzeG9hRVpwVTdVeFdxQ2Y1ejJVamVoR1J3TFRyLWdSM3VVUElnWGw2SU9Ba1hn?oc=5",
+      "published": "2026-11-25T08:33:45Z"
+    },
+    {
+      "title": "Microsoft declares \u2018Code Red\u2019 after 24-hour outage disrupts services",
+      "source": "Free Press Kashmir",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOEVlQ3Zwd19RWjJoSWkxTmo4Z0k3QlVnQzcwSXNBMjk1cmNIOVB6blM5TE5HTmlpVVJHM1lvR3BVeGx1VmhRSklkUVpWVUFmVHg1cWlVNjZDWGRVRjhpZlVaQ0ZBTHZ2M3lzSjROLU9MNXVhTDE0LVpKeXBjXy1xQ2VzdHZHY2duaVJSOWxoaTNIMHRuWWV4ZzRkU2w0bW5ybTJqTWM4VjZEazhW0gGyAUFVX3lxTE15djBQeVRrR1FHNW5TNXVGSVZGYmN0MUJWc1pGcEttdlY4LXZYN0x0bHdJSEVONE5sWDVhckstOWdrcTdZNGN5VWllUmFUdlhGa0ppUG9KazF0VlNWSkdaV0NUVkI3eWNIaTJPd3BtVFpYUU95dHJKbFdzejR1ZEE5Um9PeDlfWVRGVGxIbDUyMW9yS2FnbzQzd29Qcmx4RDlaZFNKb0tLTHRtcVRGSXBPYlE?oc=5",
+      "published": "2026-11-25T08:25:16Z"
+    },
     {
       "title": "Microsoft Declares \u2018Code Red\u2019 After Historic Outage, Internal Memos Show",
       "source": "Arise News",
@@ -10,10 +40,28 @@
       "published": "2026-11-25T08:09:51Z"
     },
     {
+      "title": "Key facts: Buybacks slow; Wedbush Outperform; AWS cooling caused outage",
+      "source": "TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOGF2MWc0Ti1XVGR3X1hEaG1JelUzd1hhMkdZM3dIV0kzcUhhcnFGS3A5aTBfODlEbFBud3hIUU9FcjF5TlhJWVdCWUVvTHg3MDFsT1U3cjA4S3ZHS1RxdWd1cVhqVHJiQldUU0Q1Q0puTHRQaW53anV0dkVWZVE3WC14MTVSMFNoRW41eS1sdFQ2S25rRXJRNWdrVjdDUDVxZ3E4bFdud2kwcHc4VjZjSHNzT3RTSVhSOFBhcmdGdmFUZ1haN3hCMTNR?oc=5",
+      "published": "2026-11-25T08:00:00Z"
+    },
+    {
       "title": "Microsoft Declares Code Red After Global Outage",
       "source": "varindia",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVkhlaUh0bE5pZlFTSGlYTFFGR3JWcUxfMGlNUEtPaWZRcFV0WmRKaFl2SmROUU9ISGRqS2t2UUZvaFVHekF3OXAtWTRsRDA1NGZ3aHhoRTFxdzF0ZVBXa1k5SVZKX29ZT1FjS01TUnRQYktzSXdIdnJ6aDJLR2NDbUI5dw?oc=5",
       "published": "2026-11-25T07:59:28Z"
+    },
+    {
+      "title": "Microsoft declares \u2018Code Red\u2019 after global Outlook outage, sets one-hour recovery target",
+      "source": "The Pioneer",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVlJWbi1fMlFkTUtrUXdiTGRGQnE4Q1E0Z0YwWG9FRm1QdlhLSmVjMDVwS1lXM0FvbEVocnZIdjdIT3dvZmhvcUQ0LTBnbjlYZWcxaHBuWnRkdVJ1T0U1WXhfZjdBTW80VWgwRnBtZzFWay1fc0dVeEVrYUZFc3pyR1p5R2dHZjJwRlQycllIX0F5VGNsSEctalFPVkhmbXBsUVk3MG0ySGw4UmYxdndwb2V1SmNCeHgtWUd30gHIAUFVX3lxTE5BaXREaW9sRmZDYk9qVGsyTEZoTE42VFpzWG9ITGM4N1ctT0xzYmc0MDVRUWpKdHBjbmlBOGRjSS1rVWUyeVI5cUI5VFhGOFdGZTRVOEwxSTJaSUd0d1pBQ3F1LV92SGJOdnp4aUtPWFFCU3ZKUFd4R2ktb3ZWcWVETDdweVNWWkJHSWJOQlh0cW1tR2x3U09hX0toU3p0YWg5MnRIbEVuaks3cTJkY0F0S0lIVktzM3k3TTI2Z1NNdlFnSWNVRkF0?oc=5",
+      "published": "2026-11-25T07:56:57Z"
+    },
+    {
+      "title": "Reuters: Microsoft Declares Code Red After Major Global Outage Disrupts Outlook, Teams and Copilot",
+      "source": "Speaks Media",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ1drUllUWEREYUZ6em1LWGtPMENKTHFxZ2Uxa2s0YmRmb0N0Q0tSeF9mN1VRb3lxR3VsWUZiUjkxRGJYR2wwQktBdDJxTHZ3elU5WWI5cEl3M1lkZ0pLQm9ZUEpZQ0ZlZHpBd3N1QUsyQlhKRWNaU2ZWMEgzRkM2ZUJJSjRicFVTRjZqVUlOUVUtbC1mM0tJVnVtLUFZZUNaZHMyeW5rTjB2NDRiVHQxSXE4cEx4ajRrY29rMjJLWk56T2RtZTdXNg?oc=5",
+      "published": "2026-11-25T07:45:09Z"
     },
     {
       "title": "Microsoft Launches \u2018Code Red\u2019 After 24-Hour Outage Hits Outlook, Teams",
@@ -44,58 +92,10 @@
       "source": "Dawan Africa",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQUx3VmhySDBYMlJ1NjZmZmxWVnZLbHNKclZ2NERjRUZMVzlNNHVmNjlJQ3Y3cFl3VG5sR01XRU5JUkZNUEZ3bEtXX0R3Ql91RUoyeXZSV0xBSWNudTRlelNhSHNXT25xV3Z4LU9EVExnNEMxanpSWWMxN2tjNHF0bWJIQi1NbGJQNHRzVnZ3alVjSGs1dW0zSw?oc=5",
       "published": "2026-11-25T06:19:00Z"
-    },
-    {
-      "title": "Microsoft Declares \u2018Code Red\u2019 After Historic Global Outage Exposes Critical Engineering Flaws",
-      "source": "GBHackers News",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaXd2TjlxcjlsVmV4SUVNRzh6Z0R1Q1JZcmlOMmphRGZCSHhrYVRWZTZIVS16SGR6VEJrbi13dzZYUzA4LVN2bzJaV2dQbkJBSURrNFFXZ2QzV044RjNLSXkwdGZHc0xBclUyTmN4anFxOEFfaUl1eENWNDJaVXBXSXNEWTJ3QdIBiwFBVV95cUxQbFJKNE9wZExERlRtWlotdzA0V1A4UXhMNGRmbDFOSXM0OS1UN3VINEMxRlA2bllVU1hyUV9oUzV1NXdORUhvbUZLY3MtSDNMWGdyQTgtZkktZExnbEMxZUtscmdGcG13YTJiY3Fvcng2RjZOSXZJQ2VWNzA4UGlPYkhEbldGT2hpYjY0?oc=5",
-      "published": "2026-11-25T06:02:50Z"
-    },
-    {
-      "title": "Microsoft Initiates Urgent Response Following Significant Outage",
-      "source": "India News Network",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWXlDNWQtZ0ROZkwwTjhneXM3VGpqaUc0QTNpN0JOVjd5R0kwa19BdWJrX3N0RUtyN0p5NWRSMVhKT21JZ19odHJoYXZ0aGpiSmI5dHdJZUs5MFkxX3pUaWtUbXlFVFAta0Faendmd2dtRkJjeEFHVzV5WlhOUDBnYW04UzJiN2xZTWZjRnpkR3ZRX2ZmUm5aTVlRWU04R3JHWWZIbDdTcm5DSV9zc3c?oc=5",
-      "published": "2026-11-25T05:45:30Z"
-    },
-    {
-      "title": "Microsoft Sets One-Hour Target After 24-Hour Cloud Outage",
-      "source": "Demokratis.co.id",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SMXRvRlRKRWd0MWxGS045VHUydlRldkNkangxdzNpNTVrRFQzemk2OGhtc2hsSDkzbjJPOWwtWXBrUTl3b0NUWUdBUEZ4anhwYUhqdXlZWmxOMFlWVkk4TnRtY3BER0x6endZ?oc=5",
-      "published": "2026-11-25T05:20:53Z"
-    },
-    {
-      "title": "Microsoft declares Code Red after 24-hour outage disrupts Exchange Online, Teams and Copilot",
-      "source": "Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaUJDc0V5S2duN1AxSUpZSFpHcTd6Y2tPNEZUUHNUdl9hbGI3NDk0aVd3VG1BdUhHODBTZlliaW5RZDhNWDRCQXBHSVZseldEcXBWUjFTS3hoT0J6empkYlRMTUdrendkVWtndzg3NWpKdTY3a2RfcllGdXVibHdmWUVCYVpWVnhOZHM2ZnFNYkh5Vmh3bHYxUmp0NmFXQ2pGZFdLSkZ6TWtZSVVDRHhfVTBSQks0NTR6dmw3SXEwbEJhRndqeGhxSjdkRHdaRm14ZWRhRV9HV09oRmZxSkpERl8zZjBQbTk10gHuAUFVX3lxTE5OdHFoa0xPTGF4TGpFVmlJd25rTS1DSW9JM2o4OFN2VXdNa3RBaVFVdHUwZ1BhOHg2b1RMbmRYUWdYeWFUOF9DM25ISXFwdVlWcXphUzc1bDFfeHZ0SXRnWUpTWTVqclNUYTdpR3FWa3RUMnZKM2FoX1Z1ZklhMUUySk5jTUI1SnlwOUV0VkpzQ3NpYnVCUS1ESXZ4cjQ3T1VaZDVueU1WSC1HYkY0VmZkckliUzduOWZQTE5hYl9LSGtqaEVYXzJ1c2V4S1ZDLUdsV19HdndZOWJROEl3eW5QbEJBd21CRDBzMTlSdWc?oc=5",
-      "published": "2026-11-25T05:11:57Z"
-    },
-    {
-      "title": "Microsoft issues \u2018Code Red\u2019 alert following outage: Report",
-      "source": "NewsNation",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbGROZS02WFlwa2I3eXM3Q1F4cV8teW1wYnQtQjhOcEI3T2N3VC0wUHdjR1JzeHhHRXp1QThROUhQdVctR0E0SFJwd0VydXNkMzBvWFFTb1UzaEJZQkJDWm5zODV2ZmJGTW0xTXNzRWpCVHV5Ylg2YzdtNkVtdjczUXln0gGHAUFVX3lxTE9HRnNVZENGYlJpSlJnUTY0TldJdnloOGlRRlI3UU4yTnY5cFB0bzFxLXhCaWQzclJSVmV5TDVfTlFiMDdJWUFYQ25jcVJXX29Vd1J0cTd0VkxHblNiblpHdHdrSEdWNFBjRlJMNkV4eGtmeVBWSXNyOFJCVlh5eFdxUUtxanczMA?oc=5",
-      "published": "2026-11-25T05:07:44Z"
-    },
-    {
-      "title": "Microsoft Declares Internal \u2018Code Red\u2019 After 24-Hour Microsoft 365 Outage, Reuters Reports",
-      "source": "CXO Digitalpulse",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObEVmc0NFWTNnVnpjclp5bVRVLU85eVRuc2taazllcWRKb21PbFU2QjhhYzlURThaMVhFZ1hFMng4cFMyOHlvNS1WTFBWdDVwa2FGbVdkU3dpbHNHc3lKMEFlZ3dVNWUtaWpFdVBNSHR4LURjelZYb25ZVy1SRTByQkxhbFhPZ1hnLWpWZ2N1OURfT0V5WFR2S19OVVhCenQxYXhEZ2hZakhmTXdwWXAzX0ZLOUI2Y2VNcjM4Yg?oc=5",
-      "published": "2026-11-25T04:21:46Z"
-    },
-    {
-      "title": "Microsoft Declares Code Red After Historic 24-Hour Outage Disrupts Outlook, Teams and Copilot",
-      "source": "CyberSecurityNews",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GLWNMdTJMSHliLW5vNEViM2hINk5STkpYenJHU0VITFpPSjRnb1ZIUVBxbjMzeUpGQjVJVnZidHNVRHhnVGxqM0ZLY3I2d0UtbU9zNTdOSkozTXVCc2o0OVBISGRsc2ljREHSAW9BVV95cUxNTmRHWVRYcVBFVE1RX2hsdmhVWWRsRjVKTUJ3azdweENuRzdackEzV0Q5T29KVEhKclB4eUVDSGdkdFRhSTBDVVFhRWZrREdwMlBueWJ5WFR1LVkzem1DeTlWZGY3X2oyMmk2NlIzaUU?oc=5",
-      "published": "2026-11-25T04:18:35Z"
-    },
-    {
-      "title": "Microsoft launches \u2018Code Red\u2019 after 24-hour outage exposes engineering and crisis response gaps",
-      "source": "Adgully",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR3oxb3czZ2VIYTBLUTZDYkpRS2JxZ0NfS3h5Z1hiWkVmalcwdGJfc1Nxb3ZoSG1ITmYtbzEwZEN4NlJhUjQzVFBLM0ExY1FUdGJvNE93ejNDUjhiZVExaHN1LUpHZGpqR3VLa21pMzBhUFRFdU5Bb3o5Z3NLWUEzVEwtMFVtZEJaN1cyRnZkN01DNnFWbmwzdUlkYzVhbF9zci02blVheWhDLTRNclZ0aWVpb3dHVTFmU1BLVEdsUGZuaFh0QVNN?oc=5",
-      "published": "2026-11-25T04:04:00Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-25T08:18:01Z",
+    "fetched_at": "2026-11-25T09:18:14Z",
     "items": [],
     "debug": {
       "bytes": 498,
