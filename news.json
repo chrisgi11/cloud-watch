@@ -1,8 +1,20 @@
 {
-  "fetched_at": "2026-11-25T15:18:15Z",
+  "fetched_at": "2026-11-25T16:17:52Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Microsoft declares \u2018code red\u2019 review after 365 software outage",
+      "source": "Washington Times",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbDJKeWlaZEpDMmFYbmZ3Vm9sWE5jdmtVcXI1ckxOUnJYVWpWd2h3V2h6N3ZlNnQxVXRFWkt3cXpCVlpUakNVc0RPTXBfMnpVSmVoMWczcHdtazdmcmh6RVQtOHVtV2VQenVNYmlnTDJfaW5KX2prMDZwdEtna242TnBPZDM4SXdTNTR3emtSTnpFRXYzc1l0SjVzcHNaNzZXY0ItYW1UWQ?oc=5",
+      "published": "2026-11-25T15:29:37Z"
+    },
+    {
+      "title": "Allstate suffers multi-day tech outage ahead of Thanksgiving",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM0hlX3drcmtZQ2hIdUMzVVVNRDNaVXlfZDVQWXh4UWJranlTNTk3SUxqd3kyTW02U2NndTZ4SnpVM19oZnE5UjdlQXM4Yy13WWZDY3l6VUVNNURsOFRuQmk2N2NPRjZncmJmeUdSQ3hWUHA1SjdwODV0alVYaUJ0NUV1dTd1MGt6dlhQMVBSalFwazdCQ0FLbVUtOA?oc=5",
+      "published": "2026-11-25T15:08:37Z"
+    },
     {
       "title": "Microsoft 365 outage cause: what failed and why",
       "source": "NeoTeo",
@@ -32,6 +44,12 @@
       "source": "The Globe and Mail",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN3ZJV01hcVVRTmpKMU1Va3pZUFFaMG1wdE9USXlRYnEzNjZ5SGViVjZGejdwVUVGWVIwOWpTdTdqVFp4X01zNDc2YURWanB2RHFQcGFLc0xmcHJ4YWVPYzBmQmZhWENSWjBFOWI4QUdoRjY0QmdhenpzYWU1S0p2amgwZHpEVDZGeWF5Q2VXWU5TTWNXQjg5WnNhY2J3b3ZwVVVvcDlOc05tM2tibUxNVjRsZTlSODRod3liTTFRcDViSkZWb0lpT0VEdmI?oc=5",
       "published": "2026-11-25T13:49:07Z"
+    },
+    {
+      "title": "Microsoft declares a code red in the middle of a 'Patchpocalypse'",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZkFDRTB4YVJvZmdsWlkydmdSakxwTTdjU3k3dTZxY0hXdDdLWVcxSDFYWWdrbnpiWjl5ZmNMcjF5UzVTaFNkRmk0RmJhTFcwMFNfeTVkb09OcXVfelRMN2VSbzN2TTc4eDAxR0l2NUJVUkJPWUFCZmFkSXE5RndxYXFCSHExOUYxZDdDdzg1MWFSd1Q1STRhZ2tmR2U4a2FLanRtWDhuZmJ5dUdjVFMtd2tKajFSN2lnLUw1MA?oc=5",
+      "published": "2026-11-25T13:42:21Z"
     },
     {
       "title": "Microsoft's \"Code Red\" outage: 10 enterprise risk lessons from a 24-hour cloud failure",
@@ -74,28 +92,10 @@
       "source": "9to5Mac",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZldteGMtQlpaWjdGQXNVX3hLaEV0LWE5VmtjQWlXYnAyNE1CeW1TaXpDSVdGQjlveUxDbmtGLXh4TjV6Z1ptQmVUNFlSR0FfS1VveVQ0X3JLM204akhyUEVPQnhENWN1Ung2WkpPMGNCeUw1X1JDSFJOTFBEaHgxbEdac2lQSHVhc2pMcG5KM3dZbjAyWHc1QnN3?oc=5",
       "published": "2026-11-25T12:23:00Z"
-    },
-    {
-      "title": "Microsoft\u2019s reported \u2018Code Red\u2019 follows a day-long outage\u2014and 11 very busy Teams chats",
-      "source": "Digg",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9ETENqTjFXZmdza09CalpfZDBDOS1fdFJLamwyUU03VTFqUk90cDBST0hrZm1vcFZFVWZVOU9ldVNCUWhq?oc=5",
-      "published": "2026-11-25T12:17:47Z"
-    },
-    {
-      "title": "Microsoft declares Code Red after Microsoft 365 outage, targets one-hour recovery for global outages",
-      "source": "ForkLog",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY3R6VEpSc1Q2Y0hJdVg1d1BMU0d1Vk9vS0JSdEVFdUNscVM5blUtbWVJMUJUV1FpU2RwVDZtMzF0dEowZmhxR0dKbFlPajUyVXdDdkU0V1VHR1E5Y2hnc2ZfUXJneGpIRURvMExKMmg2OHI0dl94WkJUdVJXb0czWjdtTGxGR2NkZVJfY2s5T3NnbUp6dEZ1Snp0Y085SUhOcnBuc2lYNDdWUEVPMVhhNk5iaHl5LThYTHczR1F1TGw?oc=5",
-      "published": "2026-11-25T11:26:19Z"
-    },
-    {
-      "title": "UAE\u2019s 55th Eid Al Etihad: Ajman announces holiday dates",
-      "source": "Gulf Business",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNXpGclcyX1RRdVRIUUJJTFp5Nlp6QkdXTDVjX3dyVGEyZ0xGanMtU2R5bUg2M0U5amFIdVVIU3JvNjcxQ0YwdFZnbk9ibXgzSFVpUlVaZUZyUEt3aWt1VnBfajg5WGtWVEdkNnJvYnphSmthR1h3akhETHI1dVV0eEVEV2hKOWVCNWQ5dEZOREkzRUNLWUE?oc=5",
-      "published": "2026-11-25T11:13:34Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-25T15:18:15Z",
+    "fetched_at": "2026-11-25T16:17:52Z",
     "items": [],
     "debug": {
       "bytes": 498,
