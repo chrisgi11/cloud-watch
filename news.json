@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-25T11:17:46Z",
+  "fetched_at": "2026-11-25T11:38:18Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
@@ -10,7 +10,7 @@
       "published": "2026-11-25T11:13:34Z"
     },
     {
-      "title": "Microsoft declares \u2018Code Red\u2019 after huge Outlook outage",
+      "title": "Microsoft declares \u201cCode Red\u201d after huge Outlook outage",
       "source": "The Verge",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBuZ3V4djdZdnFvWXFyZGVFNEYxTTBybmRvMVB2VlRQV3NjWGJaUm9jamtUSHpCYXhiN0VXMFdyOHdycmdWZGQ4ak1abUtBOWc1QUZzMU5IWVptcmY4U1NEM1NFcGdYUUlrLXFFdWN0OHRadWNORDc2cnZpQQ?oc=5",
       "published": "2026-11-25T11:12:42Z"
@@ -95,7 +95,7 @@
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-25T11:17:46Z",
+    "fetched_at": "2026-11-25T11:38:18Z",
     "items": [],
     "debug": {
       "bytes": 498,
