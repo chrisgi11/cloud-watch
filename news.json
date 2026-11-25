@@ -1,8 +1,14 @@
 {
-  "fetched_at": "2026-11-25T02:18:05Z",
+  "fetched_at": "2026-11-25T02:26:24Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Microsoft declares 'Code Red' after nearly 24-hour outage to prevent future service failures. What it means?",
+      "source": "WION",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNOGlGQ1prbU9QMmVONUQyeExxY2VEeE0tVUVmSHZoNDFNaENVdnJuR3RZUTllcmNUZ2NkdjdBSzdFaC1ETWt1dGllYWVjZU1HVWFOSGdacS0tQWt5Umd4RDVjUjZxOEpLUkhPUnd1dllDZngyakFEb0Q1NWF2OEt0b2ctTWhCMEhGMnhnZHBqd2VZcTFLajBaenVwVzhZQUFYRDdGTGtwOE1MY3l1a3pHZ2dhZ1RKLTI4dVJseDBTTThiQlozSFdvMUpzSUdTVGNvSlVUOHBUMVpORENQeEQ2RVVFZmlTdTdq0gHuAUFVX3lxTE9vZVRnQkJ2Qms3ZWNnTmhoa3RiZEFBNkU2ejk3OFM1UVNiZS1ra0NCYk5EZnZGNlcxRlg0UmFXSnNGd0VqVzlzS3B0XzJiZk5lYUx1b3NaeFFfbk5waXljbEVXYjdPV09OTkNMbGp0NjlXT2VEMThyYnZtdGRfWTJnUmg4aS1NajRUT3JNc3BBZUNpOExuVktTUGgxWE5QRWJLMVZ0WjJFLUo5cTFhQUphTl9oaGVXZ3czN0VYMHJ3ZlNOV21qWTdHY043WmpvV0pzRU5pT0lTOEtyX0RydlRZMWtIOTJ0YXl5QVd2b2c?oc=5",
+      "published": "2026-11-25T02:12:00Z"
+    },
     {
       "title": "11,000 messages, 24 hours of disruption: Why Microsoft has declared 'Code Red'",
       "source": "Firstpost",
@@ -86,16 +92,10 @@
       "source": "The Sunday Guardian",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNaEJ2QzJzQk1EaTVUYVlaeGF4d2ZyTkNtS2FVRmpnc2VzS3ItUjFESl83eFZhbmx6Mm1GVEJjS2ZsQ1NuOTZrTDdBWHhqd1NhUzZDUFprcWtCSHUtVF9hMndDRmFmWUFTUWhBWjVTV1U1R280NUliN3l4b1REbU54bEFtU0plN1MyNk0yWW1VVnh2c1ljZkxzbHY0QjAzd2RjY2ZUS2ltLTU1dFhDSGR4WmtvS2tTZXBsakNLVWZiTWdEWVRXRnlXb2R1clpLTzVuLVpaeUxuMlA4OTNMS0J6UEkwSFJFZ1JnOVUyTXVlYnpjR3pOVlQ3Ml9qdWJva2s4S1VV?oc=5",
       "published": "2026-11-24T21:52:16Z"
-    },
-    {
-      "title": "Microsoft declares code red, aims for global recovery within 1 hour after outages",
-      "source": "\ub514\uc9c0\ud138\ud22c\ub370\uc774",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNzV2ZXpLTm5zYkpnUWhaVXBnYWZRWFRfUkgzWFZVNndBcEtzMHhadURoNlFQY09iOEVnakluSndxU3JTYnR2SC10RFY2QmRVNUh4NWIxYlVuSjBJREctX25Ob1Zrd2E2eVhNZU9XVE1uc2JfZ0ZiV0gwdEV5V0VyekFtUk5ERlhTdy03WjBrdEpJVG5mMEs4TnZNUkVMaTVmZm5Hd0FhYURXWG1rSEJkUVJyaFBMVDY0RUlabjJEVllUYk5MaHc?oc=5",
-      "published": "2026-11-24T21:51:32Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-25T02:18:05Z",
+    "fetched_at": "2026-11-25T02:26:24Z",
     "items": [],
     "debug": {
       "bytes": 498,
