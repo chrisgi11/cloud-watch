@@ -1,8 +1,38 @@
 {
-  "fetched_at": "2026-11-25T12:17:51Z",
+  "fetched_at": "2026-11-25T13:18:05Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Outlook, FAA, bank outage, oh my!",
+      "source": "Grand Forks Herald",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83TFY5Y2xsZHdrSjJyS0xfMVY3RHpRU0pOdlYzQ3hHQ1B3SkJyeVZtdkhFWW9UeTRJWVBweHZCQlFNLTdobjZfbWF2aXAtSGNWSWFPMElNck4tRVVNdmJlTTNxS3Q1UDRHeHZ1dkZlcjM3LURjLXc?oc=5",
+      "published": "2026-11-25T13:14:39Z"
+    },
+    {
+      "title": "Microsoft Declares \u2018Code Red\u2019 After Major Global Outage",
+      "source": "Equitypandit",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbFpRZlhudy1zcFp5NlBwalN4VnRmaHpzVG5JS0V0YXA5RVJTTWxlQ0NiMmcwTG9UbVFRNDNuOFJNX0pjelFXR3czeXctd29jLWtPZ2kxYkU3NGx0cTVOb1h2T1AxWGtlSF9Xa2RVNUk2WGNvb0QzQ0dBRFFtNFV6MnJUX3I5NDlRWUNj?oc=5",
+      "published": "2026-11-25T12:54:51Z"
+    },
+    {
+      "title": "Microsoft Overhauls Its Outage Response Plan After Major Outlook Problems",
+      "source": "PCMag UK",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZUVIS1phVWhiUUx1SE1Cd2VVT2ZPVno5eHVJMmp1MkxJUzA1bGRJUzRaVkNqaEtEUlFTc0xXdmphWXpmUkFEeER5NGMwaW4yb3FpdXB3b3hwWFgyblJ6V2YzMHJDazVUdkFtT3U1S1p3NThGYWtXSUh5T1RvVnVRSTBJeTV1MU1VNDlDNW9na3pjWlM1UnM5UjlJWHFHVjJ2bTFvalQtamFRVlBsc1hLMVd1R3Axdw?oc=5",
+      "published": "2026-11-25T12:49:25Z"
+    },
+    {
+      "title": "Microsoft declares a Code Red in response to worst ever outage",
+      "source": "9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZldteGMtQlpaWjdGQXNVX3hLaEV0LWE5VmtjQWlXYnAyNE1CeW1TaXpDSVdGQjlveUxDbmtGLXh4TjV6Z1ptQmVUNFlSR0FfS1VveVQ0X3JLM204akhyUEVPQnhENWN1Ung2WkpPMGNCeUw1X1JDSFJOTFBEaHgxbEdac2lQSHVhc2pMcG5KM3dZbjAyWHc1QnN3?oc=5",
+      "published": "2026-11-25T12:23:00Z"
+    },
+    {
+      "title": "Microsoft\u2019s reported \u2018Code Red\u2019 follows a day-long outage\u2014and 11 very busy Teams chats",
+      "source": "Digg",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9ETENqTjFXZmdza09CalpfZDBDOS1fdFJLamwyUU03VTFqUk90cDBST0hrZm1vcFZFVWZVOU9ldVNCUWhq?oc=5",
+      "published": "2026-11-25T12:17:47Z"
+    },
     {
       "title": "Microsoft declares Code Red after Microsoft 365 outage, targets one-hour recovery for global outages",
       "source": "ForkLog",
@@ -62,40 +92,10 @@
       "source": "ET Enterprise AI",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQY3I0RDlzTXFvWUItQVRSWjRYU1AyX1oyWUwxbnFXcFhJNGFBdVFOSzlnenNlRGY2VGFEdDI0akdYb21Sd2phbGF6MWRUcExtVmdYSnhQd2dMcDE4UmN0U2kwd0t6V1N5UXZhczVMalZSTzdaVVpiV0Z3MEdxOXhWb0VrUWttRVpPTHFpTXZkb0NKeHpZTVNDNHd2OXJ3aFlDNEpLSzJMT0ZTdXkxWTF4TmRBS29xRkZOQS1iNzloYnRodVpfOElsbGlEYVkyamRGblNodGRCa0g2U0JnQWdUS3h3aEQwQVFwWHdsYVJidkpFdG_SAfMBQVVfeXFMUGNyNEQ5c01xb1lCLUFUUlo0WFNQMl9aMllMMW5xV3BYSTRhQXVRTks5Z3pzZURmNlRhRHQyNGpHWG9tUndqYWxhejFkVHBMbVZnWEp4UHdnTHAxOFJjdFNpMHdLeldTeVF2YXM1TGpWUk83WlVaYldGdzBHcTl4Vm9Fa1FrbUVaT0xxaU12ZG9DSnh6WU1TQzR3djlyd2hZQzRKS0syTE9GU3V5MVkxeE5kQUtvcUZGTkEtYjc5aGJ0aHVaXzhJbGxpRGFZMmpkRm5TaHRkQmtINlNCZ0FnVEt4d2hEMEFRcFh3bGFSYnZKRXRv?oc=5",
       "published": "2026-11-25T09:01:59Z"
-    },
-    {
-      "title": "Why Did Microsoft Declare 'Code Red'? 3 Hidden Technical Failures Behind the Global Outage That Disrupted Outlook, Teams and Copilot",
-      "source": "Jagran Josh",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPLWhnZDkwN0U5WFVRdHN2ZVNjYjJBVmxRRkJfTFV6SVN3U1RNSE15bmhaeXVYcnUyUFhmNnpWejFDNXlfZk1sSGRCSzA1YlJxbEFyOG5XTjJJQ1d6T1RNU2l2bTgta21Lc1hUY3pjM2IxbXUwZWRVS3FVa25McmVEUEotRjVfeXYtOTFsWEJhbkpBdnNBT2diSngwTW11cnFLdDdHYjQ5OGR4M0pEclFhMTZtV3k2RS1LMjBiUnZNY250NV9pUUtHdEZuM0dWQWNPSi1pTWZuYkFRTDFoUXZOSjFsYVY2dzFzcHplaXkxYVNYWjhRZ0Y0WnBJVm1RQ3FELU9LcVRRbmRKY1A4ZEFneDAxcXZVSDZNVFJr0gGbAkFVX3lxTE8taGdkOTA3RTlYVVF0c3ZlU2NiMkFWbFFGQl9MVXpJU3dTVE1ITXluaFp5dVhydTJQWGY2elZ6MUM1eV9mTWxIZEJLMDViUnFsQXI4bldOMklDV3pPVE1TaXZtOC1rbUtzWFRjemMzYjFtdTBlZFVLcVVrbkxyZURQSi1GNV95di05MWxYQmFuSkF2c0FPZ2JKeDBNbXVycUt0N0diNDk4ZHgzSkRyUWExNm1XeTZFLUsyMGJSdk1jbnQ1X2lRS0d0Rm4zR1ZBY09KLWlNZm5iQVFMMWhRdk5KMWxhVjZ3MXNwemVpeTFhU1haOFFnRjRacElWbVFDcUQtT0txVFFuZEpjUDhkQWd4MDFxdlVINk1UUms?oc=5",
-      "published": "2026-11-25T08:37:41Z"
-    },
-    {
-      "title": "Microsoft declares code red following historic outage",
-      "source": "Techzine Global",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbXRNVzJHZW9NbDdVLVhGR1otSHp6RlFUYjUxci0zN1FsRy15Z2dLZGxVS1p4LWJhUVllUGh4S0p0Z1VKMHpzSXhnUG5PNzR3Zkw0NFdfOXp0cmM3bDF3OVZYS2hzUGdYQW5PZVphSG1MZ0psdXM2RUNmWlJQWXBvTDNDaVZlVnp3VHg4SGhyQ2EyWE1xdUhMT0UyS201d281?oc=5",
-      "published": "2026-11-25T08:36:14Z"
-    },
-    {
-      "title": "Microsoft declares \u2018Code Red\u2019 after 24-hour outage disrupts services",
-      "source": "Free Press Kashmir",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeXYwUHlUa0dRRzVuUzV1RklWRmJjdDFCVnNaRnBLbXZWOC12WDdMdGx3SUhFTjRObFg1YXJLLTlna3E3WTRjeVVpZVJhVHZYRmtKaVBvSmsxdFZTVkpHWldDVFZCN3ljSGkyT3dwbVRaWFFPeXRySmxXc3o0dWRBOVJvT3g5X1lURlRsSGw1MjFvckthZ280M3dvUHJseEQ5WmRTSm9LS0x0bXFURklwT2JR0gGyAUFVX3lxTE15djBQeVRrR1FHNW5TNXVGSVZGYmN0MUJWc1pGcEttdlY4LXZYN0x0bHdJSEVONE5sWDVhckstOWdrcTdZNGN5VWllUmFUdlhGa0ppUG9KazF0VlNWSkdaV0NUVkI3eWNIaTJPd3BtVFpYUU95dHJKbFdzejR1ZEE5Um9PeDlfWVRGVGxIbDUyMW9yS2FnbzQzd29Qcmx4RDlaZFNKb0tLTHRtcVRGSXBPYlE?oc=5",
-      "published": "2026-11-25T08:31:07Z"
-    },
-    {
-      "title": "Microsoft Declares \u2018Code Red\u2019 After Historic Outage, Internal Memos Show",
-      "source": "Arise News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN1ZqNlZ5VndKR0duVEM5bFdqcjRLUi00eEJYRFlTRndQYWZ0VF83NzZNTzQxa1o2ckZnNmhxc3RUblBuVDg5SDJpbGppWklHaFRkSll6d0V2US1mTHBNSUZLUzl4MEkxNnFFSERJOEthZGZDMThhOVpDT1FMb3l1aVo1SUF5M28xNDN5SVRjWjNVVFByNHc?oc=5",
-      "published": "2026-11-25T08:09:51Z"
-    },
-    {
-      "title": "Key facts: Buybacks slow; Wedbush Outperform; AWS cooling caused outage",
-      "source": "TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOGF2MWc0Ti1XVGR3X1hEaG1JelUzd1hhMkdZM3dIV0kzcUhhcnFGS3A5aTBfODlEbFBud3hIUU9FcjF5TlhJWVdCWUVvTHg3MDFsT1U3cjA4S3ZHS1RxdWd1cVhqVHJiQldUU0Q1Q0puTHRQaW53anV0dkVWZVE3WC14MTVSMFNoRW41eS1sdFQ2S25rRXJRNWdrVjdDUDVxZ3E4bFdud2kwcHc4VjZjSHNzT3RTSVhSOFBhcmdGdmFUZ1haN3hCMTNR?oc=5",
-      "published": "2026-11-25T08:00:00Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-25T12:17:51Z",
+    "fetched_at": "2026-11-25T13:18:05Z",
     "items": [],
     "debug": {
       "bytes": 498,
