@@ -1,8 +1,20 @@
 {
-  "fetched_at": "2026-11-26T13:18:01Z",
+  "fetched_at": "2026-11-26T14:18:24Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Preliminary estimates unveiled for Microsoft 365 outage losses",
+      "source": "The Actuary",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcTE0aGhuaGhHNGlINUFvU0RuM2dzaHZjVXB6TkpYUzBZVHNsXzQ3LW4xRWdWYTdHODBMdW9CYW5rVkhScURpN1M3NjZGcFh0dHJwSGlQUkcyZ1BnY1NZUWc1YV82WjR0aU1Kc2w2VExlS21heDNUU2JERFg3bm13dUg4T3FVTTVtaFJCSVFROEs2d3BBNzdJaVBTRWo?oc=5",
+      "published": "2026-11-26T14:12:46Z"
+    },
+    {
+      "title": "Microsoft Code Red outage: what its plan targets",
+      "source": "NeoTeo",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdUd2aGR6OGVYNDZJX3RnWVVDTG94OEJDSnVPLVNwSnhyc3lzMG1sOHpBYU5SS2NNRUhqZkhDZm51akRBdlJ0dUo0YUNGYlpzRFAtN3JxODJZNmpFRTJjRk9ONlhIYUh1YUZWSF92ODVwaWlScEJOX1VGU0lMZ0wtZA?oc=5",
+      "published": "2026-11-26T13:19:05Z"
+    },
     {
       "title": "Microsoft Declares Code Red: 24-Hour Outage & NCR Impact",
       "source": "theoptimist.news",
@@ -80,22 +92,10 @@
       "source": "The American Bazaar",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQklsWWt4dkJ4RTZBTUhkX00yNk10OXJkaW1xNV9ZSi1hVmVGZFYwMmZGZXM1NEk0VjZtc0t3c3pUY1dPTGhSYmxmRXNDdzl1M05qcExsdjZZNk9kSm1LNFdDQldPaFc0Wm5lOHFKVUZMYzFZSnBvOHJfbUhWSWp4UkloMzc0TnV2a3l2VFY2THU0RXZmc2NLWUh4bkNYeFlUMm1oUjBUMU1YaEpieUtWeU5FdVYxOHhHN3VVbzVubTE2cmlGbmptbzhHU20?oc=5",
       "published": "2026-11-25T20:32:09Z"
-    },
-    {
-      "title": "Microsoft 365 outage report: email and recovery",
-      "source": "NeoTeo",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcHRfNlF6cGpDdDNWZ0g3YS1OcjFmZ2VzdkJyYS1PYnVZc2dSV0JId0gyeF9wYWo0b3BYdzVWODR0OWZmZlhoRnNWWi1qWGVNeGhYcEdrWUdkaWwxaWhscU9WMVVPaElyMHZoVnN5WWpOUGM0S18xOEdZdU1oam1kaXV3RUhRNWJWRmFoNXYzMk1rdUdRak1v?oc=5",
-      "published": "2026-11-25T19:31:30Z"
-    },
-    {
-      "title": "Microsoft restores service to Outlook and Teams after global outage",
-      "source": "DD News",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc0lLcmJLVUNBS3U3ZDQzTjE3UnR3LTNNS1RDRV8xYlZiR1ZZSWJWRXZVVl8xME9YZEdFMmhZeVFNU3BpY3JIRnpIMlpSZk52NWJRTncxR1lQemh4UlZnWmtudnItcUFTQzJwLUpmWERaejVfMUtHenZCMlRKX1p4R2NkZDBQVndKTXlqODFmdDYzSTJMM09RMw?oc=5",
-      "published": "2026-11-25T19:25:32Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-26T13:18:01Z",
+    "fetched_at": "2026-11-26T14:18:24Z",
     "items": [],
     "debug": {
       "bytes": 498,
