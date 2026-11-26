@@ -1,8 +1,14 @@
 {
-  "fetched_at": "2026-11-26T06:18:11Z",
+  "fetched_at": "2026-11-26T07:17:59Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Hackers exploit Microsoft 365 outage",
+      "source": "Daily Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5lTDYzSUEzWnpZQkwwU3ppWW5RT3Q3ZDVWTzU0YWxHemRCbHNxLS0zZjl5RjZISTcxMkVyZ3lZZHRLSFNMdHV4VXg4ZnhjeUJueWMxbDZsaDgzT1dGSHB5V1BzUHIzZXE5bk92SW5aNncxcVVQdWdQdmp3?oc=5",
+      "published": "2026-11-26T06:16:54Z"
+    },
     {
       "title": "11,000+ messages, across 11 Teams chats and a decade of \u2018acceptable failures\u2019: How the 24-hour outage tha",
       "source": "The Times of India",
@@ -40,12 +46,6 @@
       "published": "2026-11-26T00:34:55Z"
     },
     {
-      "title": "Hackers exploit Microsoft 365 outage",
-      "source": "Daily Tribune",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5lTDYzSUEzWnpZQkwwU3ppWW5RT3Q3ZDVWTzU0YWxHemRCbHNxLS0zZjl5RjZISTcxMkVyZ3lZZHRLSFNMdHV4VXg4ZnhjeUJueWMxbDZsaDgzT1dGSHB5V1BzUHIzZXE5bk92SW5aNncxcVVQdWdQdmp3?oc=5",
-      "published": "2026-11-26T00:02:35Z"
-    },
-    {
       "title": "Digital Outages and Business Continuity",
       "source": "BlackBerry",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMENrWWVldmNMN0wtYjJYMEg0MU1wbTdweDl0UHNCejVBaC1FeXgwdnlseVNQVXBKdHNiQ01pdUtBVEY3WmMtcTUxeGdxdF96Z1lpdXJzZEFRSEtJeE9jX09GdXh3ZmpPOHJDaTRuYUFkS3hEUGZvX1Z1Zy1yWXVJRXhCWWNkaDBJSlVSMzhjU2NsQ1JhZ3RoY1BlYjhLNE51Z3lV?oc=5",
@@ -62,6 +62,12 @@
       "source": "NeoTeo",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcHRfNlF6cGpDdDNWZ0g3YS1OcjFmZ2VzdkJyYS1PYnVZc2dSV0JId0gyeF9wYWo0b3BYdzVWODR0OWZmZlhoRnNWWi1qWGVNeGhYcEdrWUdkaWwxaWhscU9WMVVPaElyMHZoVnN5WWpOUGM0S18xOEdZdU1oam1kaXV3RUhRNWJWRmFoNXYzMk1rdUdRak1v?oc=5",
       "published": "2026-11-25T19:31:30Z"
+    },
+    {
+      "title": "Microsoft declares 'Code Red' after historic outage",
+      "source": "www.daily-sun.com",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sLW5GR3liVUhaSHo2OV9obmpJSHlHd0RTZnpHYXdVRnV5UWRHaTlaVUJKSGtEeWZLb29VV0F5TkN4cjJsRlVHSVJURQ?oc=5",
+      "published": "2026-11-25T19:26:51Z"
     },
     {
       "title": "Microsoft declares \u2018Code Red\u2019 following 24-hour outage: Here\u2019s what that means - National",
@@ -86,16 +92,10 @@
       "source": "The American Bazaar",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZkZKQlRIZmNNOEttQ2w1OU5OQU80cVRvUEZ6b1Q4cUZyZVR0WkM3VktIdjB6WmY1X2ZiREVSODhRWWExT0FMcE1wRTFXc3FCUDhGbDMyWnVubXlBU0JPRHhNc3lYcVNseDlnUXhwYlVQbWNGVW1OWVBSb1AzdllsVUtjbGxTWi1tbjNOREMwaHJKcjFpUTZ6ZHVLZWpPMXdSRENUbU5kZWF1TF9uMGc?oc=5",
       "published": "2026-11-25T17:14:25Z"
-    },
-    {
-      "title": "Microsoft declares \u2018Code Red\u2019 after major outage earlier this month",
-      "source": "Engineering and Technology Magazine",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS0cxUENGVDdGb25PZG9qMlVNSTZxbElEN2trelVsMzBycFc2emdqRFE0NV9pS19IcmdiWXRlMjMwUm1pT1YxWkZlS3hrdkFkS0czanhDMVpRZERzMHplT3VqZjVKcGhHQW1sTjROelIzYmdtNzg2ZnM5cE5GRW9YM0szckgyaE5aSkFmYkdoa1BIS2dRdFl0RjBFSjE?oc=5",
-      "published": "2026-11-25T17:04:48Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-26T06:18:11Z",
+    "fetched_at": "2026-11-26T07:17:59Z",
     "items": [],
     "debug": {
       "bytes": 498,
