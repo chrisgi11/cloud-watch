@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-26T14:18:24Z",
+  "fetched_at": "2026-11-26T15:18:05Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
@@ -14,6 +14,12 @@
       "source": "NeoTeo",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdUd2aGR6OGVYNDZJX3RnWVVDTG94OEJDSnVPLVNwSnhyc3lzMG1sOHpBYU5SS2NNRUhqZkhDZm51akRBdlJ0dUo0YUNGYlpzRFAtN3JxODJZNmpFRTJjRk9ONlhIYUh1YUZWSF92ODVwaWlScEJOX1VGU0lMZ0wtZA?oc=5",
       "published": "2026-11-26T13:19:05Z"
+    },
+    {
+      "title": "Hackers exploit Microsoft 365 outage",
+      "source": "Daily Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5lTDYzSUEzWnpZQkwwU3ppWW5RT3Q3ZDVWTzU0YWxHemRCbHNxLS0zZjl5RjZISTcxMkVyZ3lZZHRLSFNMdHV4VXg4ZnhjeUJueWMxbDZsaDgzT1dGSHB5V1BzUHIzZXE5bk92SW5aNncxcVVQdWdQdmp3?oc=5",
+      "published": "2026-11-26T11:41:30Z"
     },
     {
       "title": "Microsoft Declares Code Red: 24-Hour Outage & NCR Impact",
@@ -76,26 +82,20 @@
       "published": "2026-11-26T01:19:32Z"
     },
     {
+      "title": "Microsoft declares \"Code Red\" over cloud outage response",
+      "source": "TechGig",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZlpBMjVlcTBLaDdZSVdFSi1POWZUS05tcWF3MnN0bkdYMEZINTNuaWRXd3VxOUlLUm9Td2dBX0tyYjBYTjlQYU1YdFppUHJXQUJTYVdTUzhKVmpxZzlNdTBEeXBIa1U3TW1CYlhTSVR2VkQ3WEFjS2tzVnhLZUZLbF8yeGJwMjhRb0Z4SDFMeXgyallZbVM3dS1yRnFfR0hHaHFvNjdiT1NHUkhaM2Fv?oc=5",
+      "published": "2026-11-26T00:46:45Z"
+    },
+    {
       "title": "Satya Nadella Says \u201cthe Floor of Cyber Attacks Has Fallen.\u201d Microsoft Just Declared Code Red After a 24-Hour Outage",
       "source": "TIKR.com",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQlp1UFo5QlNzZUJCTGlNNk9tRWdCMFhlM1ZUR1RmQWRUV0xiYUxPRHJSZGg2T29QMlBRMDFZVFoyeWhyTzR3YTNSNUF5UUM2YWZLZ0xhMmVsREQxRHJKWTVoNmQzaW5kYWpzVDlhZU5wYkMtLUh1T0lmd3NlSEpZWUZQU0pSMk9OV1ZNYjhvdTQzSS1kQjI3ckZpczJfYjN2SHl2Zy1INHROZXROZm1wYlVScVVrcEktV2dET0xvejJ4T2VnNDd1QmJlMWtPcVNzNWJTeg?oc=5",
       "published": "2026-11-26T00:34:55Z"
-    },
-    {
-      "title": "Digital Outages and Business Continuity",
-      "source": "BlackBerry",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMENrWWVldmNMN0wtYjJYMEg0MU1wbTdweDl0UHNCejVBaC1FeXgwdnlseVNQVXBKdHNiQ01pdUtBVEY3WmMtcTUxeGdxdF96Z1lpdXJzZEFRSEtJeE9jX09GdXh3ZmpPOHJDaTRuYUFkS3hEUGZvX1Z1Zy1yWXVJRXhCWWNkaDBJSlVSMzhjU2NsQ1JhZ3RoY1BlYjhLNE51Z3lV?oc=5",
-      "published": "2026-11-25T22:43:18Z"
-    },
-    {
-      "title": "Allstate outage leaves customers unable to access accounts ahead of Thanksgiving",
-      "source": "The American Bazaar",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQklsWWt4dkJ4RTZBTUhkX00yNk10OXJkaW1xNV9ZSi1hVmVGZFYwMmZGZXM1NEk0VjZtc0t3c3pUY1dPTGhSYmxmRXNDdzl1M05qcExsdjZZNk9kSm1LNFdDQldPaFc0Wm5lOHFKVUZMYzFZSnBvOHJfbUhWSWp4UkloMzc0TnV2a3l2VFY2THU0RXZmc2NLWUh4bkNYeFlUMm1oUjBUMU1YaEpieUtWeU5FdVYxOHhHN3VVbzVubTE2cmlGbmptbzhHU20?oc=5",
-      "published": "2026-11-25T20:32:09Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-26T14:18:24Z",
+    "fetched_at": "2026-11-26T15:18:05Z",
     "items": [],
     "debug": {
       "bytes": 498,
