@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-26T09:18:22Z",
+  "fetched_at": "2026-11-26T10:17:52Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
@@ -8,6 +8,12 @@
       "source": "Benzinga",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOLWhYTExjWkRqOG5pSnNlNEZfbmZ3U0E4U01tQTRMZTAxcWdQRmkyVzJ6YXU2bTFiLUxHWTFuQjl4aWVCNE5yNkhxT081ZHJpeTdKUDNOaFhBdUhfV3QtMElhbFo5RjRRbjRrdVRIOG9WVFk3R2l2cGFILThFeDFhVjgtaXRyTXI4a2wtTmhxbExlaEVwUlU1MVBtZTZtYkxpbXF5T1BNREkydnBFUnE1R1VFWWhjNjFyb1JGVzI1WUR3U2J5NEl1SUREUi00bVlJUTNQZlh3VjhodExMUE5yN3M0dkRnYzdLaWJDTVF6WTNNSFFieFE?oc=5",
       "published": "2026-11-26T08:30:00Z"
+    },
+    {
+      "title": "Hackers exploit Microsoft 365 outage",
+      "source": "Daily Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5lTDYzSUEzWnpZQkwwU3ppWW5RT3Q3ZDVWTzU0YWxHemRCbHNxLS0zZjl5RjZISTcxMkVyZ3lZZHRLSFNMdHV4VXg4ZnhjeUJueWMxbDZsaDgzT1dGSHB5V1BzUHIzZXE5bk92SW5aNncxcVVQdWdQdmp3?oc=5",
+      "published": "2026-11-26T06:16:54Z"
     },
     {
       "title": "11,000+ messages, across 11 Teams chats and a decade of \u2018acceptable failures\u2019: How the 24-hour outage that Microsoft says had the biggest customer impact in Exchange Online history has triggered \u2018Code Red\u2019 inside the company",
@@ -34,6 +40,12 @@
       "published": "2026-11-26T01:19:32Z"
     },
     {
+      "title": "Microsoft declares \"Code Red\" over cloud outage response",
+      "source": "TechGig",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZlpBMjVlcTBLaDdZSVdFSi1POWZUS05tcWF3MnN0bkdYMEZINTNuaWRXd3VxOUlLUm9Td2dBX0tyYjBYTjlQYU1YdFppUHJXQUJTYVdTUzhKVmpxZzlNdTBEeXBIa1U3TW1CYlhTSVR2VkQ3WEFjS2tzVnhLZUZLbF8yeGJwMjhRb0Z4SDFMeXgyallZbVM3dS1yRnFfR0hHaHFvNjdiT1NHUkhaM2Fv?oc=5",
+      "published": "2026-11-26T00:46:45Z"
+    },
+    {
       "title": "Satya Nadella Says \u201cthe Floor of Cyber Attacks Has Fallen.\u201d Microsoft Just Declared Code Red After a 24-Hour Outage",
       "source": "TIKR.com",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQlp1UFo5QlNzZUJCTGlNNk9tRWdCMFhlM1ZUR1RmQWRUV0xiYUxPRHJSZGg2T29QMlBRMDFZVFoyeWhyTzR3YTNSNUF5UUM2YWZLZ0xhMmVsREQxRHJKWTVoNmQzaW5kYWpzVDlhZU5wYkMtLUh1T0lmd3NlSEpZWUZQU0pSMk9OV1ZNYjhvdTQzSS1kQjI3ckZpczJfYjN2SHl2Zy1INHROZXROZm1wYlVScVVrcEktV2dET0xvejJ4T2VnNDd1QmJlMWtPcVNzNWJTeg?oc=5",
@@ -58,10 +70,10 @@
       "published": "2026-11-25T19:31:30Z"
     },
     {
-      "title": "Microsoft restores service to Outlook and Teams after global outage",
-      "source": "DD News",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc0lLcmJLVUNBS3U3ZDQzTjE3UnR3LTNNS1RDRV8xYlZiR1ZZSWJWRXZVVl8xME9YZEdFMmhZeVFNU3BpY3JIRnpIMlpSZk52NWJRTncxR1lQemh4UlZnWmtudnItcUFTQzJwLUpmWERaejVfMUtHenZCMlRKX1p4R2NkZDBQVndKTXlqODFmdDYzSTJMM09RMw?oc=5",
-      "published": "2026-11-25T19:25:32Z"
+      "title": "Microsoft declares 'Code Red' after historic outage",
+      "source": "www.daily-sun.com",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sLW5GR3liVUhaSHo2OV9obmpJSHlHd0RTZnpHYXdVRnV5UWRHaTlaVUJKSGtEeWZLb29VV0F5TkN4cjJsRlVHSVJURQ?oc=5",
+      "published": "2026-11-25T19:26:51Z"
     },
     {
       "title": "Microsoft declares \u2018Code Red\u2019 following 24-hour outage: Here\u2019s what that means - National",
@@ -70,32 +82,20 @@
       "published": "2026-11-25T17:51:35Z"
     },
     {
+      "title": "Microsoft explains tech failures that triggered global outage",
+      "source": "The Daily Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWWhYdV9fMEVBYkRzT0ZGNy1FVlZtbmxSd1RBTTdXc3RLbXVkT2pnZzVSUlNtY19xeG5MbHk2OGNCS0l6ZHdEVVpRazRib3pFMHhORkkwbENiX3RIWGc4MTFtSGxBMWY5R1gzSVdRdFAxakJsbjBoeTljRU9adjZIa2NTZFhvTElhXzFQTER0WG1mT1ZIS1VmNnJXbGlLZmc3MUtuQw?oc=5",
+      "published": "2026-11-25T17:20:08Z"
+    },
+    {
       "title": "Microsoft Stock Drops Over 2.8% Amid AI Spending Concerns, Trump Tariffs, and Cloud Outage",
       "source": "KuCoin",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeFRPVG9rYUVPNmlLOUtjRjB1a3RCbWVJWWNNS0ZwZEpOUDdrOWtUdWlFWjJrRGw1UEhkenMxRFZlVU5ZQlRrZFQxbXpESmcwTVRQeEJGNkd6SG1GbEVWakk0Z256OG91YVlGTGQ1LWlNTzc5SmdtSGJGQ3JKczNYX2RYenowM1RJa3Bhc2JEd0Vud2VnQW1DZzZHeXNKTVBpemFQOHE3Snpnc21VUk9pSjlRdHE4RTlDcUpjdlRB?oc=5",
       "published": "2026-11-25T17:15:52Z"
-    },
-    {
-      "title": "Microsoft declares \u2018Code Red\u2019 after 24-hour outage disrupts Outlook, Teams and Copilot",
-      "source": "The American Bazaar",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZkZKQlRIZmNNOEttQ2w1OU5OQU80cVRvUEZ6b1Q4cUZyZVR0WkM3VktIdjB6WmY1X2ZiREVSODhRWWExT0FMcE1wRTFXc3FCUDhGbDMyWnVubXlBU0JPRHhNc3lYcVNseDlnUXhwYlVQbWNGVW1OWVBSb1AzdllsVUtjbGxTWi1tbjNOREMwaHJKcjFpUTZ6ZHVLZWpPMXdSRENUbU5kZWF1TF9uMGc?oc=5",
-      "published": "2026-11-25T17:14:25Z"
-    },
-    {
-      "title": "Microsoft declares \u2018Code Red\u2019 after major outage earlier this month",
-      "source": "Engineering and Technology Magazine",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS0cxUENGVDdGb25PZG9qMlVNSTZxbElEN2trelVsMzBycFc2emdqRFE0NV9pS19IcmdiWXRlMjMwUm1pT1YxWkZlS3hrdkFkS0czanhDMVpRZERzMHplT3VqZjVKcGhHQW1sTjROelIzYmdtNzg2ZnM5cE5GRW9YM0szckgyaE5aSkFmYkdoa1BIS2dRdFl0RjBFSjE?oc=5",
-      "published": "2026-11-25T17:04:48Z"
-    },
-    {
-      "title": "What\u2019s plan B when Microsoft 365 goes down? IT leaders weigh in",
-      "source": "TechTarget",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ2FxSmtPUVpTVDRCVkdTNVJyeWlVZVVkTXlmeGoxbXZ2VUtIaURRcFFCdkJSNVBzY0tuTHZNYjBtbnAzTFBUNzlfLWpySVFnLUZuYXBSQjhNOFNWOFlad1J1Ymlza196LU5POEg4bkRWRjRqdUtvdGNjN0NUODl5UVRGRzRxcXFwNzhmQVdRRVhScnpNVXFTa1FoMnEyZmpsYmw4?oc=5",
-      "published": "2026-11-25T16:53:04Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-26T09:18:22Z",
+    "fetched_at": "2026-11-26T10:17:52Z",
     "items": [],
     "debug": {
       "bytes": 498,
