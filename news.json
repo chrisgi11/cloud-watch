@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-26T00:18:24Z",
+  "fetched_at": "2026-11-26T01:17:47Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
@@ -32,12 +32,6 @@
       "source": "Global News",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxZDhHUmFZMTU1LTBXSzNnaW1JYW4tSDFqQUVVVzhZWk9ib0xWaU5LZGhlX0tSbHh2b2FVV2o0cmRwUFk2VkMzNWRINHdfbzE0ckRfaEhpS1FvSjRCdVdoM0pRdVUzZw?oc=5",
       "published": "2026-11-25T17:51:35Z"
-    },
-    {
-      "title": "Microsoft issues \u2018Code Red\u2019 alert following outage: Report",
-      "source": "AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWEdmRDBMU2gtajE1SW54NGNFVlFrbzFsWTlPTXE0RjNNV1RseVZ2bTVNcXF2ZE42V3JEc05oMzB6MDIzcWQ5VmVZbTl6ZC1oSVhsOWZxWnJnOFRlcWRVQUxiakZGZDNaQ0pWZUttNm84aHJNZW5yLW5IU193VmVqZA?oc=5",
-      "published": "2026-11-25T17:41:33Z"
     },
     {
       "title": "Microsoft Stock Drops Over 2.8% Amid AI Spending Concerns, Trump Tariffs, and Cloud Outage",
@@ -92,10 +86,16 @@
       "source": "Meteora Web",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMmJfRzdfTHB1cURtbDdoVjNObDhXa3BROUdScWZ5RDJ1WE8zV3c5YzJFVG9IcF9HdFhmZlI3SjJWc29FMmNnRWg3NGwzZ1lMLTVLWk16S3BhOHFMd3FzNkhsTU5oSEEwbi00TmdvNnQ5ejl5clBkWHBVdFRGbXFqN0dzd28tRkZDRHg5VnpHcWdpVXlrMFA3SHdwNG5YWHAySUZV?oc=5",
       "published": "2026-11-25T15:04:23Z"
+    },
+    {
+      "title": "Code Red explained Inside Microsoft\u2019s plan to prevent another outage",
+      "source": "Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTEROWXpZSklaOVVDdUdNVEFxYjV5c1VqbTBPcXgxSG9WSnpjNlFBZm9qYTBhZ1JFWXRGLUJkZE9RNDhIMl9MazhVYWlLSDZRSFZ1cUxFUjRFUklNUGdHc0RmanJ0SGdLbEYtaU9iRmhUdHowenlkMzdfWjdlSHJncWxzNkpUSWktZFgzeFlFa25DZkFfUkNtckJNX3JtdXRtaWNKSTlfU0NyYXpCV2JVSmxxam5mX2xCWG5DMHRWMzRTcW9mQWN1Q0I3X2c5cVk5cDNR?oc=5",
+      "published": "2026-11-25T15:01:00Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-26T00:18:25Z",
+    "fetched_at": "2026-11-26T01:17:47Z",
     "items": [],
     "debug": {
       "bytes": 498,
