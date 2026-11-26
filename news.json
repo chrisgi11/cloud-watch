@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-25T23:17:49Z",
+  "fetched_at": "2026-11-26T00:18:24Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
@@ -14,12 +14,6 @@
       "source": "The American Bazaar",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQklsWWt4dkJ4RTZBTUhkX00yNk10OXJkaW1xNV9ZSi1hVmVGZFYwMmZGZXM1NEk0VjZtc0t3c3pUY1dPTGhSYmxmRXNDdzl1M05qcExsdjZZNk9kSm1LNFdDQldPaFc0Wm5lOHFKVUZMYzFZSnBvOHJfbUhWSWp4UkloMzc0TnV2a3l2VFY2THU0RXZmc2NLWUh4bkNYeFlUMm1oUjBUMU1YaEpieUtWeU5FdVYxOHhHN3VVbzVubTE2cmlGbmptbzhHU20?oc=5",
       "published": "2026-11-25T20:32:09Z"
-    },
-    {
-      "title": "Major Insurer Allstate Hit by 3-Day Outage Amid Spate of US Service Issues",
-      "source": "Newsweek",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNHdLcS01OEgzV05LVGs2RWlUMFhwTmMzanpSOVBURHFwVE84Ql8xdl9vY0lvUmFvOTk1VWZLVUxrSXFaTlFZUTRNbDlsTC0tQmlOaTF6WGVVWFVRUlVjMVdvVkRralI5QWp1MTQySG4tUjlDNm5XYkRTTmV6dUdrS05fanl5cVl0NHRHZUhqanJrYnVENUJEcml3Y2xHbUxKV2R3bHEyc0dfaFVX?oc=5",
-      "published": "2026-11-25T20:10:00Z"
     },
     {
       "title": "Microsoft 365 outage report: email and recovery",
@@ -92,10 +86,16 @@
       "source": "TweakTown",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbk13bHhYZGlPTVcxdWN0NlV6Y1M5SUh6QU1VYTVYN2tMNl9sMWRaQjNpbm5nZDllVEo5OUFEZEFkQUEwNmRWMnlINXNiX2NGX05sTHpkVUttSG9pdUJIRTlpNnpXcllEVFRsX012cVJqNjBLMXlpalVlWU9pcHY4LTNjZ3dEQnpYMEp0MlFlNUZlUVdxczMyMS1TckVxQ3FuOEd6cXEwdjU5elRVbXhDZjhPYVNNMzNQbWNvMzhB?oc=5",
       "published": "2026-11-25T15:06:02Z"
+    },
+    {
+      "title": "Microsoft Code Red After Outlook and M365 Blackout",
+      "source": "Meteora Web",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMmJfRzdfTHB1cURtbDdoVjNObDhXa3BROUdScWZ5RDJ1WE8zV3c5YzJFVG9IcF9HdFhmZlI3SjJWc29FMmNnRWg3NGwzZ1lMLTVLWk16S3BhOHFMd3FzNkhsTU5oSEEwbi00TmdvNnQ5ejl5clBkWHBVdFRGbXFqN0dzd28tRkZDRHg5VnpHcWdpVXlrMFA3SHdwNG5YWHAySUZV?oc=5",
+      "published": "2026-11-25T15:04:23Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-25T23:17:49Z",
+    "fetched_at": "2026-11-26T00:18:25Z",
     "items": [],
     "debug": {
       "bytes": 498,
