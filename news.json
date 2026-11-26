@@ -1,8 +1,32 @@
 {
-  "fetched_at": "2026-11-26T01:17:47Z",
+  "fetched_at": "2026-11-26T02:18:15Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Microsoft issues 'Code Red' after huge global outage",
+      "source": "Information Age | ACS",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVU5jRWhkN09NNElqam41NlE0MXd5cVBsazl6RkpkQnR0djROZlNlVldFRmNlOUhzOFBpc19aZlIzejZhc2IxMWdXYU85ZWI4M2FKcmN3OFc2M0NtamdXRG8zZi1CaHVXZ3U0SjlaQmZiWmdlVTFPdTh4LTVtSEFEZWs5ckNmSTNWOFBrdjB2anZ1WlAwa3Vn?oc=5",
+      "published": "2026-11-26T01:19:32Z"
+    },
+    {
+      "title": "Satya Nadella Says \u201cthe Floor of Cyber Attacks Has Fallen.\u201d Microsoft Just Declared Code Red After a 24-Hour Outage",
+      "source": "TIKR.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQlp1UFo5QlNzZUJCTGlNNk9tRWdCMFhlM1ZUR1RmQWRUV0xiYUxPRHJSZGg2T29QMlBRMDFZVFoyeWhyTzR3YTNSNUF5UUM2YWZLZ0xhMmVsREQxRHJKWTVoNmQzaW5kYWpzVDlhZU5wYkMtLUh1T0lmd3NlSEpZWUZQU0pSMk9OV1ZNYjhvdTQzSS1kQjI3ckZpczJfYjN2SHl2Zy1INHROZXROZm1wYlVScVVrcEktV2dET0xvejJ4T2VnNDd1QmJlMWtPcVNzNWJTeg?oc=5",
+      "published": "2026-11-26T00:34:55Z"
+    },
+    {
+      "title": "Hackers exploit Microsoft 365 outage",
+      "source": "Daily Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5lTDYzSUEzWnpZQkwwU3ppWW5RT3Q3ZDVWTzU0YWxHemRCbHNxLS0zZjl5RjZISTcxMkVyZ3lZZHRLSFNMdHV4VXg4ZnhjeUJueWMxbDZsaDgzT1dGSHB5V1BzUHIzZXE5bk92SW5aNncxcVVQdWdQdmp3?oc=5",
+      "published": "2026-11-26T00:02:35Z"
+    },
+    {
+      "title": "Microsoft declares \"Code Red\" over cloud outage response",
+      "source": "TechGig",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONHRiU2xoUEg3aFNRQ2gtTFFlaGRaaGlETkJsMnRId01jSUR0VmF2S2FCWFZoLVpfa2VReW9xVkVZdnNoY1NwYS1BamhUQ1R1d2xDQmZIMlF4aVJUd20wNmRETE9tWTdCTkZ3elkxdEg5Y2RCa3hsbGJMRmlPSmF4V3NZMm0taUVMRDk2T2Y5d0tUd09jOWtiX2VNZHRSRnhUYjY0ZDlRbE5FNnVZVW9oZlJYRng?oc=5",
+      "published": "2026-11-25T23:10:26Z"
+    },
     {
       "title": "Digital Outages and Business Continuity",
       "source": "BlackBerry",
@@ -22,16 +46,16 @@
       "published": "2026-11-25T19:31:30Z"
     },
     {
-      "title": "Satya Nadella Says \u201cthe Floor of Cyber Attacks Has Fallen.\u201d Microsoft Just Declared Code Red After a 24-Hour Outage",
-      "source": "TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQQ3pKMFAzdHlaV0Z1VFRpUGVYRDBudXU4blFCbmJDUTlPT0NGVDZLejRkSHJiUVVzUE9aRm9Jd0NXZ2poaWoxX0xmYWZjWEwwQ0g3bzlDekZtVE9sX0Jmdi03REJ0Wm15aXpfMnFidkNfS3luYUNfNXJxYkxnX0tuR2dyWUI5Tk1ocVc1a0NMRHRRUUVSVF9oN01EYl9yaHdtQmU4eHVnUjViSjVmMEVVTFRIeGRnVUZPSWdVUWY2ODlUZlhJLWxwV3pnc295dXNmNTZLSnhySUxDLVJlWER5NTNEQkdVZlFDWlZHQXhENy1JWTNoSVFhYW0tVFpldm15NjlDTWdENjdmbGM?oc=5",
-      "published": "2026-11-25T19:13:24Z"
-    },
-    {
       "title": "Microsoft declares \u2018Code Red\u2019 following 24-hour outage: Here\u2019s what that means - National",
       "source": "Global News",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxZDhHUmFZMTU1LTBXSzNnaW1JYW4tSDFqQUVVVzhZWk9ib0xWaU5LZGhlX0tSbHh2b2FVV2o0cmRwUFk2VkMzNWRINHdfbzE0ckRfaEhpS1FvSjRCdVdoM0pRdVUzZw?oc=5",
       "published": "2026-11-25T17:51:35Z"
+    },
+    {
+      "title": "Microsoft explains tech failures that triggered global outage",
+      "source": "The Daily Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWWhYdV9fMEVBYkRzT0ZGNy1FVlZtbmxSd1RBTTdXc3RLbXVkT2pnZzVSUlNtY19xeG5MbHk2OGNCS0l6ZHdEVVpRazRib3pFMHhORkkwbENiX3RIWGc4MTFtSGxBMWY5R1gzSVdRdFAxakJsbjBoeTljRU9adjZIa2NTZFhvTElhXzFQTER0WG1mT1ZIS1VmNnJXbGlLZmc3MUtuQw?oc=5",
+      "published": "2026-11-25T17:20:08Z"
     },
     {
       "title": "Microsoft Stock Drops Over 2.8% Amid AI Spending Concerns, Trump Tariffs, and Cloud Outage",
@@ -68,34 +92,10 @@
       "source": "Silicon Republic",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSTdfNDVzU2lMMTVaUkFXM2lsUnVHVFpHWU43U21lbHJISDZ0SWtBOVNLaTF3ZUw1ZnJoWXg4WXEtZGM1MTlhRDlPdzlGaDAxVkstNjJiLWh2OFJmcFV5QTh1VEJ0WWFHMGNvTU9Cc0kzMlVlazk3TzFKRFZQTG1tOEpmZDZsaUJYMFlfcXVwUlpmTVMzQk5FNlphcE5RVHZlUVNvQ09vTWZLQ0U?oc=5",
       "published": "2026-11-25T15:13:18Z"
-    },
-    {
-      "title": "Microsoft 365 outage cause: what failed and why",
-      "source": "NeoTeo",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNUp4YzFSWjhiMFZGT09yZlViY3pXUHlQdV9GTkptLXlrUnBGSENvRktVS2t6UXJWQVJZX0lFU20zdER4czlhRGU4UzE2Q3FudmNRYXFwX2cxRHp2QTJ5Nm81N1lEdzkySFlhY3BiLXVUVklMS0xoRkNONXRZT2ZfcFFGNkFWdw?oc=5",
-      "published": "2026-11-25T15:06:06Z"
-    },
-    {
-      "title": "Microsoft invokes 'Code Red' after global Outlook and Microsoft 365 outage",
-      "source": "TweakTown",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbk13bHhYZGlPTVcxdWN0NlV6Y1M5SUh6QU1VYTVYN2tMNl9sMWRaQjNpbm5nZDllVEo5OUFEZEFkQUEwNmRWMnlINXNiX2NGX05sTHpkVUttSG9pdUJIRTlpNnpXcllEVFRsX012cVJqNjBLMXlpalVlWU9pcHY4LTNjZ3dEQnpYMEp0MlFlNUZlUVdxczMyMS1TckVxQ3FuOEd6cXEwdjU5elRVbXhDZjhPYVNNMzNQbWNvMzhB?oc=5",
-      "published": "2026-11-25T15:06:02Z"
-    },
-    {
-      "title": "Microsoft Code Red After Outlook and M365 Blackout",
-      "source": "Meteora Web",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMmJfRzdfTHB1cURtbDdoVjNObDhXa3BROUdScWZ5RDJ1WE8zV3c5YzJFVG9IcF9HdFhmZlI3SjJWc29FMmNnRWg3NGwzZ1lMLTVLWk16S3BhOHFMd3FzNkhsTU5oSEEwbi00TmdvNnQ5ejl5clBkWHBVdFRGbXFqN0dzd28tRkZDRHg5VnpHcWdpVXlrMFA3SHdwNG5YWHAySUZV?oc=5",
-      "published": "2026-11-25T15:04:23Z"
-    },
-    {
-      "title": "Code Red explained Inside Microsoft\u2019s plan to prevent another outage",
-      "source": "Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTEROWXpZSklaOVVDdUdNVEFxYjV5c1VqbTBPcXgxSG9WSnpjNlFBZm9qYTBhZ1JFWXRGLUJkZE9RNDhIMl9MazhVYWlLSDZRSFZ1cUxFUjRFUklNUGdHc0RmanJ0SGdLbEYtaU9iRmhUdHowenlkMzdfWjdlSHJncWxzNkpUSWktZFgzeFlFa25DZkFfUkNtckJNX3JtdXRtaWNKSTlfU0NyYXpCV2JVSmxxam5mX2xCWG5DMHRWMzRTcW9mQWN1Q0I3X2c5cVk5cDNR?oc=5",
-      "published": "2026-11-25T15:01:00Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-26T01:17:47Z",
+    "fetched_at": "2026-11-26T02:18:15Z",
     "items": [],
     "debug": {
       "bytes": 498,
