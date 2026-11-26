@@ -1,8 +1,20 @@
 {
-  "fetched_at": "2026-11-26T04:17:56Z",
+  "fetched_at": "2026-11-26T05:18:08Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "11,000+ messages, across 11 Teams chats and a decade of \u2018acceptable failures\u2019: How the 24-hour outage that Microsoft says had the biggest customer impact in Exchange Online history has triggered \u2018Code Red\u2019 inside the company",
+      "source": "The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOdFpkQXhGRXBzZC13dzdfTXBEYkJ5Q1pybzJNM1c1SVJUbUEtVjNTM0djWTdFczBFUXNIMy1XSm9MRlROSFQzN3l1SlJPOTE1MW5zdDN4b0RVa2s3SmtjY3E5ejRPdUVPZGp0YjNDWl9UQWlRUm4waWlrMGQ5bXQ4cTlfNUczUEpoLTZrX1FnNlJCUmtqdlJxSTZJUzY3UTV5M3huZWllY1VTSms0RVVlRm53MW5MZm5DY19nQlJlRGVxZVRORElIbDlYZGtucjhPLXJVd2dHVzJvaHg4aWw5aExTV1gyX3Q5RFhEWWNLd01oaU5SY0pnajBqRlN6NWo5SXJjdEVxY2tJZDBEVjc3eTdEN1dlS2tzd3FmdjBocmk2UUJIMjk0M0laNXZuak5mRDVjUUlXbUgtNVdZTWZiT0tJTlBZVlNaYWhtVGJIZW9CbG5BY2pIOEQySHdlVXlfYkpXdnpaS0FjNXU0M3NBY0swanhlV0lUZ0Z2U0V3dXpRY2ZnZGpXZ1o0TEM1YU0ySmNFLUpVZzJTeWtxbWhKdU1MWjNMNGRXc0Fv?oc=5",
+      "published": "2026-11-26T04:36:00Z"
+    },
+    {
+      "title": "Microsoft Declares Code Red Status After Global Outage, Targets One-Hour Service Recovery",
+      "source": "Aktualita.co",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYkJsVm1BRHctRHllWjJkTktKVlBsVGV2am9aa1h0b1VQdVpLT1BKYnJBVl9XblplY0FPLWtXSnBiT3RIbWVBaU83NGh3Y05YbzJOdlpkOFdTMm5jM3hJSWFUSjlBeGE3N2ZTRUNraGt1XzBpZ1RUZm9lT3c4WnJ1NjFn?oc=5",
+      "published": "2026-11-26T03:45:29Z"
+    },
     {
       "title": "Microsoft Overhauls Its Outage Response Plan After Major Outlook Problems",
       "source": "PCMag Middle East",
@@ -16,28 +28,16 @@
       "published": "2026-11-26T01:19:32Z"
     },
     {
-      "title": "Microsoft declares \"Code Red\" over cloud outage response",
-      "source": "TechGig",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZlpBMjVlcTBLaDdZSVdFSi1POWZUS05tcWF3MnN0bkdYMEZINTNuaWRXd3VxOUlLUm9Td2dBX0tyYjBYTjlQYU1YdFppUHJXQUJTYVdTUzhKVmpxZzlNdTBEeXBIa1U3TW1CYlhTSVR2VkQ3WEFjS2tzVnhLZUZLbF8yeGJwMjhRb0Z4SDFMeXgyallZbVM3dS1yRnFfR0hHaHFvNjdiT1NHUkhaM2Fv?oc=5",
-      "published": "2026-11-26T00:45:00Z"
-    },
-    {
       "title": "Satya Nadella Says \u201cthe Floor of Cyber Attacks Has Fallen.\u201d Microsoft Just Declared Code Red After a 24-Hour Outage",
       "source": "TIKR.com",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQlp1UFo5QlNzZUJCTGlNNk9tRWdCMFhlM1ZUR1RmQWRUV0xiYUxPRHJSZGg2T29QMlBRMDFZVFoyeWhyTzR3YTNSNUF5UUM2YWZLZ0xhMmVsREQxRHJKWTVoNmQzaW5kYWpzVDlhZU5wYkMtLUh1T0lmd3NlSEpZWUZQU0pSMk9OV1ZNYjhvdTQzSS1kQjI3ckZpczJfYjN2SHl2Zy1INHROZXROZm1wYlVScVVrcEktV2dET0xvejJ4T2VnNDd1QmJlMWtPcVNzNWJTeg?oc=5",
       "published": "2026-11-26T00:34:55Z"
     },
     {
-      "title": "Hackers exploit Microsoft 365 outage",
-      "source": "Daily Tribune",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5lTDYzSUEzWnpZQkwwU3ppWW5RT3Q3ZDVWTzU0YWxHemRCbHNxLS0zZjl5RjZISTcxMkVyZ3lZZHRLSFNMdHV4VXg4ZnhjeUJueWMxbDZsaDgzT1dGSHB5V1BzUHIzZXE5bk92SW5aNncxcVVQdWdQdmp3?oc=5",
-      "published": "2026-11-26T00:02:35Z"
-    },
-    {
       "title": "Digital Outages and Business Continuity",
       "source": "BlackBerry",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMENrWWVldmNMN0wtYjJYMEg0MU1wbTdweDl0UHNCejVBaC1FeXgwdnlseVNQVXBKdHNiQ01pdUtBVEY3WmMtcTUxeGdxdF96Z1lpdXJzZEFRSEtJeE9jX09GdXh3ZmpPOHJDaTRuYUFkS3hEUGZvX1Z1Zy1yWXVJRXhCWWNkaDBJSlVSMzhjU2NsQ1JhZ3RoY1BlYjhLNE51Z3lV?oc=5",
-      "published": "2026-11-25T22:41:15Z"
+      "published": "2026-11-25T22:43:18Z"
     },
     {
       "title": "Allstate outage leaves customers unable to access accounts ahead of Thanksgiving",
@@ -52,22 +52,22 @@
       "published": "2026-11-25T19:31:30Z"
     },
     {
-      "title": "Microsoft declares 'Code Red' after historic outage",
-      "source": "www.daily-sun.com",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sLW5GR3liVUhaSHo2OV9obmpJSHlHd0RTZnpHYXdVRnV5UWRHaTlaVUJKSGtEeWZLb29VV0F5TkN4cjJsRlVHSVJURQ?oc=5",
-      "published": "2026-11-25T19:26:51Z"
+      "title": "Microsoft restores service to Outlook and Teams after global outage",
+      "source": "DD News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc0lLcmJLVUNBS3U3ZDQzTjE3UnR3LTNNS1RDRV8xYlZiR1ZZSWJWRXZVVl8xME9YZEdFMmhZeVFNU3BpY3JIRnpIMlpSZk52NWJRTncxR1lQemh4UlZnWmtudnItcUFTQzJwLUpmWERaejVfMUtHenZCMlRKX1p4R2NkZDBQVndKTXlqODFmdDYzSTJMM09RMw?oc=5",
+      "published": "2026-11-25T19:25:32Z"
+    },
+    {
+      "title": "Microsoft outage disrupts Outlook, Teams and AI services for over five hours",
+      "source": "DD News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONWVRNEh2bDJ5MVF1ZUJ0NENmelRjY180NnQ4czFYamRlWk9PR1BxNHY0NTNFQ084M0cxSFNoSGw4Q2dncHJKa1BndkRLVGo0R09IbGpwbU9xdjZfQmM2Y1FUQmx2dThVMWJtVUpCU0YtN25mdmZpOXNkZTNCZmpKZXcwZXB1NlhrUWRVYkJ2M3NwUWMwMzZSbkxlRjdoOG9aQXVz?oc=5",
+      "published": "2026-11-25T18:44:52Z"
     },
     {
       "title": "Microsoft declares \u2018Code Red\u2019 following 24-hour outage: Here\u2019s what that means - National",
       "source": "Global News",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxZDhHUmFZMTU1LTBXSzNnaW1JYW4tSDFqQUVVVzhZWk9ib0xWaU5LZGhlX0tSbHh2b2FVV2o0cmRwUFk2VkMzNWRINHdfbzE0ckRfaEhpS1FvSjRCdVdoM0pRdVUzZw?oc=5",
       "published": "2026-11-25T17:51:35Z"
-    },
-    {
-      "title": "Microsoft explains tech failures that triggered global outage",
-      "source": "The Daily Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWWhYdV9fMEVBYkRzT0ZGNy1FVlZtbmxSd1RBTTdXc3RLbXVkT2pnZzVSUlNtY19xeG5MbHk2OGNCS0l6ZHdEVVpRazRib3pFMHhORkkwbENiX3RIWGc4MTFtSGxBMWY5R1gzSVdRdFAxakJsbjBoeTljRU9adjZIa2NTZFhvTElhXzFQTER0WG1mT1ZIS1VmNnJXbGlLZmc3MUtuQw?oc=5",
-      "published": "2026-11-25T17:20:08Z"
     },
     {
       "title": "Microsoft Stock Drops Over 2.8% Amid AI Spending Concerns, Trump Tariffs, and Cloud Outage",
@@ -95,7 +95,7 @@
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-26T04:17:56Z",
+    "fetched_at": "2026-11-26T05:18:08Z",
     "items": [],
     "debug": {
       "bytes": 498,
