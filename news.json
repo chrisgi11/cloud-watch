@@ -1,8 +1,14 @@
 {
-  "fetched_at": "2026-11-26T16:18:35Z",
+  "fetched_at": "2026-11-26T17:17:46Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Tech's outage problem needs maintenance, not conspiracy theories",
+      "source": "The Register",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLWJ6dTBYRUwxN3A3TEJ6eHV5OXB6YmRYN1FXY2IwcjB6T2paQmNuemVuYWJJekhaTGFEOWE5MWxtRnVBaWJjaWZWQWg1NHYxUGlVMmx3VFZfRWxic3JrYTdUNWt4TklsNW10LTc0dExBazEyOVdKTHB5MVBLcGJlZTRzRVJUQlNKMVUyNnVxNk5OSGw0QUVHQzZpWlBVejZ5MXhzUU5aOHd6Q1RrM2RQMm1WLTFwYTRzTHc?oc=5",
+      "published": "2026-11-26T17:09:00Z"
+    },
     {
       "title": "Microsoft Declares Code Red Following Historic Microsoft 365 Outage",
       "source": "The Mac Observer",
@@ -70,6 +76,12 @@
       "published": "2026-11-26T04:36:00Z"
     },
     {
+      "title": "Microsoft Declares Code Red Status After Global Outage, Targets One-Hour Service Recovery",
+      "source": "Aktualita.co",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYkJsVm1BRHctRHllWjJkTktKVlBsVGV2am9aa1h0b1VQdVpLT1BKYnJBVl9XblplY0FPLWtXSnBiT3RIbWVBaU83NGh3Y05YbzJOdlpkOFdTMm5jM3hJSWFUSjlBeGE3N2ZTRUNraGt1XzBpZ1RUZm9lT3c4WnJ1NjFn?oc=5",
+      "published": "2026-11-26T03:45:29Z"
+    },
+    {
       "title": "Microsoft Overhauls Its Outage Response Plan After Major Outlook Problems",
       "source": "PCMag Middle East",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeTIwbUFDd1d4ZmZUMXpVaEtibTJhTzhkaEJHLXEtMnlrRWRsZVlBT2ZhRVhEZ3lUWnBrQVRranEzUkpwUEZsdi02elpJak52QXlaMU9EZ0hrc29qVm9pQzV5MjlNYnlwcTlUdzRIZnJaTUV4aExZdnVNOFIzTktXY1dQYTVZZ1hEWTZBa09oUDFVcTBSMnBMR1Y5cERtMTNpdjk3UWdCazBNNHRyMnc2ZUZVd0VjS3pv?oc=5",
@@ -80,22 +92,10 @@
       "source": "Information Age | ACS",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVU5jRWhkN09NNElqam41NlE0MXd5cVBsazl6RkpkQnR0djROZlNlVldFRmNlOUhzOFBpc19aZlIzejZhc2IxMWdXYU85ZWI4M2FKcmN3OFc2M0NtamdXRG8zZi1CaHVXZ3U0SjlaQmZiWmdlVTFPdTh4LTVtSEFEZWs5ckNmSTNWOFBrdjB2anZ1WlAwa3Vn?oc=5",
       "published": "2026-11-26T01:19:32Z"
-    },
-    {
-      "title": "Microsoft declares \"Code Red\" over cloud outage response",
-      "source": "TechGig",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZlpBMjVlcTBLaDdZSVdFSi1POWZUS05tcWF3MnN0bkdYMEZINTNuaWRXd3VxOUlLUm9Td2dBX0tyYjBYTjlQYU1YdFppUHJXQUJTYVdTUzhKVmpxZzlNdTBEeXBIa1U3TW1CYlhTSVR2VkQ3WEFjS2tzVnhLZUZLbF8yeGJwMjhRb0Z4SDFMeXgyallZbVM3dS1yRnFfR0hHaHFvNjdiT1NHUkhaM2Fv?oc=5",
-      "published": "2026-11-26T00:46:45Z"
-    },
-    {
-      "title": "Satya Nadella Says \u201cthe Floor of Cyber Attacks Has Fallen.\u201d Microsoft Just Declared Code Red After a 24-Hour Outage",
-      "source": "TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQlp1UFo5QlNzZUJCTGlNNk9tRWdCMFhlM1ZUR1RmQWRUV0xiYUxPRHJSZGg2T29QMlBRMDFZVFoyeWhyTzR3YTNSNUF5UUM2YWZLZ0xhMmVsREQxRHJKWTVoNmQzaW5kYWpzVDlhZU5wYkMtLUh1T0lmd3NlSEpZWUZQU0pSMk9OV1ZNYjhvdTQzSS1kQjI3ckZpczJfYjN2SHl2Zy1INHROZXROZm1wYlVScVVrcEktV2dET0xvejJ4T2VnNDd1QmJlMWtPcVNzNWJTeg?oc=5",
-      "published": "2026-11-26T00:34:55Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-26T16:18:35Z",
+    "fetched_at": "2026-11-26T17:17:46Z",
     "items": [],
     "debug": {
       "bytes": 498,
