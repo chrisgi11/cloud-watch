@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-26T19:18:33Z",
+  "fetched_at": "2026-11-26T20:18:23Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
@@ -16,7 +16,7 @@
       "published": "2026-11-26T17:09:00Z"
     },
     {
-      "title": "Cloudflare hit by Thanksgiving 'outage' just hours before Black Friday shopping frenzy",
+      "title": "Cloudflare was hit by Thanksgiving 'outage' just before Black Friday",
       "source": "Daily Mail",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ0IwalhiWklEc0xJNjRFQ3VUSkgxakh1MDBwdE9uZ3RobmptOWZhVVBYVF84b3lvNkdQVlFKVHFueEI2WExXcHpDdEw5RGw3ZVFOQUZ4UkIyWWNUMnBtTC1mSFItS0JtZjRmbV9VN0tFUkh0ZzhrSFl6T2hpTWt3bVltYWZqUlpDU0xsZ0ppaEhOR3U3UjA0R0tMT3VnTWlzWmdyMnh3?oc=5",
       "published": "2026-11-26T16:46:09Z"
@@ -26,6 +26,12 @@
       "source": "The Mac Observer",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMi1xbWdYa04xS0h2dUdQOWVRbUoyWVVURVhybHpma0docUhmZjY4MV9KRGp3Q1gyVHNaMmxBbWtVR3lkMllic3Z0akNodVYyMDlsUFdwSzJWQlhnUVdKY0JmWlhvcUppWnp2c2FkQ2VrY2Q4M2p3cGY5VzB3SWdvdnVNenVtOHRFVDB3QWZCWTR2MmNmTkFCd1cyUWE3NDZLRGdv?oc=5",
       "published": "2026-11-26T16:04:19Z"
+    },
+    {
+      "title": "Allstate hit by multi-day tech outage ahead of Thanksgiving travel",
+      "source": "geekspin",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWnI0eXhyaDZ0d3lqQ3pnMUJKbDhNb3R3N2VFZndhVjJzMkJ1a3lySUlVSDU0V2M0bWN5MlFkTTlOT1BmUG5MOEJHOW4wTEp2VGpiV1RJWlNCUzV5c3NBZnRiUmhsT3Bzd1djakpNRVJnajdCMWJfUUJDdmJuWk1iV1REcXRIQ3h5ZUxxS2JUU3Q?oc=5",
+      "published": "2026-11-26T16:00:21Z"
     },
     {
       "title": "What went wrong during Microsoft's 24-hour outage and what happens next?",
@@ -44,6 +50,12 @@
       "source": "NeoTeo",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdUd2aGR6OGVYNDZJX3RnWVVDTG94OEJDSnVPLVNwSnhyc3lzMG1sOHpBYU5SS2NNRUhqZkhDZm51akRBdlJ0dUo0YUNGYlpzRFAtN3JxODJZNmpFRTJjRk9ONlhIYUh1YUZWSF92ODVwaWlScEJOX1VGU0lMZ0wtZA?oc=5",
       "published": "2026-11-26T13:19:05Z"
+    },
+    {
+      "title": "Hackers exploit Microsoft 365 outage",
+      "source": "Daily Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5lTDYzSUEzWnpZQkwwU3ppWW5RT3Q3ZDVWTzU0YWxHemRCbHNxLS0zZjl5RjZISTcxMkVyZ3lZZHRLSFNMdHV4VXg4ZnhjeUJueWMxbDZsaDgzT1dGSHB5V1BzUHIzZXE5bk92SW5aNncxcVVQdWdQdmp3?oc=5",
+      "published": "2026-11-26T11:41:30Z"
     },
     {
       "title": "Microsoft Declares Code Red: 24-Hour Outage & NCR Impact",
@@ -80,22 +92,10 @@
       "source": "The Times of India",
       "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOcFMtdGlFdFBQTWhCblpSWExhVzBCN1dMc2lUYUpoQXpsZ1lqWlRrU3FJdTF6WUI5dlR1UGJoLXRJVmtWbWwybmZvdDgyTHdpVHFEdkZGZUVJVzBXYVFmM1UxRkp2SHdmOGNnQm9ZMVUwMEhFdGQwUkZOTGxGc3UwamIzcVR4Q2ZIekhQaUU2VnBtcGNBRVZaUkxDTVJfWTBCN1ZxdUFTM1ZLODhNa2EyeGV6RmVsSTI2cHZBUDF4bUN0bEU0TW9EN05wTkZtVzNLVVpNRVI0bllBYXpRUzlXZDlWOW9PWHcxR3lxbjN1U2ktVkFQVTdYejEtZzVHd2FZZkI0d1QzMmhXVlltMG9EQzBKSThkb3hoTFg1ZmMwSUdHSG8wVjNNMG5PelVIQXNBM0cxbkE2TVZtMDdMQTdneFFiVkZPUzRjSXFBWEltaE8wWXh4VDdKYk9HLTd2cEdOT0h4dWNNLUHSAe4CQVVfeXFMTmFocTVaLXY3U0E0TXFhdjVyTjN2SXhKeFNHczRVX205aUdPWS1YZmVYalNxWEJpSnhtaXBoaFZNY2pVZTU0MThPcm01M210R1ZLSU5VbktGM0VSZms3dHpQaHo1cUJZOWQ2SWF6YWNKZmc1bE1wXzExbzRpN21xeHI5bnZ5WVNscUhSR3ZfS0trdDNvakZ0RXVhdVE0VExDTlhMSXRnMW14bXJodmwwd3cxNjZkYWxjLXZDd0RoVFNIaUFselRYam8xUjFuWXhmanBiUV9lenlTOHRSQ1BOSUxmS0dua2dJQWh1WUlNRlhzVlc3NFZJWXVpVUFPYU1JYndCUkx2RzZzODlHdE02Z25tc2s4bE05VGUyLThQSkZ5eUIzQUJiLUNEanZPV1NMX2dQQ3FvQmpPMkFDcExBZTAtbEhhM3BKWlAtQV9hRFJpeWhyd0ZZdk1rMXFzYndScEhYRWJEbnIxdmlfX2hn?oc=5",
       "published": "2026-11-26T05:45:00Z"
-    },
-    {
-      "title": "11,000+ messages, across 11 Teams chats and a decade of \u2018acceptable failures\u2019: How the 24-hour outage tha",
-      "source": "The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxOdFpkQXhGRXBzZC13dzdfTXBEYkJ5Q1pybzJNM1c1SVJUbUEtVjNTM0djWTdFczBFUXNIMy1XSm9MRlROSFQzN3l1SlJPOTE1MW5zdDN4b0RVa2s3SmtjY3E5ejRPdUVPZGp0YjNDWl9UQWlRUm4waWlrMGQ5bXQ4cTlfNUczUEpoLTZrX1FnNlJCUmtqdlJxSTZJUzY3UTV5M3huZWllY1VTSms0RVVlRm53MW5MZm5DY19nQlJlRGVxZVRORElIbDlYZGtucjhPLXJVd2dHVzJvaHg4aWw5aExTV1gyX3Q5RFhEWWNLd01oaU5SY0pnajBqRlN6NWo5SXJjdEVxY2tJZDBEVjc3eTdEN1dlS2tzd3FmdjBocmk2UUJIMjk0M0laNXZuak5mRDVjUUlXbUgtNVdZTWZiT0tJTlBZVlNaYWhtVGJIZW9CbG5BY2pIOEQySHdlVXlfYkpXdnpaS0FjNXU0M3NBY0swanhlV0lUZ0Z2U0V3dXpRY2ZnZGpXZ1o0TEM1YU0ySmNFLUpVZzJTeWtxbWhKdU1MWjNMNGRXc0Fv0gGwA0FVX3lxTE5vMjlaZDRka18xYlZWaVlZdmU5RUNLblNKVXdWdlMtVE8yak9STVZEeE1ZSHV1anFLS1Byc0YtWUdXa3dQeXljWHhZdlpDY3czQ1dfVHVBQllBWm1VeldsUVo1eWNrWU5odEI3aUd1MUYtcFJmQWZ2dE04MWEwbFQyX1BNSENWWUd5WTlmM0o1Z01YSlhBRUpRYlJFdG5QVXZQUDMwaC1IeGZlemVNZXlLeHk4bFR3QlNUa1dvLXh2azdQM1FFNmJ3Qm50Sk41SV96TWFuU0x1NTZZUkl3WkRMWW9zZmFTU3BFOC12UzJENmdQaUtESVhpNkUyeWxSQnVSZm54U29oV2dIWjZBeXU0MXVDS3NtVVhpcnFQM25ldXZTN2xHYkhkUHRMZ1VXQ0xlZnEzMVNfWWNZTXNhcnlTbEIzbU1rOVFJUkQ3cWhDUXZJbXh6VXFZanRZVmZJaThZSzluMk43THNYT0xBbUNkWmVFQ1ZkcVBVamlGeFhRdTh3OHdCaFc2a3JlV0hnZFA1cjZPNUoyNDNjb21ZX21hcGFoenpmU040d1NPelo4Sg?oc=5",
-      "published": "2026-11-26T04:36:00Z"
-    },
-    {
-      "title": "Microsoft Declares Code Red Status After Global Outage, Targets One-Hour Service Recovery",
-      "source": "Aktualita.co",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYkJsVm1BRHctRHllWjJkTktKVlBsVGV2am9aa1h0b1VQdVpLT1BKYnJBVl9XblplY0FPLWtXSnBiT3RIbWVBaU83NGh3Y05YbzJOdlpkOFdTMm5jM3hJSWFUSjlBeGE3N2ZTRUNraGt1XzBpZ1RUZm9lT3c4WnJ1NjFn?oc=5",
-      "published": "2026-11-26T03:45:29Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-26T19:18:33Z",
+    "fetched_at": "2026-11-26T20:18:24Z",
     "items": [],
     "debug": {
       "bytes": 498,
