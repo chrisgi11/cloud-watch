@@ -1,8 +1,14 @@
 {
-  "fetched_at": "2026-11-26T15:18:05Z",
+  "fetched_at": "2026-11-26T16:18:35Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Microsoft Declares Code Red Following Historic Microsoft 365 Outage",
+      "source": "The Mac Observer",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMi1xbWdYa04xS0h2dUdQOWVRbUoyWVVURVhybHpma0docUhmZjY4MV9KRGp3Q1gyVHNaMmxBbWtVR3lkMllic3Z0akNodVYyMDlsUFdwSzJWQlhnUVdKY0JmWlhvcUppWnp2c2FkQ2VrY2Q4M2p3cGY5VzB3SWdvdnVNenVtOHRFVDB3QWZCWTR2MmNmTkFCd1cyUWE3NDZLRGdv?oc=5",
+      "published": "2026-11-26T16:04:19Z"
+    },
     {
       "title": "Preliminary estimates unveiled for Microsoft 365 outage losses",
       "source": "The Actuary",
@@ -64,12 +70,6 @@
       "published": "2026-11-26T04:36:00Z"
     },
     {
-      "title": "Microsoft Declares Code Red Status After Global Outage, Targets One-Hour Service Recovery",
-      "source": "Aktualita.co",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYkJsVm1BRHctRHllWjJkTktKVlBsVGV2am9aa1h0b1VQdVpLT1BKYnJBVl9XblplY0FPLWtXSnBiT3RIbWVBaU83NGh3Y05YbzJOdlpkOFdTMm5jM3hJSWFUSjlBeGE3N2ZTRUNraGt1XzBpZ1RUZm9lT3c4WnJ1NjFn?oc=5",
-      "published": "2026-11-26T03:45:29Z"
-    },
-    {
       "title": "Microsoft Overhauls Its Outage Response Plan After Major Outlook Problems",
       "source": "PCMag Middle East",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeTIwbUFDd1d4ZmZUMXpVaEtibTJhTzhkaEJHLXEtMnlrRWRsZVlBT2ZhRVhEZ3lUWnBrQVRranEzUkpwUEZsdi02elpJak52QXlaMU9EZ0hrc29qVm9pQzV5MjlNYnlwcTlUdzRIZnJaTUV4aExZdnVNOFIzTktXY1dQYTVZZ1hEWTZBa09oUDFVcTBSMnBMR1Y5cERtMTNpdjk3UWdCazBNNHRyMnc2ZUZVd0VjS3pv?oc=5",
@@ -95,7 +95,7 @@
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-26T15:18:05Z",
+    "fetched_at": "2026-11-26T16:18:35Z",
     "items": [],
     "debug": {
       "bytes": 498,
