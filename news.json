@@ -1,13 +1,31 @@
 {
-  "fetched_at": "2026-11-27T20:18:00Z",
+  "fetched_at": "2026-11-27T21:17:51Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Microsoft (MSFT) Stock Edges Up to $492.85 in Afternoon Trading",
+      "source": "JournalArta",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZzg0VEhWTTN1eVVQbHctSHZQd1A2T3hVX2UwUzJ2SWNoa21XQjU2QWtOcndJWFhuczU2cDZ3MV9aT2tjaGJzbVlDcVRLakhObUZqcjhWdkRUOWFYS3ZzTHZzUG1LeHlCZzdCSURxQVc4QV9DanlPa09YZjBDc1poZGJIRFFXSU50RjFIdXhFMUI1VzhkWU5TdjFtYlctb2s?oc=5",
+      "published": "2026-11-27T20:30:19Z"
+    },
     {
       "title": "Microsoft Stocks Rise 0.26% as Code Red Targets One-Hour Outage Recovery",
       "source": "TradingView",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeUFYRVZ6X21ZNW1UWmFlTUxyYjgzLWlQeUlBN19OUVo0ZldoSnNfWGstWTlCdFBlaFVFS19TcHlIa3IyTk5BQlVCbzlqUGFtM051UGV3WnE3MmVSLXdmd0RPZF8yX3dYMFo4NUxTakp6WmI2TVhueGh6MHNtSnFWS29pLVpPTG9FNE5wQzQtVHhBcjVCb3FMTzlJSWh6ei1qZzNqTTAzMHdaSlhHckpQa2daWEVFLU5wYXNfd0NUck03bl82eDhrUnlhYw?oc=5",
       "published": "2026-11-27T18:23:20Z"
+    },
+    {
+      "title": "What Microsoft's latest Code Red move means for millions of people who use it every day",
+      "source": "UNILAD Tech",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeFNkRjZ2NjFqMjFYTm5rMTBXd1prYUR3a1lua2hHaGsta0dhWVpkREdHbWtteWRLS2ZaUlVyQ29JeXZtUWZCZnVYM1VPOUV5U01sMUE5bEUzb1hkQzN3cG5iMzVYclNsSUhsSE1sbUkwYU5pZ1ZYdXFxNG9iOGxoUC1HY29uUzBNbmQwVTdaUWdYanBxV1FrSk5XS3NvU0piQXJIVg?oc=5",
+      "published": "2026-11-27T16:48:17Z"
+    },
+    {
+      "title": "Allstate roiled by tech outage over Thanksgiving week",
+      "source": "CBS News",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVnhyX20tNWl0ZzUyT1Zia2VPYmI2WGx4czNSVTFnRm5OcVBJaThFX0pVSTBxRm5qTEZHbzhrSGh0SVNPazJBWFpIRmk2YmxLcGY2NC1MT0Nzdm1tM0haYWhqTWp5ODFZSlNYVXZrM0ZVdGVFTTlDdFloR20zXzFxZQ?oc=5",
+      "published": "2026-11-27T15:06:52Z"
     },
     {
       "title": "What the Microsoft 365 disruption reveals about employee experience",
@@ -74,28 +92,10 @@
       "source": "NeoTeo",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNamNDbTFhSUpsZS1BdkpoeWlvWHdZeDZfYmo3b2VEQU1aellncWt1c0l5UHJTMTFKb2JRWFpCS1ZiWmJwZWRSOWxlNFJzdURRNU5OUENseDFZby1tUkRWcloweEdIbXE1Y1FHcDJyVWdER0luQlJ0Q1hQNW5PclFEM1EzUjZUZmF6Zjl5NA?oc=5",
       "published": "2026-11-27T01:07:02Z"
-    },
-    {
-      "title": "Microsoft declares \u2018Code Red\u2019 in wake of global outage",
-      "source": "Cyber Daily",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQTBGNWREVFFpQnNmeDVITEp2NEtmLWNJQW90clRvRjJNYTVWNGZkczdWQWFlcVdiblR0dW9NeVl3c0FNTVpzUjlwMnJhYWpQa19iX2dMMXpMN2N1YXljRTlVMkxidVhuQlczbjE0VUZ3c0NYb0dCNGVyaFVxTDVaUGRhSExrdjY1TjNsSUhtazR4bTQ?oc=5",
-      "published": "2026-11-26T22:20:12Z"
-    },
-    {
-      "title": "No plans to ditch Microsoft 365 despite global outage, says Government ICT",
-      "source": "Cook Islands News",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZjNfLUlldTQ2VVdtazA3MTcwVy1EbDNHV29JaHBaNXo2RVh1UF91cFRyU09UOXMwLTVNdElHTlJFQTQ0MVNJOGFiMTVqTlFrMWlEckduTlI4RlR3VEJOQmw2cHFjNGI0SWdfRVY3d3pMaFlxSkRMUjdNempqc0FPTHRyejdYbmp5Y0FkVEdPNDdkNFczUkpxOS1fSkdVZHdfemtGVmZXSmZOVlNPMVpyR1Rkc2k2bW84Z3pIeUJXOXJkQ0JrRi11TUY4Z1kwR2FZ?oc=5",
-      "published": "2026-11-26T18:33:06Z"
-    },
-    {
-      "title": "Tech's outage problem needs maintenance, not conspiracy theories",
-      "source": "The Register",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLWJ6dTBYRUwxN3A3TEJ6eHV5OXB6YmRYN1FXY2IwcjB6T2paQmNuemVuYWJJekhaTGFEOWE5MWxtRnVBaWJjaWZWQWg1NHYxUGlVMmx3VFZfRWxic3JrYTdUNWt4TklsNW10LTc0dExBazEyOVdKTHB5MVBLcGJlZTRzRVJUQlNKMVUyNnVxNk5OSGw0QUVHQzZpWlBVejZ5MXhzUU5aOHd6Q1RrM2RQMm1WLTFwYTRzTHc?oc=5",
-      "published": "2026-11-26T17:09:00Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-27T20:18:00Z",
+    "fetched_at": "2026-11-27T21:17:51Z",
     "items": [],
     "debug": {
       "bytes": 498,
