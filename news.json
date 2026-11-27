@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-27T22:18:12Z",
+  "fetched_at": "2026-11-27T22:40:12Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
@@ -16,28 +16,10 @@
       "published": "2026-11-27T18:23:20Z"
     },
     {
-      "title": "What Microsoft's latest Code Red move means for millions of people who use it every day",
-      "source": "UNILAD Tech",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeFNkRjZ2NjFqMjFYTm5rMTBXd1prYUR3a1lua2hHaGsta0dhWVpkREdHbWtteWRLS2ZaUlVyQ29JeXZtUWZCZnVYM1VPOUV5U01sMUE5bEUzb1hkQzN3cG5iMzVYclNsSUhsSE1sbUkwYU5pZ1ZYdXFxNG9iOGxoUC1HY29uUzBNbmQwVTdaUWdYanBxV1FrSk5XS3NvU0piQXJIVg?oc=5",
-      "published": "2026-11-27T16:48:17Z"
-    },
-    {
-      "title": "Allstate roiled by tech outage over Thanksgiving week",
-      "source": "CBS News",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVnhyX20tNWl0ZzUyT1Zia2VPYmI2WGx4czNSVTFnRm5OcVBJaThFX0pVSTBxRm5qTEZHbzhrSGh0SVNPazJBWFpIRmk2YmxLcGY2NC1MT0Nzdm1tM0haYWhqTWp5ODFZSlNYVXZrM0ZVdGVFTTlDdFloR20zXzFxZQ?oc=5",
-      "published": "2026-11-27T15:06:52Z"
-    },
-    {
       "title": "What the Microsoft 365 disruption reveals about employee experience",
       "source": "Spiceworks",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT0Y3cEh6WDh6cWdyUENfYXNMZ3VVandYbkF2YTJXMnE1UFM1bjFkN1RhNWFrelJEQnRQM2RINUdUN1VwbnVUZGk1dmtuRENOdnA4VWdURGJnRVo1cVFHQVhvZXVseE9WXzhOblVCOFdVeHRUMUUwZjVmbG00dENjeWQ2T1FVMnpjX1kxMkZJRkdEQXc5M2dFYnNpQ3pEd1o0YklreHlGZw?oc=5",
       "published": "2026-11-27T13:38:06Z"
-    },
-    {
-      "title": "Microsoft president warns more mass outages are coming",
-      "source": "geekspin",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMmpQbXBYX0RYenlzX2s1TU96dWx3V1JfSzBMc1d2N0RaVmplODJ2RTN6MWFYeE50VGh2aWZORXBibDJkb3htRldWcEpxQjd1RXpadlRKNGhIQ0VVOC1wS1VrM1VxR21DVzZXcldROWl5eXVEYXV3VVhfWEZ4a0p1MA?oc=5",
-      "published": "2026-11-27T12:15:18Z"
     },
     {
       "title": "Microsoft works to restore global Outlook outage affecting Teams and Copilot",
@@ -92,10 +74,28 @@
       "source": "INDIA New England News",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcS1sNFBXcmFTZ0dmYWNSMkxScnJqOTZjWUNoejRLVV92YnFnX245ZWJ6RmJ4eU9SR3dVTlkxajRMUmU0LTRHeFIwVjJkTDN3b2I3YmRmMWNrSlh4Y0drN205di1JQVBTTHlabkUxbzFHN0RxYXV2M0lSRW9ndXhjWVNzMVE5MzFTcThuZmhtUEQydE5RazhaQWhySVpJZWl4VFA1X3hCZXBzTTVpRkY1SkMyNjdTTERkVDRmdC1YRGNWbkRU?oc=5",
       "published": "2026-11-27T01:29:40Z"
+    },
+    {
+      "title": "Microsoft Code Red outage: what its two one-hour goals mean",
+      "source": "NeoTeo",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNamNDbTFhSUpsZS1BdkpoeWlvWHdZeDZfYmo3b2VEQU1aellncWt1c0l5UHJTMTFKb2JRWFpCS1ZiWmJwZWRSOWxlNFJzdURRNU5OUENseDFZby1tUkRWcloweEdIbXE1Y1FHcDJyVWdER0luQlJ0Q1hQNW5PclFEM1EzUjZUZmF6Zjl5NA?oc=5",
+      "published": "2026-11-27T01:07:02Z"
+    },
+    {
+      "title": "Microsoft declares \u2018Code Red\u2019 in wake of global outage",
+      "source": "Cyber Daily",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQTBGNWREVFFpQnNmeDVITEp2NEtmLWNJQW90clRvRjJNYTVWNGZkczdWQWFlcVdiblR0dW9NeVl3c0FNTVpzUjlwMnJhYWpQa19iX2dMMXpMN2N1YXljRTlVMkxidVhuQlczbjE0VUZ3c0NYb0dCNGVyaFVxTDVaUGRhSExrdjY1TjNsSUhtazR4bTQ?oc=5",
+      "published": "2026-11-26T22:20:12Z"
+    },
+    {
+      "title": "No plans to ditch Microsoft 365 despite global outage, says Government ICT",
+      "source": "Cook Islands News",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZjNfLUlldTQ2VVdtazA3MTcwVy1EbDNHV29JaHBaNXo2RVh1UF91cFRyU09UOXMwLTVNdElHTlJFQTQ0MVNJOGFiMTVqTlFrMWlEckduTlI4RlR3VEJOQmw2cHFjNGI0SWdfRVY3d3pMaFlxSkRMUjdNempqc0FPTHRyejdYbmp5Y0FkVEdPNDdkNFczUkpxOS1fSkdVZHdfemtGVmZXSmZOVlNPMVpyR1Rkc2k2bW84Z3pIeUJXOXJkQ0JrRi11TUY4Z1kwR2FZ?oc=5",
+      "published": "2026-11-26T18:33:06Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-27T22:18:12Z",
+    "fetched_at": "2026-11-27T22:40:12Z",
     "items": [],
     "debug": {
       "bytes": 498,
