@@ -1,8 +1,14 @@
 {
-  "fetched_at": "2026-11-27T17:18:26Z",
+  "fetched_at": "2026-11-27T18:17:55Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "What Microsoft's latest Code Red move means for millions of people who use it every day",
+      "source": "UNILAD Tech",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeFNkRjZ2NjFqMjFYTm5rMTBXd1prYUR3a1lua2hHaGsta0dhWVpkREdHbWtteWRLS2ZaUlVyQ29JeXZtUWZCZnVYM1VPOUV5U01sMUE5bEUzb1hkQzN3cG5iMzVYclNsSUhsSE1sbUkwYU5pZ1ZYdXFxNG9iOGxoUC1HY29uUzBNbmQwVTdaUWdYanBxV1FrSk5XS3NvU0piQXJIVg?oc=5",
+      "published": "2026-11-27T16:48:17Z"
+    },
     {
       "title": "What the Microsoft 365 disruption reveals about employee experience",
       "source": "Spiceworks",
@@ -86,16 +92,10 @@
       "source": "The Register",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLWJ6dTBYRUwxN3A3TEJ6eHV5OXB6YmRYN1FXY2IwcjB6T2paQmNuemVuYWJJekhaTGFEOWE5MWxtRnVBaWJjaWZWQWg1NHYxUGlVMmx3VFZfRWxic3JrYTdUNWt4TklsNW10LTc0dExBazEyOVdKTHB5MVBLcGJlZTRzRVJUQlNKMVUyNnVxNk5OSGw0QUVHQzZpWlBVejZ5MXhzUU5aOHd6Q1RrM2RQMm1WLTFwYTRzTHc?oc=5",
       "published": "2026-11-26T17:09:00Z"
-    },
-    {
-      "title": "Cloudflare was hit by Thanksgiving 'outage' just before Black Friday",
-      "source": "Daily Mail",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ0IwalhiWklEc0xJNjRFQ3VUSkgxakh1MDBwdE9uZ3RobmptOWZhVVBYVF84b3lvNkdQVlFKVHFueEI2WExXcHpDdEw5RGw3ZVFOQUZ4UkIyWWNUMnBtTC1mSFItS0JtZjRmbV9VN0tFUkh0ZzhrSFl6T2hpTWt3bVltYWZqUlpDU0xsZ0ppaEhOR3U3UjA0R0tMT3VnTWlzWmdyMnh3?oc=5",
-      "published": "2026-11-26T16:46:09Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-27T17:18:26Z",
+    "fetched_at": "2026-11-27T18:17:55Z",
     "items": [],
     "debug": {
       "bytes": 498,
