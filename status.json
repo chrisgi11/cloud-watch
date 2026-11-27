@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T20:18:01Z",
+  "generated_at": "2026-11-27T20:18:52Z",
   "source": "StatusGator public service pages",
   "services": [
     {
@@ -18,7 +18,7 @@
         "severity": "Warn",
         "duration": "1d 9h 23m"
       },
-      "fetched_at": "2026-11-27T20:18:01Z",
+      "fetched_at": "2026-11-27T20:18:52Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -33,7 +33,7 @@
       "reports_24h": null,
       "active_incident": null,
       "latest_incident": null,
-      "fetched_at": "2026-11-27T20:18:01Z",
+      "fetched_at": "2026-11-27T20:18:52Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -44,11 +44,11 @@
       "url": "https://statusgator.com/services/microsoft-365-apps",
       "status": "up",
       "status_text": "Microsoft 365 apps is up",
-      "sg_last_checked": "November 27, 2026 at 8:12 PM UTC",
+      "sg_last_checked": "November 27, 2026 at 8:17 PM UTC",
       "reports_24h": 2,
       "active_incident": null,
       "latest_incident": null,
-      "fetched_at": "2026-11-27T20:18:01Z",
+      "fetched_at": "2026-11-27T20:18:52Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -68,7 +68,7 @@
         "severity": "Warn",
         "duration": "9h 22m"
       },
-      "fetched_at": "2026-11-27T20:18:01Z",
+      "fetched_at": "2026-11-27T20:18:52Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -83,7 +83,7 @@
       "reports_24h": 0,
       "active_incident": null,
       "latest_incident": null,
-      "fetched_at": "2026-11-27T20:18:01Z",
+      "fetched_at": "2026-11-27T20:18:52Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -103,7 +103,7 @@
         "severity": "Warn",
         "duration": "8h 45m"
       },
-      "fetched_at": "2026-11-27T20:18:01Z",
+      "fetched_at": "2026-11-27T20:18:52Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -118,7 +118,7 @@
       "reports_24h": 0,
       "active_incident": null,
       "latest_incident": null,
-      "fetched_at": "2026-11-27T20:18:01Z",
+      "fetched_at": "2026-11-27T20:18:52Z",
       "fetch_ok": true,
       "fetch_error": null
     }
