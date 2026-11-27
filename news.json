@@ -1,19 +1,31 @@
 {
-  "fetched_at": "2026-11-27T06:17:47Z",
+  "fetched_at": "2026-11-27T07:18:09Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
     {
+      "title": "Possible outage suspected as users report Microsoft Outlook down again",
+      "source": "Neowin",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON3UyS1ZfNlBqZnpaWEtRRWVGNVBvWF81Yk9JZnlHZk41MUdMVVV5MmhhenVyeUo4VXRfb19waVFoX195Q1Q2MS1DV3VBc3hZdlNLN3U4MWhiaGFqX3dRUXpkZHlMcDNvUWxPM2pQN0l1amVTb1pTSm9RV29Tb0h2bmxmV3N6dG52OWJMQmhhTzFLNlZ3TE1URUoxaTJ2c0JH?oc=5",
+      "published": "2026-11-27T06:57:12Z"
+    },
+    {
+      "title": "Microsoft Outlook Outage Today: Is Outlook Not Working? Login Problems and Missing Emails Trigger Fresh Reports Across the US | Check Latest Update",
+      "source": "The Sunday Guardian",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNLWEza1J1NlpkbzFFR1pQVmhmQkhfZzV1QzZzNF94d0JRRVdkcm9yeXp2Zjg3TjdHVmtCNGNCMXBwWm9XcFNUakFocXJvajdZaFd2cG5sY04xTzlRREJWOG5TQUxlVjNLbzBsUWpUZ054UmdXMEFVZE16QUJoTlllaTRIU1lGamQ5RVlyaDV6aWptUUs1aldlOUk1QVVhV0dKWWdNZjVuWlA5aGVHbzdiLWF5ZWdKQ3pfel85c05FekxFdUs4dndFOV91bjNZS0hXY1Z0ZmFkVVd5OHBaT01KMGtRUXRsOUYzc01BOUIxbG1vUWYyZDNKRkNEeXdwZDZmQ3N5T0txaEdHQVN5RG9WcEdlN1lWSUnSAZwCQVVfeXFMTnhRQ1JGRWFBa2lhS2RlM2lDZjdBRnB0bWNCZTZsb0J6dFZzSXM4WFYzWktSTFAzU0dmUWZVU2xpV3lXSjVGNjRTVVcybGpwVFdXa1NxOXdaWHkwc0VJb3Z5ZEJ3YjZzMXM3clRKMmlHQlQxU0phUE81ZDc1VHhtREJqV1VxUFlNRDY0ZXA5aXRXRTJrR3pnNEdWMXBqQXZ6MHp1R0hQYXVpMVZPS3cxNlR3eEc1X1NpazNQanltTG55YWs4Y29BSWNpc1FTSjkwMGNTR0lHZ2x1MmpqY2lteGk2aTRNUFdYRDlmSV9LVElkT0I5V2I2ajVGalJ1RHdSUFEyVGYxVEFVM2NwR09HamoyLUxMaDN0TXZfRUg?oc=5",
+      "published": "2026-11-27T06:52:36Z"
+    },
+    {
+      "title": "Is Microsoft Outlook Down? Microsoft Outlook Users Report Problems On Black Friday, Two Weeks After Outage",
+      "source": "International Business Times Australia",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObVplME85UC1rdmoxR0RYQWxnSVM2eWJuX2hycGJHc1dURFFrd3JHcFVBY0VLemNFaTBTbENVSzFmc25LemhKb3huLURkM29yVkdQQVpxMUl6Y19JVWx4UjZyMEJadGtpNUNZeEo2cWRtY0Rwc0JwenNicTU4dFRTQU50bVMyUkFqd1ZJMmd3?oc=5",
+      "published": "2026-11-27T06:38:11Z"
+    },
+    {
       "title": "Microsoft meltdown: Outlook, Teams and Copilot hit by global outage",
       "source": "IOL",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcUdkZE1oOFJNQ3g5REZ2V1gzMXJmZnZla004ci1oelpldnFDYm1FaHREVXNSanRDRUgwTEI0U3NBU0FaNS1sOU1iQUNDZ0JVOW9qRy15UVdNeUQ2LXlLNDlENmJ0bVJjeXVST1l5dFZDUGZhaVRTM3FocU1ZMk1MTGJGQ1VYd3VpSmpQZTFpLUU0dmpIa1NmRE9mZlR0eTVLMlBCRzc0Z3FYaTlhZEoxc3RR?oc=5",
-      "published": "2026-11-27T04:34:48Z"
-    },
-    {
-      "title": "Microsoft Blames Software Flaw, Traffic Surge and Reduced Capacity for Global Microsoft 365 Outage",
-      "source": "INDIA New England News",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcS1sNFBXcmFTZ0dmYWNSMkxScnJqOTZjWUNoejRLVV92YnFnX245ZWJ6RmJ4eU9SR3dVTlkxajRMUmU0LTRHeFIwVjJkTDN3b2I3YmRmMWNrSlh4Y0drN205di1JQVBTTHlabkUxbzFHN0RxYXV2M0lSRW9ndXhjWVNzMVE5MzFTcThuZmhtUEQydE5RazhaQWhySVpJZWl4VFA1X3hCZXBzTTVpRkY1SkMyNjdTTERkVDRmdC1YRGNWbkRU?oc=5",
-      "published": "2026-11-27T01:29:40Z"
+      "published": "2026-11-27T05:33:22Z"
     },
     {
       "title": "Microsoft Code Red outage: what its two one-hour goals mean",
@@ -38,12 +50,6 @@
       "source": "Cook Islands News",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZjNfLUlldTQ2VVdtazA3MTcwVy1EbDNHV29JaHBaNXo2RVh1UF91cFRyU09UOXMwLTVNdElHTlJFQTQ0MVNJOGFiMTVqTlFrMWlEckduTlI4RlR3VEJOQmw2cHFjNGI0SWdfRVY3d3pMaFlxSkRMUjdNempqc0FPTHRyejdYbmp5Y0FkVEdPNDdkNFczUkpxOS1fSkdVZHdfemtGVmZXSmZOVlNPMVpyR1Rkc2k2bW84Z3pIeUJXOXJkQ0JrRi11TUY4Z1kwR2FZ?oc=5",
       "published": "2026-11-26T18:33:06Z"
-    },
-    {
-      "title": "Microsoft Confirms Global Outage Was Caused By One Of The Kids Downloading Link_Park_Numb.MP3",
-      "source": "The Betoota Advocate",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZWtiR003LU9FRVdCeG9WVzRPVVQya3BYQkxhVXFGcVVpTXZiTWhZZmNMSDFjZ0pzTzViWktxNndsbGlWTVg5NmNIQ0t2LW9MSm5HU3p5Y0FvS1hpYjZhN05ZWGZqVVdmcGEzX1NQRWdETHNQandmaXB3Si1YRVBzcDF2ekhvS0NVdUtkQ3IyczN3dXRSLTdKZVdrZ2JwNmg1aXVuZk44bno4N2tqY0xYSUNWdzdqajk1MndJQmo0NkVUcnlR?oc=5",
-      "published": "2026-11-26T17:50:12Z"
     },
     {
       "title": "Tech's outage problem needs maintenance, not conspiracy theories",
@@ -86,16 +92,10 @@
       "source": "NeoTeo",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdUd2aGR6OGVYNDZJX3RnWVVDTG94OEJDSnVPLVNwSnhyc3lzMG1sOHpBYU5SS2NNRUhqZkhDZm51akRBdlJ0dUo0YUNGYlpzRFAtN3JxODJZNmpFRTJjRk9ONlhIYUh1YUZWSF92ODVwaWlScEJOX1VGU0lMZ0wtZA?oc=5",
       "published": "2026-11-26T13:19:05Z"
-    },
-    {
-      "title": "Microsoft Declares Internal Code Red After Major 21-Hour Outage: What Happened?",
-      "source": "News18",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS1ZLZFp5bnZFY2RKdmxVZk9XRUZsNTgzZTQyb1YxcVVnY0FMUDR1dEtHZ2d1QlMzam9IVU8xcWZuMVJxMng2TlM1R28yRTV0c2h2OU5zdEVjeFZId2x1dzgzYUN4NWlKeU1lVlVxUnRNcDlqYThpMkZyVUhaV015dERhYmpoVG9Gb3dYMEx2QjJoRnd2d3pKT0V1Q203clBKVXJYQmJVWEpNV1hfV0EtS1VscU0wR1Mtb2pBM3dVSDnSAcABQVVfeXFMTktWS2RaeW52RWNkSnZsVWZPV0VGbDU4M2U0Mm9WMXFVZ2NBTFA0dXRLR2dndUJTM2pvSFVPMXFmbjFScTJ4Nk5TNUdvMkU1dHNodjlOc3RFY3hWSHdsdXc4M2FDeDVpSnlNZVZVcVJ0TXA5amE4aTJGclVIWldNeXREYWJqaFRvRm93WDBMdkIyaEZ3dnd6Sk9FdUNtN3JQSlVyWEJiVVhKTVdYX1dBLUtVbHFNMEdTLW9qQTN3VUg5?oc=5",
-      "published": "2026-11-26T11:47:41Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-27T06:17:47Z",
+    "fetched_at": "2026-11-27T07:18:09Z",
     "items": [],
     "debug": {
       "bytes": 498,
