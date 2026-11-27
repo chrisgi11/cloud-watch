@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T23:18:35Z",
+  "generated_at": "2026-11-27T00:18:01Z",
   "source": "StatusGator public service pages",
   "services": [
     {
@@ -9,7 +9,7 @@
       "url": "https://statusgator.com/services/microsoft-teams",
       "status": "up",
       "status_text": "Microsoft Teams is up",
-      "sg_last_checked": "November 26, 2026 at 11:16 PM UTC",
+      "sg_last_checked": "November 27, 2026 at 12:16 AM UTC",
       "reports_24h": 4,
       "active_incident": null,
       "latest_incident": {
@@ -18,7 +18,7 @@
         "severity": "Warn",
         "duration": "1d 9h 23m"
       },
-      "fetched_at": "2026-11-26T23:18:35Z",
+      "fetched_at": "2026-11-27T00:18:01Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -29,13 +29,13 @@
       "url": "https://statusgator.com/services/exchange-online",
       "status": "up",
       "status_text": "Exchange Online is up",
-      "sg_last_checked": "November 26, 2026 at 6:13 PM UTC",
-      "reports_24h": 0,
+      "sg_last_checked": "November 27, 2026 at 12:13 AM UTC",
+      "reports_24h": null,
       "active_incident": null,
       "latest_incident": null,
-      "fetched_at": "2026-11-26T18:18:21Z",
-      "fetch_ok": false,
-      "fetch_error": "StopIteration: "
+      "fetched_at": "2026-11-27T00:18:01Z",
+      "fetch_ok": true,
+      "fetch_error": null
     },
     {
       "id": "m365-apps",
@@ -44,11 +44,11 @@
       "url": "https://statusgator.com/services/microsoft-365-apps",
       "status": "up",
       "status_text": "Microsoft 365 apps is up",
-      "sg_last_checked": "November 26, 2026 at 11:17 PM UTC",
+      "sg_last_checked": "November 27, 2026 at 12:17 AM UTC",
       "reports_24h": 3,
       "active_incident": null,
       "latest_incident": null,
-      "fetched_at": "2026-11-26T23:18:35Z",
+      "fetched_at": "2026-11-27T00:18:01Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -59,7 +59,7 @@
       "url": "https://statusgator.com/services/microsoft-365-suite",
       "status": "up",
       "status_text": "Microsoft 365 suite is up",
-      "sg_last_checked": "November 26, 2026 at 11:13 PM UTC",
+      "sg_last_checked": "November 27, 2026 at 12:08 AM UTC",
       "reports_24h": 0,
       "active_incident": null,
       "latest_incident": {
@@ -68,7 +68,7 @@
         "severity": "Warn",
         "duration": "9h 22m"
       },
-      "fetched_at": "2026-11-26T23:18:35Z",
+      "fetched_at": "2026-11-27T00:18:01Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -79,11 +79,11 @@
       "url": "https://statusgator.com/services/azure",
       "status": "up",
       "status_text": "Azure is up",
-      "sg_last_checked": "November 26, 2026 at 11:15 PM UTC",
+      "sg_last_checked": "November 27, 2026 at 12:14 AM UTC",
       "reports_24h": 4,
       "active_incident": null,
       "latest_incident": null,
-      "fetched_at": "2026-11-26T23:18:35Z",
+      "fetched_at": "2026-11-27T00:18:01Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -94,7 +94,7 @@
       "url": "https://statusgator.com/services/microsoft-entra",
       "status": "up",
       "status_text": "Microsoft Entra is up",
-      "sg_last_checked": "November 26, 2026 at 11:13 PM UTC",
+      "sg_last_checked": "November 27, 2026 at 12:13 AM UTC",
       "reports_24h": 0,
       "active_incident": null,
       "latest_incident": {
@@ -103,7 +103,7 @@
         "severity": "Warn",
         "duration": "8h 45m"
       },
-      "fetched_at": "2026-11-26T23:18:35Z",
+      "fetched_at": "2026-11-27T00:18:01Z",
       "fetch_ok": true,
       "fetch_error": null
     },
@@ -114,11 +114,11 @@
       "url": "https://statusgator.com/services/power-platform",
       "status": "up",
       "status_text": "Power Platform is up",
-      "sg_last_checked": "November 26, 2026 at 11:15 PM UTC",
+      "sg_last_checked": "November 27, 2026 at 12:16 AM UTC",
       "reports_24h": 0,
       "active_incident": null,
       "latest_incident": null,
-      "fetched_at": "2026-11-26T23:18:35Z",
+      "fetched_at": "2026-11-27T00:18:01Z",
       "fetch_ok": true,
       "fetch_error": null
     }
