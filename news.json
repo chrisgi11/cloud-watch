@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-11-27T08:17:54Z",
+  "fetched_at": "2026-11-27T09:18:06Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
     {
-      "title": "Microsoft outage hits South African businesses, government services and universities",
-      "source": "IOL",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPendFUktGazBkcURFNFpQUjZEWnVwWWNNb1MwVkxjSFdpejVTOW13VExocHpTaTVRSmRaMnlkLTFDUzNzb2kxNm5oZUlRR185V2laWU5fYVFRbURRdExXUFVfVFBSSHRpYXBqb1NGVTVuMjlfSWRUZmx1U0hseEk0MGRrV0ZIWVU1MER2bVNOSWM2YUJhaVMtdUctdklJU20yQkRpZVIzb19OSDNqVE9uU3Vyb0JpbkcwMzZZdnJYaw?oc=5",
-      "published": "2026-11-27T07:16:32Z"
+      "title": "Cloudflare Dashboard, API Suffer Two-Hour Outage",
+      "source": "Wisevoter",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdTkxYzlpTGRPM1dhVGxHUDVDcTc5bEhZNktnWk53YUpZYTAwblJ0VUZuMVE5M1VnT2FwX2VKb0prNGRpX0VGWFc4LTdBZmlDUmo1SmpxU1luU3JXaEZmRVNZNHBkZHI4alJ4M1dIVkh1S0pWNDdxXzl3b1hsd1Rva29XeXgydG9jdFJ2dg?oc=5",
+      "published": "2026-11-27T08:43:03Z"
     },
     {
       "title": "Possible outage suspected as users report Microsoft Outlook down again",
@@ -18,8 +18,8 @@
     {
       "title": "Microsoft Outlook Outage Today: Is Outlook Not Working? Login Problems and Missing Emails Trigger Fresh Reports Across the US | Check Latest Update",
       "source": "The Sunday Guardian",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNLWEza1J1NlpkbzFFR1pQVmhmQkhfZzV1QzZzNF94d0JRRVdkcm9yeXp2Zjg3TjdHVmtCNGNCMXBwWm9XcFNUakFocXJvajdZaFd2cG5sY04xTzlRREJWOG5TQUxlVjNLbzBsUWpUZ054UmdXMEFVZE16QUJoTlllaTRIU1lGamQ5RVlyaDV6aWptUUs1aldlOUk1QVVhV0dKWWdNZjVuWlA5aGVHbzdiLWF5ZWdKQ3pfel85c05FekxFdUs4dndFOV91bjNZS0hXY1Z0ZmFkVVd5OHBaT01KMGtRUXRsOUYzc01BOUIxbG1vUWYyZDNKRkNEeXdwZDZmQ3N5T0txaEdHQVN5RG9WcEdlN1lWSUnSAZwCQVVfeXFMTnhRQ1JGRWFBa2lhS2RlM2lDZjdBRnB0bWNCZTZsb0J6dFZzSXM4WFYzWktSTFAzU0dmUWZVU2xpV3lXSjVGNjRTVVcybGpwVFdXa1NxOXdaWHkwc0VJb3Z5ZEJ3YjZzMXM3clRKMmlHQlQxU0phUE81ZDc1VHhtREJqV1VxUFlNRDY0ZXA5aXRXRTJrR3pnNEdWMXBqQXZ6MHp1R0hQYXVpMVZPS3cxNlR3eEc1X1NpazNQanltTG55YWs4Y29BSWNpc1FTSjkwMGNTR0lHZ2x1MmpqY2lteGk2aTRNUFdYRDlmSV9LVElkT0I5V2I2ajVGalJ1RHdSUFEyVGYxVEFVM2NwR09HamoyLUxMaDN0TXZfRUg?oc=5",
-      "published": "2026-11-27T06:52:36Z"
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOeFFDUkZFYUFraWFLZGUzaUNmN0FGcHRtY0JlNmxvQnp0VnNJczhYVjNaS1JMUDNTR2ZRZlVTbGlXeVdKNUY2NFNVVzJsanBUV1drU3E5d1pYeTBzRUlvdnlkQndiNnMxczdyVEoyaUdCVDFTSmFQTzVkNzVUeG1EQmpXVXFQWU1ENjRlcDlpdFdFMmtHemc0R1YxcGpBdnowenVHSFBhdWkxVk9LdzE2VHd4RzVfU2lrM1BqeW1Mbnlhazhjb0FJY2lzUVNKOTAwY1NHSUdnbHUyampjaW14aTZpNE1QV1hEOWZJX0tUSWRPQjlXYjZqNUZqUnVEd1JQUTJUZjFUQVUzY3BHT0dqajItTExoM3RNdl9FSNIBnAJBVV95cUxOeFFDUkZFYUFraWFLZGUzaUNmN0FGcHRtY0JlNmxvQnp0VnNJczhYVjNaS1JMUDNTR2ZRZlVTbGlXeVdKNUY2NFNVVzJsanBUV1drU3E5d1pYeTBzRUlvdnlkQndiNnMxczdyVEoyaUdCVDFTSmFQTzVkNzVUeG1EQmpXVXFQWU1ENjRlcDlpdFdFMmtHemc0R1YxcGpBdnowenVHSFBhdWkxVk9LdzE2VHd4RzVfU2lrM1BqeW1Mbnlhazhjb0FJY2lzUVNKOTAwY1NHSUdnbHUyampjaW14aTZpNE1QV1hEOWZJX0tUSWRPQjlXYjZqNUZqUnVEd1JQUTJUZjFUQVUzY3BHT0dqajItTExoM3RNdl9FSA?oc=5",
+      "published": "2026-11-27T06:52:37Z"
     },
     {
       "title": "Is Microsoft Outlook Down? Microsoft Outlook Users Report Problems On Black Friday, Two Weeks After Outage",
@@ -31,7 +31,7 @@
       "title": "Microsoft meltdown: Outlook, Teams and Copilot hit by global outage",
       "source": "IOL",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcUdkZE1oOFJNQ3g5REZ2V1gzMXJmZnZla004ci1oelpldnFDYm1FaHREVXNSanRDRUgwTEI0U3NBU0FaNS1sOU1iQUNDZ0JVOW9qRy15UVdNeUQ2LXlLNDlENmJ0bVJjeXVST1l5dFZDUGZhaVRTM3FocU1ZMk1MTGJGQ1VYd3VpSmpQZTFpLUU0dmpIa1NmRE9mZlR0eTVLMlBCRzc0Z3FYaTlhZEoxc3RR?oc=5",
-      "published": "2026-11-27T05:33:22Z"
+      "published": "2026-11-27T06:32:24Z"
     },
     {
       "title": "Microsoft Blames Software Flaw, Traffic Surge and Reduced Capacity for Global Microsoft 365 Outage",
@@ -95,7 +95,7 @@
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-27T08:17:54Z",
+    "fetched_at": "2026-11-27T09:18:06Z",
     "items": [],
     "debug": {
       "bytes": 498,
