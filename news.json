@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-27T12:18:42Z",
+  "fetched_at": "2026-11-27T13:18:27Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
@@ -10,10 +10,28 @@
       "published": "2026-11-27T11:08:19Z"
     },
     {
+      "title": "Microsoft works to restore global Outlook outage affecting Teams and Copilot",
+      "source": "IOL",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObFZzaU8tbVRBMmRpb0V5bUlKcmc1VWstampqcjRwbkUtX2ZCR2NwRGtpZXh3RkVPd2RZUUEtdlkzOHlqR2h5c1F4Ymx2R2x6SExiZjVaUm1qVHRkaG5kTVJMYWFsVHhRSUtKM2ttb25hbmlhb29YTVE1Zl81ZlNucGFySktmWEpNaWJlczFlbk50Vm96M25lTEJkc1p6d3dWQndiXzVuWS1aZ0psY3phMkZudVhpYUNINHpJ?oc=5",
+      "published": "2026-11-27T10:43:40Z"
+    },
+    {
+      "title": "Allstate Outage: Can\u2019t Pay Your Bill? Here\u2019s What Happens to Your Coverage",
+      "source": "TechRepublic",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTDh3bHB4SjIyOG53MDBPUnE1Vlg4VW5wSENaNjZpYk0zVlkycGR3dk95S0dUa1RjeWl5LV96T2NZS1R3bDhqYmlsNU5CRHRZT01lTEVKNmxDZFJqTF9LbEhEa2ltbHp4QUZOQkNBOHBMOHFXYlJKY3BFOFhWYk9XQw?oc=5",
+      "published": "2026-11-27T10:38:10Z"
+    },
+    {
       "title": "Microsoft meltdown: Outlook, Teams and Copilot hit by global outage",
       "source": "IOL",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcUdkZE1oOFJNQ3g5REZ2V1gzMXJmZnZla004ci1oelpldnFDYm1FaHREVXNSanRDRUgwTEI0U3NBU0FaNS1sOU1iQUNDZ0JVOW9qRy15UVdNeUQ2LXlLNDlENmJ0bVJjeXVST1l5dFZDUGZhaVRTM3FocU1ZMk1MTGJGQ1VYd3VpSmpQZTFpLUU0dmpIa1NmRE9mZlR0eTVLMlBCRzc0Z3FYaTlhZEoxc3RR?oc=5",
       "published": "2026-11-27T10:25:30Z"
+    },
+    {
+      "title": "Microsoft Confirms Global Outage Was Caused By One Of The Kids Downloading Link_Park_Numb.MP3",
+      "source": "The Betoota Advocate",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZWtiR003LU9FRVdCeG9WVzRPVVQya3BYQkxhVXFGcVVpTXZiTWhZZmNMSDFjZ0pzTzViWktxNndsbGlWTVg5NmNIQ0t2LW9MSm5HU3p5Y0FvS1hpYjZhN05ZWGZqVVdmcGEzX1NQRWdETHNQandmaXB3Si1YRVBzcDF2ekhvS0NVdUtkQ3IyczN3dXRSLTdKZVdrZ2JwNmg1aXVuZk44bno4N2tqY0xYSUNWdzdqajk1MndJQmo0NkVUcnlR?oc=5",
+      "published": "2026-11-27T09:46:04Z"
     },
     {
       "title": "Cloudflare Dashboard, API Suffer Two-Hour Outage",
@@ -74,28 +92,10 @@
       "source": "Daily Mail",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ0IwalhiWklEc0xJNjRFQ3VUSkgxakh1MDBwdE9uZ3RobmptOWZhVVBYVF84b3lvNkdQVlFKVHFueEI2WExXcHpDdEw5RGw3ZVFOQUZ4UkIyWWNUMnBtTC1mSFItS0JtZjRmbV9VN0tFUkh0ZzhrSFl6T2hpTWt3bVltYWZqUlpDU0xsZ0ppaEhOR3U3UjA0R0tMT3VnTWlzWmdyMnh3?oc=5",
       "published": "2026-11-26T16:46:09Z"
-    },
-    {
-      "title": "Microsoft Declares Code Red Following Historic Microsoft 365 Outage",
-      "source": "The Mac Observer",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMi1xbWdYa04xS0h2dUdQOWVRbUoyWVVURVhybHpma0docUhmZjY4MV9KRGp3Q1gyVHNaMmxBbWtVR3lkMllic3Z0akNodVYyMDlsUFdwSzJWQlhnUVdKY0JmWlhvcUppWnp2c2FkQ2VrY2Q4M2p3cGY5VzB3SWdvdnVNenVtOHRFVDB3QWZCWTR2MmNmTkFCd1cyUWE3NDZLRGdv?oc=5",
-      "published": "2026-11-26T16:04:19Z"
-    },
-    {
-      "title": "Allstate hit by multi-day tech outage ahead of Thanksgiving travel",
-      "source": "geekspin",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWnI0eXhyaDZ0d3lqQ3pnMUJKbDhNb3R3N2VFZndhVjJzMkJ1a3lySUlVSDU0V2M0bWN5MlFkTTlOT1BmUG5MOEJHOW4wTEp2VGpiV1RJWlNCUzV5c3NBZnRiUmhsT3Bzd1djakpNRVJnajdCMWJfUUJDdmJuWk1iV1REcXRIQ3h5ZUxxS2JUU3Q?oc=5",
-      "published": "2026-11-26T16:00:21Z"
-    },
-    {
-      "title": "What went wrong during Microsoft's 24-hour outage and what happens next?",
-      "source": "HT Tech",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOX05ETXViZUV3cUg1YzRNelJiZWlWVkdvUUtQbkdZQUEzTUxlMzRCVVZ3Wm1qb0hzMzJMWi0tVzJ6VjNac3gwd053dnZkSVNNQnVfSmR0WjcxbHpjX3VEaGFRdk9RcDZfSWdESkctV0FPWWtsYWlRUWRHZWY5ZGk2V0JQN053TTNUZlhXaWZJZEl6QW9pUFBsWVlJTmpfNTdkUGY4LUlFSFRrRUVZQW9QdHpIbE5ySFFNbkNvWGZDcUN2WGI3b1ZjVXk3Ty1XSnhsWk13WmI5dGtIQTZWbVJXSGVoQnQ0cjQ?oc=5",
-      "published": "2026-11-26T15:44:38Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-27T12:18:42Z",
+    "fetched_at": "2026-11-27T13:18:28Z",
     "items": [],
     "debug": {
       "bytes": 498,
