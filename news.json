@@ -1,19 +1,25 @@
 {
-  "fetched_at": "2026-11-27T03:17:47Z",
+  "fetched_at": "2026-11-27T04:17:49Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Microsoft meltdown: Outlook, Teams and Copilot hit by global outage",
+      "source": "IOL",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcUdkZE1oOFJNQ3g5REZ2V1gzMXJmZnZla004ci1oelpldnFDYm1FaHREVXNSanRDRUgwTEI0U3NBU0FaNS1sOU1iQUNDZ0JVOW9qRy15UVdNeUQ2LXlLNDlENmJ0bVJjeXVST1l5dFZDUGZhaVRTM3FocU1ZMk1MTGJGQ1VYd3VpSmpQZTFpLUU0dmpIa1NmRE9mZlR0eTVLMlBCRzc0Z3FYaTlhZEoxc3RR?oc=5",
+      "published": "2026-11-27T02:38:30Z"
+    },
+    {
+      "title": "Microsoft Blames Software Flaw, Traffic Surge and Reduced Capacity for Global Microsoft 365 Outage",
+      "source": "INDIA New England News",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcS1sNFBXcmFTZ0dmYWNSMkxScnJqOTZjWUNoejRLVV92YnFnX245ZWJ6RmJ4eU9SR3dVTlkxajRMUmU0LTRHeFIwVjJkTDN3b2I3YmRmMWNrSlh4Y0drN205di1JQVBTTHlabkUxbzFHN0RxYXV2M0lSRW9ndXhjWVNzMVE5MzFTcThuZmhtUEQydE5RazhaQWhySVpJZWl4VFA1X3hCZXBzTTVpRkY1SkMyNjdTTERkVDRmdC1YRGNWbkRU?oc=5",
+      "published": "2026-11-27T01:29:40Z"
+    },
     {
       "title": "Microsoft Code Red outage: what its two one-hour goals mean",
       "source": "NeoTeo",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNamNDbTFhSUpsZS1BdkpoeWlvWHdZeDZfYmo3b2VEQU1aellncWt1c0l5UHJTMTFKb2JRWFpCS1ZiWmJwZWRSOWxlNFJzdURRNU5OUENseDFZby1tUkRWcloweEdIbXE1Y1FHcDJyVWdER0luQlJ0Q1hQNW5PclFEM1EzUjZUZmF6Zjl5NA?oc=5",
       "published": "2026-11-27T01:07:02Z"
-    },
-    {
-      "title": "Microsoft meltdown: Outlook, Teams and Copilot hit by global outage",
-      "source": "IOL",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcUdkZE1oOFJNQ3g5REZ2V1gzMXJmZnZla004ci1oelpldnFDYm1FaHREVXNSanRDRUgwTEI0U3NBU0FaNS1sOU1iQUNDZ0JVOW9qRy15UVdNeUQ2LXlLNDlENmJ0bVJjeXVST1l5dFZDUGZhaVRTM3FocU1ZMk1MTGJGQ1VYd3VpSmpQZTFpLUU0dmpIa1NmRE9mZlR0eTVLMlBCRzc0Z3FYaTlhZEoxc3RR?oc=5",
-      "published": "2026-11-27T00:42:03Z"
     },
     {
       "title": "Hackers exploit Microsoft 365 outage",
@@ -22,7 +28,7 @@
       "published": "2026-11-26T23:48:41Z"
     },
     {
-      "title": "Microsoft declares 'Code Red' in wake of global outage",
+      "title": "Microsoft declares \u2018Code Red\u2019 in wake of global outage",
       "source": "Cyber Daily",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQTBGNWREVFFpQnNmeDVITEp2NEtmLWNJQW90clRvRjJNYTVWNGZkczdWQWFlcVdiblR0dW9NeVl3c0FNTVpzUjlwMnJhYWpQa19iX2dMMXpMN2N1YXljRTlVMkxidVhuQlczbjE0VUZ3c0NYb0dCNGVyaFVxTDVaUGRhSExrdjY1TjNsSUhtazR4bTQ?oc=5",
       "published": "2026-11-26T22:20:12Z"
@@ -82,20 +88,14 @@
       "published": "2026-11-26T13:19:05Z"
     },
     {
-      "title": "Microsoft Declares Code Red: 24-Hour Outage & NCR Impact",
-      "source": "theoptimist.news",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1NFNpNEJrMzFpNFZYSmY4OC01cThkQjNsd3NMUHkzNERtRlBoSUlEVjY4cE12R0Y0eFl3eGpnV05kNWNlemJtZExTQVBaa2JqUzk0T1Zxc0NGTWo1cEN4b0c3OA?oc=5",
-      "published": "2026-11-26T10:31:30Z"
-    },
-    {
-      "title": "Microsoft sets one-hour recovery goal after worst-ever M365 outage",
-      "source": "Computerworld",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVlQtdXhxMHVCRHN4eU1aNnQ1d2YwWERaZjlLWVlfVkhYMFZ4ejcxZ2dsY2NLM3ZERlBLeXlMOUJfNW5jbjA5TWpTb21TeUh2aUlDVUpUSXBiRUZYQV9WRUdtUENCVWxnNjVjcDM1MjZhUWJXSlFDVjJKcE1oRWNqUnczdG9VVlRSeG1TUUhrQXljeGYweHNMS1NJXzVkMkt2cTRzdWc5WERTX3NqcW1aX2RRVk1UMzVI?oc=5",
-      "published": "2026-11-26T10:21:57Z"
+      "title": "Microsoft Declares Internal Code Red After Major 21-Hour Outage: What Happened?",
+      "source": "News18",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS1ZLZFp5bnZFY2RKdmxVZk9XRUZsNTgzZTQyb1YxcVVnY0FMUDR1dEtHZ2d1QlMzam9IVU8xcWZuMVJxMng2TlM1R28yRTV0c2h2OU5zdEVjeFZId2x1dzgzYUN4NWlKeU1lVlVxUnRNcDlqYThpMkZyVUhaV015dERhYmpoVG9Gb3dYMEx2QjJoRnd2d3pKT0V1Q203clBKVXJYQmJVWEpNV1hfV0EtS1VscU0wR1Mtb2pBM3dVSDnSAcABQVVfeXFMTktWS2RaeW52RWNkSnZsVWZPV0VGbDU4M2U0Mm9WMXFVZ2NBTFA0dXRLR2dndUJTM2pvSFVPMXFmbjFScTJ4Nk5TNUdvMkU1dHNodjlOc3RFY3hWSHdsdXc4M2FDeDVpSnlNZVZVcVJ0TXA5amE4aTJGclVIWldNeXREYWJqaFRvRm93WDBMdkIyaEZ3dnd6Sk9FdUNtN3JQSlVyWEJiVVhKTVdYX1dBLUtVbHFNMEdTLW9qQTN3VUg5?oc=5",
+      "published": "2026-11-26T11:47:41Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-27T03:17:48Z",
+    "fetched_at": "2026-11-27T04:17:49Z",
     "items": [],
     "debug": {
       "bytes": 498,
