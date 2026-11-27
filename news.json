@@ -1,8 +1,14 @@
 {
-  "fetched_at": "2026-11-27T00:18:01Z",
+  "fetched_at": "2026-11-27T01:18:19Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Microsoft Code Red outage: what its two one-hour goals mean",
+      "source": "NeoTeo",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNamNDbTFhSUpsZS1BdkpoeWlvWHdZeDZfYmo3b2VEQU1aellncWt1c0l5UHJTMTFKb2JRWFpCS1ZiWmJwZWRSOWxlNFJzdURRNU5OUENseDFZby1tUkRWcloweEdIbXE1Y1FHcDJyVWdER0luQlJ0Q1hQNW5PclFEM1EzUjZUZmF6Zjl5NA?oc=5",
+      "published": "2026-11-27T01:07:02Z"
+    },
     {
       "title": "Microsoft declares 'Code Red' in wake of global outage",
       "source": "Cyber Daily",
@@ -64,12 +70,6 @@
       "published": "2026-11-26T13:19:05Z"
     },
     {
-      "title": "Microsoft Declares Internal Code Red After Major 21-Hour Outage: What Happened?",
-      "source": "News18",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS1ZLZFp5bnZFY2RKdmxVZk9XRUZsNTgzZTQyb1YxcVVnY0FMUDR1dEtHZ2d1QlMzam9IVU8xcWZuMVJxMng2TlM1R28yRTV0c2h2OU5zdEVjeFZId2x1dzgzYUN4NWlKeU1lVlVxUnRNcDlqYThpMkZyVUhaV015dERhYmpoVG9Gb3dYMEx2QjJoRnd2d3pKT0V1Q203clBKVXJYQmJVWEpNV1hfV0EtS1VscU0wR1Mtb2pBM3dVSDnSAcABQVVfeXFMTktWS2RaeW52RWNkSnZsVWZPV0VGbDU4M2U0Mm9WMXFVZ2NBTFA0dXRLR2dndUJTM2pvSFVPMXFmbjFScTJ4Nk5TNUdvMkU1dHNodjlOc3RFY3hWSHdsdXc4M2FDeDVpSnlNZVZVcVJ0TXA5amE4aTJGclVIWldNeXREYWJqaFRvRm93WDBMdkIyaEZ3dnd6Sk9FdUNtN3JQSlVyWEJiVVhKTVdYX1dBLUtVbHFNMEdTLW9qQTN3VUg5?oc=5",
-      "published": "2026-11-26T11:47:41Z"
-    },
-    {
       "title": "Hackers exploit Microsoft 365 outage",
       "source": "Daily Tribune",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5lTDYzSUEzWnpZQkwwU3ppWW5RT3Q3ZDVWTzU0YWxHemRCbHNxLS0zZjl5RjZISTcxMkVyZ3lZZHRLSFNMdHV4VXg4ZnhjeUJueWMxbDZsaDgzT1dGSHB5V1BzUHIzZXE5bk92SW5aNncxcVVQdWdQdmp3?oc=5",
@@ -95,7 +95,7 @@
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-27T00:18:01Z",
+    "fetched_at": "2026-11-27T01:18:20Z",
     "items": [],
     "debug": {
       "bytes": 498,
