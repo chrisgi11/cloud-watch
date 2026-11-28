@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-28T09:17:54Z",
+  "fetched_at": "2026-11-28T10:17:50Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
@@ -7,13 +7,19 @@
       "title": "Microsoft outage hits South African businesses, government services and universities",
       "source": "IOL",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPendFUktGazBkcURFNFpQUjZEWnVwWWNNb1MwVkxjSFdpejVTOW13VExocHpTaTVRSmRaMnlkLTFDUzNzb2kxNm5oZUlRR185V2laWU5fYVFRbURRdExXUFVfVFBSSHRpYXBqb1NGVTVuMjlfSWRUZmx1U0hseEk0MGRrV0ZIWVU1MER2bVNOSWM2YUJhaVMtdUctdklJU20yQkRpZVIzb19OSDNqVE9uU3Vyb0JpbkcwMzZZdnJYaw?oc=5",
-      "published": "2026-11-28T07:44:23Z"
+      "published": "2026-11-28T08:42:35Z"
+    },
+    {
+      "title": "MICROSOFT DECLARES 'CODE RED' AFTER MAJOR MICROSOFT 365 OUTAGE INTERNAL MEMOS SHOW",
+      "source": "Magzter",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZWtxbndsSFJrVzJzY1ZGaDdUN191alB1Wnk4YlJCVUp0bEtNeDloeTRlYkF5ODZXRjJzWnNzTkJnQjBoRlJDbVRFZEl3UDFOSk94U2d3QVc3VDA3STA2bzNYSXRRM2hiWF8xMWdOWFc3R19zUFRYTkduQmNwVEVMOFNpM0NONkdmT1V1bnJqTGJ6Y0tnbFM2SVBLcXA2WW5nZEluQmhDUDBGMVloeVZIck8xNEZ3RDVuNG1vSkQyNFplTi13Wmh6R0l5ZHc3STBVQkZZ?oc=5",
+      "published": "2026-11-28T08:26:55Z"
     },
     {
       "title": "Microsoft meltdown: Outlook, Teams and Copilot hit by global outage",
       "source": "IOL",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcUdkZE1oOFJNQ3g5REZ2V1gzMXJmZnZla004ci1oelpldnFDYm1FaHREVXNSanRDRUgwTEI0U3NBU0FaNS1sOU1iQUNDZ0JVOW9qRy15UVdNeUQ2LXlLNDlENmJ0bVJjeXVST1l5dFZDUGZhaVRTM3FocU1ZMk1MTGJGQ1VYd3VpSmpQZTFpLUU0dmpIa1NmRE9mZlR0eTVLMlBCRzc0Z3FYaTlhZEoxc3RR?oc=5",
-      "published": "2026-11-28T07:00:15Z"
+      "published": "2026-11-28T07:58:29Z"
     },
     {
       "title": "What went wrong with Microsoft? Local expert explains global outage hitting SA",
@@ -40,28 +46,10 @@
       "published": "2026-11-28T01:22:38Z"
     },
     {
-      "title": "JERA in talks with US tech giants for Japan data centres",
-      "source": "TechGig",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM21WNG1ST3pWOHFYM0toaHZRR2REelY0OTZhWEZ1UkhkenplY3EyRjVHa1RiNmd6ZmFwY0hSLUtMeGpZc1hGQlZ6WUxWX0JmUDBib2N5ZHFUTUkzazNNWTVwLTZVV3Zud0NuZnZzZ1ZJeU5Gam9PRWZtMDBNSnpZekRMR0poQTN1NFNHMF9JVnkyTGoxcjNzenVrcXJxbHZ3ZGtHUkkwaTVXcEJCWWswSUtn0gG3AUFVX3lxTFBpN25FdlJzMFV3ZEE4ekpUa1lvWnNZUEJqYUtSRUFzT2xkZHZVMVFQUk5ReGFEYTQ3NFJoN3pJMXFyQkpUZl9PSXByMXdFTFJQYzViZjZ5XzhOSDJCWkxRZWhRTXNlWjZZR21vQVdmMElLdHVILXoxY2dBQ2E0WnBydjBHTHM3czZzanlqeFZNU0tidWpVLWtuQzVyRjVxV3JzWGllZi0zQnQzaHRFaHN1dlRzUGg1OA?oc=5",
-      "published": "2026-11-28T00:42:22Z"
-    },
-    {
-      "title": "Power restored at OR Tambo after outage, but delays persist",
-      "source": "https://www.thetraveler.org/",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVHBsUlVRa2NnekFFeEhVYjdzNFBUYTI2S1hlaVRJMlViaVo1MmR3LXBtWG13RHN1LUN4QmszUzF1bExLTjQtYUNkT2NwclR1LWFEd1podThQTXpCWHdGUWZOTG51RThTd2NyRVpKRDJEWVpscXJYUWZJeFRMTjRjMTBMaXR6UzM5d3A2X1o4V3A?oc=5",
-      "published": "2026-11-28T00:12:37Z"
-    },
-    {
       "title": "Microsoft Blames Software Flaw, Traffic Surge and Reduced Capacity for Global Microsoft 365 Outage",
       "source": "INDIA New England News",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcS1sNFBXcmFTZ0dmYWNSMkxScnJqOTZjWUNoejRLVV92YnFnX245ZWJ6RmJ4eU9SR3dVTlkxajRMUmU0LTRHeFIwVjJkTDN3b2I3YmRmMWNrSlh4Y0drN205di1JQVBTTHlabkUxbzFHN0RxYXV2M0lSRW9ndXhjWVNzMVE5MzFTcThuZmhtUEQydE5RazhaQWhySVpJZWl4VFA1X3hCZXBzTTVpRkY1SkMyNjdTTERkVDRmdC1YRGNWbkRU?oc=5",
       "published": "2026-11-27T22:31:08Z"
-    },
-    {
-      "title": "Allstate Outage Disrupts Claims, Roadside Help Over Holiday",
-      "source": "Newsmax",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOXFMR3BzSmZBcE1VRjRmenNhSW9EdGN0dkdvNXJxR2twUmJGZmNlaHdfdWEzNE5uZG5CaFBmTzcwQXVkM2x3LWtyeFpOelRGeEk5ZE9oTGhyZGxOalRpUWl5ck1DbmpsWkwtTmNlUFpwRnp5TVU5OVRCNk1ZRDd3VzBjUTR3Mk5tSHc?oc=5",
-      "published": "2026-11-27T21:18:43Z"
     },
     {
       "title": "Microsoft (MSFT) Stock Edges Up to $492.85 in Afternoon Trading",
@@ -76,26 +64,38 @@
       "published": "2026-11-27T19:01:14Z"
     },
     {
-      "title": "Devs report GitHub outage again with 504 timeout errors",
-      "source": "Neowin",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMXVPbjRGZlZ2VjZxNUFweEF0RU9GTnVmTGt3Q3NlcktjUTl6SWZIakVxOS1nMmV4OVpJSFA5amtoVVJTSjNDWWVfejlOYUtPZ3RaUWRmNURzQ3pDZzNPcWJldl94bHlocU5DaVVfQk9UaHRndE1qOFJBS0x0UDFsZ0JYbkM4RW8td1RWYg?oc=5",
-      "published": "2026-11-27T18:45:36Z"
-    },
-    {
       "title": "Microsoft Stocks Rise 0.26% as Code Red Targets One-Hour Outage Recovery",
       "source": "TradingView",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeUFYRVZ6X21ZNW1UWmFlTUxyYjgzLWlQeUlBN19OUVo0ZldoSnNfWGstWTlCdFBlaFVFS19TcHlIa3IyTk5BQlVCbzlqUGFtM051UGV3WnE3MmVSLXdmd0RPZF8yX3dYMFo4NUxTakp6WmI2TVhueGh6MHNtSnFWS29pLVpPTG9FNE5wQzQtVHhBcjVCb3FMTzlJSWh6ei1qZzNqTTAzMHdaSlhHckpQa2daWEVFLU5wYXNfd0NUck03bl82eDhrUnlhYw?oc=5",
       "published": "2026-11-27T18:23:20Z"
     },
     {
-      "title": "Tech Outage Boots Top U.S. Company Offline for Four Days",
-      "source": "The Daily Beast",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR0tTZzZROHFGV0hpZ0twdHZSYjR1c3RpcXU5U09jSF9FdHh5dVZLSElKT3Y5N0I0akEtQjJNYTQtQnN4ZFNERVBIN1pWeU5KS0dWd01McWhOVXc4WlZvejFVTHJFWmxSZXcxN3ZrSXA0clI3WURHNG9IbGt6S0laX0pVcEFybWliVUh2R3Byb19seEEz?oc=5",
-      "published": "2026-11-27T18:08:03Z"
+      "title": "Allstate roiled by tech outage over Thanksgiving week",
+      "source": "CBS News",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVnhyX20tNWl0ZzUyT1Zia2VPYmI2WGx4czNSVTFnRm5OcVBJaThFX0pVSTBxRm5qTEZHbzhrSGh0SVNPazJBWFpIRmk2YmxLcGY2NC1MT0Nzdm1tM0haYWhqTWp5ODFZSlNYVXZrM0ZVdGVFTTlDdFloR20zXzFxZQ?oc=5",
+      "published": "2026-11-27T15:06:52Z"
+    },
+    {
+      "title": "What the Microsoft 365 disruption reveals about employee experience",
+      "source": "Spiceworks",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT0Y3cEh6WDh6cWdyUENfYXNMZ3VVandYbkF2YTJXMnE1UFM1bjFkN1RhNWFrelJEQnRQM2RINUdUN1VwbnVUZGk1dmtuRENOdnA4VWdURGJnRVo1cVFHQVhvZXVseE9WXzhOblVCOFdVeHRUMUUwZjVmbG00dENjeWQ2T1FVMnpjX1kxMkZJRkdEQXc5M2dFYnNpQ3pEd1o0YklreHlGZw?oc=5",
+      "published": "2026-11-27T13:38:06Z"
+    },
+    {
+      "title": "Allstate Outage: Can\u2019t Pay Your Bill? Here\u2019s What Happens to Your Coverage",
+      "source": "TechRepublic",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTDh3bHB4SjIyOG53MDBPUnE1Vlg4VW5wSENaNjZpYk0zVlkycGR3dk95S0dUa1RjeWl5LV96T2NZS1R3bDhqYmlsNU5CRHRZT01lTEVKNmxDZFJqTF9LbEhEa2ltbHp4QUZOQkNBOHBMOHFXYlJKY3BFOFhWYk9XQw?oc=5",
+      "published": "2026-11-27T10:38:10Z"
+    },
+    {
+      "title": "Cloudflare Dashboard, API Suffer Two-Hour Outage",
+      "source": "Wisevoter",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdTkxYzlpTGRPM1dhVGxHUDVDcTc5bEhZNktnWk53YUpZYTAwblJ0VUZuMVE5M1VnT2FwX2VKb0prNGRpX0VGWFc4LTdBZmlDUmo1SmpxU1luU3JXaEZmRVNZNHBkZHI4alJ4M1dIVkh1S0pWNDdxXzl3b1hsd1Rva29XeXgydG9jdFJ2dg?oc=5",
+      "published": "2026-11-27T08:43:03Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-28T09:17:54Z",
+    "fetched_at": "2026-11-28T10:17:51Z",
     "items": [],
     "debug": {
       "bytes": 498,
