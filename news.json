@@ -1,25 +1,31 @@
 {
-  "fetched_at": "2026-11-28T05:18:22Z",
+  "fetched_at": "2026-11-28T06:17:44Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
     {
-      "title": "The Day The Email Died: How An Outlook Outage Helped Us Feel Connected",
-      "source": "Yahoo Lifestyle Canada",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NVzhuaDNfcTFkS0lCSEU1Y0tnYXJNa3dZWGJOa3JSMDJHS2tXVDM5cFdzZkRhYnlTRmdId2U4WWxaUklOV1pZQWQyRVdyWUc1bDJ2NFNWb2V2RC1WaDVtQjVDczhTQkU2TWhyc0hidUNIUUVibkdvRnlhWQ?oc=5",
-      "published": "2026-11-28T03:05:00Z"
-    },
-    {
       "title": "Microsoft meltdown: Outlook, Teams and Copilot hit by global outage",
       "source": "IOL",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcUdkZE1oOFJNQ3g5REZ2V1gzMXJmZnZla004ci1oelpldnFDYm1FaHREVXNSanRDRUgwTEI0U3NBU0FaNS1sOU1iQUNDZ0JVOW9qRy15UVdNeUQ2LXlLNDlENmJ0bVJjeXVST1l5dFZDUGZhaVRTM3FocU1ZMk1MTGJGQ1VYd3VpSmpQZTFpLUU0dmpIa1NmRE9mZlR0eTVLMlBCRzc0Z3FYaTlhZEoxc3RR?oc=5",
-      "published": "2026-11-28T02:09:04Z"
+      "published": "2026-11-28T04:05:37Z"
+    },
+    {
+      "title": "What went wrong with Microsoft? Local expert explains global outage hitting SA",
+      "source": "IOL",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZVlIVWRQR3RwbDN3YlBLbnM5djI2eld2bjZMV0tNQlVsMWVqaVRvQ3RBOG04UnhrM0FpU25pak51V3prcHVjS21zN1hzdTRXVzB1VWJ4eHFnZS1nVE1zWEtXdi1JVnhkOW4xcmVINEZ1MXFMUkJaNjZmbEdjenhST0RxNW5JS2liNkNTcmRpdVJ3SzNTalo0bExZMkE2bEVUWF9uVTd2Z1h1d1pZS1dvaWY5ZXEtdkU?oc=5",
+      "published": "2026-11-28T03:51:31Z"
     },
     {
       "title": "Microsoft outage hits South African businesses, government services and universities",
       "source": "IOL",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPendFUktGazBkcURFNFpQUjZEWnVwWWNNb1MwVkxjSFdpejVTOW13VExocHpTaTVRSmRaMnlkLTFDUzNzb2kxNm5oZUlRR185V2laWU5fYVFRbURRdExXUFVfVFBSSHRpYXBqb1NGVTVuMjlfSWRUZmx1U0hseEk0MGRrV0ZIWVU1MER2bVNOSWM2YUJhaVMtdUctdklJU20yQkRpZVIzb19OSDNqVE9uU3Vyb0JpbkcwMzZZdnJYaw?oc=5",
-      "published": "2026-11-28T01:55:02Z"
+      "published": "2026-11-28T03:51:31Z"
+    },
+    {
+      "title": "The Day The Email Died: How An Outlook Outage Helped Us Feel Connected",
+      "source": "Yahoo Lifestyle Canada",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NVzhuaDNfcTFkS0lCSEU1Y0tnYXJNa3dZWGJOa3JSMDJHS2tXVDM5cFdzZkRhYnlTRmdId2U4WWxaUklOV1pZQWQyRVdyWUc1bDJ2NFNWb2V2RC1WaDVtQjVDczhTQkU2TWhyc0hidUNIUUVibkdvRnlhWQ?oc=5",
+      "published": "2026-11-28T03:05:00Z"
     },
     {
       "title": "Microsoft outage hits Welsh police reports as NHS and pharmacies warn of delays",
@@ -86,16 +92,10 @@
       "source": "Wisevoter",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdTkxYzlpTGRPM1dhVGxHUDVDcTc5bEhZNktnWk53YUpZYTAwblJ0VUZuMVE5M1VnT2FwX2VKb0prNGRpX0VGWFc4LTdBZmlDUmo1SmpxU1luU3JXaEZmRVNZNHBkZHI4alJ4M1dIVkh1S0pWNDdxXzl3b1hsd1Rva29XeXgydG9jdFJ2dg?oc=5",
       "published": "2026-11-27T08:43:03Z"
-    },
-    {
-      "title": "Possible outage suspected as users report Microsoft Outlook down again",
-      "source": "Neowin",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON3UyS1ZfNlBqZnpaWEtRRWVGNVBvWF81Yk9JZnlHZk41MUdMVVV5MmhhenVyeUo4VXRfb19waVFoX195Q1Q2MS1DV3VBc3hZdlNLN3U4MWhiaGFqX3dRUXpkZHlMcDNvUWxPM2pQN0l1amVTb1pTSm9RV29Tb0h2bmxmV3N6dG52OWJMQmhhTzFLNlZ3TE1URUoxaTJ2c0JH?oc=5",
-      "published": "2026-11-27T06:57:12Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-28T05:18:22Z",
+    "fetched_at": "2026-11-28T06:17:44Z",
     "items": [],
     "debug": {
       "bytes": 498,
