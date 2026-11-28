@@ -1,8 +1,20 @@
 {
-  "fetched_at": "2026-11-28T02:18:00Z",
+  "fetched_at": "2026-11-28T03:18:36Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "The Day The Email Died: How An Outlook Outage Helped Us Feel Connected",
+      "source": "Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRVM2UF9BbHdQbGt5eUE4dGVPNHFpUGFTWk9oNXpTcGU5X3pwLWFjaXJueHY3a2xqZktLZF9hRWRURGZIVHU1QXFycm5UMjhWS3ZLSzYyUGlPMGNCdzlOMTdubHdRV08xOVAyRE45U0d6bldYTGRBZFlZbmQ0ejQyWm8wM0lSaldLX3d6Qi1rY0p1Ny02NWhUY1dTWGZFeFVpTkcwdVlVa3dHYTE1TXlFTGNyLVVHeWdUZzRkZzdLclR3WWs?oc=5",
+      "published": "2026-11-28T03:05:25Z"
+    },
+    {
+      "title": "Microsoft outage hits Welsh police reports as NHS and pharmacies warn of delays",
+      "source": "Herald.Wales",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUDNBUl9HM0dUMFUzUzFxYVo0SHUyU3VWSkhfd0JBRUEtR2l5RVNXTm9pRmdGOFZmRE14czUxd2tHdEUtNkVLcDR6T3hWYjF5Z3l2eGFON0duQ3FZeTdjOElOVkVaWnRRdV9jV3pjcElER2hCYUVjN05jQkg5SDBGNWJ3blZZVkRaZGZCOHRjR2RfVWk0WnQ4?oc=5",
+      "published": "2026-11-28T01:52:01Z"
+    },
     {
       "title": "Microsoft Code Red outage: What the recovery goal means",
       "source": "NeoTeo",
@@ -46,28 +58,10 @@
       "published": "2026-11-27T18:23:20Z"
     },
     {
-      "title": "What Microsoft's latest Code Red move means for millions of people who use it every day",
-      "source": "UNILAD Tech",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeFNkRjZ2NjFqMjFYTm5rMTBXd1prYUR3a1lua2hHaGsta0dhWVpkREdHbWtteWRLS2ZaUlVyQ29JeXZtUWZCZnVYM1VPOUV5U01sMUE5bEUzb1hkQzN3cG5iMzVYclNsSUhsSE1sbUkwYU5pZ1ZYdXFxNG9iOGxoUC1HY29uUzBNbmQwVTdaUWdYanBxV1FrSk5XS3NvU0piQXJIVg?oc=5",
-      "published": "2026-11-27T16:48:17Z"
-    },
-    {
-      "title": "Allstate roiled by tech outage over Thanksgiving week",
-      "source": "CBS News",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVnhyX20tNWl0ZzUyT1Zia2VPYmI2WGx4czNSVTFnRm5OcVBJaThFX0pVSTBxRm5qTEZHbzhrSGh0SVNPazJBWFpIRmk2YmxLcGY2NC1MT0Nzdm1tM0haYWhqTWp5ODFZSlNYVXZrM0ZVdGVFTTlDdFloR20zXzFxZQ?oc=5",
-      "published": "2026-11-27T15:06:52Z"
-    },
-    {
       "title": "What the Microsoft 365 disruption reveals about employee experience",
       "source": "Spiceworks",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT0Y3cEh6WDh6cWdyUENfYXNMZ3VVandYbkF2YTJXMnE1UFM1bjFkN1RhNWFrelJEQnRQM2RINUdUN1VwbnVUZGk1dmtuRENOdnA4VWdURGJnRVo1cVFHQVhvZXVseE9WXzhOblVCOFdVeHRUMUUwZjVmbG00dENjeWQ2T1FVMnpjX1kxMkZJRkdEQXc5M2dFYnNpQ3pEd1o0YklreHlGZw?oc=5",
       "published": "2026-11-27T13:38:06Z"
-    },
-    {
-      "title": "Microsoft president warns more mass outages are coming",
-      "source": "geekspin",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMmpQbXBYX0RYenlzX2s1TU96dWx3V1JfSzBMc1d2N0RaVmplODJ2RTN6MWFYeE50VGh2aWZORXBibDJkb3htRldWcEpxQjd1RXpadlRKNGhIQ0VVOC1wS1VrM1VxR21DVzZXcldROWl5eXVEYXV3VVhfWEZ4a0p1MA?oc=5",
-      "published": "2026-11-27T12:15:18Z"
     },
     {
       "title": "Microsoft works to restore global Outlook outage affecting Teams and Copilot",
@@ -92,10 +86,16 @@
       "source": "Wisevoter",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdTkxYzlpTGRPM1dhVGxHUDVDcTc5bEhZNktnWk53YUpZYTAwblJ0VUZuMVE5M1VnT2FwX2VKb0prNGRpX0VGWFc4LTdBZmlDUmo1SmpxU1luU3JXaEZmRVNZNHBkZHI4alJ4M1dIVkh1S0pWNDdxXzl3b1hsd1Rva29XeXgydG9jdFJ2dg?oc=5",
       "published": "2026-11-27T08:43:03Z"
+    },
+    {
+      "title": "Possible outage suspected as users report Microsoft Outlook down again",
+      "source": "Neowin",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON3UyS1ZfNlBqZnpaWEtRRWVGNVBvWF81Yk9JZnlHZk41MUdMVVV5MmhhenVyeUo4VXRfb19waVFoX195Q1Q2MS1DV3VBc3hZdlNLN3U4MWhiaGFqX3dRUXpkZHlMcDNvUWxPM2pQN0l1amVTb1pTSm9RV29Tb0h2bmxmV3N6dG52OWJMQmhhTzFLNlZ3TE1URUoxaTJ2c0JH?oc=5",
+      "published": "2026-11-27T06:57:12Z"
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-28T02:18:00Z",
+    "fetched_at": "2026-11-28T03:18:36Z",
     "items": [],
     "debug": {
       "bytes": 498,
