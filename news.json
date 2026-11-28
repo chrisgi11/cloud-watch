@@ -1,8 +1,14 @@
 {
-  "fetched_at": "2026-11-28T10:17:50Z",
+  "fetched_at": "2026-11-28T11:18:23Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
+    {
+      "title": "Microsoft meltdown: Outlook, Teams and Copilot hit by global outage",
+      "source": "IOL",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcUdkZE1oOFJNQ3g5REZ2V1gzMXJmZnZla004ci1oelpldnFDYm1FaHREVXNSanRDRUgwTEI0U3NBU0FaNS1sOU1iQUNDZ0JVOW9qRy15UVdNeUQ2LXlLNDlENmJ0bVJjeXVST1l5dFZDUGZhaVRTM3FocU1ZMk1MTGJGQ1VYd3VpSmpQZTFpLUU0dmpIa1NmRE9mZlR0eTVLMlBCRzc0Z3FYaTlhZEoxc3RR?oc=5",
+      "published": "2026-11-28T10:52:58Z"
+    },
     {
       "title": "Microsoft outage hits South African businesses, government services and universities",
       "source": "IOL",
@@ -14,12 +20,6 @@
       "source": "Magzter",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZWtxbndsSFJrVzJzY1ZGaDdUN191alB1Wnk4YlJCVUp0bEtNeDloeTRlYkF5ODZXRjJzWnNzTkJnQjBoRlJDbVRFZEl3UDFOSk94U2d3QVc3VDA3STA2bzNYSXRRM2hiWF8xMWdOWFc3R19zUFRYTkduQmNwVEVMOFNpM0NONkdmT1V1bnJqTGJ6Y0tnbFM2SVBLcXA2WW5nZEluQmhDUDBGMVloeVZIck8xNEZ3RDVuNG1vSkQyNFplTi13Wmh6R0l5ZHc3STBVQkZZ?oc=5",
       "published": "2026-11-28T08:26:55Z"
-    },
-    {
-      "title": "Microsoft meltdown: Outlook, Teams and Copilot hit by global outage",
-      "source": "IOL",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcUdkZE1oOFJNQ3g5REZ2V1gzMXJmZnZla004ci1oelpldnFDYm1FaHREVXNSanRDRUgwTEI0U3NBU0FaNS1sOU1iQUNDZ0JVOW9qRy15UVdNeUQ2LXlLNDlENmJ0bVJjeXVST1l5dFZDUGZhaVRTM3FocU1ZMk1MTGJGQ1VYd3VpSmpQZTFpLUU0dmpIa1NmRE9mZlR0eTVLMlBCRzc0Z3FYaTlhZEoxc3RR?oc=5",
-      "published": "2026-11-28T07:58:29Z"
     },
     {
       "title": "What went wrong with Microsoft? Local expert explains global outage hitting SA",
@@ -95,7 +95,7 @@
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-28T10:17:51Z",
+    "fetched_at": "2026-11-28T11:18:23Z",
     "items": [],
     "debug": {
       "bytes": 498,
