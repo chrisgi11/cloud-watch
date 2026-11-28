@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-28T04:18:12Z",
+  "fetched_at": "2026-11-28T04:19:29Z",
   "source": "Google News RSS",
   "query": "(outage OR \"service disruption\" OR \"went down\") (\"Microsoft 365\" OR Azure OR Teams OR Outlook OR AWS OR \"Google Cloud\" OR Cloudflare) when:2d",
   "items": [
@@ -95,7 +95,7 @@
     }
   ],
   "alerts": {
-    "fetched_at": "2026-11-28T04:18:12Z",
+    "fetched_at": "2026-11-28T04:19:29Z",
     "items": [],
     "debug": {
       "bytes": 498,
